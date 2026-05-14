@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026년 05월 14일 16:27",
-  "updated_date": "2026-05-14",
+  "updated_at": "2026년 05월 15일 07:50",
+  "updated_date": "2026-05-15",
   "kospi": {
     "price": 7981.41,
     "change": 137.4,
@@ -16,19 +16,19 @@
     "emoji": "📈"
   },
   "sp500": {
-    "price": 7444.25,
-    "change": 43.29,
-    "pct": 0.58
+    "price": 7501.24,
+    "change": 56.99,
+    "pct": 0.77
   },
   "nasdaq": {
-    "price": 26402.34,
-    "change": 314.14,
-    "pct": 1.2
+    "price": 26635.22,
+    "change": 232.88,
+    "pct": 0.88
   },
   "usdkrw": {
-    "price": 1488.53,
-    "change": -0.8,
-    "pct": -0.05
+    "price": 1492.68,
+    "change": 3.35,
+    "pct": 0.22
   },
   "news": [],
   "signal": {
