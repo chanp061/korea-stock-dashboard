@@ -1,12 +1,39 @@
 {
-  "updated_at": "데이터 수집 전",
+  "updated_at": "2026년 05월 14일 16:27",
   "updated_date": "2026-05-14",
-  "kospi": { "price": 0, "change": 0, "pct": 0, "label": "-", "emoji": "⏳" },
-  "kosdaq": { "price": 0, "change": 0, "pct": 0, "label": "-", "emoji": "⏳" },
-  "sp500": { "price": 0, "change": 0, "pct": 0 },
-  "nasdaq": { "price": 0, "change": 0, "pct": 0 },
-  "usdkrw": { "price": 0, "change": 0, "pct": 0 },
+  "kospi": {
+    "price": 7981.41,
+    "change": 137.4,
+    "pct": 1.75,
+    "label": "강세",
+    "emoji": "🚀"
+  },
+  "kosdaq": {
+    "price": 1191.09,
+    "change": 11.8,
+    "pct": 1.0,
+    "label": "소폭 강세",
+    "emoji": "📈"
+  },
+  "sp500": {
+    "price": 7444.25,
+    "change": 43.29,
+    "pct": 0.58
+  },
+  "nasdaq": {
+    "price": 26402.34,
+    "change": 314.14,
+    "pct": 1.2
+  },
+  "usdkrw": {
+    "price": 1488.53,
+    "change": -0.8,
+    "pct": -0.05
+  },
   "news": [],
-  "signal": { "text": "잠시 후 데이터가 업데이트됩니다.", "type": "neutral" },
-  "one_liner": "매일 오전 7시에 업데이트됩니다 📊"
+  "signal": {
+    "text": "오늘 시장은 강세입니다. 추격 매수보다 보유 전략이 유리할 수 있어요.",
+    "type": "positive"
+  },
+  "one_liner": "코스피 🚀 강세 · 코스닥 📈 소폭 강세"
 }
