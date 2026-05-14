@@ -1,0 +1,12 @@
+{
+  "updated_at": "데이터 수집 전",
+  "updated_date": "2026-05-14",
+  "kospi": { "price": 0, "change": 0, "pct": 0, "label": "-", "emoji": "⏳" },
+  "kosdaq": { "price": 0, "change": 0, "pct": 0, "label": "-", "emoji": "⏳" },
+  "sp500": { "price": 0, "change": 0, "pct": 0 },
+  "nasdaq": { "price": 0, "change": 0, "pct": 0 },
+  "usdkrw": { "price": 0, "change": 0, "pct": 0 },
+  "news": [],
+  "signal": { "text": "잠시 후 데이터가 업데이트됩니다.", "type": "neutral" },
+  "one_liner": "매일 오전 7시에 업데이트됩니다 📊"
+}
