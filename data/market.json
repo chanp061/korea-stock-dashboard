@@ -1,70 +1,70 @@
 {
-  "updated_at": "2026년 05월 18일 07:44",
-  "updated_date": "2026-05-18",
+  "updated_at": "2026년 05월 19일 07:51",
+  "updated_date": "2026-05-19",
   "kospi": {
-    "price": 7493.18,
-    "change": -488.23,
-    "pct": -6.12,
-    "label": "약세",
-    "emoji": "🔻"
+    "price": 7516.04,
+    "change": 22.86,
+    "pct": 0.31,
+    "label": "소폭 강세",
+    "emoji": "📈"
   },
   "kosdaq": {
-    "price": 1129.82,
-    "change": -61.27,
-    "pct": -5.14,
+    "price": 1111.09,
+    "change": -18.73,
+    "pct": -1.66,
     "label": "약세",
     "emoji": "🔻"
   },
   "sp500": {
-    "price": 7408.5,
-    "change": -92.74,
-    "pct": -1.24
+    "price": 7403.05,
+    "change": -5.45,
+    "pct": -0.07
   },
   "nasdaq": {
-    "price": 26225.15,
-    "change": -410.06,
-    "pct": -1.54
+    "price": 26090.73,
+    "change": -134.41,
+    "pct": -0.51
   },
   "usdkrw": {
-    "price": 1497.92,
-    "change": 5.24,
-    "pct": 0.35
+    "price": 1488.34,
+    "change": -9.42,
+    "pct": -0.63
   },
   "news": [
     {
-      "title": "코스피 8000과 빚투 36조. 탐욕의 청구서가 오고 있다 - 네이버 프리미엄콘텐츠",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU0pjeVhTNHRxckg2RlFnbjRmQXV4V3BUeDdSZ1JtWjVINXJGQlVfWUhyN0M0R1poWlY4eUxCSTI3alNLZW9NUzVTdVFZdmJXa3dMQWJHd0lnbmNfT05jS0RLc0M2bWFnWmgtMlhJS3hDWXVWc1dPVVU4cGFzSmJ4dXUtZmhMcmVpV20yR3RBNlFSZw?oc=5",
-      "pub": "Sat, 16 May 2026 06:19:00 GMT"
+      "title": "\"코스피, 방향성 변화 없다\"…증권가, 올해 '1만피' 전망 - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTa19PaWVrYndJdy02cWVPa2FYS3JLOU9CUmtUWktpY2tPWmtaYXJFUENMeVlwWHdYQXFGUUFma1l4RWt6VGhfOVlLNG5va19lVktsQ1E2eHJfMHN4Y09CR9IBeEFVX3lxTE93UnJWbUZldU9halQyUkluNHBGVktVeEJ2S2VtdXVWVTQ1T1BvVHc4R1RuSkJoa2ZLSXM5bFFBOEVyalZ2VFdTWDJKZkJjMVhyTHNkR2lLNk5CRlZYcWlEM3pfVk9uWWhxR0wyVDFuc3ZLTkpqcnMzNg?oc=5",
+      "pub": "Mon, 18 May 2026 01:02:47 GMT"
     },
     {
-      "title": "반도체 슈퍼사이클 맞은 코스피…수도권 주택시가총액 넘은 듯 - 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WbUZiajRqY0xTVmF2eTl3RkE5Z2FoRVRzS1JpMW5xUmZsanZiTXU4Sy0wM2xOZFA1dnJ4QkVSU3lRdUZoLTJjeEpxOERfbWlFWGc?oc=5",
-      "pub": "Sun, 17 May 2026 20:51:03 GMT"
+      "title": "100조 투매에도 지분율은 상승… 코스피 불장이 만든 ‘외인 지분 미스터리’ - 조선비즈 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUm1oVVVsV3FfeXFOTzk1UnJyamRVMWRPS09LVjhSWFEtbHNBUkY2eVJINm1jSmlmLWx0OGhQcGZFUTdmR2x3YzdHNVE4MkNlcE9YMnBtdXlyb0p3bXRuNXRpaXQ0aXNKUHE4M1lWT3E0eDRQaHVvSkNTaFlZVGFqektvX3BNS1Jm0gGcAUFVX3lxTFBlMWpZVlNWRzJrTHlzX25hRXV0dUNkaTFNZHZ0cDd1WVJuaE5SM0VEbnhNR1lmY2dyQkVaUnotY1ppT0hRN2RSenRxenJ3X24wQkNSRWZtQ0FKaDJTX2F4NWhqa2EtMVZ6LUgzNDhGRk9tNGhqTDFXa0RXeXRwVmpVeEZ6QmdYQVlDbHBMQkpxZmxmR2hPODhaaTBpcA?oc=5",
+      "pub": "Mon, 18 May 2026 21:05:52 GMT"
     },
     {
-      "title": "외국인도 '포모' 주식 계좌 3배 급증…거품론 속 '1만피' 기대 여전 - 뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5iTkxtNVFvcDRXeGFfSTF4QlVjU3loRkJ2eU16cmtBZTlOaGpaZ0poZ2llNi13YXpVXzdFNlltWmRtdTl1dUhqLXRIbENETDZLRlRjVWZVS25SWGhHcWZj?oc=5",
-      "pub": "Sun, 17 May 2026 21:00:00 GMT"
+      "title": "코스피 급락・반등의 이유가 뭘까? (+미국 국채 금리, 삼성전자・SK하이닉스 전망) - 뉴닉",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5rZE5yNWcweFRuZldmVFQyR21FaUxPZXpDRkJySnBtbkZYYnhoVVBaVW1RbUt4OGhiSXp4RHQzeTl6bE9ZcTR1UWJlTzhtN18zZTg4?oc=5",
+      "pub": "Mon, 18 May 2026 08:11:56 GMT"
     },
     {
-      "title": "코스피 8천 찍고 내려왔지만…키움證 \"주식 선호 유지\" - 연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxZUJmVWpaRGlfNlREZFJUU0pjX1F3Q1l1T1l0cnduWndBVllnLTJ5TUlDMHN0ZnFLNk12dWIwRFlScGtCbnRvSTEtRzR2Rk11VjRRRE9zdVNpbVcxLXBsdG5xQmx2VVNETXpYemtxSmTSAXRBVV95cUxQa2RCZ0JlbmU4anRMZ0thR2FBTlVNWm5tbGlsN3lvMm40MFNPZHRrWEFEZmJzb3A0NVJLWXVlQkNlODRaYlY5OXFoQXp4UHZPRnNkRUlCTGtjNjlWeXV2VnVLNVRBejJkNFFzZUhZSEZWbF9DVQ?oc=5",
-      "pub": "Sun, 17 May 2026 00:33:05 GMT"
+      "title": "이찬원, 경제학과 출신인데 반전..\"코스피 8천 시대 주식 계좌도 없다\"(셀럽병사) - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50YkhkWFdTREVFS2t1Z29DSHhqZjNBZUJRdjZoNXE5bURla0ZWeHVCODdlc05CVHZVa19BNjhhYVpGQnBYYmNjN2ZBZGdyTWM?oc=5",
+      "pub": "Mon, 18 May 2026 01:25:16 GMT"
     },
     {
-      "title": "8천피서 급락한 코스피…\"조정은 비중 확대 기회\" [인터뷰] - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBNQmdzTDVFV0piVTZGTlhNc2ZoMl9DSDhDdWlOeVlFNktYSUJlYjFGS2tEZ1lzaUdrUEZxUlczYVNQaExrWkE?oc=5",
-      "pub": "Sun, 17 May 2026 05:54:18 GMT"
+      "title": "이찬원, 코스피 8000 시대에…“주식 계좌 없다” (셀럽병사) - 스타투데이 - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxcHZwRllrNnlhRUxCRXZ1VnNvd1p2OXc1cmdySTNoTkNodkJrZ2Iyc0xrV3o1OFNBd1J1VUEwcW5pNWJxb3pJREJ4MmlWMjhHOWhBS0p2U1FHdUhuN0FKLUV5NHItZw?oc=5",
+      "pub": "Mon, 18 May 2026 00:29:17 GMT"
     },
     {
-      "title": "국민연금, '국장 비중' 28일 결정...수급 영향 주목 - YTN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81ZlB6LVZhM3ItQ0N5RlE0VGY0SFE3UFFGUHdwMG9jekpCRnJhcE5FR1BoQzJoOWdyQ20yU3dVNF9qYVNiMEN5cmlwenEtSjJReEI4YjQzamhEeXhUM1E?oc=5",
-      "pub": "Sat, 16 May 2026 20:22:00 GMT"
+      "title": "이찬원, 코스피 8천 시대인데 \"주식 계좌 無\" 반전 고백(셀럽병사) - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BRTlKc3JRbC1WOW4zaEw2SllJejdnd2xIVVdPdV8ydlNkZ2MwNTJSYlF3cU4zVVdNV0xzNl9QLWhiWE0wRTZhdVAzbGxpLTVHLVhB?oc=5",
+      "pub": "Mon, 18 May 2026 00:35:00 GMT"
     }
   ],
   "signal": {
-    "text": "시장 조정 국면. 손절보다 비중 축소 후 상황을 지켜보세요.",
-    "type": "negative"
+    "text": "소폭 하락권. 패닉셀보다 분할 매수 기회를 살펴보세요.",
+    "type": "neutral"
   },
-  "one_liner": "코스피 🔻 약세 · 코스닥 🔻 약세"
+  "one_liner": "코스피 📈 소폭 강세 · 코스닥 🔻 약세"
 }
