@@ -1,55 +1,45 @@
 {
-  "updated_at": "2026년 05월 21일 08:06",
-  "updated_date": "2026-05-21",
+  "updated_at": "2026년 05월 22일 07:58",
+  "updated_date": "2026-05-22",
   "kospi": {
-    "price": 7208.95,
-    "change": -62.71,
-    "pct": -0.86,
-    "label": "소폭 약세",
-    "emoji": "📉"
+    "price": 7815.59,
+    "change": 606.64,
+    "pct": 8.42,
+    "label": "강세",
+    "emoji": "🚀"
   },
   "kosdaq": {
-    "price": 1056.07,
-    "change": -55.02,
-    "pct": -4.95,
-    "label": "약세",
-    "emoji": "🔻"
+    "price": 1105.97,
+    "change": 21.61,
+    "pct": 1.99,
+    "label": "강세",
+    "emoji": "🚀"
   },
   "sp500": {
-    "price": 7432.97,
-    "change": 79.36,
-    "pct": 1.08
+    "price": 7445.72,
+    "change": 12.75,
+    "pct": 0.17
   },
   "nasdaq": {
-    "price": 26270.36,
-    "change": 399.65,
-    "pct": 1.54
+    "price": 26293.1,
+    "change": 22.74,
+    "pct": 0.09
   },
   "usdkrw": {
-    "price": 1496.45,
-    "change": -10.33,
-    "pct": -0.69
+    "price": 1507.77,
+    "change": 11.35,
+    "pct": 0.76
   },
   "news": [
     {
-      "title": "“1억 넣었는데, 지금 팔아야 할까요?”…코스피 짓누르는 악재는? [잇슈 머니] - KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVQUY4VUQwXzJ6OXpRTFdmNEp5YXdNX1JWN1p2VngtdDVRU0lJeEhXUmwtLS01LWdMZkhOSms2dUtzT281ekN3eUFZOW5TQmdKT2NhX0dkXzdGQkU?oc=5",
-      "pub": "Tue, 19 May 2026 21:52:00 GMT"
+      "title": "SK하닉 던지고 ‘이것’ 잡았다…코스피 급반등하자 ‘상위 1%’ 초고수들이 투자한 ‘톱3’? - 헤럴드경제",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLcndzTEtaNGxUYWxBcVhGTk82UWpIRlFBNnVGekpka2w1cWlSX05nQS1GM2xmTXJhbURsTzJhZFdITU5XdjE3dmtFcWZNQTFtMHRVT3p3?oc=5",
+      "pub": "Thu, 21 May 2026 13:37:11 GMT"
     },
     {
-      "title": "변동성 이어진 코스피, 7,200선으로 밀려…시총 5천조원대로 축소(종합) - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfVUtvUGhLZENFTEdEQmtuZTVJR0I0OWxGeFZoLW9ld0k5SnVhT1ppLXFRVmVIZ2VmWkpRaDFqTklaenFrVW9RV1hRYnhlTlY5emtkX0RsLUYwQWfSAWBBVV95cUxOcG1SSFA5Y0VhVEVHaThXZGZIaXc4V3ZXeHBsdHRSU0FQdi1wYi0wRDZkZU9ON1lBTHNfUTJpekhQa1BBemM0N1VWbEpLQTdJNm0tODAzcUdyN2NBcXRYTDM?oc=5",
-      "pub": "Tue, 19 May 2026 07:44:17 GMT"
-    },
-    {
-      "title": "코스피 1만 간다는데…“연기금, 국내 주식 보유비중 확대 필요” - 서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hS1ByR1IyYklYMnJEcmFKQlh1QlAtay1Za1AyUjR3YzlZNUNrcGQ5NXRXTWVHRDRQNElzN3haYm56eDV0MWdlZnlYSERTUTdDb3fSAVNBVV95cUxPSTY2QUcwODJJX3JqQmkwUDRTN0thWnduZW1rejZVWXJ0WlVNZjJIaEEwOUtqaTFod2pUY21kcmZHck5LQ0xsYWQwYm5ON0pXWmZyUQ?oc=5",
-      "pub": "Wed, 20 May 2026 22:28:39 GMT"
-    },
-    {
-      "title": "코스피 요동쳐도 '빨간불'…하반기가 더 반가운 섹터는? - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15aHd3c3JhTjhMV0daSENaOWN0QjRuMWozLVUzNXdfNjhGSkswYWxldEV4OFdxNU80UklObk90bGx1TlBqTmoxYU82TUJqd0JFTUw3N1ZEZk1Od9IBVEFVX3lxTE45T1A5WlB5emNrdTFPWGhYUjJ2LVdodGNrZVpGUXVxcU5SQThvZzAzWC1fOGNLVktpSmMwM3VpeXBmV2RTVmZnYXZjYmFPS3hPY19HMg?oc=5",
-      "pub": "Wed, 20 May 2026 07:32:44 GMT"
+      "title": "[단독] 코스피 한도 넘친 연기금…올해 70% 뛸 때 5.7조 던졌다 [시그널] - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uR25kNUhMOWR2M2NvTy1xSGIyc1J5cHJFUE8yejVUUXlTdGhQdnhPSFZraVhEQlo0aTJ1LW1wOTQ0eGoweXQ2aHZib01qUGUwRVHSAVNBVV95cUxNZnpULWlERGNidzlwZUMyYmo1TWY2RWo2aDV2RjgzcEZoZXRUWW91RFV0RDRxOWxFMl8xaHptcU5UZUZ5ZlZUTVZETUNZc3pyeWxmVQ?oc=5",
+      "pub": "Wed, 20 May 2026 07:18:50 GMT"
     },
     {
       "title": "‘코스피 함정’과 ‘국민연금 함정’ - 중앙일보",
@@ -57,14 +47,24 @@
       "pub": "Tue, 19 May 2026 15:16:00 GMT"
     },
     {
-      "title": "[직설] 변동성 커진 '롤러코스피' 장세…변수 둘러싸인 주식시장 상황은? - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KNTlnV0VZdzJQNkFraDM2ekJpWU8ybWxFdFZHTnlSakgxd1BXV0xpSzgtTXRUWjVOQmlDQnl1SnpwRUJabEtVUV9Wdld5a0k?oc=5",
-      "pub": "Wed, 20 May 2026 04:49:12 GMT"
+      "title": "코스피 1만 간다는데…\"연기금, 국내 주식 보유비중 확대 필요\" - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ESU8xZ29oVnFMYVVzcUpUWjY5UEVKYmgtbDVwSXc4TmNieVNwQUprd1lkYVZiRG56Tkc3aUhDeTRMZmhBUXc2amNGanJiMjNpWXln?oc=5",
+      "pub": "Wed, 20 May 2026 22:29:00 GMT"
+    },
+    {
+      "title": "키움증권 \"코스피, 하반기 상단 10,000 제시…美보다 ROE 높아\" - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45UWhqS09jSlkzbWczTWs1bThuOXpSUk5VSkx3VDM3ejE2UFk2WHBnMkY4T2xVMFlsbHJVUWo5d3BnY0NCeDJmZ01sV1g4SllhWXI3NmE5ZC1NRWJjLVFtVGdxOEhKeXFxYUxvSTM3X3c?oc=5",
+      "pub": "Wed, 20 May 2026 23:08:45 GMT"
+    },
+    {
+      "title": "불확실성 말끔해졌다‥코스피 하루 8.42% 상승 - MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1XQlg1QUVobVc2c01WaFRwa0M3NDZJaEdHamVkUWxyYnMxXzhCSXpfVXZ4STROTUhyNWJhU2dKc290R1ZVQ3dDV2VHOVZ0ME1aZmVVRnlQMFViRzJnOElHSTd0Q3JMWFpZWV9ZaFNKeFdKX3ltY2xDbFdn0gF6QVVfeXFMTkdCbkcwaXRleTg1bFliTnNXamdCcl96MWlubmtpWVoySTdSMTFPTi1xdERiRkRxYWowNXExN3paLXNyanRaQ2RhTjRfckJOMEpjVmczRGpGMzJMNlgxbkR6blgxbS1NUHRSZ1JqUVRQNDhMbi1tV3B1LVE?oc=5",
+      "pub": "Thu, 21 May 2026 21:06:46 GMT"
     }
   ],
   "signal": {
-    "text": "시장 조정 국면. 손절보다 비중 축소 후 상황을 지켜보세요.",
-    "type": "negative"
+    "text": "오늘 시장은 강세입니다. 추격 매수보다 보유 전략이 유리할 수 있어요.",
+    "type": "positive"
   },
-  "one_liner": "코스피 📉 소폭 약세 · 코스닥 🔻 약세"
+  "one_liner": "코스피 🚀 강세 · 코스닥 🚀 강세"
 }
