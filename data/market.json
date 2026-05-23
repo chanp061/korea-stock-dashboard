@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026년 05월 23일 07:51",
-  "updated_date": "2026-05-23",
+  "updated_at": "2026년 05월 24일 07:43",
+  "updated_date": "2026-05-24",
   "kospi": {
     "price": 7847.71,
     "change": 32.12,
@@ -10,8 +10,8 @@
   },
   "kosdaq": {
     "price": 1161.13,
-    "change": 105.06,
-    "pct": 9.95,
+    "change": 55.16,
+    "pct": 4.99,
     "label": "강세",
     "emoji": "🚀"
   },
@@ -37,14 +37,9 @@
       "pub": "Thu, 21 May 2026 13:37:11 GMT"
     },
     {
-      "title": "[단독] 코스피 한도 넘친 연기금…올해 70% 뛸 때 5.7조 던졌다 [시그널] - 서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uR25kNUhMOWR2M2NvTy1xSGIyc1J5cHJFUE8yejVUUXlTdGhQdnhPSFZraVhEQlo0aTJ1LW1wOTQ0eGoweXQ2aHZib01qUGUwRVHSAVNBVV95cUxNZnpULWlERGNidzlwZUMyYmo1TWY2RWo2aDV2RjgzcEZoZXRUWW91RFV0RDRxOWxFMl8xaHptcU5UZUZ5ZlZUTVZETUNZc3pyeWxmVQ?oc=5",
-      "pub": "Wed, 20 May 2026 07:18:50 GMT"
-    },
-    {
-      "title": "“결국 올 게 왔다” 빚투 했다가 강제로 주식 팔려…‘1458억’ 역대 최대 규모 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lZ1dQMklscEpRRzVMcHZLeXdmQ2p3akd1bEpJQnVuRnRsWFZjUFkySUtpdFhOYmc0WEJMS0NwQ21abXRITmtFaFlIWldhNEE?oc=5",
-      "pub": "Fri, 22 May 2026 12:41:56 GMT"
+      "title": "코스피 급등에 국민연금 고민 커졌다…28일 회의서 국내주식 확대 여부 주목 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GSi1OS0U5S0hOWXVCUTJab2k5T283VjFLOU5HMnR5UnFRMDRqVlJzc3NROVk2NW5VS3o4UVJycm1TNksxbXMxRmxvbzJZdlE?oc=5",
+      "pub": "Sat, 23 May 2026 02:34:50 GMT"
     },
     {
       "title": "[주식핵심 체크포인트] 코스피, 코스닥 구성종목 정기변경 (feat, 26/05/22) - 네이버 프리미엄콘텐츠",
@@ -60,6 +55,11 @@
       "title": "[마감시황] 코스피, 강보합 속 7847에 장 마감…코스닥도 동반 상승 - 브릿지경제",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaRlZmNzloN2VSemM3dEZ2dkE0aTg2V2Z3c0l3MGE1QlRDellIRHhCbHplZDhHNHo1aDRNVjJvaDJZQXc3RDBiaFMtRWtyMGVpTW5ldjlXX3lqUQ?oc=5",
       "pub": "Fri, 22 May 2026 07:17:00 GMT"
+    },
+    {
+      "title": "[속보]삼성전자 ‘30만 전자’ 돌파…코스피 8000 다시 갈까 - 문화일보",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9tQ001bGZrZWwwMEdlbjlCdjFyMUV3M1ExcmVoTkVsSDlSckNYUlBfMFM2T3pMcWxoV3RkenRYRE1BTmk4U0dhR2FqcF9lemlx?oc=5",
+      "pub": "Fri, 22 May 2026 00:39:52 GMT"
     }
   ],
   "signal": {
