@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026년 05월 24일 07:43",
-  "updated_date": "2026-05-24",
+  "updated_at": "2026년 05월 25일 07:49",
+  "updated_date": "2026-05-25",
   "kospi": {
     "price": 7847.71,
     "change": 32.12,
@@ -26,20 +26,30 @@
     "pct": 0.19
   },
   "usdkrw": {
-    "price": 1520.53,
-    "change": 13.41,
+    "price": 1520.48,
+    "change": 13.36,
     "pct": 0.89
   },
   "news": [
     {
-      "title": "SK하닉 던지고 ‘이것’ 잡았다…코스피 급반등하자 ‘상위 1%’ 초고수들이 투자한 ‘톱3’? - 헤럴드경제",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLcndzTEtaNGxUYWxBcVhGTk82UWpIRlFBNnVGekpka2w1cWlSX05nQS1GM2xmTXJhbURsTzJhZFdITU5XdjE3dmtFcWZNQTFtMHRVT3p3?oc=5",
-      "pub": "Thu, 21 May 2026 13:37:11 GMT"
+      "title": "“이 나라 보면 코스피 앞날이 보인다” 놀랄 만큼 닮았다 [투자360] - 헤럴드경제",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XaUlBWGNVRXlUZ3NBS2dLYXpuS1VJd1hSdlZpTXdLbXJJNjFxVGU3QTBoYUE4NHIwNXRSWFpuZVhnQ2tSSmc1Z00tS1ZzZDQ3ajU0TEFn?oc=5",
+      "pub": "Sat, 23 May 2026 12:40:00 GMT"
     },
     {
-      "title": "코스피 급등에 국민연금 고민 커졌다…28일 회의서 국내주식 확대 여부 주목 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GSi1OS0U5S0hOWXVCUTJab2k5T283VjFLOU5HMnR5UnFRMDRqVlJzc3NROVk2NW5VS3o4UVJycm1TNksxbXMxRmxvbzJZdlE?oc=5",
-      "pub": "Sat, 23 May 2026 02:34:50 GMT"
+      "title": "AI 투자하랴, 성과급 주랴…코스피 배당수익률 역대 최저, 주주 분통 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1QZmlyZlk3M040SklHaVgtVnc0ajFia1hhYVBYYzJXS19QSmtBbklKZ0RPUmVacVliTm53TjdrZEhyWkM1emc?oc=5",
+      "pub": "Sun, 24 May 2026 06:36:21 GMT"
+    },
+    {
+      "title": "국민연금, 코스피 급등에 국내주식 비중 확대 전망 - 세계일보",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1UZUNTczE1cWVFZ254dG5fVVpFSWRpY01vbU56dDJ1ZEJSZklONEdtV050ME80WldqdHFHVGYzRDk4OVVIeFpLSFo2OFByUTFKTlBSTEFFbHDSAVRBVV95cUxORFNidFJTX2YyQUhrVk9MOXltRTdCQl9UTzI3LWpBWVVRN1hWeUxGWjNIOUkyTjUydDFPOEdmcUZsZUk2ZHRvSlBtYk5TN29XbkF0WFo?oc=5",
+      "pub": "Sun, 24 May 2026 11:23:00 GMT"
+    },
+    {
+      "title": "“주식 한 주도 안 샀는데 ‘395조’ 굴렸네요”…AI에 물어본 코스피 8000과 내 월급의 함수 - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DcWczTmdqLWU5VVVRekwxakpOZnc1WWVoUUJXeDgzRDJ3ME8xZ1JRWVRMNFRmYTVRajhoXzRhSWpHYkRlSk1hbzhoZnNGc2RHdlpabA?oc=5",
+      "pub": "Sat, 23 May 2026 19:00:00 GMT"
     },
     {
       "title": "[주식핵심 체크포인트] 코스피, 코스닥 구성종목 정기변경 (feat, 26/05/22) - 네이버 프리미엄콘텐츠",
@@ -50,16 +60,6 @@
       "title": "코스피 ‘빚투’ 사상 첫 26조 돌파…‘삼전' 레버리지 쏠림 속 하락 베팅도 고개 - 조선일보",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZlgzdFo4QUNVbWZtVjRVdF9Xd0xOVzhhV2YtWHNTSlVuMGxzM1VGZzIxMnYyVkRGSkgwSUMzOWhUaG1rbUtRbWItTEsxNlR6eEVhRHNWZWJLbmJ6MHBxaWRRdUo3clExeVZGV3htdmlfR2F3MFBhR1VaUUpIQTBodE5yRlIwT0JPQkhka2JB?oc=5",
       "pub": "Fri, 22 May 2026 00:35:00 GMT"
-    },
-    {
-      "title": "[마감시황] 코스피, 강보합 속 7847에 장 마감…코스닥도 동반 상승 - 브릿지경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaRlZmNzloN2VSemM3dEZ2dkE0aTg2V2Z3c0l3MGE1QlRDellIRHhCbHplZDhHNHo1aDRNVjJvaDJZQXc3RDBiaFMtRWtyMGVpTW5ldjlXX3lqUQ?oc=5",
-      "pub": "Fri, 22 May 2026 07:17:00 GMT"
-    },
-    {
-      "title": "[속보]삼성전자 ‘30만 전자’ 돌파…코스피 8000 다시 갈까 - 문화일보",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9tQ001bGZrZWwwMEdlbjlCdjFyMUV3M1ExcmVoTkVsSDlSckNYUlBfMFM2T3pMcWxoV3RkenRYRE1BTmk4U0dhR2FqcF9lemlx?oc=5",
-      "pub": "Fri, 22 May 2026 00:39:52 GMT"
     }
   ],
   "signal": {
