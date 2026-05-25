@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026년 05월 25일 07:49",
-  "updated_date": "2026-05-25",
+  "updated_at": "2026년 05월 26일 07:52",
+  "updated_date": "2026-05-26",
   "kospi": {
     "price": 7847.71,
     "change": 32.12,
@@ -26,9 +26,9 @@
     "pct": 0.19
   },
   "usdkrw": {
-    "price": 1520.48,
-    "change": 13.36,
-    "pct": 0.89
+    "price": 1517.23,
+    "change": -3.3,
+    "pct": -0.22
   },
   "news": [
     {
@@ -37,29 +37,29 @@
       "pub": "Sat, 23 May 2026 12:40:00 GMT"
     },
     {
-      "title": "AI 투자하랴, 성과급 주랴…코스피 배당수익률 역대 최저, 주주 분통 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1QZmlyZlk3M040SklHaVgtVnc0ajFia1hhYVBYYzJXS19QSmtBbklKZ0RPUmVacVliTm53TjdrZEhyWkM1emc?oc=5",
-      "pub": "Sun, 24 May 2026 06:36:21 GMT"
+      "title": "[코스피·코스닥 전 거래일(22일) 주요공시] - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxdjByQ05UMDd3LUkyQXpJWkg2ZldYVDlYVU1DR3IyYkt4SEVfRE0wTkdoMVZaalFMOFhfS2tScHJYNmwzSWRRdXJldzNFX1FoWWc?oc=5",
+      "pub": "Mon, 25 May 2026 21:05:01 GMT"
     },
     {
-      "title": "국민연금, 코스피 급등에 국내주식 비중 확대 전망 - 세계일보",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1UZUNTczE1cWVFZ254dG5fVVpFSWRpY01vbU56dDJ1ZEJSZklONEdtV050ME80WldqdHFHVGYzRDk4OVVIeFpLSFo2OFByUTFKTlBSTEFFbHDSAVRBVV95cUxORFNidFJTX2YyQUhrVk9MOXltRTdCQl9UTzI3LWpBWVVRN1hWeUxGWjNIOUkyTjUydDFPOEdmcUZsZUk2ZHRvSlBtYk5TN29XbkF0WFo?oc=5",
-      "pub": "Sun, 24 May 2026 11:23:00 GMT"
+      "title": "코스피 거래대금 첫 40조 돌파…‘삼전닉스’ 쏠림에 회전율은 하락[이런국장 저런주식] - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyemxyN2FsS3otMVhDQkNVdDg0akh3RGhTUnlYM1NsZXd6c1ljR1Z4YUFDTmNFdkN6ZHFrVlRadjRRT3pSV1JGMVpQWEJfMlFWanfSAVNBVV95cUxNTGQ0UmVRTFVDYzBZd0hsUFNwbXdjbW1xcC1JUkNVbHByYWFzQnIwMW5wRlR6MTBOcGpfX1NFYW1aanp4QWZZeHdnSTF3cWtHdGJmdw?oc=5",
+      "pub": "Mon, 25 May 2026 02:10:34 GMT"
     },
     {
-      "title": "“주식 한 주도 안 샀는데 ‘395조’ 굴렸네요”…AI에 물어본 코스피 8000과 내 월급의 함수 - 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DcWczTmdqLWU5VVVRekwxakpOZnc1WWVoUUJXeDgzRDJ3ME8xZ1JRWVRMNFRmYTVRajhoXzRhSWpHYkRlSk1hbzhoZnNGc2RHdlpabA?oc=5",
-      "pub": "Sat, 23 May 2026 19:00:00 GMT"
+      "title": "국민연금, 코스피 급등에 국내주식 비중 확대 전망 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5aZnNRNV8xdVY2eEJjSXFnaGFJRjY3RloteGdvcWl5TTE2YUpxRE1MSjB0R1VHNnRTaWdpVm5MQkduQUV6U21ET3d5dGFoTUU?oc=5",
+      "pub": "Sun, 24 May 2026 11:26:51 GMT"
     },
     {
-      "title": "[주식핵심 체크포인트] 코스피, 코스닥 구성종목 정기변경 (feat, 26/05/22) - 네이버 프리미엄콘텐츠",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQjVQZ19nMGlNQm12dVZmVzRKcHFtaHdnSVJsdWdfQzJSemJtSTUxNkNiVVdLTHc2bnM1Y08xYVdIc1RpWVVXNGs1NWtDaGFfSkEyejdRRWNSOW1jWGFZSHozMjJCQ05tWm15cGJ0ZGhEVDZoVUhxWGlnX2NYUTFHWktOU1AxUQ?oc=5",
-      "pub": "Fri, 22 May 2026 11:26:00 GMT"
+      "title": "“코스피 1만 간다”지만 두렵다…대기자금에 다시 260조 몰렸다 - 이데일리",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQa0Z4T1gwTmx5cjBNcWxWdFNJaTNOcFZYSlJHREVadVFmYzU4eWgyYzJIQ0NINmpwenJ1YzJOYnRjMU5Md3I3dm56bDFjeFVuQUFPSXdHb0oxUjBaMVFOemduTzRNMUdqcDdYWTd0OHVPZlROZFBJZ2p0RTlCNTVqbw?oc=5",
+      "pub": "Mon, 25 May 2026 07:30:42 GMT"
     },
     {
-      "title": "코스피 ‘빚투’ 사상 첫 26조 돌파…‘삼전' 레버리지 쏠림 속 하락 베팅도 고개 - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZlgzdFo4QUNVbWZtVjRVdF9Xd0xOVzhhV2YtWHNTSlVuMGxzM1VGZzIxMnYyVkRGSkgwSUMzOWhUaG1rbUtRbWItTEsxNlR6eEVhRHNWZWJLbmJ6MHBxaWRRdUo3clExeVZGV3htdmlfR2F3MFBhR1VaUUpIQTBodE5yRlIwT0JPQkhka2JB?oc=5",
-      "pub": "Fri, 22 May 2026 00:35:00 GMT"
+      "title": "코스피 7000까지 내리자…고액 자산가들 '이 종목' 샀다 - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2OTRMMjE4eW1wa3cybV9UdWlkak5Lam1HYWhkTE9nY1VMX2QwaTBkaDhfNHZ3NVZpNTU5SWloVWNaZ0U4Zi00NTE2ZmNlbVNXZEg3NDRCX0Nnd9IBVEFVX3lxTE5lLTJzWXlXRDk5TXZJdkVwM3M2R3hhdWZnYnExSE9jSUlhdjBGcXNmZHFKeFl6RDhrOVg4bjYxY3ZPVjR5RjZaQnJoZ2k3S0xaYXNVTA?oc=5",
+      "pub": "Sun, 24 May 2026 21:53:04 GMT"
     }
   ],
   "signal": {
