@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026년 05월 27일 08:02",
-  "updated_date": "2026-05-27",
+  "updated_at": "2026년 05월 28일 08:10",
+  "updated_date": "2026-05-28",
   "kospi": {
-    "price": 8047.51,
-    "change": 199.8,
-    "pct": 2.55,
+    "price": 8228.7,
+    "change": 181.19,
+    "pct": 2.25,
     "label": "강세",
     "emoji": "🚀"
   },
@@ -16,50 +16,50 @@
     "emoji": "📈"
   },
   "sp500": {
-    "price": 7519.12,
-    "change": 45.65,
-    "pct": 0.61
+    "price": 7520.36,
+    "change": 1.24,
+    "pct": 0.02
   },
   "nasdaq": {
-    "price": 26656.18,
-    "change": 312.21,
-    "pct": 1.19
+    "price": 26674.73,
+    "change": 18.55,
+    "pct": 0.07
   },
   "usdkrw": {
-    "price": 1507.81,
-    "change": -9.41,
-    "pct": -0.62
+    "price": 1500.33,
+    "change": -6.2,
+    "pct": -0.41
   },
   "news": [
     {
-      "title": "“이 나라 보면 코스피 앞날이 보인다” 놀랄 만큼 닮았다 [투자360] - 헤럴드경제",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XaUlBWGNVRXlUZ3NBS2dLYXpuS1VJd1hSdlZpTXdLbXJJNjFxVGU3QTBoYUE4NHIwNXRSWFpuZVhnQ2tSSmc1Z00tS1ZzZDQ3ajU0TEFn?oc=5",
-      "pub": "Sat, 23 May 2026 12:40:00 GMT"
+      "title": "내 주식 녹는데 코스피 '매수 사이드카'?…\"삼성·SK 없어\" 통곡 - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfTVAzRkpUSlFBUGpOWXRNWURiTGhDZTNuZk5HS1NOQnAyV1ZfMEY5WWdZYnc4VFVrMjhhZ2lkV0FCcjVyWGtBMHNtNUxiWDFGRDhaMTVfZ3puTWJ1V0NUamhnOGNVNEs10gFuQVVfeXFMT0NCUFNjeWkwc0dUaTlqelpXUlFZYjhiSVJxdnMyVWZLS3BPdFdvTlJWVkN5dHFCTU9wMEhLVDVYYVpqOVV6TmN1SEd5bXhwamFhaEhPVFhPMExuRDhlV2lneFNibXJ2LVV5WXFhQkE?oc=5",
+      "pub": "Wed, 27 May 2026 01:03:23 GMT"
     },
     {
-      "title": "정청래, 코스피 8,000 돌파 강조…\"李 정부 덕에 주식 3배 늘어\" - 연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51b2NsRFlndkdYdGY2TGFGWXFqSTFRWEJtQUpCYjg3R0M3QV9PRlBtNVRQdzZ2NXpvX3lTX1pYSXc4MW1kUGtiYkpjRUpNSm1fNU12WVhBMXJsbTlEaUE1TU5qZlYyWk5SM1BETHNMVDI?oc=5",
-      "pub": "Tue, 26 May 2026 08:21:30 GMT"
+      "title": "코스피 급등에 외국인 국내 주식 평가액도 ‘쑥’ - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBENGFRRG1jZnRITjVjUm5VeGo4ZjAwWnJ3QzY2UENLS2gzbGViUWYtaWF5cEZudy1pakc5QVU1OW9mSUZKX0dLTHEycDBLRUk?oc=5",
+      "pub": "Wed, 27 May 2026 12:44:17 GMT"
     },
     {
-      "title": "“국내 증시서 150조 팔 수도”...‘큰 손’ 국민연금, 28일 국내 주식 투자 비중 손본다 - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSkNOTmhIb2UtazRWWVNUNEkwUE9RM1piZ19fZE4xWmkzUEVvR0JEQzIxTGxBTnVKLXhGSnZSR1BKTHhLVmFVVS04amdJRnhoRmdyU2k1T2lrMHdaaXVMcnp5eVh2ajVZeFpRZU5hR2NGYllmd3FOWEV4QjdIMEtZRA?oc=5",
-      "pub": "Mon, 25 May 2026 23:52:51 GMT"
+      "title": "미국 시장 ‘조정’, 코스피는 급등…순대외금융자산 크게 감소 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMTR1blo5T0xTczREeFBTVk5JSUFEWDdENE16M2dncW5YMWpiQ3pDNHJ0cWJLU3RCQVNYM3FrQXFuWl9ZZ0VCM0FibjZubFptMURCaEd3VndfbUd2WFZmZHZ3WXc0WlphdDN1c0RMVi1LLXh3V2ViQzBvVGtKRThKdWJ0ZkdteEV4SDlkVkVR?oc=5",
+      "pub": "Wed, 27 May 2026 03:05:20 GMT"
     },
     {
-      "title": "'코스피 1만 시대' 기대 커진다…하반기 변수는 금리와 실적 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04S0JFeFR1XzF3Vkk1U1pWekxTZUNOSmNiUThCNE1lQXhCNUpjLTJhbkdjY2NaMVp1ZnFwdnAxX1RQQURYaXo2eWtmOHM3bEk?oc=5",
-      "pub": "Tue, 26 May 2026 07:56:32 GMT"
+      "title": "코스피 뛰자 외국인 보유주식 가치 급등 … 순대외금융자산 1321억 달러 감소 - 뉴데일리 경제",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9KTUk0TVB5WXFHaTZfYWo2dy1vV0xNdDFrZ3AtRXJhbUNlYUx6bDJHNVhDa1d3d21WME81Q2g1Z2FIelhlVDRwcGExdWlKOXhkLW9DQUl4dTZkXzBHckdyT0MwTldfbWxreGZNUFhwNEtfWU8tdkRCUnVHSQ?oc=5",
+      "pub": "Wed, 27 May 2026 03:19:16 GMT"
     },
     {
-      "title": "코스피 8000·성장펀드 완판에도 웃지 못한 이재명 대통령, 왜 - 머니투데이 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DcW1mR1loOTVSN3hLampBdFE4WF9UVkE3V3phT28wVHBWRHdnODdGTjNYVk90bHBWbEJOUmVCZVRLMlBtNlNhVUhrME1kWmdpc0EtMVRnWGk4aGlfWDNzQVl3Z1l4V0RzV1RtVNIBckFVX3lxTE9JX3hGbzVNWng2b09iUEpqMVBLeFdZNnZUblZ0c3dRb3gwSUFjZkhhelNsWi1paUJudEUwMzNKOGZXY0J5QzQyWlNhc3Q5VTB2MjZaUWQyUEw4el83T1I0QW5XaUF5NXpYYlRrSnhldC0wdw?oc=5",
-      "pub": "Tue, 26 May 2026 02:12:28 GMT"
+      "title": "“코스피 8000, 더 올라간다” 美 BofA가 꽂힌 새 주도주 - 중앙일보",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hT0ZDbUE2WTJNeDg5TTdIMVJYSVMzallaNTBwRDdrQ3VBbGo4ZE1JQ1VEejhMR2dzLTNiNHBvOGs1NU9wMGNHTnJ2ZmxrV2tqNGlNRUNn?oc=5",
+      "pub": "Wed, 27 May 2026 20:01:18 GMT"
     },
     {
-      "title": "외인 가세 ‘진격의 코스피’… RIA도 한달새 8054억 추가 유입 - 문화일보",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rdjhkZGZNOThlN3pEZVhxSjZLS0U4RTlVbmt1WWZ1NWhLbWFLYldXN0RyRkdfQ21lNFUxdFVNV0dMQnZvbmlVV1dndGZzRGh6?oc=5",
-      "pub": "Tue, 26 May 2026 03:02:03 GMT"
+      "title": "[코스피·코스닥 전 거래일(27일) 주요공시] - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOMk9icldfck5Eb05MNmFpLWZOSHZwb3oxWnowSnhRT0ZMT1djb19YRFFNbEl5WWN2c05KOVRrWWxTSGZCelBsMEFkTGpHZFZISnc?oc=5",
+      "pub": "Wed, 27 May 2026 21:05:00 GMT"
     }
   ],
   "signal": {
