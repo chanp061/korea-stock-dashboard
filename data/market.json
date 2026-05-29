@@ -1,70 +1,70 @@
 {
-  "updated_at": "2026년 05월 29일 08:07",
-  "updated_date": "2026-05-29",
+  "updated_at": "2026년 05월 30일 08:05",
+  "updated_date": "2026-05-30",
   "kospi": {
-    "price": 8185.29,
-    "change": -43.41,
-    "pct": -0.53,
-    "label": "소폭 약세",
-    "emoji": "📉"
+    "price": 8476.15,
+    "change": 290.86,
+    "pct": 3.55,
+    "label": "강세",
+    "emoji": "🚀"
   },
   "kosdaq": {
-    "price": 1104.36,
-    "change": -56.77,
-    "pct": -4.89,
+    "price": 1074.8,
+    "change": -58.33,
+    "pct": -5.15,
     "label": "약세",
     "emoji": "🔻"
   },
   "sp500": {
-    "price": 7563.63,
-    "change": 43.27,
-    "pct": 0.58
+    "price": 7580.06,
+    "change": 16.43,
+    "pct": 0.22
   },
   "nasdaq": {
-    "price": 26917.47,
-    "change": 242.74,
-    "pct": 0.91
+    "price": 26972.62,
+    "change": 55.15,
+    "pct": 0.2
   },
   "usdkrw": {
-    "price": 1493.69,
-    "change": -6.32,
-    "pct": -0.42
+    "price": 1507.13,
+    "change": 13.34,
+    "pct": 0.89
   },
   "news": [
     {
-      "title": "국민연금 ‘코스피 매도 폭탄’ 피했다…국내주식 목표 비중 상향 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBTUhzek1ST3ZheDM5cDNmS0JjTzRfMks5YWtkSHViLU9QMks3ZEJmaWxST2NtbjBKZkpwUXZ3NWRjVUNyemdBZXNZLVBnMXM?oc=5",
-      "pub": "Thu, 28 May 2026 09:29:05 GMT"
+      "title": "[마감시황] 코스피, 사상 최고치 경신...8476 마감 - 브릿지경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2SjVkVFVINERxbHM2OFBabi1aT2Q5M293cHJyRW84WFFDUzNybkVoYVRkd0U4RzJNUnBlRXpXRnlHSGtHZm1wSEE2U2N2NzVza29jT2dQdkxpQQ?oc=5",
+      "pub": "Fri, 29 May 2026 07:08:00 GMT"
     },
     {
-      "title": "내 주식 녹는데 코스피 '매수 사이드카'?…\"삼성·SK 없어\" 통곡 - 머니투데이 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfTVAzRkpUSlFBUGpOWXRNWURiTGhDZTNuZk5HS1NOQnAyV1ZfMEY5WWdZYnc4VFVrMjhhZ2lkV0FCcjVyWGtBMHNtNUxiWDFGRDhaMTVfZ3puTWJ1V0NUamhnOGNVNEs10gFuQVVfeXFMT0NCUFNjeWkwc0dUaTlqelpXUlFZYjhiSVJxdnMyVWZLS3BPdFdvTlJWVkN5dHFCTU9wMEhLVDVYYVpqOVV6TmN1SEd5bXhwamFhaEhPVFhPMExuRDhlV2lneFNibXJ2LVV5WXFhQkE?oc=5",
-      "pub": "Wed, 27 May 2026 01:03:23 GMT"
+      "title": "[마켓뷰] 코스피, 또 사상 최고… 대형주 쏠림에 8470선 안착 - 조선비즈 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcGNJZUZMRnhVTGhVczFkc3NLRXpBN2tLazZxVHdPbmtIQllSNnI4Zml4RzJDS0RhWmQ1RjdTZExsV205WEthNjZZZVk5U2VnanNXRTllY2x5QnZzNURZcUpscmJYTVgzeTQ5Q1prT2l3QjJSd3JDU1BMSFZzX0h4VXBZc3RDdGPSAZsBQVVfeXFMTlFCUXo5N01RRlNLYVdXa3l4eE43SGtvcHdpNUtIMl9iYi1KcmlTRHFMYnhySXlvR0hPdzBncVlBOTRINnc2dmpyZ05CR2s0SUxoUHE0d2FPSXM4dWxRd0gwNkNuekNhOVJZSlhfNmFrcDNLcmxoY0kwX2VTMUdBTzVmajZZd2c4WVhQT0hyY0dBbERFOTVVSmZ4QU0?oc=5",
+      "pub": "Fri, 29 May 2026 07:36:00 GMT"
     },
     {
-      "title": "\"코스피는 8000인데 내 주식은 왜?\"…초강세장 속 더 심해진 증시 양극화 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBWDExZVZJYklBekZJOXlPcUxBZUhKRjdmb3JHdm9NMDZlc0FUN1Z2eEw0V0VFTzR3ZFhmOG9zN3VXaWpHTGNGNkh6RGVWc2c?oc=5",
-      "pub": "Thu, 28 May 2026 22:52:06 GMT"
+      "title": "개미도 외국인도 팔았는데 하루만에 2.3조원 사들였다…‘폭풍 매수’한 기관 - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80V3ltdlRNT0VocngtS0ZKWTJFUnowb2ZOUlpIa2hiYWFXZzIzNVAtUmRHai1DS21ONTJoR0FEbmlGOVAxNUVyZVR4aWFPUHFHTkE?oc=5",
+      "pub": "Fri, 29 May 2026 10:58:28 GMT"
     },
     {
-      "title": "[코스피·코스닥 전 거래일(28일) 주요공시] - 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4MXVxNWtCOG9MM0Rndjg1dm40M2lTcVlVMW12ci1sc2RhWHhfblJEM3gtVV9OWGh3QWVRSXNXelpEWGlKUGNhcVNEelNabFJqbmc?oc=5",
-      "pub": "Thu, 28 May 2026 21:05:01 GMT"
+      "title": "국민연금, 국내주식 목표 비중 또 올려…코스피 급등에 원칙 흔들? - 노컷뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MTENRZGNGdmszRmF1UXpSRkdPWW1CdVQ4dlpRNHNJM041OUxtLVdKeEcwbl9nWG1ycmo1QnRTeVNuUE1idE91UTRpNVF2RkhVTnc?oc=5",
+      "pub": "Thu, 28 May 2026 20:00:00 GMT"
     },
     {
-      "title": "코스피 급등에 외국인 국내 주식 평가액도 ‘쑥’ - 경향신문",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40M0VXOTdac0xVMFpCMWFFZjM4Q0oyN3NadG1WS3ROZU45VmhObUprTjBiUGFGVFl2NGVOaGJ5R0xnU1RfNHlLMmFHeXg2Z18tTjAyaWdmUlhvUdIBX0FVX3lxTE5Dc0FyWXFjSERpQXB1QjlBaFRXdjA3SklrMi1reTRVVEQ0REdsVk1nWmRlYXVFNng3b0phVWxXM0xrY1NIaDNOZndHQjRUU0N5dFBGWkF2aGhVWFlyOVJF?oc=5",
-      "pub": "Wed, 27 May 2026 12:42:00 GMT"
+      "title": "“8천피 넘었는데 내 주식은 왜…” ‘삼전닉스’ 없어서 서러운 개미들, 혼자가 아니다[경제뭔데] - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1WaXRaR2dHSGhQSDBEc2hoRHdYRlJhQ1JRS0ZiNmhFRW1DWUlKSHRHbURTOU12cHhPREtmMF9JSDJCbDF2Y2hSbTVKeVBGeUU?oc=5",
+      "pub": "Fri, 29 May 2026 21:01:37 GMT"
     },
     {
-      "title": "“코스피 8000, 더 올라간다” 美 BofA가 꽂힌 새 주도주 - 중앙일보",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hT0ZDbUE2WTJNeDg5TTdIMVJYSVMzallaNTBwRDdrQ3VBbGo4ZE1JQ1VEejhMR2dzLTNiNHBvOGs1NU9wMGNHTnJ2ZmxrV2tqNGlNRUNn?oc=5",
-      "pub": "Wed, 27 May 2026 20:01:18 GMT"
+      "title": "엑셀하는 줄 알았더니…“상사 몰래” 기막힌 위장 주식사이트 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLeVdHMk9tOG9hbnE0bmgyQmtQUnJPdThmTWF4SjRuZ0hnRGZnVkl2eHdibC1QQ2hfZXJTTDdROE9fb3hKQ3lNbmNaT0FCQUU?oc=5",
+      "pub": "Thu, 28 May 2026 08:53:53 GMT"
     }
   ],
   "signal": {
-    "text": "시장 조정 국면. 손절보다 비중 축소 후 상황을 지켜보세요.",
-    "type": "negative"
+    "text": "소폭 하락권. 패닉셀보다 분할 매수 기회를 살펴보세요.",
+    "type": "neutral"
   },
-  "one_liner": "코스피 📉 소폭 약세 · 코스닥 🔻 약세"
+  "one_liner": "코스피 🚀 강세 · 코스닥 🔻 약세"
 }
