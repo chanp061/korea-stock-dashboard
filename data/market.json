@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026년 05월 30일 08:05",
-  "updated_date": "2026-05-30",
+  "updated_at": "2026년 05월 31일 07:50",
+  "updated_date": "2026-05-31",
   "kospi": {
     "price": 8476.15,
     "change": 290.86,
@@ -10,8 +10,8 @@
   },
   "kosdaq": {
     "price": 1074.8,
-    "change": -58.33,
-    "pct": -5.15,
+    "change": -29.56,
+    "pct": -2.68,
     "label": "약세",
     "emoji": "🔻"
   },
@@ -32,19 +32,24 @@
   },
   "news": [
     {
-      "title": "[마감시황] 코스피, 사상 최고치 경신...8476 마감 - 브릿지경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2SjVkVFVINERxbHM2OFBabi1aT2Q5M293cHJyRW84WFFDUzNybkVoYVRkd0U4RzJNUnBlRXpXRnlHSGtHZm1wSEE2U2N2NzVza29jT2dQdkxpQQ?oc=5",
-      "pub": "Fri, 29 May 2026 07:08:00 GMT"
+      "title": "주식 올랐으면 민주당 찍으라는데…상장사 82%는 주가 떨어졌다 [이런국장 저런주식] - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CLWRkNm5yVU1GTlNYMnRpcnlWMll1Mll1UHA0V0J3a2lKOGtvblpOQlYxM2hnRk9WUEtabkxwcTJFb3lEQU1RWWdKUHB5eldTakHSAVNBVV95cUxNSHJQM2dvR0RHWHRYVUM0R1dYV1BlZnNkcUJwN0J3R2JaZWxtbXJyb2ZfTVNmNDEyLXhsaUxIMFlRZ3FNQjFIUllHcFlSSEp6dV9acw?oc=5",
+      "pub": "Fri, 29 May 2026 22:00:00 GMT"
     },
     {
-      "title": "[마켓뷰] 코스피, 또 사상 최고… 대형주 쏠림에 8470선 안착 - 조선비즈 - Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcGNJZUZMRnhVTGhVczFkc3NLRXpBN2tLazZxVHdPbmtIQllSNnI4Zml4RzJDS0RhWmQ1RjdTZExsV205WEthNjZZZVk5U2VnanNXRTllY2x5QnZzNURZcUpscmJYTVgzeTQ5Q1prT2l3QjJSd3JDU1BMSFZzX0h4VXBZc3RDdGPSAZsBQVVfeXFMTlFCUXo5N01RRlNLYVdXa3l4eE43SGtvcHdpNUtIMl9iYi1KcmlTRHFMYnhySXlvR0hPdzBncVlBOTRINnc2dmpyZ05CR2s0SUxoUHE0d2FPSXM4dWxRd0gwNkNuekNhOVJZSlhfNmFrcDNLcmxoY0kwX2VTMUdBTzVmajZZd2c4WVhQT0hyY0dBbERFOTVVSmZ4QU0?oc=5",
-      "pub": "Fri, 29 May 2026 07:36:00 GMT"
+      "title": "[경제뭔데]“8천피 넘었는데 내 주식은 왜…” ‘삼전닉스’ 없어서 서러운 개미들, 혼자가 아니다 - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fcHZVQjVPNjAwN0dzb21yUXpYNFhESnhsZTdFX3M4N3FyenZvbkU5emRSM25TZUhXd2UwY0ZnMzc4ZkU3Um9EVVp1SG9Yd1BtYllCNmtPT28xQdIBX0FVX3lxTFBhOENIeXZLZ0dBRkZRNk40UVBVMWhzdUMtbTNQaV8zVmJPZUY4MjZObm44OGtsWW5kZTBFY3J3WDlLQjJsT3lOQ1ktN1FHdHRFRnVzTlJCcl9KaE5OVE1R?oc=5",
+      "pub": "Fri, 29 May 2026 21:00:00 GMT"
     },
     {
-      "title": "개미도 외국인도 팔았는데 하루만에 2.3조원 사들였다…‘폭풍 매수’한 기관 - 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80V3ltdlRNT0VocngtS0ZKWTJFUnowb2ZOUlpIa2hiYWFXZzIzNVAtUmRHai1DS21ONTJoR0FEbmlGOVAxNUVyZVR4aWFPUHFHTkE?oc=5",
-      "pub": "Fri, 29 May 2026 10:58:28 GMT"
+      "title": "코스피는 8000인데 내 주식은 왜?…초강세장 속 더 심해진 증시 양극화 - 아주경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iM09wUEhLMkZYdk9sWHpCLUZnM2Y5OXd3NjhEMUhrdExHanZBMm1RLXlBalVxTS1DVkxraWNGVUV2NnNiNFROZnRaNUJoUUpUTW90V2dYUTZyUdIBWEFVX3lxTFBuSjNvN2dsZW5iVTFDR2lJSGFnZmVvYzFkRWxmcHU0M3BvYmF5UXNWR0RkQUU5T2VMTGxXVnl4OTF2QWdaS054THVlT0hRdzF6NTZJUWNBMXQ?oc=5",
+      "pub": "Thu, 28 May 2026 22:51:59 GMT"
+    },
+    {
+      "title": "코스피 불장에 역대급 ‘빚투’…신용잔고 37조 첫 돌파 - 헤럴드경제",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jM3loekh5X0RRWTBJVURMY3h1QmpJNGRldXI2M21MQ3NYV3owb1Aza0J6aFZ5SEhxRU5XMFZKWDFSRkdWS2dhU2JGVDZNVDRJQ0RHVXhn?oc=5",
+      "pub": "Sat, 30 May 2026 06:05:57 GMT"
     },
     {
       "title": "국민연금, 국내주식 목표 비중 또 올려…코스피 급등에 원칙 흔들? - 노컷뉴스",
@@ -52,18 +57,13 @@
       "pub": "Thu, 28 May 2026 20:00:00 GMT"
     },
     {
-      "title": "“8천피 넘었는데 내 주식은 왜…” ‘삼전닉스’ 없어서 서러운 개미들, 혼자가 아니다[경제뭔데] - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1WaXRaR2dHSGhQSDBEc2hoRHdYRlJhQ1JRS0ZiNmhFRW1DWUlKSHRHbURTOU12cHhPREtmMF9JSDJCbDF2Y2hSbTVKeVBGeUU?oc=5",
-      "pub": "Fri, 29 May 2026 21:01:37 GMT"
-    },
-    {
-      "title": "엑셀하는 줄 알았더니…“상사 몰래” 기막힌 위장 주식사이트 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLeVdHMk9tOG9hbnE0bmgyQmtQUnJPdThmTWF4SjRuZ0hnRGZnVkl2eHdibC1QQ2hfZXJTTDdROE9fb3hKQ3lNbmNaT0FCQUU?oc=5",
-      "pub": "Thu, 28 May 2026 08:53:53 GMT"
+      "title": "정청래 \"주식 계좌 흐뭇하면 투표\"…현실은 종목 82% 하락 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmOWRlZmlCUjJMT3M2N2x5ZUZKbWhxQTFWSWkzcnBHbDM0Sm1ET2QxVWJJOFdfZ3NxcV9Va0daYl9NZ1NxNGp0SGZDdElkamFjYlNoVnVRcHBmMHFLY25haS15RTBkMGRSakE?oc=5",
+      "pub": "Sat, 30 May 2026 12:30:00 GMT"
     }
   ],
   "signal": {
-    "text": "소폭 하락권. 패닉셀보다 분할 매수 기회를 살펴보세요.",
+    "text": "소폭 상승권. 뚜렷한 방향성보다 관망이 적절합니다.",
     "type": "neutral"
   },
   "one_liner": "코스피 🚀 강세 · 코스닥 🔻 약세"
