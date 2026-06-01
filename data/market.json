@@ -1,65 +1,65 @@
 {
-  "updated_at": "2026년 06월 01일 07:51",
-  "updated_date": "2026-06-01",
+  "updated_at": "2026년 06월 02일 08:21",
+  "updated_date": "2026-06-02",
   "kospi": {
-    "price": 8476.15,
-    "change": 290.86,
-    "pct": 3.55,
+    "price": 8788.38,
+    "change": 312.23,
+    "pct": 3.68,
     "label": "강세",
     "emoji": "🚀"
   },
   "kosdaq": {
-    "price": 1074.8,
-    "change": -29.56,
-    "pct": -2.68,
+    "price": 1050.03,
+    "change": -24.77,
+    "pct": -2.3,
     "label": "약세",
     "emoji": "🔻"
   },
   "sp500": {
-    "price": 7580.06,
-    "change": 16.43,
-    "pct": 0.22
+    "price": 7599.96,
+    "change": 19.9,
+    "pct": 0.26
   },
   "nasdaq": {
-    "price": 26972.62,
-    "change": 55.12,
-    "pct": 0.2
+    "price": 27086.81,
+    "change": 114.19,
+    "pct": 0.42
   },
   "usdkrw": {
-    "price": 1507.38,
-    "change": 13.59,
-    "pct": 0.91
+    "price": 1511.72,
+    "change": -0.55,
+    "pct": -0.04
   },
   "news": [
+    {
+      "title": "‘착시’ 빠진 증시… 반도체 빼면 코스피 4100선 불과 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV3AyaElfWnJPN0ZZZF9NRnBSVkw5NjZSbm5hVTh0VE5zSURaS19mUVpzakNGclotV1Rtekx1bFZYLS1qeTJ4cGlXazF4RWx4TEliRXJCMXdjUzJjNmpmai1jVkpTb09aTkF2X0NXVzYwU2drbEhlYkxKV00teERfaThFd2RxUjd4R3NZ?oc=5",
+      "pub": "Mon, 01 Jun 2026 04:16:03 GMT"
+    },
     {
       "title": "주식 올랐으면 민주당 찍으라는데…상장사 82%는 주가 떨어졌다 [이런국장 저런주식] - 서울경제",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CLWRkNm5yVU1GTlNYMnRpcnlWMll1Mll1UHA0V0J3a2lKOGtvblpOQlYxM2hnRk9WUEtabkxwcTJFb3lEQU1RWWdKUHB5eldTakHSAVNBVV95cUxNSHJQM2dvR0RHWHRYVUM0R1dYV1BlZnNkcUJwN0J3R2JaZWxtbXJyb2ZfTVNmNDEyLXhsaUxIMFlRZ3FNQjFIUllHcFlSSEp6dV9acw?oc=5",
       "pub": "Fri, 29 May 2026 22:00:00 GMT"
     },
     {
-      "title": "팀장 몰래 내 주식 얼마나 올랐지?…직장인 홀린 '엑셀 코스피' - biz.sbs.co.kr.",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVd2hNTzlrMmJDQXBNRklzdk9WTlM0eFNnLWRGTGFHOFItQTcyam5UWGRuS2VfdEJ1VGlLOXZuMHh2QTdwSWNaVHVaSVQyd1djYjdn0gFYQVVfeXFMT1gxR21tYmsxR1Rfa2lmZWJsLWJOcjAtcVc3VTM4UjFCS2dBQWxVSGpQYUVuakFPMWhXUkhPazNjRk5RY2JhYXNleHhyRFBtTFFpQW13ZWlEdA?oc=5",
-      "pub": "Sat, 30 May 2026 07:59:00 GMT"
+      "title": "레버리지가 밀어 올린 코스피…11일 '분수령' - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNamNNNWQwNVJGQWFJemZOeTFBN2xNMEt6ZkFSNGEwRHNqRDNYVnIxSlI0WjFULUhLTF8tSzJPajdCUzVyTmI2REJWV0g4SjA?oc=5",
+      "pub": "Mon, 01 Jun 2026 21:02:00 GMT"
     },
     {
-      "title": "9000 향하는 코스피…종전 여부에 ‘주목’[주간증시] - 에너지경제신문",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jbk1GTXZfUEhUakFpUXc5dC1jcXQzdHd5d2pXb1pBVW5kbzk3QXpZTjJCN0lUT1BRN3hoejJYcU54Z1Rrd29MOXgzMENGX1d0WVlxZUw0SjNVSWM?oc=5",
-      "pub": "Sat, 30 May 2026 23:20:21 GMT"
+      "title": "코스피 8,600 신고가인데 공포지수가 74까지 치솟은 이유 — 강세장의 끝을 가르는 신호 4가지 - 네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObG5ZSW1odDJQSEtaZzR1MWV1ekhLMDh4N09IVmFNb0VqVUpIQXNNNWZjdkI0VVZEcnBFemt3dDNuRmRiVW1PczNqOTdZMG5tcGwzSk1kNU5MMjlUUWh0SWxzWWswUWJ3a2VZUl9DcnpSRnZudGFINl9XeU9UYWYwMTRhSUMyQ00?oc=5",
+      "pub": "Mon, 01 Jun 2026 15:26:00 GMT"
     },
     {
-      "title": "“코스피 8000, 더 올라간다” 美 BofA가 꽂힌 ‘제2 삼전닉스’ - 중앙일보",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xTGM5RS13Q2lLdlozaS1OTjhjblh4VDF5cjV6NEZGWkFaNGE3bEx6RlBtMGx3YjJzYlR5aW82Ry1WSUtYZkRfQ19TUUhwVmdWV0ZVZm13?oc=5",
-      "pub": "Sun, 31 May 2026 20:00:02 GMT"
+      "title": "\"장 초반 상승폭 확대\"…코스피 8,500 이어 8,600도 돌파 - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Id3JQTkVab1NyQ1lISnNQWjNDa0JxUlBrcG4zRnUwZEFVUm9TaFEyMkg0THMwb0Vvd0tKbnlOM2hNNjlmZmllOG93RThjUGtWMnVIcjFKR1FXNmxLNWFva1ZKVmNuRVJWTjJGWEVrQ1M?oc=5",
+      "pub": "Mon, 01 Jun 2026 00:36:49 GMT"
     },
     {
-      "title": "5월 코스피 44조 팔아치운 외국인, 코스닥 2.8조 순매수 - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTVpob0ZEbXVvSzl0Wlk5dmRxM1ZmUXIzZVY3aS04VDZfZUloZ01wSndZckpWeUF0RnVqYmt3N2U1OWloeTRITGFWa0NLd2dubllYMkk3V241elR1ZHhXajNWak9RYWNFalRLMHAwNW9YREFsamlKRDhVYjctMWN4R2FQRUJ1MmRDekNJ?oc=5",
-      "pub": "Sun, 31 May 2026 02:54:49 GMT"
-    },
-    {
-      "title": "\"지금 뺄 때아니야, 코스피 9000까지 간다\"…증권가가 주목하는 신호는 [주末머니] - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LN3hXY1k4SWJLa3JPV2piZ0JsZ3VrbzIyRzNfeVVXZmd6eTdrbWNNVWJUSkJuRUxJTkJPa3ZxVVo3VWFWNVk3Mmp3dG5Gemc?oc=5",
-      "pub": "Sun, 31 May 2026 05:26:02 GMT"
+      "title": "코스피 10위권 수준…이재용, 보유주식 60조 돌파 [이런국장 저런주식] - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vLUxRekFBOHhvOTJvdERmUXJkQTJCN090alJKMkV0LVc3SHRxOHhibnpGR21fZDZqUG1hd2pnTjN0RWQ2Mm9IeGlhMlJDV2pkekHSAVNBVV95cUxOd3NuLXdXRS1ES2Vrc1BuY0E1THhhSW9pZUgxeVg5SVdTRElNN0Q5dnNBNnY0d0VXVEIwaVdzSnplWlZjWjZ1blpHc3FjcXMybDdpcw?oc=5",
+      "pub": "Mon, 01 Jun 2026 22:05:00 GMT"
     }
   ],
   "signal": {
