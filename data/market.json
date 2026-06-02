@@ -1,70 +1,70 @@
 {
-  "updated_at": "2026년 06월 02일 08:21",
-  "updated_date": "2026-06-02",
+  "updated_at": "2026년 06월 03일 08:28",
+  "updated_date": "2026-06-03",
   "kospi": {
-    "price": 8788.38,
-    "change": 312.23,
-    "pct": 3.68,
-    "label": "강세",
-    "emoji": "🚀"
+    "price": 8801.49,
+    "change": 13.11,
+    "pct": 0.15,
+    "label": "보합",
+    "emoji": "➡️"
   },
   "kosdaq": {
-    "price": 1050.03,
-    "change": -24.77,
-    "pct": -2.3,
+    "price": 1026.03,
+    "change": -48.77,
+    "pct": -4.54,
     "label": "약세",
     "emoji": "🔻"
   },
   "sp500": {
-    "price": 7599.96,
-    "change": 19.9,
-    "pct": 0.26
+    "price": 7609.78,
+    "change": 9.82,
+    "pct": 0.13
   },
   "nasdaq": {
-    "price": 27086.81,
-    "change": 114.19,
-    "pct": 0.42
+    "price": 27093.9,
+    "change": 7.09,
+    "pct": 0.03
   },
   "usdkrw": {
-    "price": 1511.72,
-    "change": -0.55,
-    "pct": -0.04
+    "price": 1515.3,
+    "change": -0.91,
+    "pct": -0.06
   },
   "news": [
     {
-      "title": "‘착시’ 빠진 증시… 반도체 빼면 코스피 4100선 불과 - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV3AyaElfWnJPN0ZZZF9NRnBSVkw5NjZSbm5hVTh0VE5zSURaS19mUVpzakNGclotV1Rtekx1bFZYLS1qeTJ4cGlXazF4RWx4TEliRXJCMXdjUzJjNmpmai1jVkpTb09aTkF2X0NXVzYwU2drbEhlYkxKV00teERfaThFd2RxUjd4R3NZ?oc=5",
-      "pub": "Mon, 01 Jun 2026 04:16:03 GMT"
+      "title": "“코스피 35% 폭등했다는데 내 주식은 왜?”… 동일가중 수익률은 ‘마이너스’ - 조선비즈 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORkZxZXZIVEhwSC1nZXNMdE9xckZtWHFhLUQyUXd6NEdGanVNNmtnQVFzZ1pfaElTVEg1RDlXOVdoMlNvdEpFSHJQYWNyMnpRRkg0Rk92WDVtUU1oNkxJdjdRY1FIQ2xEYkFRbnJNeHljdlRBRFZqWllLQXFyQmJoRGVOaGRhOUwz0gGcAUFVX3lxTE1jNzFaUFZidnNfSlpybnVfdWhhX2lwRzJCeURpRTNuQzVYdkozRkFuX0RUSDBDSHY2eGtGMTFqWFI1cUczeXRvUEdoUzB3cFBSRmVuaWU4QzdvbWtKUlJyMTVsN2gzQ3RrUU1mZHMyVTdiQUo3bmdEckFBaTBJZnYzdkgwMWZkVk1rMkpzS2FPelpSeDFJMmhHNkhweA?oc=5",
+      "pub": "Tue, 02 Jun 2026 06:22:00 GMT"
     },
     {
-      "title": "주식 올랐으면 민주당 찍으라는데…상장사 82%는 주가 떨어졌다 [이런국장 저런주식] - 서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CLWRkNm5yVU1GTlNYMnRpcnlWMll1Mll1UHA0V0J3a2lKOGtvblpOQlYxM2hnRk9WUEtabkxwcTJFb3lEQU1RWWdKUHB5eldTakHSAVNBVV95cUxNSHJQM2dvR0RHWHRYVUM0R1dYV1BlZnNkcUJwN0J3R2JaZWxtbXJyb2ZfTVNmNDEyLXhsaUxIMFlRZ3FNQjFIUllHcFlSSEp6dV9acw?oc=5",
-      "pub": "Fri, 29 May 2026 22:00:00 GMT"
+      "title": "“잘 먹고 갑니다, 개미들아 안녕”…외인들, 올해 코스피서 ‘103조’ 던졌다 - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KVGt2VkZfaGdxZm9UaExaTEN2NHJzUFJUVVhuZHFmU0tBY1pHUzhtN3RnamF2Y3E4cjdKR0Y4V3I4enNoNnFEOWZwRnA1TDZJTHfSAVNBVV95cUxONWJEQ3AxMWNZaTdmSTJkV0FWWVczVmp5a0F0Z05obTVpQnhmdEdqQ3NPamVwd3FWR3gzLW51Ukk0Y0g4ZTlFSjhmSHFacm82Smd1Yw?oc=5",
+      "pub": "Tue, 02 Jun 2026 04:08:07 GMT"
     },
     {
-      "title": "레버리지가 밀어 올린 코스피…11일 '분수령' - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNamNNNWQwNVJGQWFJemZOeTFBN2xNMEt6ZkFSNGEwRHNqRDNYVnIxSlI0WjFULUhLTF8tSzJPajdCUzVyTmI2REJWV0g4SjA?oc=5",
-      "pub": "Mon, 01 Jun 2026 21:02:00 GMT"
+      "title": "한 달간 60조 팔아치운 외국인…'스페이스X 상장' 총알 모으나 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CX0MxSHlzbTVpUnNtU21ySkROcXgxVmtReDBONVhVZEF0SVkxVXNzakR3OFplZzhoQ1ZjU21WWUMxbVpfMnZfWjhnWFI3TGc?oc=5",
+      "pub": "Tue, 02 Jun 2026 21:02:27 GMT"
     },
     {
-      "title": "코스피 8,600 신고가인데 공포지수가 74까지 치솟은 이유 — 강세장의 끝을 가르는 신호 4가지 - 네이버 프리미엄콘텐츠",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObG5ZSW1odDJQSEtaZzR1MWV1ekhLMDh4N09IVmFNb0VqVUpIQXNNNWZjdkI0VVZEcnBFemt3dDNuRmRiVW1PczNqOTdZMG5tcGwzSk1kNU5MMjlUUWh0SWxzWWswUWJ3a2VZUl9DcnpSRnZudGFINl9XeU9UYWYwMTRhSUMyQ00?oc=5",
-      "pub": "Mon, 01 Jun 2026 15:26:00 GMT"
+      "title": "“외국인 매도는 수급 착시…코스피 1만 무리 아냐” - 마켓인",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xYktaS0FmaDQ5TnFfaS1wbEFTRzgzZWhnZVhKOWtnTXZZVXZvZ3hLVXoyT3RFTnRYYU5VYUhteXEzV3UtWW9Wd1pxRElkR2h5eUdUTl9ObnhWbEMxNjZXU3hEYUwtRVJ2OHNfUVNQTGI3bGc?oc=5",
+      "pub": "Mon, 01 Jun 2026 07:25:30 GMT"
     },
     {
-      "title": "\"장 초반 상승폭 확대\"…코스피 8,500 이어 8,600도 돌파 - 연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Id3JQTkVab1NyQ1lISnNQWjNDa0JxUlBrcG4zRnUwZEFVUm9TaFEyMkg0THMwb0Vvd0tKbnlOM2hNNjlmZmllOG93RThjUGtWMnVIcjFKR1FXNmxLNWFva1ZKVmNuRVJWTjJGWEVrQ1M?oc=5",
-      "pub": "Mon, 01 Jun 2026 00:36:49 GMT"
+      "title": "거래대금 100조 시대에도 힘 빠진 증권株…지금 사도 될까 - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHZTRQS0N6R1d4SVJqelc1VHBRVE1jQTUtWFBmV0RveW1JMC1rX09fWHhXLXN2RnliRy1LQzdxX3RMcjZOU3B5Vm93cGNWMjUxMWJTaEJtZzlGNmdjMkZn?oc=5",
+      "pub": "Tue, 02 Jun 2026 21:00:00 GMT"
     },
     {
-      "title": "코스피 10위권 수준…이재용, 보유주식 60조 돌파 [이런국장 저런주식] - 서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vLUxRekFBOHhvOTJvdERmUXJkQTJCN090alJKMkV0LVc3SHRxOHhibnpGR21fZDZqUG1hd2pnTjN0RWQ2Mm9IeGlhMlJDV2pkekHSAVNBVV95cUxOd3NuLXdXRS1ES2Vrc1BuY0E1THhhSW9pZUgxeVg5SVdTRElNN0Q5dnNBNnY0d0VXVEIwaVdzSnplWlZjWjZ1blpHc3FjcXMybDdpcw?oc=5",
-      "pub": "Mon, 01 Jun 2026 22:05:00 GMT"
+      "title": "\"FOMO는 필패\" 코스피 8000시대 지속 가능한 수익 만드는 주식 투자법 [2026 싱글파이어 머니쇼] - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wSFp5NnZ2bVJ2QmFlWFFWeXJXWVpVcDFqUGJNQTZLUUhubXZMellCWVFfZ1pFU04wNTdnVWtnUUphSnpyOFNqZFNObnY2cjNXYXA0?oc=5",
+      "pub": "Tue, 02 Jun 2026 22:30:27 GMT"
     }
   ],
   "signal": {
-    "text": "소폭 상승권. 뚜렷한 방향성보다 관망이 적절합니다.",
-    "type": "neutral"
+    "text": "시장 조정 국면. 손절보다 비중 축소 후 상황을 지켜보세요.",
+    "type": "negative"
   },
-  "one_liner": "코스피 🚀 강세 · 코스닥 🔻 약세"
+  "one_liner": "코스피 ➡️ 보합 · 코스닥 🔻 약세"
 }
