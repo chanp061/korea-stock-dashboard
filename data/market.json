@@ -1,45 +1,40 @@
 {
-  "updated_at": "2026년 06월 04일 08:27",
-  "updated_date": "2026-06-04",
+  "updated_at": "2026년 06월 05일 08:02",
+  "updated_date": "2026-06-05",
   "kospi": {
-    "price": 8801.49,
-    "change": 13.11,
-    "pct": 0.15,
-    "label": "보합",
-    "emoji": "➡️"
-  },
-  "kosdaq": {
-    "price": 1026.03,
-    "change": -24.0,
-    "pct": -2.29,
+    "price": 8639.41,
+    "change": -162.08,
+    "pct": -1.84,
     "label": "약세",
     "emoji": "🔻"
   },
+  "kosdaq": {
+    "price": 1049.73,
+    "change": 23.7,
+    "pct": 2.31,
+    "label": "강세",
+    "emoji": "🚀"
+  },
   "sp500": {
-    "price": 7553.68,
-    "change": -56.1,
-    "pct": -0.74
+    "price": 7584.31,
+    "change": 30.63,
+    "pct": 0.41
   },
   "nasdaq": {
-    "price": 26853.98,
-    "change": -239.92,
-    "pct": -0.89
+    "price": 26830.96,
+    "change": -23.02,
+    "pct": -0.09
   },
   "usdkrw": {
-    "price": 1532.18,
-    "change": 1.26,
-    "pct": 0.08
+    "price": 1532.6,
+    "change": 1.68,
+    "pct": 0.11
   },
   "news": [
     {
-      "title": "\"FOMO는 필패\" 코스피 8000시대 지속 가능한 수익 만드는 주식 투자법 [2026 싱글파이어 머니쇼] - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wSFp5NnZ2bVJ2QmFlWFFWeXJXWVpVcDFqUGJNQTZLUUhubXZMellCWVFfZ1pFU04wNTdnVWtnUUphSnpyOFNqZFNObnY2cjNXYXA0?oc=5",
-      "pub": "Wed, 03 Jun 2026 03:00:27 GMT"
-    },
-    {
-      "title": "한투증권, 하반기 코스피 목표치 상단 9,250→11,000 상향 - 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUTC1VT1lkb2h5a0lCWkJENGFSOVdHSW9MbklTQVJ5Q2JNTDduTGtMYVA5NFFsVGRSaG9YcEhEeHRXOXZBd2s1eE5Xd1N6dllxU1E?oc=5",
-      "pub": "Wed, 03 Jun 2026 23:09:57 GMT"
+      "title": "9000피 코앞에서 코스피 미끌...외국인 올해 103조 매도폭탄, 왜? - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Pc2h6UndwX09DWjhwZVd5TFJNM05mX0RSWHBId2RwYTRPVXVsTDlPR0ViX2V5b051alRod2lkRmhfUTdWdnVyQkJ6djhtS3FuVlRYZjlkYm5HaU1TejBiZHRLMjZud3VI0gFuQVVfeXFMTWJkdFRoM25ZUXhBcHJqd1dTaXBGdnBBU3NDUFhtSDI4YzFucmhHa1RVa3p5c19tcUJFMFVXSGlMYkE3cXo1bjJIQmE0Tjk2ak9KOXJKcW93eUhMYUxuMDdFb2JOdEVSN2RGRGh4cnc?oc=5",
+      "pub": "Tue, 02 Jun 2026 02:06:45 GMT"
     },
     {
       "title": "\"불장에 또 나만 마이너스\"…'주식 단타'에 빠진 직장인들 [월급쟁이 희노애락] - v.daum.net",
@@ -47,24 +42,29 @@
       "pub": "Wed, 03 Jun 2026 08:01:38 GMT"
     },
     {
-      "title": "“잘 먹고 갑니다, 개미들아 안녕”…외인들, 올해 코스피서 ‘103조’ 던졌다 - 서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KVGt2VkZfaGdxZm9UaExaTEN2NHJzUFJUVVhuZHFmU0tBY1pHUzhtN3RnamF2Y3E4cjdKR0Y4V3I4enNoNnFEOWZwRnA1TDZJTHfSAVNBVV95cUxONWJEQ3AxMWNZaTdmSTJkV0FWWVczVmp5a0F0Z05obTVpQnhmdEdqQ3NPamVwd3FWR3gzLW51Ukk0Y0g4ZTlFSjhmSHFacm82Smd1Yw?oc=5",
-      "pub": "Tue, 02 Jun 2026 04:08:07 GMT"
+      "title": "“코스피 35% 폭등했다는데 내 주식은 왜?”… 동일가중 수익률은 ‘마이너스’ - 조선비즈 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORkZxZXZIVEhwSC1nZXNMdE9xckZtWHFhLUQyUXd6NEdGanVNNmtnQVFzZ1pfaElTVEg1RDlXOVdoMlNvdEpFSHJQYWNyMnpRRkg0Rk92WDVtUU1oNkxJdjdRY1FIQ2xEYkFRbnJNeHljdlRBRFZqWllLQXFyQmJoRGVOaGRhOUwz0gGcAUFVX3lxTE1jNzFaUFZidnNfSlpybnVfdWhhX2lwRzJCeURpRTNuQzVYdkozRkFuX0RUSDBDSHY2eGtGMTFqWFI1cUczeXRvUEdoUzB3cFBSRmVuaWU4QzdvbWtKUlJyMTVsN2gzQ3RrUU1mZHMyVTdiQUo3bmdEckFBaTBJZnYzdkgwMWZkVk1rMkpzS2FPelpSeDFJMmhHNkhweA?oc=5",
+      "pub": "Tue, 02 Jun 2026 06:22:00 GMT"
     },
     {
-      "title": "목표치 또 올린 골드만 \"코스피 1만2000 간다\" - 머니투데이 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SY0N0c0pSZDRTQTJGR005ZVppS3ZvdXNHWlVTT2N6MGVZX2dsZHFwRDUyaWY1dXA5d2xTNWRTZUZ0U0NpOC05QUZBOHcwMm5OaFRndW1iYVByeTIwVUE3aHJ2QWZrRWFo0gFuQVVfeXFMT2FxS1dSTzJVcEhhYm44YkU1c2NnMXhHU2ttZk1RRjRnUXZIcU1RMEI5bkhkQ0FjNC1xVVNhZnhlZVlGZzB6Q0I0R3AxeUwxcWZnYlA0ZjhJaUdueVQtU3BmbkxsSGZuWUxRTlh3UHc?oc=5",
-      "pub": "Wed, 03 Jun 2026 19:14:00 GMT"
+      "title": "[생생한 주식쇼 생쇼] 코스피 숨고르기 장세, 낙폭 과대 소외주의 대반격 시작 - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxbG5TazJJTnNaTURXWC1GcTZ0b2V2b09MdXpSZXExNC1vWF9faGNBcTRfRWVDaTN0RnpDaThqMmwwWGswa2V3OVIyaUpUU1dWLUE?oc=5",
+      "pub": "Thu, 04 Jun 2026 05:32:31 GMT"
     },
     {
-      "title": "코스피 변동성에 춤추는 ‘빚투’…신용잔고 38조 돌파 속 반대매매 공포 - JTBC",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WRzNpTjJrSFUzbS1RMC11X3FlVW9nNXBGQ2tKbGhxU3FJUjYxX1FrUHk5NzZ2dXdVRmY0T0syVkgxUkxISUZocktXVVkzZGQ2SF83RA?oc=5",
-      "pub": "Wed, 03 Jun 2026 02:37:00 GMT"
+      "title": "“코스피 1만2000” 낙관론 여전… 주가누르기방지법 속도 낼 듯 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uZWM2NXktdnhzTXQ0eHRuSklDRzhFaWt3UjBSTU9MRTBBUjIzSmRUMWZocXhwT2t5UmZPVloyX0RIbndENWd0NGp5eGwzUmc?oc=5",
+      "pub": "Thu, 04 Jun 2026 15:09:53 GMT"
+    },
+    {
+      "title": "2시간 반 만에 4.4조 던진 외국인…고환율 속 코스피 약세[장중시황] - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE83dl9wZkg1SHRxeFcyTlFZTVdFX2hKOXJkYUxpT0toNEZmbUl3RFhHUWF6bmNUdm5wOTFyNVZOUFMwVzhxUTRsZ0p5UFAtWjc3THNnUEZSYVNuQjJHVG00?oc=5",
+      "pub": "Thu, 04 Jun 2026 02:45:06 GMT"
     }
   ],
   "signal": {
-    "text": "시장 조정 국면. 손절보다 비중 축소 후 상황을 지켜보세요.",
-    "type": "negative"
+    "text": "소폭 상승권. 뚜렷한 방향성보다 관망이 적절합니다.",
+    "type": "neutral"
   },
-  "one_liner": "코스피 ➡️ 보합 · 코스닥 🔻 약세"
+  "one_liner": "코스피 🔻 약세 · 코스닥 🚀 강세"
 }
