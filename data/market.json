@@ -1,70 +1,70 @@
 {
-  "updated_at": "2026년 06월 05일 08:02",
-  "updated_date": "2026-06-05",
+  "updated_at": "2026년 06월 06일 07:59",
+  "updated_date": "2026-06-06",
   "kospi": {
-    "price": 8639.41,
-    "change": -162.08,
-    "pct": -1.84,
+    "price": 8160.59,
+    "change": -478.82,
+    "pct": -5.54,
     "label": "약세",
     "emoji": "🔻"
   },
   "kosdaq": {
-    "price": 1049.73,
-    "change": 23.7,
-    "pct": 2.31,
-    "label": "강세",
-    "emoji": "🚀"
+    "price": 1002.44,
+    "change": -23.59,
+    "pct": -2.3,
+    "label": "약세",
+    "emoji": "🔻"
   },
   "sp500": {
-    "price": 7584.31,
-    "change": 30.63,
-    "pct": 0.41
+    "price": 7383.74,
+    "change": -200.57,
+    "pct": -2.64
   },
   "nasdaq": {
-    "price": 26830.96,
-    "change": -23.02,
-    "pct": -0.09
+    "price": 25709.43,
+    "change": -1121.52,
+    "pct": -4.18
   },
   "usdkrw": {
-    "price": 1532.6,
-    "change": 1.68,
-    "pct": 0.11
+    "price": 1558.84,
+    "change": 25.88,
+    "pct": 1.69
   },
   "news": [
     {
-      "title": "9000피 코앞에서 코스피 미끌...외국인 올해 103조 매도폭탄, 왜? - 머니투데이 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Pc2h6UndwX09DWjhwZVd5TFJNM05mX0RSWHBId2RwYTRPVXVsTDlPR0ViX2V5b051alRod2lkRmhfUTdWdnVyQkJ6djhtS3FuVlRYZjlkYm5HaU1TejBiZHRLMjZud3VI0gFuQVVfeXFMTWJkdFRoM25ZUXhBcHJqd1dTaXBGdnBBU3NDUFhtSDI4YzFucmhHa1RVa3p5c19tcUJFMFVXSGlMYkE3cXo1bjJIQmE0Tjk2ak9KOXJKcW93eUhMYUxuMDdFb2JOdEVSN2RGRGh4cnc?oc=5",
-      "pub": "Tue, 02 Jun 2026 02:06:45 GMT"
+      "title": "젠슨황 왔는데 브로드컴이 덮쳤다…코스피 5.5% 급락 8160선으로 밀려[이런국장 저런주식] - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MblZjdi1mRUE2TkJjNEExdzRkdnZBRGNKNlg5ejFObFY2bzZnNmlVUjN5U1liX2RTd0w4X1JnaGQ0MXIyS2FQd1FUY0RLUkVQT1HSAVNBVV95cUxOWmFNN0o0TC00R21ES2NGRDhzaFpxX2dfamdUZ0M2Q01GWHlnVjNqZC15c3l5ZlpwUDg2a1paLTJFWEtTeVZJSmZBQVVFb2JHdGJyZw?oc=5",
+      "pub": "Fri, 05 Jun 2026 07:45:32 GMT"
     },
     {
-      "title": "\"불장에 또 나만 마이너스\"…'주식 단타'에 빠진 직장인들 [월급쟁이 희노애락] - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kcFFLRzRDRmZfMWxvUTNJRkhNd2RralBPbTlHRjFxRVZxX0MycmlWd0FFckJmTW93bjNNWlN0N3N2c3JqYWFROEF1NnRKcDQ?oc=5",
-      "pub": "Wed, 03 Jun 2026 08:01:38 GMT"
+      "title": "“시장 조정은 매수 기회”…코스피 목표치 ‘1만 피’ 훌쩍 뛰어넘는 전망 잇따라 - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ERXdJTVhUQU9vZzJja3dKVFVPLTlpU2lxT1R1Qkg1YTlhaDVubWI1ZU5zVl96M2s1UXNoR09kZmhYU0hZZDlaMEpyOC1DZHUtTmNtYw?oc=5",
+      "pub": "Thu, 04 Jun 2026 00:24:34 GMT"
     },
     {
-      "title": "“코스피 35% 폭등했다는데 내 주식은 왜?”… 동일가중 수익률은 ‘마이너스’ - 조선비즈 - Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORkZxZXZIVEhwSC1nZXNMdE9xckZtWHFhLUQyUXd6NEdGanVNNmtnQVFzZ1pfaElTVEg1RDlXOVdoMlNvdEpFSHJQYWNyMnpRRkg0Rk92WDVtUU1oNkxJdjdRY1FIQ2xEYkFRbnJNeHljdlRBRFZqWllLQXFyQmJoRGVOaGRhOUwz0gGcAUFVX3lxTE1jNzFaUFZidnNfSlpybnVfdWhhX2lwRzJCeURpRTNuQzVYdkozRkFuX0RUSDBDSHY2eGtGMTFqWFI1cUczeXRvUEdoUzB3cFBSRmVuaWU4QzdvbWtKUlJyMTVsN2gzQ3RrUU1mZHMyVTdiQUo3bmdEckFBaTBJZnYzdkgwMWZkVk1rMkpzS2FPelpSeDFJMmhHNkhweA?oc=5",
-      "pub": "Tue, 02 Jun 2026 06:22:00 GMT"
+      "title": "2030 관심사는 ‘반도체·주식’…고공행진 코스피 탄 트렌드 [알고리즘 Up&Down] - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Pd0o1SHkydjVuM0tQanQxNTE1QzJsbjBSQ0g2ZjZoS1VJakhFZnpuMVZla2NkNFI2czhZMmJUZEsxS3pvT2FyU1BCWmdTUk0?oc=5",
+      "pub": "Fri, 05 Jun 2026 05:42:07 GMT"
     },
     {
-      "title": "[생생한 주식쇼 생쇼] 코스피 숨고르기 장세, 낙폭 과대 소외주의 대반격 시작 - 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxbG5TazJJTnNaTURXWC1GcTZ0b2V2b09MdXpSZXExNC1vWF9faGNBcTRfRWVDaTN0RnpDaThqMmwwWGswa2V3OVIyaUpUU1dWLUE?oc=5",
-      "pub": "Thu, 04 Jun 2026 05:32:31 GMT"
+      "title": "[외환] 코스피 급락·外人 주식 매도에 1,540원선 턱밑 추격…9.10원↑ - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XUEFPOTJRSEo1ZmdiTlJqSENEZVRwanNwdW52c25tSkNBT0JsVkcxZUF0NGpWZllUSVF4NGhVS0JsQnRzbGduaDB5TWJTYWtGdUlFcTA5QXY4bmk5R3BEajZmNFFpSGpUeWRvcl9IOUs?oc=5",
+      "pub": "Fri, 05 Jun 2026 02:32:44 GMT"
     },
     {
-      "title": "“코스피 1만2000” 낙관론 여전… 주가누르기방지법 속도 낼 듯 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uZWM2NXktdnhzTXQ0eHRuSklDRzhFaWt3UjBSTU9MRTBBUjIzSmRUMWZocXhwT2t5UmZPVloyX0RIbndENWd0NGp5eGwzUmc?oc=5",
-      "pub": "Thu, 04 Jun 2026 15:09:53 GMT"
+      "title": "\"지금은 삼전닉스 말고 이걸 사세요\"…염블리가 찍은 주식은? | 염승환 LS증권 이사 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15djJueHRCMmJTNmEyanlWSm1OOGxnX1RHUDF6eURFWEZCZ0hHcEpPN1R1MUhmVWFSZmtwbHk0aWY1ZTFzdmViM0xaZTZneFp4NUY0?oc=5",
+      "pub": "Fri, 05 Jun 2026 03:00:38 GMT"
     },
     {
-      "title": "2시간 반 만에 4.4조 던진 외국인…고환율 속 코스피 약세[장중시황] - 뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE83dl9wZkg1SHRxeFcyTlFZTVdFX2hKOXJkYUxpT0toNEZmbUl3RFhHUWF6bmNUdm5wOTFyNVZOUFMwVzhxUTRsZ0p5UFAtWjc3THNnUEZSYVNuQjJHVG00?oc=5",
-      "pub": "Thu, 04 Jun 2026 02:45:06 GMT"
+      "title": "\"스페이스X가 블랙홀처럼 자금 흡수\"...역대 최대 IPO 임박에 코스피서 차익실현 확대 가능성 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeXF3UjFSQllmYmttVF93ckE3dUQzZFNmVXlhWER1b3JoS0VLUkJZbl84aTVhTVQwSHBESWQ0MzZGemt6TTlWMGNnNk5kSnlSekJFOTMtcXFMSWJtdlM1aVg4RzB1eGF2YXNaLS1VV05WVUhuWEN6VHpIWFVCWnpKYQ?oc=5",
+      "pub": "Thu, 04 Jun 2026 23:47:49 GMT"
     }
   ],
   "signal": {
-    "text": "소폭 상승권. 뚜렷한 방향성보다 관망이 적절합니다.",
-    "type": "neutral"
+    "text": "시장 조정 국면. 손절보다 비중 축소 후 상황을 지켜보세요.",
+    "type": "negative"
   },
-  "one_liner": "코스피 🔻 약세 · 코스닥 🚀 강세"
+  "one_liner": "코스피 🔻 약세 · 코스닥 🔻 약세"
 }
