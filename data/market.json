@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026년 06월 07일 07:56",
-  "updated_date": "2026-06-07",
+  "updated_at": "2026년 06월 08일 07:55",
+  "updated_date": "2026-06-08",
   "kospi": {
     "price": 8160.59,
     "change": -478.82,
@@ -10,8 +10,8 @@
   },
   "kosdaq": {
     "price": 1002.44,
-    "change": -23.59,
-    "pct": -2.3,
+    "change": -47.29,
+    "pct": -4.5,
     "label": "약세",
     "emoji": "🔻"
   },
@@ -22,44 +22,44 @@
   },
   "nasdaq": {
     "price": 25709.43,
-    "change": -1121.52,
+    "change": -1121.57,
     "pct": -4.18
   },
   "usdkrw": {
-    "price": 1558.84,
-    "change": 25.88,
-    "pct": 1.69
+    "price": 1559.43,
+    "change": 26.47,
+    "pct": 1.73
   },
   "news": [
     {
+      "title": "코스피, 내일 ‘검은 월요일’ 오나···“당분간 변동성 커질 듯” - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lZW9mU3hhQ2xReG1wUXVpSHNsamhlWTJtMzFZMkZ4VFNKdm91eVJxRG5xUm50cTdVYk5BZl9tckxYdzBNajZMbHMyNnI2cnp5ZnBEVzBnTlVaUdIBX0FVX3lxTFBkOGgxMmJQM0I3dzJLeXlpNzRlVnBybEY2aUFyUnNZQjFELVhfRzZjeHM5Zm9VUFpldmRQSkF1ZWFUVkhoVWdyMTY3MzVGaDg4d2w4REY4YV9GOXhFVFlr?oc=5",
+      "pub": "Sun, 07 Jun 2026 01:34:00 GMT"
+    },
+    {
       "title": "코스피 '검은 월요일' 온다…\"떨어지는 칼날 잡지마라\" - 연합인포맥스",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wa29ZbFFpUkx2U2xWLXVKd2ppUWNIbmxqMXVOWVgtTjUwd2VSN3AwOFhLT29CUTd4QjhmQlIxLWx5MWgyaGtoeUptRUJBU3lSTDREQXYxakkxRUFUTGZZWmVnb1BlZ2hxRzItNG9RSjA?oc=5",
-      "pub": "Sat, 06 Jun 2026 02:06:34 GMT"
+      "pub": "Sat, 06 Jun 2026 02:06:00 GMT"
     },
     {
-      "title": "삼전닉스 '쏠림'에…코스피 오를 때 하락종목 더 많았다 - 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85OGgzc3I1ZkRwWXZ2UWRjbGFyOU5EeUNDLXlVbXJFcjJaSnlWZ3JaVmU1QnlCT1g0R3M4NzZMUWRaX0tvRDlpM3EzRTlYNzh5ZGc?oc=5",
-      "pub": "Sat, 06 Jun 2026 22:35:00 GMT"
+      "title": "반도체로 급등했던 코스피, 반도체 악재에 '급락'…\"대형 IPO 앞두고 현금화\" 움직임도 - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRN0l5MHNPLUZBclVMVGVqYjI4eDZjc2pab1RVTEJzektZSzJ6MXNFT1AxbEZRd1FjUXhmaldOc0NUSDFfcGdyS2RYcDUyWnAyWEloamR1VE1oQdIBVEFVX3lxTFA3T3Q3S0RhUjR5N25YbDVPSXNGdFY3T3VLZkhnbmdrQnZKZjhNR2Zwd3RQWUNiMGROcW5YV2JOaHU1Z1dlTXJieWdHcXJNV1Q2cGRKSA?oc=5",
+      "pub": "Fri, 05 Jun 2026 07:55:16 GMT"
     },
     {
-      "title": "코스피, 1만2천 전망까지 나왔다…60만 전자·400만 닉스 다가오나 - 더구루",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SczYxaUVlcUlPdk5oLVRleVM4YVBUTU5qOFhJcFh2YzVfbVJaNDVBS2FzWFZSa2w4Q29zdlJkY185YjNTU1RtR09uc0E4RE03dUNBWEpySndVUGR2RlE?oc=5",
-      "pub": "Sat, 06 Jun 2026 15:00:09 GMT"
+      "title": "코스피 4% 넘게 하락 8,200선까지 밀려‥매도 사이드카도 발령 - MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVU1VvRWtQejB1Qkl1Mm5Ib1JEZUNqVi1SX2NoYUUwNzExNDZvVHBhMTZveE9YVThoaklaZ3dQT09yM3NfUzJsNzhEYWZ0eE9vcEJLLXZhemFCV3BFMkJNRU5QQnBZdEo0SHNOOFZBc3FqWDI50gF0QVVfeXFMT3hKY0p3cThBdnZFVnJ3T21feDBQZUd3M20wU1J4YUJHaXhmeVlpZVNQUkhiWXY4elBZc2FhUlVfM3E3TXAxSUlPcjdMaUJHcVgySWViRmlvN1NFUHdTZFlDbzAxUFFPMkloRkdtbVNhSWFKdzE?oc=5",
+      "pub": "Fri, 05 Jun 2026 00:16:14 GMT"
     },
     {
-      "title": "코스피 변동성 주의보…이달 변동률, 이란전 발발 때보다 커 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OSzJnQ01QZWdCc1hXeGx0d0h1YkF0ZXFKbEhCT2R5WDY3ZURtU1QwNDNiRzZ0Zmc5Wmc1bXhrU3JpVTZUaUVybVVGLUY5Vlk?oc=5",
-      "pub": "Sat, 06 Jun 2026 22:07:04 GMT"
+      "title": "“코스피에 넣을까”…미국 주식 파는 서학개미, 국장 회귀 기대감 반반 - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4Um9PWjcwM250RmlCMzJXV2JFYVRJRFpSenZqLXNJZDhndlhpY3FzMGZaT2gzRXdVeDNKMzhuYWdkem5QUmRtSjNSYk9BNDRIZkHSAVNBVV95cUxQRG9jS0FkemV6UGplYWJJcnNwYjlScVZwalNqRHBJWnZfRDhJUnZiODBmSGktMUoxby1DWkp0cW9CWC1xSll0N1NNTWRaaVBxZzZVTQ?oc=5",
+      "pub": "Sun, 07 Jun 2026 21:05:00 GMT"
     },
     {
-      "title": "코스피, 장 초반 4%대 급락해 8,200선…코스닥도 하락 - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpM1cwZGtCVC1kTm9xcE9YMUMwOXRNWkxUQUtVQUMyVlpVU0J5LVdBRDVzZ0NlSmdvSWpHQ3JScExYS2JXeExvTHZRZUZFbERUcFJQRmNWaDE0ZzNIdHdXc9IBYEFVX3lxTFBpM1cwZGtCVC1kTm9xcE9YMUMwOXRNWkxUQUtVQUMyVlpVU0J5LVdBRDVzZ0NlSmdvSWpHQ3JScExYS2JXeExvTHZRZUZFbERUcFJQRmNWaDE0ZzNIdHdXcw?oc=5",
-      "pub": "Fri, 05 Jun 2026 00:04:36 GMT"
-    },
-    {
-      "title": "코스피 8800선, 내 주식은 ‘마이너스’…반도체 쏠림 심화 - 영남경제",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5aZmd2MTVZYWVjenZuZ3ZZWm5sYmx1Vk00RDRCZ3lKNlh3eXJlb3k1Rl9tTEVTX0lnVW1rYlBHRU1HVU1BaEZkZkNwUW9tVWN4cThEV0N2b1NhVklOSndzeHk1S1hXY28?oc=5",
-      "pub": "Wed, 03 Jun 2026 12:37:00 GMT"
+      "title": "‘검은 금요일’ 여파 언제까지… 코스피 덮친 ‘3대 악재’ - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HaGJzN01TYUtLY3F1V1VtTWJ2SkJxNUt3SWZ2LWhhcDhSaDZwRUtjVHBJQmR4d01ORzlDVlRsazBzWmxSVFBycm9iME5TNVU?oc=5",
+      "pub": "Sun, 07 Jun 2026 17:17:53 GMT"
     }
   ],
   "signal": {
