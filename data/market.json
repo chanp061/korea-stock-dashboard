@@ -1,70 +1,70 @@
 {
-  "updated_at": "2026년 06월 10일 08:13",
-  "updated_date": "2026-06-10",
+  "updated_at": "2026년 06월 11일 08:19",
+  "updated_date": "2026-06-11",
   "kospi": {
-    "price": 8096.93,
-    "change": 612.52,
-    "pct": 8.18,
-    "label": "강세",
-    "emoji": "🚀"
+    "price": 7730.82,
+    "change": -366.11,
+    "pct": -4.52,
+    "label": "약세",
+    "emoji": "🔻"
   },
   "kosdaq": {
-    "price": 967.81,
-    "change": 56.42,
-    "pct": 6.19,
+    "price": 951.63,
+    "change": 40.24,
+    "pct": 4.42,
     "label": "강세",
     "emoji": "🚀"
   },
   "sp500": {
-    "price": 7386.65,
-    "change": -19.08,
-    "pct": -0.26
+    "price": 7266.99,
+    "change": -119.66,
+    "pct": -1.62
   },
   "nasdaq": {
-    "price": 25678.82,
-    "change": -250.84,
-    "pct": -0.97
+    "price": 25169.5,
+    "change": -509.32,
+    "pct": -1.98
   },
   "usdkrw": {
-    "price": 1527.22,
-    "change": 0.39,
-    "pct": 0.03
+    "price": 1520.54,
+    "change": -1.28,
+    "pct": -0.08
   },
   "news": [
     {
-      "title": "코스피 급락 이틀간 개인 보유 3천억원 주식 '강제처분' - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYbm55SnV5TE1oX3FVc0lFMTdrNkM4Q1VTV20xY3dycTMwV0dPOTZlT29Gc1VURzRzZDh4WUdNckZyWm9GUTBjaXIzQmtiQ0ZKdFRSUUlvdXotbHfSAWBBVV95cUxOZlhiXzlla3NkQ29TUmJialZQTWZJR0VHcEhIYjRsZU1UM01zTFFtT2VZS1Z5aUxIVEMzT0NkY1JNMVF0VlVqeGFrNDJVVi1yQnNIX0xxNnVIVVpxRXVpNlc?oc=5",
-      "pub": "Tue, 09 Jun 2026 06:48:50 GMT"
+      "title": "\"내 주식 강제로 팔렸어요\"… 개미, 롤러코스피 속 ‘반대매매’ 공포 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0UUJiU1ZqOXVCcjdJX3dPendGWEpybThDQjVra0Rfbk9aMjg1bmhZVExkdDBBWUlBd1EyTUNmRVFIQlZRdWdseEIwQjlzb2M?oc=5",
+      "pub": "Wed, 10 Jun 2026 08:55:23 GMT"
     },
     {
-      "title": "\"외국인, 어쩔수 없는 강제 매도\"...코스피 1만2000까지 간다는 IB - 파이낸셜뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OUk1zNnRWcVAxTHRPU1JweDdqckZkTzNOMnVxOHotUk5UWjNvTnZUemVwcWVYQVZUc2VFU0hUWWtsSFFNbmpjZXRZXzlVN0l6X2M0OGV5bm85d9IBXkFVX3lxTE9fT0pWMnJzV0ZMT0RYbEw5bnpzcWtfQ3NNdmJVZk55ZnpRNG9yVHhXR1o0akMxZ1A3QzNzdzZVMEtkQW5JWVJqU3QwWmxLNVlVRWJ0SXQxb1JyOFdwSWc?oc=5",
-      "pub": "Mon, 08 Jun 2026 22:27:36 GMT"
+      "title": "불장인데 내 주식은 왜…코스피 '반도체 쏠림' 심화 [1분 브리프] - 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56S3RlRmJVYmoxM2FyemtVaTVfTEowVnBBa2lJakk5SGN6Z1NZQ2xNTU1xaTh0am41Wk8ydHBOcFNIT2V1STZRdFAyZXZ5UmJrTjlpSW0tNTV1WUpYY0NmZw?oc=5",
+      "pub": "Wed, 10 Jun 2026 23:00:00 GMT"
     },
     {
-      "title": "\"주식 때문에 일이 손에 안 잡혀요\"...롤러코스피에 중독된 개미들 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OSmFhMXNkWWVFY18zWDFNZDFxOVR3Z1h6ZlFyS25oRE5EcHhxQ2R3cE9RejRhUGQ0SkVWaE5Mcl9lUXZiQ2g0UUh6R196WDA?oc=5",
-      "pub": "Tue, 09 Jun 2026 22:01:23 GMT"
+      "title": "[단독] 집팔아 ‘삼전닉스’ 들어간 야수들…생각보다 훨씬 더 많았다 - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Tem9WRGxsZjRrSzhnaGFYN1VfcXEtbWNjdFJ3T2xLMzU3dUFBTkpuMDlwQXROVkZKd2Y2VHJLaE5IT2ZBdDZ5TjcxTHI2OGNWa2c?oc=5",
+      "pub": "Wed, 10 Jun 2026 08:56:07 GMT"
     },
     {
-      "title": "상승종목 647→ 327→140…코스피 랠리의 함정 - 아시아경제",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1HckxZLTZoX1Vtb2tqYmYxM21YeWFpa18wYnc3cktENG10NGlTX2Q5c0Y5U2g0LWwtVGZla1RrVU9IcVY1MnpPbms1ZXJuR2g5OEJ2SEtIVldXY29TVTB2cmdB?oc=5",
-      "pub": "Tue, 09 Jun 2026 21:42:00 GMT"
+      "title": "\"기회 줄 때 용기 내라\"…급락 공포에 담아야 할 주식[부꾸미] - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ybml2bm00T3lLWlFzNjBIR3VkSVotQjdkcWdCdkxJUlZValdacW53aWVVbzVYZmNhbVBYRU5IMjc1Ukw5UnVJZ0R6Zkt5S3lNVDFDUDBOWDNKVkN1Z0FPclYyVnBpM0JL0gFuQVVfeXFMUEo2SnZyQ2QwaDlxbncwbEdKSGQ4MXBBeV9sU29aN0tYTC1GdUpGdzNSUUdFTWltNFJ1RHUwVE9ITmVnQ09NRmN3WkVnZnM5Zm05V3VxVVgwUXJBTDJqdkpmR1l4TjBUV3FOc2x2Z1E?oc=5",
+      "pub": "Tue, 09 Jun 2026 18:30:00 GMT"
     },
     {
-      "title": "6/9(화) 생각보다 강한 상승. 코스피 +8.18% - 네이버 프리미엄콘텐츠",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNenBxbjZyRllnaUZqV1AwQnV5NlZXRkhhLWhYS1N3Y0wyOC16R1pVVVJhN0hiNVFaU1AxN05uYUljQmJ1UmJYRk50dGoxcmF5cTdieUJkQVh3dTFHdi1qTTFuRnJINXQyYllyZk9vZi1aLWhuYzJaSGt4X1QzQnNyMWR5S0ZYOXRUbnAw?oc=5",
-      "pub": "Tue, 09 Jun 2026 10:49:00 GMT"
+      "title": "‘오락가락’ 코스피, 다시 8000밑으로…매도 사이드카도 발동 [이런국장 저런주식] - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qLWMxNE5XX195TzZlcTBIUHZDbS1zZS1kNUE4TXhZa2dqeGFtaXVqckxnZlhIR093UnZhalBlaDNJS01TR1d6QVVBTUFpZG0waFHSAVNBVV95cUxNSlUzSjZtbHJsRGh1cEdkWGN2T2t1ZEVjRFM4S3VISnVzSEtjNEhuRDZsd19yMTgyQjhDQTVrUkt0U3dSZkdidlR2bVlGMXdDYlV4VQ?oc=5",
+      "pub": "Wed, 10 Jun 2026 06:50:28 GMT"
     },
     {
-      "title": "[속보]코스피8%급락 ‘서킷브레이커’…야수개미 2000억 순매수 - 문화일보",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBtQjBXSTR2b05ha2piTmhtNmhrR242TElLSGkwUkIyaS1oUWxPY1RBdWItT0c5c2gyaG5iaHl4Yks4bXRWNi1nNmFxbGtQa19y?oc=5",
-      "pub": "Mon, 08 Jun 2026 00:13:41 GMT"
+      "title": "6/10(수) 폭락2 | 야간선물 하한가 [SK하이닉스,코스피선물] - 네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSG9wS2xZQXNVX1lSTHRLdng1OFpqWTlVUkhVZHcyMUw0aWwxeTY1bHYzNFhZT3hKWG84OTRkRjZoMjJrU29CTTYwR09GbngycUxFZEQ1UUdDUG9SdWVTR205M3VfeVJJMDk0bHZad0dITUZsU0gyZzVVYjJEcnFBaXUzYWdsVmFMWFdF?oc=5",
+      "pub": "Wed, 10 Jun 2026 10:04:00 GMT"
     }
   ],
   "signal": {
-    "text": "오늘 시장은 강세입니다. 추격 매수보다 보유 전략이 유리할 수 있어요.",
-    "type": "positive"
+    "text": "소폭 하락권. 패닉셀보다 분할 매수 기회를 살펴보세요.",
+    "type": "neutral"
   },
-  "one_liner": "코스피 🚀 강세 · 코스닥 🚀 강세"
+  "one_liner": "코스피 🔻 약세 · 코스닥 🚀 강세"
 }
