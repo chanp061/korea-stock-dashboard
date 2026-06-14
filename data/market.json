@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026년 06월 14일 07:55",
-  "updated_date": "2026-06-14",
+  "updated_at": "2026년 06월 15일 08:00",
+  "updated_date": "2026-06-15",
   "kospi": {
     "price": 8123.62,
     "change": 359.67,
@@ -22,13 +22,13 @@
   },
   "nasdaq": {
     "price": 25888.84,
-    "change": 79.18,
+    "change": 79.14,
     "pct": 0.31
   },
   "usdkrw": {
-    "price": 1517.89,
-    "change": 1.92,
-    "pct": 0.13
+    "price": 1518.57,
+    "change": 2.6,
+    "pct": 0.17
   },
   "news": [
     {
@@ -37,29 +37,29 @@
       "pub": "Fri, 12 Jun 2026 15:51:00 GMT"
     },
     {
+      "title": "'롤러코스피' 속 8000선 방어한 개인…발 빼는 외국인 - 블로터",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yUDZCT0xkTFlpWmxnVEZPODZfbjlmdzRfS2JLSmwwMHl1a0FQRks3X2pxZDg5M0FDa19CSlQ4dm1GOGJxQ0V3TjBKZ2FiTC1NTm9fUHZ1dW1MMjcxUWJ5ODR2bjRpVF9y0gFsQVVfeXFMTk42WHR0eWlydDNYak5DRVl3SDBVdVViWV8yaTMyaExwZWdBaVBIMVRuVnloaGFXWnJHUDNhYjFLRmg5WjlISHR6QkNDbEhWcGxhSUhGR2IwYmZVbEN3TmF5Q05CeUJCUENnV3FH?oc=5",
+      "pub": "Fri, 12 Jun 2026 22:29:16 GMT"
+    },
+    {
       "title": "코스피 억눌렀던 스페이스X…이젠 '주가 상승' 모멘텀 - v.daum.net",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5UbUIwMVJrVWZ2ME56Z00yUUJzRWY4N0Q4S3Z3amYyempGY1Z1U2l6X0w4RE1lNGFielFleWN5SkJGMF9kVVB6VEFFSWZVNjQ?oc=5",
-      "pub": "Sat, 13 Jun 2026 21:02:04 GMT"
+      "pub": "Sat, 13 Jun 2026 21:02:00 GMT"
     },
     {
-      "title": "25일만에 돌아온 외국인…코스피 8100 탈환 [이런국장 저런주식] - 서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CNEthVzJYeFY3S1BBWGdvNHV4QlBWTHpaNlhUcHpJdFFud1ZJZDdJUlpiQ0xydmJqRzE4dExSRmpCbnJyN3dvVFFiTFBfNmh5bVHSAVNBVV95cUxNSTJSYV9sZGNvcjdvYVh1ZVowd0QzUkdPLWFaX0ZtVklrUzNiN2ZOV2xvMkV6Z2trbzJQT1pSUGp4bkc0QkxydG1DWHdsa3ZjVjdGNA?oc=5",
-      "pub": "Fri, 12 Jun 2026 07:15:38 GMT"
+      "title": "[자막뉴스] 코스피 8,000의 역설? 증시 호황이 불지른 대한민국 자산 계급도 - YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HMnFBbXhFdmF4djhzdHNtVU9yZXFRYTJPUTBseloxTjlyVEdQWnZDNElJOHJ3ZFJ3SENWX0pHcjF5eGJIcGNqQm9GMWdKYTVzdl96Rjk1YzFEUnA5cEE?oc=5",
+      "pub": "Sun, 14 Jun 2026 10:21:00 GMT"
     },
     {
-      "title": "모건스탠리 \"코리아 르네상스\"…코스피 강세장 목표치 1만500p 제시 - 뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BaVl6NXpSZ3RuVDRFQ0lLWkFGcGE5dFdKRUxsVTFabXU4QUx0Y1pMT3ZRX2dqNHNWV3ZXSkhhb19TQ2EzcVIyTUMwVzZ5V2M0Qkc3WjVBVm93aWVSYlFHMNIBeEFVX3lxTE0zZGlTRV9hZ2Z1bUp2eThLa29QSmFJRUVqZTBJcU5ZU05ieEpCSjY0WkJWNTdaNDRCMXRNZHlrcTZOYXE5b2JoSnp5akV1MGRncDZORk85QktnaUREUG9kUEJTdUF1Q0FmYmk4MWMtSHJHQzB0ektucw?oc=5",
-      "pub": "Fri, 12 Jun 2026 09:38:22 GMT"
+      "title": "“역대급 불장이라는데 내 주식은 왜 이래?”…신고가보다 신저가 종목 더 많았다 - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DZmR5SlluRXc4LXAyRF9seDhKamp5Q3BFUjBOTUdOcDJ2YTRRZXNsbHlzSEw0RzlQb0NNZXR4ZWh1aUl2TThxemFsTDZrQTlaZXfSAVNBVV95cUxNcUxEUUd2N3g5Ri1BVk1pYmZtWUlqajNiTXkxTkV2TTgtUDdITU9Ba0hXZWRRQ2Q4cVVta0lsOHVaUmVnVmRGYUJmVWlxSVZqM0llOA?oc=5",
+      "pub": "Sun, 14 Jun 2026 05:13:14 GMT"
     },
     {
-      "title": "[코스피·코스닥 전 거래일(11일) 주요공시] - 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zMTRHQ1d3MDRWNmR0SlVRaUtOblNocm1MUnNKVXYzMHpMd0hhRVJSdEMxdmIyVjVVXzMweFZTa1Q1T0ZLWkpYRERfWF9yMHBnUkE?oc=5",
-      "pub": "Thu, 11 Jun 2026 21:05:01 GMT"
-    },
-    {
-      "title": "900조 굴리는 글로벌 투자회사 \"코스피 지수는…\" [주末머니] - 네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FYUQtWnZIaThyTG4xYjRFNE12V1VoZS1TMi14UzduS3VvZ01jNmdxY1lBSVFyZEx0QUFwRVZCalgtNEc4bndDVjlyNFVNOGdpTUdj?oc=5",
-      "pub": "Sat, 13 Jun 2026 02:14:00 GMT"
+      "title": "'롤러코스피'가 무섭다…소나기 피하는 투자자들 - 파이낸셜뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QeTVUYkNaN0ZoZ1hRUzNnbVhRbFFQUzF3Z0hMcFA3R2prQm9DbUV6cHYzWUtZMkdqSVRYMFZDdHZ6Q3RENjZORHlLWDNrNXp5dW9Jd3l6Wkwzd9IBXkFVX3lxTFAtRlpaMWs4bzkzMlBmVm9HT3g1RDhOcVRGYm5Uc1RLZ2lPOGl3WEdyMF83X21kbXVMcDJYMnFmUE0yeFJPWVN5cW44QUxub3FWZ3BOX0RlbVB5VUFzUEE?oc=5",
+      "pub": "Sun, 14 Jun 2026 09:17:18 GMT"
     }
   ],
   "signal": {
