@@ -1,65 +1,65 @@
 {
-  "updated_at": "2026년 06월 15일 08:00",
-  "updated_date": "2026-06-15",
+  "updated_at": "2026년 06월 16일 08:29",
+  "updated_date": "2026-06-16",
   "kospi": {
-    "price": 8123.62,
-    "change": 359.67,
-    "pct": 4.63,
+    "price": 8545.98,
+    "change": 422.36,
+    "pct": 5.2,
     "label": "강세",
     "emoji": "🚀"
   },
   "kosdaq": {
-    "price": 1029.05,
-    "change": 32.12,
-    "pct": 3.22,
+    "price": 1034.03,
+    "change": 37.1,
+    "pct": 3.72,
     "label": "강세",
     "emoji": "🚀"
   },
   "sp500": {
-    "price": 7431.46,
-    "change": 37.16,
-    "pct": 0.5
+    "price": 7554.29,
+    "change": 122.83,
+    "pct": 1.65
   },
   "nasdaq": {
-    "price": 25888.84,
-    "change": 79.14,
-    "pct": 0.31
+    "price": 26683.94,
+    "change": 795.1,
+    "pct": 3.07
   },
   "usdkrw": {
-    "price": 1518.57,
-    "change": 2.6,
-    "pct": 0.17
+    "price": 1514.0,
+    "change": -1.87,
+    "pct": -0.12
   },
   "news": [
     {
-      "title": "8%씩 오르락내리락 ‘롤러코스피’에… 개미들 “집단 조울증 걸릴 판” - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQS0VfODg0SVFGS1dXSnp3R3Roc3poOGdNR3E1NGVWYnBwcnVWeEJRUzRrYmRjaTBLeEpGSUd6Vm9EUENpeDFDTlFEc0lqZTdVYUk1UFZHdUp1Vm1wQ1BuSEVwX0VBT2o4U2hrYkkxbUY5Y2c0ci02R3RQazdxY1BPQg?oc=5",
-      "pub": "Fri, 12 Jun 2026 15:51:00 GMT"
+      "title": "이번주 코스피 운명은…18일에 긴장해야 하는 이유 [이번주 증시 전망] - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE50dFVVNU9Mc24xdmZzQzVZT0dPcTVxbWhUcW9MMzZGUUZDdjNVY2tXci04RURSWE5TR01GQTJUaHhJV1UyVFFUc0VwVnVVN1dtYnfSAVNBVV95cUxPQ0N2OUtuV2RhQ2Q1bVlOVGdDTVZ3NkVPc3hkbF9SYlAtMGVKeGNuZkJHVEkwNF85cm9ZTWNGY3R2aG5LaHRtcC1aMVZVcjlMcDJQOA?oc=5",
+      "pub": "Sun, 14 Jun 2026 21:00:00 GMT"
     },
     {
-      "title": "'롤러코스피' 속 8000선 방어한 개인…발 빼는 외국인 - 블로터",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yUDZCT0xkTFlpWmxnVEZPODZfbjlmdzRfS2JLSmwwMHl1a0FQRks3X2pxZDg5M0FDa19CSlQ4dm1GOGJxQ0V3TjBKZ2FiTC1NTm9fUHZ1dW1MMjcxUWJ5ODR2bjRpVF9y0gFsQVVfeXFMTk42WHR0eWlydDNYak5DRVl3SDBVdVViWV8yaTMyaExwZWdBaVBIMVRuVnloaGFXWnJHUDNhYjFLRmg5WjlISHR6QkNDbEhWcGxhSUhGR2IwYmZVbEN3TmF5Q05CeUJCUENnV3FH?oc=5",
-      "pub": "Fri, 12 Jun 2026 22:29:16 GMT"
+      "title": "“외국인 매도폭탄 버틴 코스피, 대단하네”…5월 주식자금 순유출 48조 ‘역대 최대’ - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02NktBU1Y1TFktYWx1NTVuTG4zbGxpUW5GNl83NUdjbG96US1xWlZwOEZpZURuZ0JIN1RqeXZ4bEVWOVBnRVpHbGpGU2ZmRkpmN1E?oc=5",
+      "pub": "Mon, 15 Jun 2026 05:37:02 GMT"
     },
     {
-      "title": "코스피 억눌렀던 스페이스X…이젠 '주가 상승' 모멘텀 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5UbUIwMVJrVWZ2ME56Z00yUUJzRWY4N0Q4S3Z3amYyempGY1Z1U2l6X0w4RE1lNGFielFleWN5SkJGMF9kVVB6VEFFSWZVNjQ?oc=5",
-      "pub": "Sat, 13 Jun 2026 21:02:00 GMT"
+      "title": "[코스피·코스닥 전 거래일(15일) 주요공시] - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVblJrc0c1TXF2RHJhWmNNbGoxTlZvSzZLUXhPMFI4MnRJMFE2ZzFvVkFYQ3J1UzVhSFJjalVmZkNrNnpoZFFGdmlEbUVoMnhYQWc?oc=5",
+      "pub": "Mon, 15 Jun 2026 21:05:36 GMT"
     },
     {
-      "title": "[자막뉴스] 코스피 8,000의 역설? 증시 호황이 불지른 대한민국 자산 계급도 - YTN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HMnFBbXhFdmF4djhzdHNtVU9yZXFRYTJPUTBseloxTjlyVEdQWnZDNElJOHJ3ZFJ3SENWX0pHcjF5eGJIcGNqQm9GMWdKYTVzdl96Rjk1YzFEUnA5cEE?oc=5",
-      "pub": "Sun, 14 Jun 2026 10:21:00 GMT"
+      "title": "\"삼전·하닉 주식 팔았는데, 이게 대체 뭐야?\"…코스피 불장에 '농특세'도 급증 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42NkpXeTFfdTY4WmVKa1pMTEt0anUtWnZkRTFRUEdPSzAybjM2MVNrUlNsTW1DWlRnTVV6bTNSUzVXeE50WnFrV0FmX1VsdjA?oc=5",
+      "pub": "Mon, 15 Jun 2026 06:53:23 GMT"
     },
     {
-      "title": "“역대급 불장이라는데 내 주식은 왜 이래?”…신고가보다 신저가 종목 더 많았다 - 서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DZmR5SlluRXc4LXAyRF9seDhKamp5Q3BFUjBOTUdOcDJ2YTRRZXNsbHlzSEw0RzlQb0NNZXR4ZWh1aUl2TThxemFsTDZrQTlaZXfSAVNBVV95cUxNcUxEUUd2N3g5Ri1BVk1pYmZtWUlqajNiTXkxTkV2TTgtUDdITU9Ba0hXZWRRQ2Q4cVVta0lsOHVaUmVnVmRGYUJmVWlxSVZqM0llOA?oc=5",
-      "pub": "Sun, 14 Jun 2026 05:13:14 GMT"
+      "title": "코스피 8,000, 그런데 왜 내 주식은 내려가는가 - 네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM2NVSlNPU1NsQnkzR3JBbFg2UzZUX1hGNEtSazFfcElHOEY1YU0xb0wzWGxHWThsWkU4aC00UUxPNmd0OFlheUI5aXVfSmk5X2M4ajNnZzBxMlJSZ0I0b0g2eFlkRVd5THY5WmpxdXJtcGVIdkZnbXczSFBzbU1paDlJVnBIbW9Va1lEc0thOUlBQQ?oc=5",
+      "pub": "Mon, 15 Jun 2026 02:50:00 GMT"
     },
     {
-      "title": "'롤러코스피'가 무섭다…소나기 피하는 투자자들 - 파이낸셜뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QeTVUYkNaN0ZoZ1hRUzNnbVhRbFFQUzF3Z0hMcFA3R2prQm9DbUV6cHYzWUtZMkdqSVRYMFZDdHZ6Q3RENjZORHlLWDNrNXp5dW9Jd3l6Wkwzd9IBXkFVX3lxTFAtRlpaMWs4bzkzMlBmVm9HT3g1RDhOcVRGYm5Uc1RLZ2lPOGl3WEdyMF83X21kbXVMcDJYMnFmUE0yeFJPWVN5cW44QUxub3FWZ3BOX0RlbVB5VUFzUEE?oc=5",
-      "pub": "Sun, 14 Jun 2026 09:17:18 GMT"
+      "title": "[머니 컨설팅]‘롤러코스피’ 장세, 극단적 투자 피해야 - 동아일보",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YOHl2QXNHVU5TTnkwZlhQS0J2OHJRcEhRNDA2c1M0dlJXRHVaRFRoUnNDVHFZQ3VYV0I3Q1RsZEh5R2t6SmMtQkxfeGRhbVJOWDVHZzdBcmRkVWd5ajllaGZSdU9KUjNla0lGRnE4NHlLSmJLU2fSAWZBVV95cUxQWUlFZHpaMzNFdjJYX090QVM0X2Jtem1aLV9pNVVFdHBrdjNzMjRSSENEdHBlaVlDMGZmbUZjTEFaeEM2WVVfUTBScHNYeGxhNGo2bm10SXRuUXpPRFpoU3pZYzVpTEE?oc=5",
+      "pub": "Mon, 15 Jun 2026 15:30:00 GMT"
     }
   ],
   "signal": {
