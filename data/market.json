@@ -1,34 +1,34 @@
 {
-  "updated_at": "2026년 06월 16일 08:29",
-  "updated_date": "2026-06-16",
+  "updated_at": "2026년 06월 17일 08:18",
+  "updated_date": "2026-06-17",
   "kospi": {
-    "price": 8545.98,
-    "change": 422.36,
-    "pct": 5.2,
+    "price": 8726.6,
+    "change": 180.62,
+    "pct": 2.11,
     "label": "강세",
     "emoji": "🚀"
   },
   "kosdaq": {
-    "price": 1034.03,
-    "change": 37.1,
-    "pct": 3.72,
+    "price": 1018.68,
+    "change": 21.75,
+    "pct": 2.18,
     "label": "강세",
     "emoji": "🚀"
   },
   "sp500": {
-    "price": 7554.29,
-    "change": 122.83,
-    "pct": 1.65
+    "price": 7511.35,
+    "change": -42.94,
+    "pct": -0.57
   },
   "nasdaq": {
-    "price": 26683.94,
-    "change": 795.1,
-    "pct": 3.07
+    "price": 26376.34,
+    "change": -307.6,
+    "pct": -1.15
   },
   "usdkrw": {
-    "price": 1514.0,
-    "change": -1.87,
-    "pct": -0.12
+    "price": 1512.91,
+    "change": -2.96,
+    "pct": -0.2
   },
   "news": [
     {
@@ -37,29 +37,29 @@
       "pub": "Sun, 14 Jun 2026 21:00:00 GMT"
     },
     {
-      "title": "“외국인 매도폭탄 버틴 코스피, 대단하네”…5월 주식자금 순유출 48조 ‘역대 최대’ - 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02NktBU1Y1TFktYWx1NTVuTG4zbGxpUW5GNl83NUdjbG96US1xWlZwOEZpZURuZ0JIN1RqeXZ4bEVWOVBnRVpHbGpGU2ZmRkpmN1E?oc=5",
-      "pub": "Mon, 15 Jun 2026 05:37:02 GMT"
+      "title": "코스피, 종전 합의에 8700선 회복… 외인·기관 동반 순매수 - MTN 머니투데이방송",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1MDNycnRrb2lhN3ZjWTllQUZMWVlMbW1ESzVQbjNweXZOVFVvWTR2bDNBMGRGTXktUk0yUFlJUXVUa0tjX3AwYVVMOS04ZUU4NHk5cHJHNU1HdFIybHZfOVlGelk?oc=5",
+      "pub": "Tue, 16 Jun 2026 08:35:10 GMT"
     },
     {
-      "title": "[코스피·코스닥 전 거래일(15일) 주요공시] - 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVblJrc0c1TXF2RHJhWmNNbGoxTlZvSzZLUXhPMFI4MnRJMFE2ZzFvVkFYQ3J1UzVhSFJjalVmZkNrNnpoZFFGdmlEbUVoMnhYQWc?oc=5",
-      "pub": "Mon, 15 Jun 2026 21:05:36 GMT"
+      "title": "\"드디어 전쟁 끝\" 주식 더 사자…코스피 올해 14번째 '매수 사이드카' - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QVWpuOUZuN3pzMGRDbGNoSGw5VGNpaFVNR2JnelFHQnBOVlg5X0RlTHF5OV9kUEJTN091c2xJWmFpS2dvUk84Z0dGa0lMTmpkdEZYYXBPWi1NWVdpaXdpNndNeVNIUk810gFuQVVfeXFMTkRmTWVGOHdOOF9IUHpQTmNZYlNZaGVSVGtiNlFUMll5TFV5X18weERMdldmQ1c5WE1WeVZlbF9VQ0h3ZU1VRGFJZjhfa0dOWkFHeVVYMkFkOUh6eUQ2T1h1ejVXQlZiSkEtaC1WYXc?oc=5",
+      "pub": "Mon, 15 Jun 2026 00:21:47 GMT"
     },
     {
-      "title": "\"삼전·하닉 주식 팔았는데, 이게 대체 뭐야?\"…코스피 불장에 '농특세'도 급증 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42NkpXeTFfdTY4WmVKa1pMTEt0anUtWnZkRTFRUEdPSzAybjM2MVNrUlNsTW1DWlRnTVV6bTNSUzVXeE50WnFrV0FmX1VsdjA?oc=5",
-      "pub": "Mon, 15 Jun 2026 06:53:23 GMT"
+      "title": "[코스피·코스닥 전 거래일(16일) 주요공시] - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxS2dxNTZBeEdlQlRHMkd0Tmh0d1JaTW9FLTZOX2tRdDM3VjNqcFVpbjdoaVdjLVVXUXp5SW9jYW8ta1RVc0NubUlDNEVlanpIbVFPTWJRZDFHZ3fSAWBBVV95cUxNNTdCbmZZdm1NQTMyWm5OeEpSRTZBV0hXYVZuYkIzM1lkeHd0ZmhEaVhVeHZveklsbE0zMVpONGFlaUJnXzNaZU8zdHYzRG40R0o3Skp4S2xvZnJKU3ZrZG4?oc=5",
+      "pub": "Tue, 16 Jun 2026 21:05:00 GMT"
     },
     {
-      "title": "코스피 8,000, 그런데 왜 내 주식은 내려가는가 - 네이버 프리미엄콘텐츠",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM2NVSlNPU1NsQnkzR3JBbFg2UzZUX1hGNEtSazFfcElHOEY1YU0xb0wzWGxHWThsWkU4aC00UUxPNmd0OFlheUI5aXVfSmk5X2M4ajNnZzBxMlJSZ0I0b0g2eFlkRVd5THY5WmpxdXJtcGVIdkZnbXczSFBzbU1paDlJVnBIbW9Va1lEc0thOUlBQQ?oc=5",
-      "pub": "Mon, 15 Jun 2026 02:50:00 GMT"
+      "title": "\"삼전·하닉 주식 팔았는데, 이게 대체 뭐야?\"…코스피 불장에 '농특세'도 급증 - 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OeVVtTzJ4eGN0QjJOeHd0ckNnUzVSTjhfb0p3U0tzZnNIWDcwUlJqOHhaOUxMRkQzOXZJQy1GNmdWa0MwcGNtSVBGWENGTGV2cW9NV29DVkF6T2VOQ3NuMA?oc=5",
+      "pub": "Mon, 15 Jun 2026 06:52:05 GMT"
     },
     {
-      "title": "[머니 컨설팅]‘롤러코스피’ 장세, 극단적 투자 피해야 - 동아일보",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YOHl2QXNHVU5TTnkwZlhQS0J2OHJRcEhRNDA2c1M0dlJXRHVaRFRoUnNDVHFZQ3VYV0I3Q1RsZEh5R2t6SmMtQkxfeGRhbVJOWDVHZzdBcmRkVWd5ajllaGZSdU9KUjNla0lGRnE4NHlLSmJLU2fSAWZBVV95cUxQWUlFZHpaMzNFdjJYX090QVM0X2Jtem1aLV9pNVVFdHBrdjNzMjRSSENEdHBlaVlDMGZmbUZjTEFaeEM2WVVfUTBScHNYeGxhNGo2bm10SXRuUXpPRFpoU3pZYzVpTEE?oc=5",
-      "pub": "Mon, 15 Jun 2026 15:30:00 GMT"
+      "title": "\"코스피 랠리에 후행\" 증권株의 시간…키움증권 5.44% ↑ [핫종목] - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE54VGVyMmxjamdQdnVYZGpzTDhEY1NzcENqNVFodGFGdlpoWkl4d0VNVVZWYVg4ODZOckZqaHV5ZGhWUkZuaTF0VGV0X2dra3c?oc=5",
+      "pub": "Tue, 16 Jun 2026 02:04:47 GMT"
     }
   ],
   "signal": {
