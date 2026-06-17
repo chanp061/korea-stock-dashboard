@@ -1,50 +1,50 @@
 {
-  "updated_at": "2026년 06월 17일 08:18",
-  "updated_date": "2026-06-17",
+  "updated_at": "2026년 06월 18일 08:17",
+  "updated_date": "2026-06-18",
   "kospi": {
-    "price": 8726.6,
-    "change": 180.62,
-    "pct": 2.11,
+    "price": 8864.24,
+    "change": 137.64,
+    "pct": 1.58,
     "label": "강세",
     "emoji": "🚀"
   },
   "kosdaq": {
-    "price": 1018.68,
-    "change": 21.75,
-    "pct": 2.18,
-    "label": "강세",
-    "emoji": "🚀"
+    "price": 1031.96,
+    "change": -2.07,
+    "pct": -0.2,
+    "label": "보합",
+    "emoji": "➡️"
   },
   "sp500": {
-    "price": 7511.35,
-    "change": -42.94,
-    "pct": -0.57
+    "price": 7420.1,
+    "change": -91.25,
+    "pct": -1.21
   },
   "nasdaq": {
-    "price": 26376.34,
-    "change": -307.6,
-    "pct": -1.15
+    "price": 26021.66,
+    "change": -354.69,
+    "pct": -1.34
   },
   "usdkrw": {
-    "price": 1512.91,
-    "change": -2.96,
-    "pct": -0.2
+    "price": 1527.41,
+    "change": 19.09,
+    "pct": 1.27
   },
   "news": [
     {
-      "title": "이번주 코스피 운명은…18일에 긴장해야 하는 이유 [이번주 증시 전망] - 서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE50dFVVNU9Mc24xdmZzQzVZT0dPcTVxbWhUcW9MMzZGUUZDdjNVY2tXci04RURSWE5TR01GQTJUaHhJV1UyVFFUc0VwVnVVN1dtYnfSAVNBVV95cUxPQ0N2OUtuV2RhQ2Q1bVlOVGdDTVZ3NkVPc3hkbF9SYlAtMGVKeGNuZkJHVEkwNF85cm9ZTWNGY3R2aG5LaHRtcC1aMVZVcjlMcDJQOA?oc=5",
-      "pub": "Sun, 14 Jun 2026 21:00:00 GMT"
+      "title": "[속보] 코스피, 1.58%↑ 8864 마감…종가기준 사상 최고치 - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1CUUtvN1Q3Y0NWR04wdEl6ZFhUZDN5Nk14eVdSS3VQcXY2NncwZ1ZYNWdyc09aaTJ2RWhTamY3eTkzZFh3NEg4ZzNjdm1vM3hTd1E?oc=5",
+      "pub": "Wed, 17 Jun 2026 06:47:44 GMT"
     },
     {
-      "title": "코스피, 종전 합의에 8700선 회복… 외인·기관 동반 순매수 - MTN 머니투데이방송",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1MDNycnRrb2lhN3ZjWTllQUZMWVlMbW1ESzVQbjNweXZOVFVvWTR2bDNBMGRGTXktUk0yUFlJUXVUa0tjX3AwYVVMOS04ZUU4NHk5cHJHNU1HdFIybHZfOVlGelk?oc=5",
-      "pub": "Tue, 16 Jun 2026 08:35:10 GMT"
+      "title": "코스피 상승률 밑도는 증권주…\"조정은 매수 기회\" - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lREhXYUMycFlOOE90dlZSM0podGZUc2dBTm01UkRtdHdyOWRYdFEtckpGR2RGdkE1NUJDTXVwNGpKZFl3LXpqZ3poVTZaMGc?oc=5",
+      "pub": "Wed, 17 Jun 2026 23:04:02 GMT"
     },
     {
-      "title": "\"드디어 전쟁 끝\" 주식 더 사자…코스피 올해 14번째 '매수 사이드카' - 머니투데이 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QVWpuOUZuN3pzMGRDbGNoSGw5VGNpaFVNR2JnelFHQnBOVlg5X0RlTHF5OV9kUEJTN091c2xJWmFpS2dvUk84Z0dGa0lMTmpkdEZYYXBPWi1NWVdpaXdpNndNeVNIUk810gFuQVVfeXFMTkRmTWVGOHdOOF9IUHpQTmNZYlNZaGVSVGtiNlFUMll5TFV5X18weERMdldmQ1c5WE1WeVZlbF9VQ0h3ZU1VRGFJZjhfa0dOWkFHeVVYMkFkOUh6eUQ2T1h1ejVXQlZiSkEtaC1WYXc?oc=5",
-      "pub": "Mon, 15 Jun 2026 00:21:47 GMT"
+      "title": "주식할 시간에 일했는데…직장인들 '코스피 블루' - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5iZTBsMXlya21MMnhjZ0pSR0pxTUJITllZRVd6ajhaVDJPQVBqeTZYc1FhRy1MbUZNUUwydDBfdUpQalZkUzhvMHE4R002bFNTTnNz?oc=5",
+      "pub": "Wed, 17 Jun 2026 15:03:00 GMT"
     },
     {
       "title": "[코스피·코스닥 전 거래일(16일) 주요공시] - 연합뉴스",
@@ -52,19 +52,19 @@
       "pub": "Tue, 16 Jun 2026 21:05:00 GMT"
     },
     {
-      "title": "\"삼전·하닉 주식 팔았는데, 이게 대체 뭐야?\"…코스피 불장에 '농특세'도 급증 - 아시아경제",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OeVVtTzJ4eGN0QjJOeHd0ckNnUzVSTjhfb0p3U0tzZnNIWDcwUlJqOHhaOUxMRkQzOXZJQy1GNmdWa0MwcGNtSVBGWENGTGV2cW9NV29DVkF6T2VOQ3NuMA?oc=5",
-      "pub": "Mon, 15 Jun 2026 06:52:05 GMT"
+      "title": "대신증권, 코스피 목표치 11,500으로 대폭 상향…\"8월말~9월초 변곡점\" - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Ba1otV3JMcmlXTkR6SGN5MVM1TExxbEQ5cmhveGpnc1FOa0xFNWhSdUV6NjBseEdXNnZ3emNucF9DWmdNenlmTHlwM3JyRW1INFQzM1FLcU1OSUxKWHlaU0JhRGE4c2hCMGRGTnF6d3c?oc=5",
+      "pub": "Tue, 16 Jun 2026 23:01:00 GMT"
     },
     {
-      "title": "\"코스피 랠리에 후행\" 증권株의 시간…키움증권 5.44% ↑ [핫종목] - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE54VGVyMmxjamdQdnVYZGpzTDhEY1NzcENqNVFodGFGdlpoWkl4d0VNVVZWYVg4ODZOckZqaHV5ZGhWUkZuaTF0VGV0X2dra3c?oc=5",
-      "pub": "Tue, 16 Jun 2026 02:04:47 GMT"
+      "title": "코스피 1%대 약세, 코스닥 보합권 - 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1uS3FNNDFTQkpETGUtMUo3MEtVN0JiTHJxalFwekNRcjY3RTQ0QWhKSkZPeEp4UHdJNUFIc2llb1VpcHBxcDQ2ZkRLbDJnUTVSM01yZU0wZW8yWFVPRERFZDl3?oc=5",
+      "pub": "Wed, 17 Jun 2026 00:59:00 GMT"
     }
   ],
   "signal": {
-    "text": "오늘 시장은 강세입니다. 추격 매수보다 보유 전략이 유리할 수 있어요.",
-    "type": "positive"
+    "text": "소폭 상승권. 뚜렷한 방향성보다 관망이 적절합니다.",
+    "type": "neutral"
   },
-  "one_liner": "코스피 🚀 강세 · 코스닥 🚀 강세"
+  "one_liner": "코스피 🚀 강세 · 코스닥 ➡️ 보합"
 }
