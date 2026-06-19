@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026년 06월 19일 08:28",
-  "updated_date": "2026-06-19",
+  "updated_at": "2026년 06월 20일 07:44",
+  "updated_date": "2026-06-20",
   "kospi": {
-    "price": 9063.84,
-    "change": 199.6,
-    "pct": 2.25,
-    "label": "강세",
-    "emoji": "🚀"
+    "price": 9052.42,
+    "change": -11.42,
+    "pct": -0.13,
+    "label": "보합",
+    "emoji": "➡️"
   },
   "kosdaq": {
-    "price": 1000.93,
-    "change": -17.75,
-    "pct": -1.74,
+    "price": 966.59,
+    "change": -65.37,
+    "pct": -6.33,
     "label": "약세",
     "emoji": "🔻"
   },
@@ -26,45 +26,45 @@
     "pct": 1.91
   },
   "usdkrw": {
-    "price": 1536.42,
-    "change": -2.49,
-    "pct": -0.16
+    "price": 1529.89,
+    "change": -9.02,
+    "pct": -0.59
   },
   "news": [
     {
-      "title": "美 워시도 못말린 코스피, 사상 처음으로 9000 돌파 - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMDR1aUlvSXNuQkprY1AwV1J5cTJGSjJrMUgwMkRBMUJaems5bkVNUlhkaEQtT0phd2RQUFdCUlNEY2NLNkF2QmkzcWViTWlEc0hFUUhERXEyc1p6cjdBdUtlUzFxRGhSTU1Vb2k2bW1ZeFpBOTJHcW15dFZTXzFYQg?oc=5",
-      "pub": "Thu, 18 Jun 2026 07:17:42 GMT"
+      "title": "\"코스피 9000에서 시작해도 늦지 않다\"... 30년 데이터의 결론 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX3BQRVVBUWhaanR1d21POUp4WlJWb3NqQU51ZWpLU1dTTUJDeTg4WWYyTVZ1RGhoRG4tNG4zMEhGOTYwRGdhRUctcEJSYV9Oal9kS1UxeGZId3FhaWd0WDFSdl8xOWZkaVhFNzA3aWVpNTA0SnlTLXZsTlZ2ZG9JeUxUTVM4Y2lEcEZwU1J3?oc=5",
+      "pub": "Thu, 18 Jun 2026 21:45:06 GMT"
     },
     {
-      "title": "“남들 주식할때 악착같이 일했는데 자괴감”…‘코스피 블루’ 덮쳤다 - 중앙일보",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wMXNpUGd0ZUxNY3h1dloxN1JkdFBNVmhtZUhoMi1aQVczb3d4YTRUTk5TVUhJalhxVklncy1NZE94S0xxWFkzRmxVNzlmMm8tdWU3ejR3?oc=5",
-      "pub": "Wed, 17 Jun 2026 15:02:00 GMT"
+      "title": "9300선 뚫고 미끄러진 코스피…“삼전닉스 ‘밈 주식’ 됐다” 경고 - 중앙일보",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwOTEzM240UU84SjMyRjA0dXlzdTFTQ2Z6R2ZWMVQ3M3RBX1pwUDh1VXJ3aE9WRGgzUkNWcDFUdFBLazlUM1FTNnlocnlaeXpEcWw4OTV3?oc=5",
+      "pub": "Fri, 19 Jun 2026 08:48:17 GMT"
     },
     {
-      "title": "[코스피 9,000] 리서치센터장들 \"한국 주식시장 상승 국면 안착\" - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tNmlibUk3UlQwelR5MDE1a2hjc3hENDJZYlVCa3lpUHA4cW9OTVhObjlCRl9zLXo2Y1JvbndiRm9VS1pPeHZFRzE1SlF2QTV1Rm9MbDAtTnRWU0gtTkRVQ9IBYEFVX3lxTE9tNmlibUk3UlQwelR5MDE1a2hjc3hENDJZYlVCa3lpUHA4cW9OTVhObjlCRl9zLXo2Y1JvbndiRm9VS1pPeHZFRzE1SlF2QTV1Rm9MbDAtTnRWU0gtTkRVQw?oc=5",
-      "pub": "Thu, 18 Jun 2026 06:17:55 GMT"
+      "title": "[국민연금 양난] 리밸런싱 시동 걸었다…9천피 찍자 4천억 매도 - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JMXBMTVBTVl9WX3NfTXF5c3MzYTByTFN4Z1QxZlp6WHRSd2RLZzRfS3dfbW1KZUVLcU9yX3o5MjlKLVZDQkhqLVdmeUEyR1FzVjh2T0x1TUVtVVJtZGdvZ3VfLUhhVVgwZ01jc1BnZHU?oc=5",
+      "pub": "Thu, 18 Jun 2026 21:08:00 GMT"
     },
     {
-      "title": "[국민연금 양난] 9천피 함정…국내주식 비중 30% 육박 - KB Think",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA4NHlGeWtHUzZLYmRva0NuX1FZMWphdXpVRGNuQTJ0cXdHTnlLSHZmZ3lZdUR6SHNVOGNaVmdBeWZuLXkyV2pPV1U5ZTZsem90S3VfamMzbE1nUkZ3LVpJbExpazEwVFdvZ1NwY2cwY3lnQQ?oc=5",
-      "pub": "Thu, 18 Jun 2026 21:05:00 GMT"
+      "title": "'삼전닉스 패밀리' 일제히 신고가…코스피 최고치 행진 이끈다 - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZaTNDYjBfTVBlN1ZvMnFKUDdhUG9JdUF0Uk1lTmtlQ3llTjBGWk5EVU8xT0RNZTgtWENmZEV3LXFsVThyMjZhWWo4ZWZCVG1EYk4xOTAwSHRfRjhOcnZGMXN4bUVrWlRF0gFuQVVfeXFMUE50T29jQUxSRlY4U041MmFrX2dnVHNGU2x4aUlhenNGY2tPaGhIZFdrSUctc0ZKQTVPZVBKNmdGdk85UDV2Sl9IbjV2NGs1Tk9CdWZ5N3VCRUZwelVzeWlJY1BXU3FzSlpIWmswcEE?oc=5",
+      "pub": "Fri, 19 Jun 2026 02:37:05 GMT"
     },
     {
-      "title": "코스피 사상 첫 9천피 달성‥장중 '9,022' 돌파 - MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VaVY4VnllMzlaaE9LakhIV2FpaHRxSWVzcDNiOGYyeUoyUmRQSlpldDZrMG5naWJEazFHSHZnWHJIdWdQd2ZIdU9kVFdaR1dhR1BXVnEzejNPUzNGbGRFeFRWbnlMcHhVNjZ1V2Zmcl9pWDhM0gF0QVVfeXFMTjF0TjBoeHczMFQ1NmdmNG9ycUJ0WVgyQmhsS1dPOGVLWGU4S2hETHRvQmlObnBKbHZaMXdUeVdZVXhFajBDQkItMDZyVF94RTlTdHNSY2w4eERaN1pPNWFrYS1WdWd1bUdEY0pqUEtnc3cxZFU?oc=5",
-      "pub": "Thu, 18 Jun 2026 04:15:02 GMT"
+      "title": "주식 절대 매일 열어보지 마세요 코스피 9천 시대에 FOMO 멘탈 잡는 법 / 비디오머그 / 머그인사이트 - MSN",
+      "link": "https://news.google.com/rss/articles/CBMitARBVV95cUxOZlhkS2RxWjFYMUpOZzZnYUROWkQ1VVF0SWtpRmdlUXd3aVcxUm1lRUcxSVR2bmd5dG4yYkRDWEtKdGpNWFZ0YWNmZmVESlFYU2RSQTQxM3czdnhkcEdNazQ3bVk5Y0xYTThWWkt1Z3dwY3RpaHBPR0FRMktWcGRmVGRBSEFOU3hQeGwyaGJkakozaWRoN3dUeVh6VkdCZ25ZSEtzM0c5ejRBXy1nYVJkZXdmbTUwbVpCcnpjUlZNNkdXUXE1WWZRNEVrbmdpdFAxa0pJV0xncTJsRWZIU0ExTktVenY3Ul9rbnhTb0pZWV9NWEk4MU92RTV4VHdXLUR4YXZQV1JVemgyd3hlSktIVmNCWDRJUFd5SElMWWU5VFlhZnkxakJlWk8wNXV0VTE0d3ZQUDhZbzE5UEk2VlBFWkJvYmVmaGNWTzRiX3ZiQ2NTcDY0bnYzYjVlYWxXN1l6Ty14b1NIOUZKSDFZOFZpRjNDdG9ZcXlkOGNIelB3MEk4c19uMUwtTXVSUEx2bWZDSHF3MnI3ckRpdjJpQ3dGM0pObFRaRWxQSFdmSklrRERqaGV3X2JFTWdKczJ6VlhEVWxidk9adjJneFY5QnQxNFJmMThQcHJudmE0OGxsSEU3TlNDWHQ3VC1jZGJsendJaldTZWdJd1dWTkpUZmh4R0owdVpmS1g3cDc2dlBtV1IwdDVSQUYwMG52NjYtUXU4RzhMTEM5OTV5czFYeHdudzRWOFM?oc=5",
+      "pub": "Fri, 19 Jun 2026 18:30:34 GMT"
     },
     {
-      "title": "한국증시 신기원…코스피 9000 축포·1만 시대 눈앞 - 베이비타임즈",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ydHNOakVsai1sclhqMDlodmJiMWNIVk1INU9Lc1RyYm9TV3F6c3Rfa0wzaUg1V1dJS2xSTWNldHZ2LWU4OUpIQmtCMGJFWGwwbjdibXBhWGRiNmVjLW9BOUo1aHpIaWZTRUh6bA?oc=5",
-      "pub": "Thu, 18 Jun 2026 15:40:39 GMT"
+      "title": "코스피 매수액 절반이 삼전닉스…1년새 쏠림 3배 커져 - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KZmh6ZkczQTIwRTFFWmxfeGFENndBNnpaU21uLVk1Zk01SHY5YUhzZm55ZHEzNnFldDNmSThWS0xOSWQ0T2JiNDBIU3ByYnNXWEE?oc=5",
+      "pub": "Fri, 19 Jun 2026 08:48:19 GMT"
     }
   ],
   "signal": {
-    "text": "소폭 상승권. 뚜렷한 방향성보다 관망이 적절합니다.",
-    "type": "neutral"
+    "text": "시장 조정 국면. 손절보다 비중 축소 후 상황을 지켜보세요.",
+    "type": "negative"
   },
-  "one_liner": "코스피 🚀 강세 · 코스닥 🔻 약세"
+  "one_liner": "코스피 ➡️ 보합 · 코스닥 🔻 약세"
 }
