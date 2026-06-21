@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026년 06월 21일 07:59",
-  "updated_date": "2026-06-21",
+  "updated_at": "2026년 06월 22일 08:02",
+  "updated_date": "2026-06-22",
   "kospi": {
     "price": 9052.42,
     "change": -11.42,
@@ -22,44 +22,44 @@
   },
   "nasdaq": {
     "price": 26517.93,
-    "change": 496.28,
+    "change": 496.23,
     "pct": 1.91
   },
   "usdkrw": {
-    "price": 1529.89,
-    "change": -9.02,
-    "pct": -0.59
+    "price": 1529.1,
+    "change": -9.81,
+    "pct": -0.64
   },
   "news": [
-    {
-      "title": "\"코스피 9000에서 시작해도 늦지 않다\"... 30년 데이터의 결론 - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX3BQRVVBUWhaanR1d21POUp4WlJWb3NqQU51ZWpLU1dTTUJDeTg4WWYyTVZ1RGhoRG4tNG4zMEhGOTYwRGdhRUctcEJSYV9Oal9kS1UxeGZId3FhaWd0WDFSdl8xOWZkaVhFNzA3aWVpNTA0SnlTLXZsTlZ2ZG9JeUxUTVM4Y2lEcEZwU1J3?oc=5",
-      "pub": "Thu, 18 Jun 2026 21:45:06 GMT"
-    },
     {
       "title": "“너도 주식한다고 했지? 꽤 벌었겠네”…이 말에 코스닥 개미들은 ‘눈물’ - 서울경제",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rTHd5amw1alZmUng5eU4tNHZQelBINFZNeEMzSlpwNjFoc0R2NlNodW85YkpydktjVXRkSUdDYmRyOGVmbDAwQ1pMaDl3WEVQMGfSAVNBVV95cUxObTg5LU55ZDA2MGhDakRTTndnX1hWWWUxVnVOcV93YW8tRTNicXZpcjBNbDlrWEhMU0VvNDhJSU1wNjRubXcwNEhyX0NNRFA0QVZZYw?oc=5",
       "pub": "Fri, 19 Jun 2026 01:42:04 GMT"
     },
     {
+      "title": "\"8조 주식 휴지조각 될 판\"…벼랑 끝 몰린 개미들 '공포' - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzb0hrLWRFV1VXRUtWcXVSaTNoblYxaHc3RXg2WVFyYmZkb2JsQUR3Rmw0TFVTbG5rTFhZZ1RnWFhHSVNiNk9KMldtczJvaGVmRlhReFJINTA2UdIBVEFVX3lxTFBpRHlPNVR1QV92eG1lRFFDT2VoeG9hbXlMbWxUNzFNOGpfVUE2VlMxR1k3RHRJalNiY1UyaHJ0MTBteUtrLU5KN0xTTW4yYTBVQW5WNg?oc=5",
+      "pub": "Sun, 21 Jun 2026 02:03:56 GMT"
+    },
+    {
       "title": "\"다른 주식 싹 팔아 삼전닉스로\"…블랙홀 된 반도체株 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KQXBsU2V2ZXZhQWFHSGlwZEhUM1pBMGNjYU9QM21GdWNGQWFQU1dkZ0xfY3JBZjlnSVI0a0RXNzdib0NhRXlKdDhvbHRiX2s?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBxVnAxRUNpUnpWVEUwbjA4aVJLbHJQMzBKUDJMZDdRMzhrV0lUN0NiUEFqYkVvUF9oZmZsdWtKaHZHc0UxLUE?oc=5",
       "pub": "Sat, 20 Jun 2026 20:03:00 GMT"
     },
     {
-      "title": "9300선 뚫고 미끄러진 코스피…“삼전닉스 ‘밈 주식’ 됐다” 경고 - 중앙일보",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwOTEzM240UU84SjMyRjA0dXlzdTFTQ2Z6R2ZWMVQ3M3RBX1pwUDh1VXJ3aE9WRGgzUkNWcDFUdFBLazlUM1FTNnlocnlaeXpEcWw4OTV3?oc=5",
-      "pub": "Fri, 19 Jun 2026 08:48:17 GMT"
+      "title": "[코스피·코스닥 전 거래일(19일) 주요공시] - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YWG56YzI2ZXlhYXZTT0JRTDMxWnc2Z1hxZUdDbmpRMEo0eENfejUtSlBVRWRwVm04OEl5aDBKYkRBakFSU1FXbmIxM0RDa0VSekJTTi1OMTVkelHSAWBBVV95cUxQekpQVGk2amozeGp2REhLYlZIc2pkMXJaUXlpYW1ONmpBWG8wVlJIcnJFcW42M3c5RThwQXhMcmpCWTVqdEF2aG5MQ0V2WnI4RFdtblhUSjBJa2I1SW1YX2I?oc=5",
+      "pub": "Fri, 19 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "\"과장님도 부장님도 한대요\"…코스피 광풍이 불러온 '100조 빚투' 괜찮을까[주末머니] - 아시아경제",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFUzNvckM2aWd6ZVVZbzhYMkd2TV9Ncll3a0JqNjgwSEJOQ3E2Zlk4ZWdMblFldld6aTJBb2JzLXhMLWZSMjExUGpWT2V3TGo3LV80NWlhcjA4OThLbFZVWQ?oc=5",
-      "pub": "Sat, 20 Jun 2026 08:12:00 GMT"
+      "title": "한국이나 미국이나 금리 올린다는데, 코스피는 왜 계속 오를까 [주末머니] - 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE83cVZvazdxSC1JT1hrMGVESGF5Z1paczVTQUlkODhwQ1JPWHVJRlFlWVpLN0Z3NWRrbGZCT3c0OGNDaHMxTElsNHJBS0VtZE5OYkNYZnJSemtBaEkxd3ZuQUN3?oc=5",
+      "pub": "Sun, 21 Jun 2026 08:46:00 GMT"
     },
     {
-      "title": "[주식마감] 코스피 하락·코스닥 1000선 붕괴… 제이앤티씨·씨피시스템·한울반도체 등 상한가 - 금강일보",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yUUFzTW9vTEZIY1FVUzBsMXdLUUo1YTlMR0Jnc2NHV3E0clJidWJlcklLUU9nVk80ZW9Na0REQ2RKc3lYeGFXUW56WkdmZnM1MU9XT3dtX3ItNko4TWMtWG9YMmd5M1lsV1E?oc=5",
-      "pub": "Fri, 19 Jun 2026 10:40:00 GMT"
+      "title": "반도체 대장주가 이끄는 코스피, 쏠림 양극화 해소 과제 - 메트로신문",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE93bUVSZFMxSDg1MGd0TEU5Yks4T0VNaVBuRVFiVlZZbEI0UHlvS3dyUmdqSHM0c1RvMm1hRE9uX3JHQW1SX0dzUTZneWJJcGkyVEJKQVR0QjNRYzdVSkNIcw?oc=5",
+      "pub": "Sun, 21 Jun 2026 03:11:38 GMT"
     }
   ],
   "signal": {
