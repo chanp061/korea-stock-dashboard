@@ -1,70 +1,70 @@
 {
-  "updated_at": "2026년 06월 23일 08:13",
-  "updated_date": "2026-06-23",
+  "updated_at": "2026년 06월 24일 08:00",
+  "updated_date": "2026-06-24",
   "kospi": {
-    "price": 9114.55,
-    "change": 62.13,
-    "pct": 0.69,
-    "label": "소폭 강세",
-    "emoji": "📈"
+    "price": 8203.84,
+    "change": -910.71,
+    "pct": -9.99,
+    "label": "약세",
+    "emoji": "🔻"
   },
   "kosdaq": {
-    "price": 968.4,
-    "change": 1.81,
-    "pct": 0.19,
-    "label": "보합",
-    "emoji": "➡️"
+    "price": 891.52,
+    "change": -75.07,
+    "pct": -7.77,
+    "label": "약세",
+    "emoji": "🔻"
   },
   "sp500": {
-    "price": 7472.79,
-    "change": -27.79,
-    "pct": -0.37
+    "price": 7365.46,
+    "change": -107.33,
+    "pct": -1.44
   },
   "nasdaq": {
-    "price": 26166.6,
-    "change": -351.33,
-    "pct": -1.32
+    "price": 25587.04,
+    "change": -579.56,
+    "pct": -2.21
   },
   "usdkrw": {
-    "price": 1536.1,
-    "change": 6.21,
-    "pct": 0.41
+    "price": 1530.57,
+    "change": -2.8,
+    "pct": -0.18
   },
   "news": [
     {
-      "title": "국내 주식투자자 절반 \"올 코스피 1만 넘을것\" - 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzV0lQSFY3Vmp5SXhrenRfckZjcXRzQUxGQ3U3VmxXYXpyM0JGMURYcGtHS2hCbHhNT1F0TFdHc0hLeXN3M2l0Q3pvTjh5UXBJY0E?oc=5",
-      "pub": "Mon, 22 Jun 2026 08:46:15 GMT"
+      "title": "출렁이는 코스피… \"파도 거꾸로 타다가 하루 25% 날려\" 발동동 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOWotN3VEZnljbzlDSGV4N1lGTkdRTVhrREVsSlFIbkNKYVltelhqZk1jb21Dd0RzTGZaLWFmVkVmVGFqWEM5LWo4Qm1GOE5PWHdGOVdObldaa3Z1czR2TmNZVWs3YXliejZIb0JSMXhzOXFId0xTUFlobTU3TnAtcA?oc=5",
+      "pub": "Tue, 23 Jun 2026 15:51:00 GMT"
     },
     {
-      "title": "\"8조 주식 휴지조각 될 판\"…벼랑 끝 몰린 개미들 '공포' - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzb0hrLWRFV1VXRUtWcXVSaTNoblYxaHc3RXg2WVFyYmZkb2JsQUR3Rmw0TFVTbG5rTFhZZ1RnWFhHSVNiNk9KMldtczJvaGVmRlhReFJINTA2UdIBVEFVX3lxTFBpRHlPNVR1QV92eG1lRFFDT2VoeG9hbXlMbWxUNzFNOGpfVUE2VlMxR1k3RHRJalNiY1UyaHJ0MTBteUtrLU5KN0xTTW4yYTBVQW5WNg?oc=5",
-      "pub": "Sun, 21 Jun 2026 02:03:56 GMT"
+      "title": "하루 새 '910포인트' 폭락한 코스피‥반도체 반등 가능할까? - MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBEUDVoRnF1clRzbmVOcUh6N21oWURDanpFb25aUnJVa2RaREIzNGJhYTlEOEtHZFlBQndJS29tOEY0NklmRml2MGRIOXdCTUM5clR6MkpVa2pOdERIUjdNYm44dmhCbHFoci00SGpDakk3RkkwQk9IaQ?oc=5",
+      "pub": "Tue, 23 Jun 2026 10:51:18 GMT"
     },
     {
-      "title": "시총 1위 내주고 하락 전환한 삼성전자‥코스피 고점 신호? - MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9RVmtuTl9XZEU4bWpCeGhmNk9QeDFWeXFSaGZjczAzazA3TVpXMTVIcUQ4Vkp4MHkwOVNXNmZGVEpta2VrZ0hqelJ4cEFxRExKdGFjdTZkVmoyWXpoYVJWWU84QW96OVlBLUwwRElocHY5Qnc2OFVhUw?oc=5",
-      "pub": "Mon, 22 Jun 2026 11:14:26 GMT"
+      "title": "[주식핵심 체크포인트] 코스피 -9.9%의 폭락의 비밀 (feat, 6/22 검은 화요일) - 네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ29lM0JEYnlzSjNWR1hpcFVDTl8zUGFoU3d3U0tmVHpYdkg5VTkycnNKbkozVE5DN18zSWVNZmY3S1F0NVVTZlJSTTN5Tk9VODFRSm12UGRxM2phbk03T3NMNlExcVF2dXY5dXE5RkFLTE5Wak1ZU0NuUDNOYVJyWlVkYTlZZw?oc=5",
+      "pub": "Tue, 23 Jun 2026 22:48:00 GMT"
     },
     {
-      "title": "SK하이닉스, 시총 1위 등극...코스피 9,114 또 최고치 - YTN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnNF9OUVNadXAtMTJ5UzJPR2Q2ODRMWUJkVFBRZUFSc0lVdnBVVVgycHZUNmpURFBpOHRleERMV29Hc1VyR2hhLWJ6Rzg1TGhVd0ZVX2pHZmlneGhKM2c?oc=5",
-      "pub": "Mon, 22 Jun 2026 12:52:00 GMT"
+      "title": "코스피 하루 만에 10% 급락...8,200선 턱걸이 '역대 최대' 낙폭 - YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lSVl6X1lCMVR0dzM3Q3VmQmh6YkRlMHZRTW9Kdmh5NDNzMk41WjdDM3kwTHlFX0dJX3luYjdrd1UwSE9XcnpueGwtSUExd2NnUzF5N05DX1BZRzlaM1E?oc=5",
+      "pub": "Tue, 23 Jun 2026 22:37:00 GMT"
     },
     {
-      "title": "\"내 주식만 안 올라\"...삼전닉스 빼면 '시총 200조' 증발 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPU3llY0xRdUNQM25XUUlILUo2OF94dHAyMWdHM1dWUWVoT3F5MHRYbFEwSUJCYTVud1hhY0dOYVU3UWd0blE4SnN3Q1JLMUU?oc=5",
-      "pub": "Mon, 22 Jun 2026 07:26:03 GMT"
+      "title": "파랗게 질린 증시에 증권주도 울었다…미래에셋證 8% ‘뚝’ [이런국장 저런주식] - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBdXpuSGJubFNoU1FpUXR2WkxweFdBNi1ldkpYN0YyS192TlVzYUFiNVJmNGp3Z201NUR3RkFicVZhMkNvY19jYl9RaVV1M0NTN1HSAVNBVV95cUxOSzlRdzNHSlFLSzRjaC01M0lPR1Z1dUlEdE9FMktfdUotRFZpcjRFcGFfaTBCc1ZzTER0ZFl1NzIzLTd5bGY0V0ZGcl9CZFJZTzVzUQ?oc=5",
+      "pub": "Tue, 23 Jun 2026 21:30:00 GMT"
     },
     {
-      "title": "'지분 폭탄' 던지던 국민연금, 든든한 우군되나 [코스피 1만 시대의 조건 ④] - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5fcUVTblYxbkVmOGNzeU5hbncxVTBvOVdub2UzYWpPQ2xoOWE4OVZtOWtwVERMODR3TllrcC1xVWdNOGVhYzNGaEIxUXN0UlU?oc=5",
-      "pub": "Mon, 22 Jun 2026 22:01:06 GMT"
+      "title": "“반도체 호황 지속되는 한 코스피 1만보다 더 갈 것” - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NbGlvM3FIY2VRVk9WZ0JYNkxrRU92c2tVTF91dl9VQTlCdkV1ZmI1aV80QWlvRFlXUWJvMTFURVBuM1NLUFU0NVBMdFc2X2s?oc=5",
+      "pub": "Tue, 23 Jun 2026 15:35:05 GMT"
     }
   ],
   "signal": {
-    "text": "소폭 상승권. 뚜렷한 방향성보다 관망이 적절합니다.",
-    "type": "neutral"
+    "text": "시장 조정 국면. 손절보다 비중 축소 후 상황을 지켜보세요.",
+    "type": "negative"
   },
-  "one_liner": "코스피 📈 소폭 강세 · 코스닥 ➡️ 보합"
+  "one_liner": "코스피 🔻 약세 · 코스닥 🔻 약세"
 }
