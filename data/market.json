@@ -1,70 +1,70 @@
 {
-  "updated_at": "2026년 06월 24일 08:00",
-  "updated_date": "2026-06-24",
+  "updated_at": "2026년 06월 25일 07:59",
+  "updated_date": "2026-06-25",
   "kospi": {
-    "price": 8203.84,
-    "change": -910.71,
-    "pct": -9.99,
-    "label": "약세",
-    "emoji": "🔻"
+    "price": 8471.02,
+    "change": 267.18,
+    "pct": 3.26,
+    "label": "강세",
+    "emoji": "🚀"
   },
   "kosdaq": {
-    "price": 891.52,
-    "change": -75.07,
-    "pct": -7.77,
+    "price": 909.31,
+    "change": -59.09,
+    "pct": -6.1,
     "label": "약세",
     "emoji": "🔻"
   },
   "sp500": {
-    "price": 7365.46,
-    "change": -107.33,
-    "pct": -1.44
+    "price": 7358.22,
+    "change": -7.24,
+    "pct": -0.1
   },
   "nasdaq": {
-    "price": 25587.04,
-    "change": -579.56,
-    "pct": -2.21
+    "price": 25476.63,
+    "change": -110.41,
+    "pct": -0.43
   },
   "usdkrw": {
-    "price": 1530.57,
-    "change": -2.8,
-    "pct": -0.18
+    "price": 1539.63,
+    "change": 8.12,
+    "pct": 0.53
   },
   "news": [
-    {
-      "title": "출렁이는 코스피… \"파도 거꾸로 타다가 하루 25% 날려\" 발동동 - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOWotN3VEZnljbzlDSGV4N1lGTkdRTVhrREVsSlFIbkNKYVltelhqZk1jb21Dd0RzTGZaLWFmVkVmVGFqWEM5LWo4Qm1GOE5PWHdGOVdObldaa3Z1czR2TmNZVWs3YXliejZIb0JSMXhzOXFId0xTUFlobTU3TnAtcA?oc=5",
-      "pub": "Tue, 23 Jun 2026 15:51:00 GMT"
-    },
     {
       "title": "하루 새 '910포인트' 폭락한 코스피‥반도체 반등 가능할까? - MBC 뉴스",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBEUDVoRnF1clRzbmVOcUh6N21oWURDanpFb25aUnJVa2RaREIzNGJhYTlEOEtHZFlBQndJS29tOEY0NklmRml2MGRIOXdCTUM5clR6MkpVa2pOdERIUjdNYm44dmhCbHFoci00SGpDakk3RkkwQk9IaQ?oc=5",
       "pub": "Tue, 23 Jun 2026 10:51:18 GMT"
     },
     {
-      "title": "[주식핵심 체크포인트] 코스피 -9.9%의 폭락의 비밀 (feat, 6/22 검은 화요일) - 네이버 프리미엄콘텐츠",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ29lM0JEYnlzSjNWR1hpcFVDTl8zUGFoU3d3U0tmVHpYdkg5VTkycnNKbkozVE5DN18zSWVNZmY3S1F0NVVTZlJSTTN5Tk9VODFRSm12UGRxM2phbk03T3NMNlExcVF2dXY5dXE5RkFLTE5Wak1ZU0NuUDNOYVJyWlVkYTlZZw?oc=5",
-      "pub": "Tue, 23 Jun 2026 22:48:00 GMT"
+      "title": "코스피 8% 급락에 서킷브레이커 발동‥삼전 8%·닉스 11% 하락 - MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Gb0NhWEpHckJkSDRXVlNtNVNUbExQMU9raE5pTjk3NmdiRTZlT0REYjNzdlZ1RzZpcXJuOE1MeGc3azZaYnZtVUhaR0hjV21xOE9qUWcwUFdwTldvUmJ1Y0JUSC1yekVDZWk3NDFzZVBUNzJK0gF0QVVfeXFMTnJRdjFKaXRfSko4SWpURFM5WURvM1lMX1N3WXc2dndkdk42QVMtRnFCSEh6MGFqd21OWE5nVXhWRnZiVnZKWkJ6MWpXWHZ4V3FtekNKUUZXSEhfSmMwckgzUDluVnVybEt2Sjk3TlFmUm1yOUY?oc=5",
+      "pub": "Tue, 23 Jun 2026 06:05:36 GMT"
     },
     {
-      "title": "코스피 하루 만에 10% 급락...8,200선 턱걸이 '역대 최대' 낙폭 - YTN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lSVl6X1lCMVR0dzM3Q3VmQmh6YkRlMHZRTW9Kdmh5NDNzMk41WjdDM3kwTHlFX0dJX3luYjdrd1UwSE9XcnpueGwtSUExd2NnUzF5N05DX1BZRzlaM1E?oc=5",
-      "pub": "Tue, 23 Jun 2026 22:37:00 GMT"
+      "title": "'-10%' 코스피 폭락한 날...\"돈 벌 기회 왔나\" 개미 8.5조 '폭풍 매수' - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zT2liMDFCU25waWVlbG5YdUE2WG83SmpVVVlPS2ROLU12VzZWQjV6ZHpKbUc0YVBKbllEd1JCcHVCZ25GejlYTm5mLVlRa2RsTkRBcVRUQW5mMHVFRjI0M0Nwd0FQT3hM0gFuQVVfeXFMTU9sbjBJcEkxNWdHUlFIdkoxcXVuY2ZQeTJsampDMjlhanJBZHQ4WXJfUXpUc09BcVQ5QTN2YnBCZjFHN2U3SGxZZ3NwR3lEZ3BWejIzSGtXNG00cFk4THZFOVQ2c0l5UHBNa1dSYlE?oc=5",
+      "pub": "Tue, 23 Jun 2026 19:14:00 GMT"
     },
     {
-      "title": "파랗게 질린 증시에 증권주도 울었다…미래에셋證 8% ‘뚝’ [이런국장 저런주식] - 서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBdXpuSGJubFNoU1FpUXR2WkxweFdBNi1ldkpYN0YyS192TlVzYUFiNVJmNGp3Z201NUR3RkFicVZhMkNvY19jYl9RaVV1M0NTN1HSAVNBVV95cUxOSzlRdzNHSlFLSzRjaC01M0lPR1Z1dUlEdE9FMktfdUotRFZpcjRFcGFfaTBCc1ZzTER0ZFl1NzIzLTd5bGY0V0ZGcl9CZFJZTzVzUQ?oc=5",
-      "pub": "Tue, 23 Jun 2026 21:30:00 GMT"
+      "title": "증시 급락에 코스닥·코스피 '매도 사이드카' 잇단 발동 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OQk8wbWpPYXdlTWxOYlBOTkVMX0ViMjBqWGNzT3dlSWU4VDF5REdva1FHS1JsSFA4aEFyUVFLQW8tX19wd08tWmlwTEllQzRBZVl5eVp3MFBMRzTSAWBBVV95cUxQN2FXaEwybDF4TEZLZER3dGJZMEp4Q0dNR3Uya1JTTzBDOXdlcXlPOUlROFZxTk94NDVnbkR0RTBKS0E3dzJ3aDUzLVdmTUJ0cmxiQUdOTmRqZm5yMzFoeGU?oc=5",
+      "pub": "Tue, 23 Jun 2026 02:54:48 GMT"
     },
     {
-      "title": "“반도체 호황 지속되는 한 코스피 1만보다 더 갈 것” - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NbGlvM3FIY2VRVk9WZ0JYNkxrRU92c2tVTF91dl9VQTlCdkV1ZmI1aV80QWlvRFlXUWJvMTFURVBuM1NLUFU0NVBMdFc2X2s?oc=5",
-      "pub": "Tue, 23 Jun 2026 15:35:05 GMT"
+      "title": "BI \"코스피, 아시아 국가들 AI·반도체 민감성 보여줘\" - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyWWd1U2E3QWVCcDN4bDJ3bXhPLWJDMTkzRF9Wdm5FcUZ2dlVYU0Y5WENVTnRUYTZLTVdCNDVZT3FjT0lfWWZmRENwSG9KN2Q2X1JxT21PVUZDWGxaemRaYzZET0RVbUp1al9EcnJjV1E?oc=5",
+      "pub": "Wed, 24 Jun 2026 22:42:41 GMT"
+    },
+    {
+      "title": "요즘 주식 안하는 사람 없다는데…증권주 16% 하락한 까닭은? - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NbVVYZ3pVc1JyRVlqTTZtTm91a292ZXg1ZnRUbzBBY0RRcUROb3F2QUJ4YUVZWWlpeElfdWFpOWhrOUp5akkxQlladjlLUG53SGtMRy1TYmd1Z9IBVEFVX3lxTE1KNTNIWi04R1lSdXk0dDZRSUNDZzVNb2x1d0tWalBlUGdSVndTSEZGN2pGYzhadDhXSmdybU1MZXU0a0NqRk0yY085S1dyQ0dMQ0JuaQ?oc=5",
+      "pub": "Wed, 24 Jun 2026 07:46:07 GMT"
     }
   ],
   "signal": {
     "text": "시장 조정 국면. 손절보다 비중 축소 후 상황을 지켜보세요.",
     "type": "negative"
   },
-  "one_liner": "코스피 🔻 약세 · 코스닥 🔻 약세"
+  "one_liner": "코스피 🚀 강세 · 코스닥 🔻 약세"
 }
