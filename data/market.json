@@ -1,45 +1,45 @@
 {
-  "updated_at": "2026년 06월 30일 07:48",
-  "updated_date": "2026-06-30",
+  "updated_at": "2026년 07월 01일 08:03",
+  "updated_date": "2026-07-01",
   "kospi": {
-    "price": 8394.65,
-    "change": -16.56,
-    "pct": -0.2,
-    "label": "보합",
-    "emoji": "➡️"
+    "price": 8476.48,
+    "change": 81.83,
+    "pct": 0.97,
+    "label": "소폭 강세",
+    "emoji": "📈"
   },
   "kosdaq": {
-    "price": 920.57,
-    "change": 69.2,
-    "pct": 8.13,
+    "price": 916.18,
+    "change": 64.81,
+    "pct": 7.61,
     "label": "강세",
     "emoji": "🚀"
   },
   "sp500": {
-    "price": 7440.43,
-    "change": 86.41,
-    "pct": 1.18
+    "price": 7499.36,
+    "change": 58.93,
+    "pct": 0.79
   },
   "nasdaq": {
-    "price": 25820.15,
-    "change": 522.53,
-    "pct": 2.07
+    "price": 26213.72,
+    "change": 393.57,
+    "pct": 1.52
   },
   "usdkrw": {
-    "price": 1542.04,
-    "change": 7.04,
-    "pct": 0.46
+    "price": 1545.69,
+    "change": 5.04,
+    "pct": 0.33
   },
   "news": [
+    {
+      "title": "美 블룸버그 \"코스피, 다윗과 골리앗 전쟁…삼전닉스 판 외국인·기관, 손해 봐\" - 더구루",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1YR1FncEl0UjF6LU5BakwzNFNSa05jb0pJd0pVa0F3dDFCVTVvR0JNVHYzSnYweWxwV0pOZXVYcUp3NjQxekIwMVNOTFpaN2Z6SHNIQmhWaEVleG4zWUQxRzJ0SQ?oc=5",
+      "pub": "Mon, 29 Jun 2026 23:59:31 GMT"
+    },
     {
       "title": "6월 한달 내내 출렁인 코스피…실적 시즌 7월에는 다를까 - 연합뉴스",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wNk1CYmREMHJleTdXeHk0ZE4wZWhaQjlhWmRYTFI0bFVFWW5oX3lpUVVpN00yYjdZRlNaZkRCZVAxaTY4NGp1bHBFdWJYZ2hBNmVvTFNuTUZwOHfSAWBBVV95cUxOa1NBa0MwTFRmM3BMcUdZbFIxR2lKZ1FHZGR4YUlOanpUNl9BVlUxWUhnR2IyMDVCUG1wdHlXdFpRcGRlNTZzbUdwVkJRZVFRdGpxU0JxMHJDMnllMmltaHo?oc=5",
       "pub": "Sat, 27 Jun 2026 22:20:01 GMT"
-    },
-    {
-      "title": "코스피 '널뛰기 장세'… 개인 일주일 새 25조원 '홀로 매수' - 블로터",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE40TXVHdXp1VU5RclhIbEtTejlFcmFDSXZWcl9MVVJiNUtiUWlsS2FaTmxSUU40SUF5WDhYYzltZVZuTmhLcktlSVFhOW5wTTNFWXpja2pKaC1YXzJpM0EyTTdLR1NwMng10gFsQVVfeXFMUDJjV1JsR1hON2VKOXdqNjJIMDhxUDZwSnhLWnlLeFVKcUV0UklRd1ZvQVp6UGprRGhheWtZVjZrOFJ4TnNwcHktSXNfYlJyaWJfVHUyMUtTekN1UXcyTHJLMzFCV1JyQVFoNU92?oc=5",
-      "pub": "Sat, 27 Jun 2026 00:00:00 GMT"
     },
     {
       "title": "\"테슬라 팔고 갈아탑니다\"…100억 부자들 몰려든 곳이 - 한국경제",
@@ -47,24 +47,24 @@
       "pub": "Mon, 29 Jun 2026 08:53:19 GMT"
     },
     {
+      "title": "국민연금 55조 매도설에 코스피 하락 우려…\"과도한 해석\" - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GMXhpdDJNczVaNW9Qa0JMMmpwZTlrQ192NFNmLUpJay1NYjBpdmFUUGRBdmxmS2RYWFNVT1VLa2RKa0hjUzd0MzVZWWNkYjhkNTJGVXF5c2VTYzF6emlwV9IBeEFVX3lxTFB4TnROTkd3dWxCSDZHUXFzOGNDSjZoeVVmSXZsalVmbTRTX3JvTzVmR1dtcVl2X0I1RGZNd3ZLbHI0YUk4bW93ckwzQkwzWVI2U2lSZ2NBTDVQMVhsaVIyZHVCMWVuTEs1OFdJaGdkWURvT0RTaU42Mw?oc=5",
+      "pub": "Tue, 30 Jun 2026 16:07:00 GMT"
+    },
+    {
+      "title": "국민연금 리밸런싱 유예 종료 D-1…하반기 코스피 최대 변수되나 - 매일신문",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xSXFPQnBTcWdPZmFTWnFSSWt2QnNURzhNaEhtSFlXVWRMaS03c21XTlFIUUxPWTY2OExjWWVsSEpQTFR4eGhWMHB4Q3JSc0ZmbmtnVjdKYVJsMlNVcVJGaGlR?oc=5",
+      "pub": "Tue, 30 Jun 2026 00:33:13 GMT"
+    },
+    {
       "title": "국민연금의 코스피 떠받치기…환율·금리 자극한다 [손진석의 머니워치] - 조선일보",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBFVWJGR2hzZmNfcUU3LTRzODdzRl9VcUR6RjdlVUJlNlFIcnM5UzVYdlloUVFrUmdpTlpLWDJBNVBHQ3hnOXpqakEyWU5MeEhQTGtjdnFxcFQzQVg0LTNnWVRwUy1wUWprMTJrNTVOeWVSZWlXYnNmeA?oc=5",
-      "pub": "Mon, 29 Jun 2026 08:21:40 GMT"
-    },
-    {
-      "title": "“내 주식만 추락해” 진짜였다…‘삼전닉스 레버리지’ 몰리더니 상장사 95%는 주가 ‘뚝’ - 서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5iSm9sR296a2Y2Y3JkaU5RS21tbWpUSFNPWTZudDBPazhEc0UydmxGdzJFa0w0dEtJNkVlbzFVYk9vTHpiVVpaN0ZBMmt2ejlQMEHSAVNBVV95cUxNTVZPTzdLdkoyb1otOHIyUTB3N0xaV0tFR0ZPVUNIR2o2TTJreW1DMVZoVTZ6aDU2RFhIN0FFalczbkdKNnVrM1lsb2pWckw5WEtGYw?oc=5",
-      "pub": "Mon, 29 Jun 2026 11:04:34 GMT"
-    },
-    {
-      "title": "[증시에 빠진 대한민국㊤] 세계 최고 상승률의 비밀…돈은 왜 주식시장에 몰렸나 - 뉴스웍스",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HOEZ1dUI4ajFkcnN4YVh1cWVrVzBReUY0cjJSMVlWQjNjMzVVVzdrdGJXelVKdVBGLWxDSUVBWTFvUGxHcHFUd0Q2UDN2NEJ2QVE0M3NhRjBrTVl5VjBEV0pkbFhFeE9XZUl6Mlh1Z9IBc0FVX3lxTE5tQkhmY3gxT2pIbUR5eFVFemxJT1YtMHhKYnFUT2g5cURjRklselR1YTd3STFNb1R5VkZhemQzN0Y1d2E3VW5uN1JZSTdtS2FMMk44cUtIR081dVQ2eHJYN2g1ams3X3V3NjloRXgwNWNPVlU?oc=5",
-      "pub": "Mon, 29 Jun 2026 03:00:00 GMT"
+      "pub": "Mon, 29 Jun 2026 08:14:00 GMT"
     }
   ],
   "signal": {
     "text": "오늘 시장은 강세입니다. 추격 매수보다 보유 전략이 유리할 수 있어요.",
     "type": "positive"
   },
-  "one_liner": "코스피 ➡️ 보합 · 코스닥 🚀 강세"
+  "one_liner": "코스피 📈 소폭 강세 · 코스닥 🚀 강세"
 }
