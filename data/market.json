@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026년 07월 05일 07:49",
-  "updated_date": "2026-07-05",
+  "updated_at": "2026년 07월 06일 07:54",
+  "updated_date": "2026-07-06",
   "kospi": {
     "price": 8088.34,
     "change": 440.25,
@@ -22,34 +22,34 @@
   },
   "nasdaq": {
     "price": 25832.67,
-    "change": -207.36,
+    "change": -207.33,
     "pct": -0.8
   },
   "usdkrw": {
-    "price": 1530.15,
-    "change": -7.82,
-    "pct": -0.51
+    "price": 1528.4,
+    "change": -9.57,
+    "pct": -0.62
   },
   "news": [
+    {
+      "title": "\"코스피 1만2600 간다\"…하반기 강세장서 찍은 최선호株 10개[주末머니] - 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nX1ZSUVpGWnF6RnlGc240MjZxZHdHeTdMSkhmOWpfNnU2UjBwdmozQkh1OE1pUkV4cVlIU2MwVlNWd1YtZ3Z6VXJuNVl5cURDOVV1aW80d045dE81VWtnVFV3?oc=5",
+      "pub": "Sat, 04 Jul 2026 10:06:00 GMT"
+    },
     {
       "title": "코스피, 5.76% 급반등 8,000선 회복…장중 변동폭 역대 2위(종합) - 연합뉴스",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YcnB3d3hqY1Y0YVdiUzVRUE1wZ0pZMHE4eFlmTTJFTlAzZ29uRENtd2lQMHIyeGVXbTRVdVN3OWtwelBhdFowZEdKZEhyVXp5RUxDcjZnWS1ZT2vSAWBBVV95cUxOLXJ0OWoyTjJlQTZHcmp1TDRmNDZQTUhuWDNFcFZGUm03aFFleEpIbkI4dklVanpqZ1VnczZXQ2xDRkpQc2JadFJLTDhqR2w3Vl9sdUlIV2QtWmZVTnNYTkw?oc=5",
       "pub": "Fri, 03 Jul 2026 07:08:59 GMT"
     },
     {
-      "title": "코스피 8천피 회복에도…'1조클럽' 종목 6천피 때보다 91개 적어 - 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aaXhra2I4TDBiMDM1S2w4TVFwdXNpSkFnVExjZFFjSW82d2hzeFc1ZDlkbElud0l4cUQ4Qm9HX2h4b25pX1lqQmx5emVfRTZBX1E?oc=5",
-      "pub": "Sat, 04 Jul 2026 21:15:01 GMT"
+      "title": "“변동성 넘으려면 실적뿐”…코스피 반전 열쇠는 삼성전자보다 美 빅테크 - 마켓인",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9UT25laWFpWWVCWjVfemVPTW5yRXVZS2d4aWVwdTRDSi00aElKeUI3OXl1R3EzMHhwQzR4OHFlYWhrcTc5S1VMb1lobXc2U1d5dk81RmJDTmRKbDMwYzVoOUZCZ0hhYkhIQnczaHFmNW92aVk?oc=5",
+      "pub": "Sun, 05 Jul 2026 22:43:23 GMT"
     },
     {
-      "title": "2분기 '빚투' 1일 평균 62조원…증권사 추정 이자수익 최대 1.4조원 - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53bGNsTGV4ejFoLTZJNmJkX2FCUjVpa3lUdlZ0MW5yZmZhdFlaMERpSjlTU05mblkxcWxhbHExejZETk5GREVrc3g3WU94MlhLdjFyYlh4bklZVzjSAWBBVV95cUxPSXlWME1mV2F0SVppNmN5NlYwNGJQUUxnQUE2UVBNSUNyYnprb0Y5UjFkX0xiSlNOaXlfcDlwQkZtVk9ha2czWHN2X3NGbHZzUGxSSGpLS1RScXljU3VLWVk?oc=5",
-      "pub": "Sat, 04 Jul 2026 21:25:00 GMT"
-    },
-    {
-      "title": "\"코스피 1만2600 간다\"…하반기 강세장서 찍은 최선호株 10개[주末머니] - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CQkk2MnRvQTBielVTSnFQWldVODNHWE5yc3ZTdmFrVUdsMUtQMjVWd3FVZEpFOW8tdERtQnFGd21TVWQ0N3NZdDZHcnROaE0?oc=5",
-      "pub": "Sat, 04 Jul 2026 10:07:00 GMT"
+      "title": "역대급 ‘셀 코리아’ 언제 멈추나… 외국인 다시 부를 4가지 조건 - 조선비즈 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc2phVnlFQUNoZUxXMmZ5dU5NemRvMDc1ZS1pS1NETWt4dnhPcUQ3UlB5N2dBNDUxWlhPejdHUGVWUHctYXlIRGtLN2dFbXIycV9UUlRDeDlVbFJTTHNrR2QwQUZNRERfQm1BRUEyM1AxTXNVa1hkdi1hM0ZncXIyX2IwWmw3YkdD0gGcAUFVX3lxTE41V1lmTGw5eGpORTFTX0hhcDYwQzcySUlTbE00OWNiNU5VTEJfalVldERQSDFxblpQT1NIMzV0OGVBa2xsaUpMYmJJd2NPY2tQbjFkYllhMXNESEpzOGhObFQzNUx6aVVDVWJZclRJZ0xfY0hITmFzUnJ0NHNETUdtZWhNVFo3Q2M4SEdfY0ZseHdzVVlXOTR0Y2U5Zw?oc=5",
+      "pub": "Sun, 05 Jul 2026 21:00:00 GMT"
     },
     {
       "title": "'삼전닉스 고점 논란' 솔직히 답했다…4조 굴리는 큰손의 조언 [노정동의 어쩌다 투자자] - 한국경제",
@@ -57,9 +57,9 @@
       "pub": "Fri, 03 Jul 2026 23:00:12 GMT"
     },
     {
-      "title": "널뛰기 장세에도 코스피 낙관론 우세… JP모건 “조정 오면 비중 늘려라” - 동아일보",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zVllBWEphTXhIY1VEMjllSTFpVG16VnpUdkEtZFpDUnJxdlhkZm9iRXB5ZmRmM2EwbUl3Y1FwYksycUpKSFcwZmE2Y1ZCb05mRDhWYTBsTG5iMHVWVW5WaGxrcy1XZU4wczMxQ1A4R29IUkZHanfSAWZBVV95cUxNWVNzVUdTVG1CRGg0N0xpNEJTcVJZV2t0QjNjd3NucG9GaVI3eEpWcUV2a0lYLTNnTlRZaTlQbjFIMlNzVEthTWE5TjVOUklaSGx3SFJ0UGRrS0dmQVFhdnhqbHJ0TXc?oc=5",
-      "pub": "Fri, 03 Jul 2026 23:01:00 GMT"
+      "title": "반도체 '빅 이벤트' 줄줄이 대기…내주 코스피 훈풍탈까 - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JOWFaY01fNnRFYkl2bzZDTTNVMXpXS1lIUzR3bW9xZVNkMHFxSTJQOVh2ZlJBRThWZGZkTFYzX19iQUhXVUhHa0k2blRZckNSb0d4Y0Q2YUVtemc0U2pSMzZzSGpkTjNWYVRZQkVWNmM?oc=5",
+      "pub": "Sun, 05 Jul 2026 00:13:00 GMT"
     }
   ],
   "signal": {
