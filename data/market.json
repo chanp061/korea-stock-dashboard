@@ -1,70 +1,70 @@
 {
-  "updated_at": "2026년 07월 07일 07:59",
-  "updated_date": "2026-07-07",
+  "updated_at": "2026년 07월 08일 07:52",
+  "updated_date": "2026-07-08",
   "kospi": {
-    "price": 8051.33,
-    "change": -37.01,
-    "pct": -0.46,
-    "label": "소폭 약세",
-    "emoji": "📉"
+    "price": 7656.31,
+    "change": -395.02,
+    "pct": -4.91,
+    "label": "약세",
+    "emoji": "🔻"
   },
   "kosdaq": {
-    "price": 847.07,
-    "change": -21.34,
-    "pct": -2.46,
+    "price": 831.23,
+    "change": -37.18,
+    "pct": -4.28,
     "label": "약세",
     "emoji": "🔻"
   },
   "sp500": {
-    "price": 7537.43,
-    "change": 54.19,
-    "pct": 0.72
+    "price": 7503.85,
+    "change": -33.58,
+    "pct": -0.45
   },
   "nasdaq": {
-    "price": 26121.16,
-    "change": 288.49,
-    "pct": 1.12
+    "price": 25818.69,
+    "change": -302.47,
+    "pct": -1.16
   },
   "usdkrw": {
-    "price": 1529.81,
-    "change": -0.34,
-    "pct": -0.02
+    "price": 1513.8,
+    "change": -17.54,
+    "pct": -1.15
   },
   "news": [
     {
-      "title": "코스피, 8300선 회복… 삼성전자 실적 발표 앞두고 4%대↑ - 머니투데이 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TTzhnQkNFWUFLSGx3UHMybUllcXdtVEpmMmo2d0pKRDYyTUxvNU12Mkd0djBieDI0S1ZHSlRJQjBMVTlpYThBa2ZrVWhZRnRWaUdLdU1lcTc4ZnpHUGxWUXVtNnJsWl9B0gFuQVVfeXFMUHozZ0hOQ1ROSXB5Q3VpRFdiamtIenFpb1Eza0tKQWxyQ0xyZWFKTXhKeUE5ZGpya3hnVkxkQkRKN3BjX2QydS03ZVNWeXphWUJaSi0zYzAyZ0dJLWp5d1Vyank5cmUxQVhQNDdWaWc?oc=5",
-      "pub": "Mon, 06 Jul 2026 00:32:40 GMT"
+      "title": "'8천피' 무너지자 거래도 뚝…이달 코스피 회전율 올해 최저 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE01emdQdU5CUTZ0TE5GNEgwNHRsWTRGZmFfejZTUG5aaml5VkZHWUVXNnJiTUtDdm5RbXFSVXNCcW91REx6Z2c?oc=5",
+      "pub": "Tue, 07 Jul 2026 02:24:14 GMT"
     },
     {
-      "title": "지난주 17% 급등락 롤러코스피 장세 변화 올까…삼전·닉스 이벤트 주목 - 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82QUJaM1FDOW1zYkoxWWV6NFdFOWdFSWNwcVhtWm9PRE9vNEJYbHlfVjVXQkRSMVBvb2tFUnVENkFFV0FZN3JkVGZZbWV5ckFycGc?oc=5",
-      "pub": "Sun, 05 Jul 2026 23:32:33 GMT"
+      "title": "[센터장에게 묻다]② 반도체 쏠림이 위험하다고?…“올해 코스피 이익 증가분 90%가 반도체\" - 조선비즈 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSUh6bEJiU0dOQUExWGpiTTVnUjlrZGJBZDBZNHlIaXk4alM5Z2tPQXFMM0VORFhlLWJfaGR3YVZIVXZCUDNpdkVUY25pU291czVuNW81SmlJZ2daTnhUQUppa0IzUktqWHN5bE91cVI2S1pZTzUzQ1pOdEVVek9YdTNOenJKWV9j0gGcAUFVX3lxTFBpWWdjLXJDZi02Vkt1Tm9ENWVVcGppVHMzTEtuWWxSOXA2YzhtMlZZMmNDUHQtSGp3aGNvWE81cHotRFJhelNiUGV3U3lBbVNNUWVtZDNsU2xyTkROaFEzZVktd1Z0UUhBY2dGN1JJNFk3YnlSaWpPdE1jdFZ1Z3F2YTMxWEN0WW5OQ3h6NHVNenF1YUNhLXR0UVhRcg?oc=5",
+      "pub": "Tue, 07 Jul 2026 21:00:00 GMT"
     },
     {
-      "title": "'143조 팔고도 아직 많아'…외인, 하반기 시작부터 '매도 폭탄' - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EZEdFeFY4LVhlU1E3ZUNxVC1pbFRzMjBkQXozaEpMWDRMVl9wODZ3Szd6Q1U2bjR4NXJaN0ZwSEI5b0VyMnJncmVUdlZ5M3c?oc=5",
-      "pub": "Mon, 06 Jul 2026 08:41:00 GMT"
+      "title": "삼전 새 역사 쓴 날 코스피 급락, 더 위험한 건 SK 하이닉스? - YTN",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VQ0JNc1hHUTlZam4xZVZpZERGTjJXeFRvY0FsLWUxcjBQMnl6YWIya3dUS2t0MjdncEhPenZ1SHlXWU1ucUE0eDlCSHpiN3B6LWE5eEFHNXFyNThIM3lBbGduN1o2bWJybFlTcDBGeEVta2YteHc?oc=5",
+      "pub": "Tue, 07 Jul 2026 22:34:00 GMT"
     },
     {
-      "title": "주가 2배 ‘삼전닉스 레버리지’ 광풍…코스피 흔드는 꼬리 됐다 - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WVzlMaEg2cFJ3dkFqY2Q2Z2JRbFN5cGw1VnlReVV6S1NsVDVvUTRZcnB4QU9PRTNkZllER3puMm5fSHhiZFJiV3F5NV9lVmF5d0NHUWxEeU5LaWE3NzFMbkZ5Qy16cUE?oc=5",
-      "pub": "Mon, 06 Jul 2026 05:56:00 GMT"
+      "title": "월가 “코스피가 미장 움직인다”…AI투자 2년은 더 간다는데 [특파원 인사이트] - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OV0hjZDVwVzc1MEdjUU5EYnY1RmdqUW9yX1J1bV8wTUlrX2ppQTFiZ1Iyc01nU1JaYUljUFppRnV5ZHVRYjVnNUVIOFhuTWI5T2c?oc=5",
+      "pub": "Tue, 07 Jul 2026 11:09:07 GMT"
     },
     {
-      "title": "골드만 \"韓증시 강세 전망 유지…코스피 1년내 12,000\" - 연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ycTYzMllBYTkyenVpMGd6VGM4ZTB5M2tUbjFHMGo3WmJrRmlUU0lZbEFTd2x3YWdyTm40WVdiSXpWZmRYOExJaUlBNFJqTnR1U1VNLUZzWG9WX3Q0YWpxT2ROelIxcnc2TGV2X3lGa28?oc=5",
-      "pub": "Mon, 06 Jul 2026 06:09:21 GMT"
+      "title": "코스피 불장에 주식·펀드로 몰렸다…1분기 가계 여윳돈 79조원으로 불어났다 - 녹색경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VTExXelFTUTNMTDhQMElCUXBTaEs0c1R5NW9jTks0Ri1yY3hrVjhOOWp5WDdjZXM2VVZNRkhlcUZpa3Rpb1Y5SEVCTFJtdUxvcnJZSFlvOF9xMFljMDVYZ09FMWNiblZG?oc=5",
+      "pub": "Tue, 07 Jul 2026 06:22:04 GMT"
     },
     {
-      "title": "주식투자 권유하는 게 정부가 할 일인가 - 프레시안",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zaVliV0hhUktHQUl1SGtrY1JTMnRLeG9kSEVlMHV5ZTlLZzRsM2pvSEN0NG1jclZkZUdURWthRmQ4X2U0QW1HbUladzJKUkFhYWF4N3p1Z1MwYk56cDd5WXRhWFhsUHVCdUxj?oc=5",
-      "pub": "Mon, 06 Jul 2026 00:23:47 GMT"
+      "title": "폭풍전야 코스피…이번주 ‘삼전닉스’에 달렸다 - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qdTB5bUFodWVpblliT0JibUNRR2RfemZtb2VfVW9jeWNUSVpCbkpDd2RyT0VjUzhuaGNrNnVrT2Jqc1RFZnpBc2VzME9FcHZWX1V1NmI5Rk9kQdIBX0FVX3lxTE8xYjgzN2x3ZW1ZM1lLYnkwM3lZWS1IejBZTEZqSmd5U01LY1RhRXQyLVhZOXJxeHlhaVNnZVdBaE1ZcmtsZXZocm00b3d3Wm1lSFBIOENXdThfeUxJNjU0?oc=5",
+      "pub": "Mon, 06 Jul 2026 07:19:00 GMT"
     }
   ],
   "signal": {
     "text": "시장 조정 국면. 손절보다 비중 축소 후 상황을 지켜보세요.",
     "type": "negative"
   },
-  "one_liner": "코스피 📉 소폭 약세 · 코스닥 🔻 약세"
+  "one_liner": "코스피 🔻 약세 · 코스닥 🔻 약세"
 }
