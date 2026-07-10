@@ -1,34 +1,34 @@
 {
-  "updated_at": "2026년 07월 10일 08:03",
-  "updated_date": "2026-07-10",
+  "updated_at": "2026년 07월 11일 07:52",
+  "updated_date": "2026-07-11",
   "kospi": {
-    "price": 7291.91,
-    "change": 45.12,
-    "pct": 0.62,
-    "label": "소폭 강세",
-    "emoji": "📈"
+    "price": 7475.94,
+    "change": 184.03,
+    "pct": 2.52,
+    "label": "강세",
+    "emoji": "🚀"
   },
   "kosdaq": {
-    "price": 794.0,
-    "change": -37.23,
-    "pct": -4.48,
-    "label": "약세",
-    "emoji": "🔻"
+    "price": 837.43,
+    "change": 52.43,
+    "pct": 6.68,
+    "label": "강세",
+    "emoji": "🚀"
   },
   "sp500": {
-    "price": 7543.64,
-    "change": 60.93,
-    "pct": 0.81
+    "price": 7575.39,
+    "change": 31.75,
+    "pct": 0.42
   },
   "nasdaq": {
-    "price": 26206.89,
-    "change": 336.24,
-    "pct": 1.3
+    "price": 26281.61,
+    "change": 74.72,
+    "pct": 0.29
   },
   "usdkrw": {
-    "price": 1505.88,
-    "change": -0.6,
-    "pct": -0.04
+    "price": 1498.87,
+    "change": -7.61,
+    "pct": -0.51
   },
   "news": [
     {
@@ -37,34 +37,34 @@
       "pub": "Thu, 09 Jul 2026 11:04:34 GMT"
     },
     {
+      "title": "\"팔기만 하던 외인 돌변\" K주식 사들인다...코스피 90%가 상승 - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pNmdVVWNYektNSFFETXZaQngxSjZSTjk0dmFyV1ZMTDFkbnN5VHYwMGlZUzVKYzF5WjZKV0N5b0k1MkZrNHdlRzZ4RDdxSmhOUV8tNzFxTGpGcVdMZUlfRHNiRE1YT1Fi0gFuQVVfeXFMTVgxMFdjaXR0ZFZ2cWJpYk9LUGFrcWZPd2JuYVhyQ2ttSy1TN2pydEZHajZjVkdnckI4eVJpWElkdnB6ME9kanhDNDVjSnhuQWVnVVhnaVcyQmVEZkRmZEVFQzVEaUVicUh0amllTlE?oc=5",
+      "pub": "Fri, 10 Jul 2026 05:09:38 GMT"
+    },
+    {
+      "title": "반년만 코스피 사이드카 34번…글로벌 금융위기 때보다 많아 [이런국장 저런주식] - 서울경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHRTFkX3l0Wll5QkpIeHlRNWNMR0I5MUgwZVBfRHR3M1UxOU01VEhUSURvc2ZOVGt1MWQ2ZUV1N29XN19iS1VpUm93bUFGUmRvdEHSAVNBVV95cUxOeUw3UWV1dEx6dmh5YTYtLWpIeHc2R24xSFV1a2tPUHlzajNPWWtuNmFBODBMT2drWml3LU16d2RvbWMwQzRiNnU3M1FqWEZQTUl1Zw?oc=5",
+      "pub": "Fri, 10 Jul 2026 21:00:00 GMT"
+    },
+    {
+      "title": "\"이래서 국장은 안 한다고 했는데\"…코스피 변동성 혀 내두른 서학개미들 [개미의 세계] - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9rT0d5alBFWTUxVlljd2FENTlwSjFJcXduUlRzdndNRmJjenZmWklGZDdlTUUxM0gzZXZWMzRqMzJLNnhzX1E?oc=5",
+      "pub": "Thu, 09 Jul 2026 21:01:08 GMT"
+    },
+    {
       "title": "코스피 조정에 국민연금 리밸런싱 실패···국부 유출 비판 불가피 - 시사저널e",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKTW80dWRrX1JaYS1KMk1iLTlOWXhTQW52OExESDZ5ZXJZZ3hfWVBlVHJTTHdNOHlqUF81bTRFRTJqV1pwU3FLbG1KRlAzN185UjB2Zk9FV2JrMWpvUnd6OWlTbzNHNnJhejYzMHA0RU1GUdIBdkFVX3lxTFBlMko2c0cxOFdTMkk0MjdENEk2bkFEVmd4eGtQV0tSSlN2cGZfMnhEWkw2T09BZGtUVzY5VG9ibWdUN0dhU0NxTDBCRWRmUzNad2RyMkxjMjhNRkNHa1pFenVWdFRoMWpFSlFTUXVLVWhIOVhmSXc?oc=5",
       "pub": "Thu, 09 Jul 2026 08:16:10 GMT"
     },
     {
-      "title": "\"이래서 국장은 안 한다고 했는데\"…코스피 변동성 혀 내두른 서학개미들 [개미의 세계] - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NVHljOFdJcUZXYXY2d09VOHJiM2FQMEhhNGJOTk5hd0w2d1JxMGpOMFFuZjZRZ0lhMFBBRXQxTDdGZVJWa3RJcEpkYkRPM0E?oc=5",
-      "pub": "Thu, 09 Jul 2026 21:01:08 GMT"
-    },
-    {
-      "title": "꼬리가 몸통 흔드는 ‘투기판 코스피’ - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVnZOblBoSHB5UTEyN3BLbERyeGREanhOaW9HTjVYdkZEOGhTZXpPWXB6X0hrbGhJdFhBemtmNEpRMjMySXVOX0lrQkl4eXJZa3E5OHNPd2RlZW5qLWlpd29xTDRPYXd1WGdpM25oS3cxR3lUUDROWUN1YmJlZGw5SzlKT3dyajRfQmxn?oc=5",
-      "pub": "Thu, 09 Jul 2026 15:57:00 GMT"
-    },
-    {
-      "title": "“삼전·닉스가 곧 코스피냐” 레버리지 더하면 증시 거래대금 83% 독차지 [이런국장 저런주식] - 서울경제신문",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DVk9YTm04VFRjRkpfSnAweWF2b0NQNldld3EySW94MjJzMzUxdmd1VkRoUzVIekVkcTFTVzNLUTlWSHpBbGJXYmtWVGg2bVNRNmfSAVNBVV95cUxOaWhnREthQVlKRTN5eUtWVVU5NkIteU4tS2lNd2dnOGZmMmhqalRIck44cGlSeUhlc21UcUpydm0wci1KRjdxQmpxcFBURHoxV1R1Yw?oc=5",
-      "pub": "Thu, 09 Jul 2026 08:18:59 GMT"
-    },
-    {
-      "title": "‘통제 불능’ 레버리지… 코스피 5% 이상 변동 올해 25일, 작년엔 2일 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GV3ZuOUZZcms1SlBQUE45UzEtbzg3TVg3SjVDR1hZSi1fdEE4Mm1ITTdvdEN5MG1TcThKT1hkZTFpckpOV3FBUmhtazRSZFk?oc=5",
-      "pub": "Thu, 09 Jul 2026 15:54:11 GMT"
+      "title": "[특징주] 코스피 반등에 증권株 동반 강세…“2분기 호실적 기대” - 조선비즈 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQkdFV2lOVHVGYjFDQTI3U1FCUnI2dDhnbnhQNXlFRFRFYzFvVkF1R29oMGZWLXdxYUlxYTFzcHhaaGUyNlNhaURUS01xb2tsRFNITWNOVThHQ0gyaWtwVmdrdW5obmhlbm1ZSy16S2NwVXdNaWR6RnZnVzBES3duU1MtVU9QX09w0gGcAUFVX3lxTE9oNDZLNWZrZEQ0cXd4Sy1MdWpxbWViSUJ0Wl9zSlZUM2xHVmdUeU5rVWZ6YURGM3J3OS1UM2stNHFXb1NWTkJ6MXhXMU05SWxmbEpSWThpMTcwZ0pDQXEycnN1bHZoZ1J4dmpZQjhRNi10Zk15TUZTNHdya0pHd19hS1RjamxfVEk5bzlpLUNZd1VoX0FLNkFJUlpFWQ?oc=5",
+      "pub": "Fri, 10 Jul 2026 00:48:00 GMT"
     }
   ],
   "signal": {
-    "text": "시장 조정 국면. 손절보다 비중 축소 후 상황을 지켜보세요.",
-    "type": "negative"
+    "text": "오늘 시장은 강세입니다. 추격 매수보다 보유 전략이 유리할 수 있어요.",
+    "type": "positive"
   },
-  "one_liner": "코스피 📈 소폭 강세 · 코스닥 🔻 약세"
+  "one_liner": "코스피 🚀 강세 · 코스닥 🚀 강세"
 }
