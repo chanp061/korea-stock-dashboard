@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026년 07월 11일 07:52",
-  "updated_date": "2026-07-11",
+  "updated_at": "2026년 07월 12일 07:38",
+  "updated_date": "2026-07-12",
   "kospi": {
     "price": 7475.94,
     "change": 184.03,
@@ -10,8 +10,8 @@
   },
   "kosdaq": {
     "price": 837.43,
-    "change": 52.43,
-    "pct": 6.68,
+    "change": 43.43,
+    "pct": 5.47,
     "label": "강세",
     "emoji": "🚀"
   },
@@ -37,29 +37,29 @@
       "pub": "Thu, 09 Jul 2026 11:04:34 GMT"
     },
     {
-      "title": "\"팔기만 하던 외인 돌변\" K주식 사들인다...코스피 90%가 상승 - 머니투데이 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pNmdVVWNYektNSFFETXZaQngxSjZSTjk0dmFyV1ZMTDFkbnN5VHYwMGlZUzVKYzF5WjZKV0N5b0k1MkZrNHdlRzZ4RDdxSmhOUV8tNzFxTGpGcVdMZUlfRHNiRE1YT1Fi0gFuQVVfeXFMTVgxMFdjaXR0ZFZ2cWJpYk9LUGFrcWZPd2JuYVhyQ2ttSy1TN2pydEZHajZjVkdnckI4eVJpWElkdnB6ME9kanhDNDVjSnhuQWVnVVhnaVcyQmVEZkRmZEVFQzVEaUVicUh0amllTlE?oc=5",
-      "pub": "Fri, 10 Jul 2026 05:09:38 GMT"
-    },
-    {
       "title": "반년만 코스피 사이드카 34번…글로벌 금융위기 때보다 많아 [이런국장 저런주식] - 서울경제신문",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHRTFkX3l0Wll5QkpIeHlRNWNMR0I5MUgwZVBfRHR3M1UxOU01VEhUSURvc2ZOVGt1MWQ2ZUV1N29XN19iS1VpUm93bUFGUmRvdEHSAVNBVV95cUxOeUw3UWV1dEx6dmh5YTYtLWpIeHc2R24xSFV1a2tPUHlzajNPWWtuNmFBODBMT2drWml3LU16d2RvbWMwQzRiNnU3M1FqWEZQTUl1Zw?oc=5",
       "pub": "Fri, 10 Jul 2026 21:00:00 GMT"
     },
     {
-      "title": "\"이래서 국장은 안 한다고 했는데\"…코스피 변동성 혀 내두른 서학개미들 [개미의 세계] - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9rT0d5alBFWTUxVlljd2FENTlwSjFJcXduUlRzdndNRmJjenZmWklGZDdlTUUxM0gzZXZWMzRqMzJLNnhzX1E?oc=5",
-      "pub": "Thu, 09 Jul 2026 21:01:08 GMT"
+      "title": "7000선대로 내려앉은 코스피…'1만피' 퍼즐 다시 맞춘다 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBvWlQwUWRtODEzNG1jZjE5ejkxZncxSncycVV4YWkzNmV4b1dHSS1JSEdfSkdKR3A1WTdUc0Z4WlU3QnJ2M015OGk5OTJzRTg?oc=5",
+      "pub": "Fri, 10 Jul 2026 23:12:02 GMT"
+    },
+    {
+      "title": "코스피 조정에 개미 주식 1400억원 강제 처분⋯하루 새 5배↑ - 이투데이",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XTFlIWjFKWFJrTFdNaml1c21DYnpyTkFNclFrSUxKbTVkQ2w5U1lFb0dVeDBrenF4MkptYUlGSnRkTUJWRVFmcDJvZ3BKU2tIRkJCRA?oc=5",
+      "pub": "Fri, 10 Jul 2026 07:47:00 GMT"
+    },
+    {
+      "title": "[특징주] 코스피 반등에 증권株 동반 강세…“2분기 호실적 기대” - 조선비즈 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQkdFV2lOVHVGYjFDQTI3U1FCUnI2dDhnbnhQNXlFRFRFYzFvVkF1R29oMGZWLXdxYUlxYTFzcHhaaGUyNlNhaURUS01xb2tsRFNITWNOVThHQ0gyaWtwVmdrdW5obmhlbm1ZSy16S2NwVXdNaWR6RnZnVzBES3duU1MtVU9QX09w0gGcAUFVX3lxTE9oNDZLNWZrZEQ0cXd4Sy1MdWpxbWViSUJ0Wl9zSlZUM2xHVmdUeU5rVWZ6YURGM3J3OS1UM2stNHFXb1NWTkJ6MXhXMU05SWxmbEpSWThpMTcwZ0pDQXEycnN1bHZoZ1J4dmpZQjhRNi10Zk15TUZTNHdya0pHd19hS1RjamxfVEk5bzlpLUNZd1VoX0FLNkFJUlpFWQ?oc=5",
+      "pub": "Fri, 10 Jul 2026 00:49:00 GMT"
     },
     {
       "title": "코스피 조정에 국민연금 리밸런싱 실패···국부 유출 비판 불가피 - 시사저널e",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKTW80dWRrX1JaYS1KMk1iLTlOWXhTQW52OExESDZ5ZXJZZ3hfWVBlVHJTTHdNOHlqUF81bTRFRTJqV1pwU3FLbG1KRlAzN185UjB2Zk9FV2JrMWpvUnd6OWlTbzNHNnJhejYzMHA0RU1GUdIBdkFVX3lxTFBlMko2c0cxOFdTMkk0MjdENEk2bkFEVmd4eGtQV0tSSlN2cGZfMnhEWkw2T09BZGtUVzY5VG9ibWdUN0dhU0NxTDBCRWRmUzNad2RyMkxjMjhNRkNHa1pFenVWdFRoMWpFSlFTUXVLVWhIOVhmSXc?oc=5",
       "pub": "Thu, 09 Jul 2026 08:16:10 GMT"
-    },
-    {
-      "title": "[특징주] 코스피 반등에 증권株 동반 강세…“2분기 호실적 기대” - 조선비즈 - Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQkdFV2lOVHVGYjFDQTI3U1FCUnI2dDhnbnhQNXlFRFRFYzFvVkF1R29oMGZWLXdxYUlxYTFzcHhaaGUyNlNhaURUS01xb2tsRFNITWNOVThHQ0gyaWtwVmdrdW5obmhlbm1ZSy16S2NwVXdNaWR6RnZnVzBES3duU1MtVU9QX09w0gGcAUFVX3lxTE9oNDZLNWZrZEQ0cXd4Sy1MdWpxbWViSUJ0Wl9zSlZUM2xHVmdUeU5rVWZ6YURGM3J3OS1UM2stNHFXb1NWTkJ6MXhXMU05SWxmbEpSWThpMTcwZ0pDQXEycnN1bHZoZ1J4dmpZQjhRNi10Zk15TUZTNHdya0pHd19hS1RjamxfVEk5bzlpLUNZd1VoX0FLNkFJUlpFWQ?oc=5",
-      "pub": "Fri, 10 Jul 2026 00:48:00 GMT"
     }
   ],
   "signal": {
