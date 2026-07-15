@@ -1,34 +1,34 @@
 {
-  "updated_at": "2026년 07월 15일 07:48",
-  "updated_date": "2026-07-15",
+  "updated_at": "2026년 07월 16일 07:50",
+  "updated_date": "2026-07-16",
   "kospi": {
-    "price": 6856.83,
-    "change": 49.9,
-    "pct": 0.73,
-    "label": "소폭 강세",
-    "emoji": "📈"
+    "price": 7284.41,
+    "change": 427.58,
+    "pct": 6.24,
+    "label": "강세",
+    "emoji": "🚀"
   },
   "kosdaq": {
-    "price": 783.98,
-    "change": -53.45,
-    "pct": -6.38,
-    "label": "약세",
-    "emoji": "🔻"
+    "price": 829.43,
+    "change": 30.07,
+    "pct": 3.76,
+    "label": "강세",
+    "emoji": "🚀"
   },
   "sp500": {
-    "price": 7543.59,
-    "change": 28.25,
+    "price": 7572.4,
+    "change": 28.81,
     "pct": 0.38
   },
   "nasdaq": {
-    "price": 26107.01,
-    "change": 233.83,
-    "pct": 0.9
+    "price": 26269.23,
+    "change": 162.22,
+    "pct": 0.62
   },
   "usdkrw": {
-    "price": 1488.6,
-    "change": -8.42,
-    "pct": -0.56
+    "price": 1486.48,
+    "change": -1.75,
+    "pct": -0.12
   },
   "news": [
     {
@@ -37,34 +37,34 @@
       "pub": "Mon, 13 Jul 2026 22:36:00 GMT"
     },
     {
-      "title": "[코스피·코스닥 전 거래일(14일) 주요공시] - 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85TXFDQVRtekd4dzEwQUZNcHZhYmlIeVFkZGdyWmZqS0tiVmM2VkhPTllZeTBDcE1mdkcxWkFTaDBhdHVOSTFjMjFtRUViNFBDLXc?oc=5",
-      "pub": "Tue, 14 Jul 2026 21:05:01 GMT"
+      "title": "외국인.기관 '쌍끌이'에 코스피 7300선 회복 - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZSjFhZmdsMXVOY3djQmY0a1pTVlQ3cUFwVjh0SEdBYWVOeUIzODY5Y0dSNnZhOVU3RWRvNmxmYS1YcjByRXF5TEd6LWp6MTFYTHVjalpGQ09OUFFkNFVucA?oc=5",
+      "pub": "Wed, 15 Jul 2026 05:13:00 GMT"
     },
     {
-      "title": "“삼전·닉스 믿었건만···역시 답은 미장” 널뛰는 코스피에 지친 개미들 국장 발 뺀다 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBnTEVwMENjTE8xN2xyUVNsdXg3QWhFalIxeXZKQXkzSUctVFkwOHNXRUN3eDFxRG1FanlHYlJxZFVnVVM2eTBWMWhYNGc1ejQ?oc=5",
-      "pub": "Tue, 14 Jul 2026 08:11:08 GMT"
+      "title": "[코스피·코스닥 전 거래일(15일) 주요공시] - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tVUVYanptMEl2ZmJmY21velZLdEMwcjlESkc1VXhHdEZUX2tRUFRIZVQ3aUFRdlpNZDhzbUpRbnVGM3I1enl6LWFYY1pHQXNQWkE?oc=5",
+      "pub": "Wed, 15 Jul 2026 21:05:01 GMT"
     },
     {
-      "title": "이해 안 되는 '롤러코스피' 질렸다…다시 '국장 탈출' 美 주식 순매수 - 뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MVXdDWUpYN29aR2NTelNBNkhSS0lzYXZaa0hLTGoxd3hxdDZVZ0pCYmVqYk9SeDU0aExESFlwZEFEY0tPclV1MHAxaHhnVW5OOWdoNFpyY3pseVk?oc=5",
-      "pub": "Tue, 14 Jul 2026 07:45:53 GMT"
+      "title": "코인보다 변동성 커진 코스피, ‘단타’ 늘고 레버리지 광풍…쏠리는 개미들 - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HVDQ0emZGanVScnRwN0h3dnVEZWxaRlFBWF9MS0pYajBWeFBjT1ZPX3o2b1BXWUdIdXlpTXNNRGhGSHRNWWVJSVNGd2NUbG56THI3VE9QMzRRUG15UkR2SWR5Q0g1SnpPYUlJd0JnRVYxUQ?oc=5",
+      "pub": "Wed, 15 Jul 2026 20:00:00 GMT"
     },
     {
-      "title": "이적료 700억 이강인, 이곳서 포착 / 아 내 주식 SK하닉, 코스피서 폭락 [정오블핑] - mbn.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBMS0tySTUxamkzZ0lJVHZkQlFqenAxamJMZjlOUENNZ2pVZUlSSS12ZlBXd3NDQmF2SnU3MXM0dnhtQ1RIbjY0TzVtdnB6NkNRSDhBatIBTEFVX3lxTE90d0liVGhxeFRJbFdCOWg0VlRMQWJLYzBOUzFrMFRVTVNUZEsyd1RlS21mZVBOOWtSOUJEWmZINWNPNURLbGtOdElBamk?oc=5",
-      "pub": "Mon, 13 Jul 2026 03:07:01 GMT"
+      "title": "“대마불사라더니 잡주처럼 움직여”…200만원짜리 주식 43%폭락 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0bjgzNGZfaUxKTngzOURldXNYaWNaRjRKMUVNRTlzZ0p6Tzl3S3FndnRtd2d0Um9qQ2JwVjVxSWEzZnpJQ2hOQWVrWlh4OUE?oc=5",
+      "pub": "Tue, 14 Jul 2026 10:51:02 GMT"
     },
     {
-      "title": "삼성증권, '주식모으기 이벤트' 진행…코스피200 종목 중 1주 지급 - 파이낸셜뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WUElta3Q1WXo5QzFRYU9uMXduSGlvVHJCMFYta3VjSzZ6OW5YdENMa0FZYmhjazVDckdRYWgxVlNOX1NRS0tUSFltcHFqcjk2Tm9CQW1SOERxdw?oc=5",
-      "pub": "Tue, 14 Jul 2026 00:57:01 GMT"
+      "title": "블룸버그 “코스피,레버리지 변동성 악순환 실험장” - 문화일보",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IYU9JR0c1d3FwT2NQNEJuVm1oQUotX0VMMDNyYzlOVTExN2o3T3NZNUs1MHJTR0htb2c1ZmNBWWxUMHlrTGxvZThNZHhFQ0R1?oc=5",
+      "pub": "Wed, 15 Jul 2026 11:59:46 GMT"
     }
   ],
   "signal": {
-    "text": "시장 조정 국면. 손절보다 비중 축소 후 상황을 지켜보세요.",
-    "type": "negative"
+    "text": "오늘 시장은 강세입니다. 추격 매수보다 보유 전략이 유리할 수 있어요.",
+    "type": "positive"
   },
-  "one_liner": "코스피 📈 소폭 강세 · 코스닥 🔻 약세"
+  "one_liner": "코스피 🚀 강세 · 코스닥 🚀 강세"
 }
