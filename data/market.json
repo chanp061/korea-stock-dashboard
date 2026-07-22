@@ -1,70 +1,70 @@
 {
-  "updated_at": "2026년 07월 22일 07:45",
-  "updated_date": "2026-07-22",
+  "updated_at": "2026년 07월 23일 07:54",
+  "updated_date": "2026-07-23",
   "kospi": {
-    "price": 6747.95,
-    "change": 231.68,
-    "pct": 3.56,
-    "label": "강세",
-    "emoji": "🚀"
+    "price": 6797.7,
+    "change": 49.75,
+    "pct": 0.74,
+    "label": "소폭 강세",
+    "emoji": "📈"
   },
   "kosdaq": {
-    "price": 753.34,
-    "change": -38.5,
-    "pct": -4.86,
-    "label": "약세",
-    "emoji": "🔻"
+    "price": 751.09,
+    "change": 1.45,
+    "pct": 0.19,
+    "label": "보합",
+    "emoji": "➡️"
   },
   "sp500": {
-    "price": 7509.2,
-    "change": 65.92,
-    "pct": 0.89
+    "price": 7498.96,
+    "change": -10.24,
+    "pct": -0.14
   },
   "nasdaq": {
-    "price": 25837.21,
-    "change": 329.13,
-    "pct": 1.29
+    "price": 25690.9,
+    "change": -146.31,
+    "pct": -0.57
   },
   "usdkrw": {
-    "price": 1480.1,
-    "change": 4.69,
-    "pct": 0.32
+    "price": 1476.35,
+    "change": -3.52,
+    "pct": -0.24
   },
   "news": [
     {
-      "title": "\"김대리, 삼전닉스 주식 몰빵했다며?\"…코스피 폭락에 '포모'가 '조모'로 - 아시아경제",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hRDlvWU50YVdrY25ySlhkTFF5RnktSm9iNF9MTEdsREZYUzVvLTVBZXRaT1ZIR21TMWpyZTJzLXJlekpFSmYyaXl5MnBGcG1mMDhtQXFsWDRnM0pwVFE1ZVFB?oc=5",
-      "pub": "Tue, 21 Jul 2026 02:16:54 GMT"
+      "title": "코스피 변동성에 지친 개미들… 美주식 순매수 한 달 새 4배 늘었다 - 조선비즈 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTFZkOUlJQlhFMmRqc1RydWRvcTg0SjVfdkJmQ3ZjVVRhWjIyelBKa2cxLWFPSEFVM1N0eU5BcHZoYk9raUZlVER5TXZLZTl3STdjRVVfSUR6eVUyWVAteV9DbVFNbkdTdDM5eUN6WUdtLU1NZmRVZjlEeENpWmJCWVFmTjdWZlhS0gGcAUFVX3lxTE5aR1VJY2ZmLVNld01JLVpFU1U0aVp0MGJUalJ3dnhqSUpXZWpJY2lCZFZtX2UwMlVycGJKOXVIWHVMT2EwbGw3NzE2X3J1d01PQ2V1V2NmdnJsdDAyMjRRSHdFNVZjM2JDRF8yWU96X1l5Ty00R1RrYVNhbWZwMDNEeUJlcl9wWlV0TkF3OTZPVVR2Wk9YMnRDSVIyVA?oc=5",
+      "pub": "Wed, 22 Jul 2026 07:07:00 GMT"
+    },
+    {
+      "title": "'뒷심 부족' 코스피, 외인 3.5조 순매수에도 '칠천피' 탈환 실패 - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12WmxvUWtGdy1sajR3dG9vX2swX3BaWi02eWdVSlppd2FEQjFjT0haME13Vm93cHZsZmRfZ0R1U1BrX3hHdG44NGg0XzRBLVNSNlR2QkFpVVlWUQ?oc=5",
+      "pub": "Wed, 22 Jul 2026 06:43:11 GMT"
+    },
+    {
+      "title": "코스피 뚝 떨어질 때 선방한 주식은?… 추가 상승은 ‘글쎄’ - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jWXJuU21WeGJtQTh6MjVEUFlTcW9qcnV1X0laUFNGX0xkeEJEYUI1NjlxOGhFbDh4NUh1RE02NUVCUjlWNnJta1ZzakhBWU0?oc=5",
+      "pub": "Wed, 22 Jul 2026 20:03:07 GMT"
+    },
+    {
+      "title": "코스피, '조정장'에 주식 강제처분 500억원대로 증가 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fUUc5NjdMV1lsZmZuVDJjU29BejM1R2p0dDVvdFRBdEIwNUJYTzhSZnozNjJZTS1ZN0JjSmduRmFQcVR2Z1Vzb25pYlFGWDJRY2pLYVdEdnhobknSAWBBVV95cUxQdXUySmMzelVfaDhXNXl5TjFOQUl4YU9iV0RrSXlpV2paeDAyS3FfWDAzblpMN1A2RVVPVnY5Z0R1cUhQWm9SSWRtWjc0QnJwa3Z3Y01uUndWWkw2WDhxR0E?oc=5",
+      "pub": "Wed, 22 Jul 2026 06:50:41 GMT"
+    },
+    {
+      "title": "한 달 사이 28% 급락한 코스피, ‘포모’ 대신 ‘조모’가 뜬다고? (feat. 증시 전망) 😵‍💫💰 - 뉴닉",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxNUxBVWJ3aGd4RHZvTXZfVkhWb244cVBYTzIwbmF4NElhWkNpeUJJV3FnODRnT01PdVdEWXYtR19TcEdCUTdGdzBZLXlvc2dHSGFB?oc=5",
+      "pub": "Wed, 22 Jul 2026 04:24:27 GMT"
     },
     {
       "title": "코스피 짓누르는 SK하이닉스 ADR 프리미엄…\"TSMC 전철 밟을라\" - 인베스트조선",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQXFIbmRoMHRQYk5aQkt6cUJjd2d4ZGxTaVB5ZW4yQWpzY0otVVJJZHdqWTdES3hQaFptMnQyQm9hTU1XR3pIWGtOcVI2ZkJLenF1QjhYa2dPTFkwNUI4VmZlV0VzRmNkX2NHQmVJWXlaMnpRSE01T0RZVTYybUt0MjBfYw?oc=5",
       "pub": "Mon, 20 Jul 2026 07:04:00 GMT"
-    },
-    {
-      "title": "\"전 세계 모두 코스피만 쳐다본다\"…삼전닉스 주가 향방은 - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zaDBWTThPVlF5R3RlTURBaldGalRPQTdpQmQyTjd2YmF4Z3pJZXVpZm9NWTNMaFgycTNVTmZXSTYxLW1kQVo2OGQtWUtGbkpNa1BXZkFoTEcxQQ?oc=5",
-      "pub": "Sun, 19 Jul 2026 12:12:08 GMT"
-    },
-    {
-      "title": "하닉ADR 1.86%↓ …'연속 매도 사이드카'에 얼어붙은 코스피, 6000P 지킬까 - 파이낸셜뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yaWNvUmlIZzJBYXlBWjlod2otbkJTWEl1ZmF1aGlyTTluX1NJX1hVRENrclBZYUZHQWJma2xTR0JTTW5PRTBIbEpsSzNFajZzT2N2dmhLdmNUQQ?oc=5",
-      "pub": "Mon, 20 Jul 2026 21:53:28 GMT"
-    },
-    {
-      "title": "“주식 앱 지우는 사람이 승자?”…23% 폭락 뒤 뒤집힌 ‘투자 심리’ [숫자 뒤의 진실] - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wT2N5eERNbk44Vm1kVGZmMlZLWG1zOE9MUnd0MFlsTk9lWktlMWt5QXRreTR1a21DVkxpWGZmMFVxUndNS3duc2psRTM4NjQ?oc=5",
-      "pub": "Tue, 21 Jul 2026 20:03:20 GMT"
-    },
-    {
-      "title": "'코스피·환율↓' 서학개미 다시 '미장'으로?…순매수액 5개월만 최고 - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qRS1ZejhHY0ZzajlkdWRfTmpMWS1xdWVlUDRTNEdfZVNDWW5PWEhtS2M4Y3JQQ2daLXJMVUJsZUg2R0ZuQ29VcGZQZmt2Rl9kSzJNSWJ1YjBDLTjSAWBBVV95cUxOR0ZXNElLY3pHYl9reEhaMk9TNDJrY2g0M09HNzFnazUtbmx4V3NSWXZyeFZGZU5uVzRYcWFyMjRpLV9yUWJ6ZHl3V21nWnB5ZFI3UGFBSm9ERm4yNzZuQnI?oc=5",
-      "pub": "Tue, 21 Jul 2026 05:47:07 GMT"
     }
   ],
   "signal": {
-    "text": "소폭 하락권. 패닉셀보다 분할 매수 기회를 살펴보세요.",
+    "text": "소폭 상승권. 뚜렷한 방향성보다 관망이 적절합니다.",
     "type": "neutral"
   },
-  "one_liner": "코스피 🚀 강세 · 코스닥 🔻 약세"
+  "one_liner": "코스피 📈 소폭 강세 · 코스닥 ➡️ 보합"
 }
