@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026년 07월 25일 07:54",
-  "updated_date": "2026-07-25",
+  "updated_at": "2026년 07월 26일 07:44",
+  "updated_date": "2026-07-26",
   "kospi": {
     "price": 6690.62,
     "change": -406.27,
@@ -10,10 +10,10 @@
   },
   "kosdaq": {
     "price": 748.22,
-    "change": -2.87,
-    "pct": -0.38,
-    "label": "소폭 약세",
-    "emoji": "📉"
+    "change": -42.06,
+    "pct": -5.32,
+    "label": "약세",
+    "emoji": "🔻"
   },
   "sp500": {
     "price": 7411.98,
@@ -26,45 +26,45 @@
     "pct": -0.64
   },
   "usdkrw": {
-    "price": 1459.42,
-    "change": -14.71,
-    "pct": -1.0
+    "price": 1462.1,
+    "change": -12.03,
+    "pct": -0.82
   },
   "news": [
     {
-      "title": "7천피 무너진 코스피…다음주(27~31일) 주목해야 할 증시 이벤트는? - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQb1IySW1mdGRCaW9GYW5KNGVjV2lfSFdTWmtMQUNYODJKUEpRSzRuNEdjeERKdW9lRDBwRjZ4aGJ4RFhZUllWNlZBLWhmajVfU1BmcVNJZUJEdw?oc=5",
-      "pub": "Fri, 24 Jul 2026 07:05:31 GMT"
+      "title": "다음주 SK하이닉스·삼성전자 실적 발표…코스피 향방은 - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4VUJCWm9GY1pKUnRJUDRpeDNYSXUxdWs3YjRPQWIxcDlfZV9nZ0h5WVFzVjVuLU9TZ3haSWZRVlRDNTBjOFhkTUJ5T1U4VUVTUHk1aTdoZnlWcFJWZUxvRWdnbHAtV05qemMtUHhVU1jSAXRBVV95cUxOdHpfRlhDQklRNzVPNlF0NWxfVXV0WEZHNVVPTno3RlgzZkJIT3AyNGl0aUtweHFfNkJmNDdnRlFqYnY0V0dvX0gtTW93Zkh6VWpSR2FVNHZKSWxLNl9zV0dkX2dzeDlVdTRjUFFOWWlIaGxiOQ?oc=5",
+      "pub": "Sat, 25 Jul 2026 22:20:03 GMT"
     },
     {
-      "title": "삼성전기(009150) - 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc0dvSlhYVFFhSXk2akJYM3pnRkF6NWhRQmczcndFd09HRFpYZmppdEt2bTNoSWRPVW1VNDNkcWZTUmRDaU9uM2R1dG11S2Jpc1ZVU29GMkMzcWJTTXVVeTN2VmVFTGQ1TDBYOHozZE9PS0tQMFBkSGVSWGlJVGp5SGNkbmpvOUoxMlV2T1o0NUdEWk5ZNVdn?oc=5",
-      "pub": "Fri, 24 Jul 2026 15:41:22 GMT"
+      "title": "지금 코스피, 싸진 걸까 위험해진 걸까…한은의 진단은? [Deep Spot] - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9fQ1gwcEpmQzNoVkdzMHpVWW9uclZzTWpSNGluUU9UdUh1SWl5SFBDd1ZXUkx5TkVXTkwzOWY1N3FoemgwVnc?oc=5",
+      "pub": "Sat, 25 Jul 2026 01:39:39 GMT"
     },
     {
-      "title": "[7월 8일](국장 마감) 코스피 5.7% 대폭락, 중동발 유가 급등과 제약/바이오의 독주 - 네이버 프리미엄콘텐츠",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZDZCbjZyS3RJUXNyRzBsM2ZwRXZHNXVaZXlRb1daMzB4dzlkWF9IbTF2dVdNWW5fN2xzV2ZuX2FhcUN3VzBoTDYxMVZzLTdRYUt0LXhzN2hxZ295bFNtRWNyZ1BER3QyZ2l5QnJTblRTeG9Od29IM045MnRpdXRvdWg2c2hWTG5GaWV1M0VUZVZkUQ?oc=5",
-      "pub": "Fri, 24 Jul 2026 11:03:00 GMT"
+      "title": "7천피 붕괴 와중에도...\"55% 올랐다\" 블랙데이 살아남은 주식[김근희의 증시 랩업] - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YbE5BbWRwTUdaQk81M0tkT2hDcVNPUlFXd0p5QkJrbmlKcHVPTlgxWGhBYzFWRFl5T0lERDliV0lsNUctYjRzbkRBMDI2ZndGaEZ5V2huUVZiYmtCaC1QSUhUejVWYnp30gFuQVVfeXFMTllyTnVvTnFyMFdxcTZkUEQwMXVzVWh1RnRqX1JfT0pQMVpsZ1RXajFCcVpVczY1cmZhX1g4a0xVcWQxQUFOZFY5b1ZUUzhiU3lCSWZWWDFYa0RDWW51b1g2NFdmV01sQWNJb1NoNmc?oc=5",
+      "pub": "Fri, 24 Jul 2026 21:00:00 GMT"
     },
     {
-      "title": "[이슈]“정말 더는 못 견뎌”…‘롤러코스피’ 개미 대탈출 - 문화일보",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5PbFl0THk4OTZsTUNFZkFMdVppNDFGSG9HX3ROUUd1WDM4Sms5ejFwSl9rNGVYYTkwUHVNdlJmbnJtVDlHS2FLN21VWFZ5UEc3?oc=5",
-      "pub": "Fri, 24 Jul 2026 17:59:09 GMT"
+      "title": "10일 내내 사이드카… 도박판 뺨친 코스피 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORnpJc200OVNtUF8yTFFORm5zSDBSa0Y3dU1JdFdac09jMzViQTRHa2FYdEowSXNFcHpLZFVfLTViWFNpcnBhWmpWYVZvSXdEV3lJVEhtV2pRcXdpZTROY3BOMFNxZXlWQ29hazlrOTNOTXZJUmE5V2JVWGJOVzBLanNxS2NvajdSbk9IVDlB?oc=5",
+      "pub": "Fri, 24 Jul 2026 15:55:00 GMT"
     },
     {
-      "title": "코스피 두 배 뛴 상반기…펀드 이익배당금도 70% 급증(종합) - 마켓인",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA0RjZEVVBsZTJRTmNfWHF6WTF3TWplRGJGT0lTNmZ0U3MtTy1FMG5HR1A5SkR0TGhOb1FGOFNDaW5wZ0NiaVdXXzFYZUR4ckJqM1I1SzlEaGlPRUlvcF92N29TbFBtd2dtTGZnLU0yRnpzUTQ?oc=5",
-      "pub": "Thu, 23 Jul 2026 07:36:20 GMT"
+      "title": "롤러코스피에 다시 美로?…7월 서학개미 순매수 4배 늘었다 - 마켓인",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBYam9lU283cE84VmlUc1lKUGNvRXlsNjdCb1ZvSHJLMkdXZDdmYjNuS2I2WU11TE02U1Q4eHczWVl0QjdCckdxXzdnXy10bGRpRDhfWS1TbEp5OVd1OWlxR0NrTU00bm1qVkh5azZHTTIyZ1E?oc=5",
+      "pub": "Sat, 25 Jul 2026 00:07:54 GMT"
     },
     {
-      "title": "[시론]코스피는 상승했지만, 누가 웃을까 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBKV2lFeVVtSTNjelRKZ1Uzd1pST1E0VUhmenhEelExaEZVdGg2dWtJY1BNMXNFbzRLSlhvWmw5UkJxOHFNTVEzQVo3eTlFNXM?oc=5",
-      "pub": "Thu, 23 Jul 2026 02:21:49 GMT"
+      "title": "'주식 계좌 녹는다더니'…폭락장에 개미들 '우르르' 몰린 곳 [투자톡] - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRbmZkckY4aEFKNzRfUi11OWFKZUlWUTBhWGJSSU8tdUUtcFFKcUwtdEVLR2JvWkd0VVRUU3c3ZUxaMnMzZ1dEVjdhLU9TalFTMGFZRy1SdFkxUQ?oc=5",
+      "pub": "Fri, 24 Jul 2026 23:02:54 GMT"
     }
   ],
   "signal": {
     "text": "시장 조정 국면. 손절보다 비중 축소 후 상황을 지켜보세요.",
     "type": "negative"
   },
-  "one_liner": "코스피 🔻 약세 · 코스닥 📉 소폭 약세"
+  "one_liner": "코스피 🔻 약세 · 코스닥 🔻 약세"
 }
