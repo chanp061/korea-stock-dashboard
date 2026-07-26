@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026년 07월 26일 07:44",
-  "updated_date": "2026-07-26",
+  "updated_at": "2026년 07월 27일 07:51",
+  "updated_date": "2026-07-27",
   "kospi": {
     "price": 6690.62,
     "change": -406.27,
@@ -22,34 +22,29 @@
   },
   "nasdaq": {
     "price": 24975.82,
-    "change": -161.87,
+    "change": -161.88,
     "pct": -0.64
   },
   "usdkrw": {
-    "price": 1462.1,
-    "change": -12.03,
-    "pct": -0.82
+    "price": 1459.42,
+    "change": -14.71,
+    "pct": -1.0
   },
   "news": [
     {
-      "title": "다음주 SK하이닉스·삼성전자 실적 발표…코스피 향방은 - 연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4VUJCWm9GY1pKUnRJUDRpeDNYSXUxdWs3YjRPQWIxcDlfZV9nZ0h5WVFzVjVuLU9TZ3haSWZRVlRDNTBjOFhkTUJ5T1U4VUVTUHk1aTdoZnlWcFJWZUxvRWdnbHAtV05qemMtUHhVU1jSAXRBVV95cUxOdHpfRlhDQklRNzVPNlF0NWxfVXV0WEZHNVVPTno3RlgzZkJIT3AyNGl0aUtweHFfNkJmNDdnRlFqYnY0V0dvX0gtTW93Zkh6VWpSR2FVNHZKSWxLNl9zV0dkX2dzeDlVdTRjUFFOWWlIaGxiOQ?oc=5",
-      "pub": "Sat, 25 Jul 2026 22:20:03 GMT"
+      "title": "주식으로 돈 잃는 사람들이 흔히 하는 결정적 실수 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOV1VfdTFKSWtSVDI2ZnJrYV8xVDNva1BkeEFpdlhrcE9pVjdDUGNYVm1kTGZ5eFdsSHU3TDRka0pqNWlwYnZLdnlVbF9UdF9Cd1NxUm5jRVVSbTJXYm9FUmNEWDBnY3c1UkRjMHV3c1h5X2ZRV0dHeXNEVE1FSFhCdg?oc=5",
+      "pub": "Sun, 26 Jul 2026 20:33:58 GMT"
     },
     {
-      "title": "지금 코스피, 싸진 걸까 위험해진 걸까…한은의 진단은? [Deep Spot] - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9fQ1gwcEpmQzNoVkdzMHpVWW9uclZzTWpSNGluUU9UdUh1SWl5SFBDd1ZXUkx5TkVXTkwzOWY1N3FoemgwVnc?oc=5",
-      "pub": "Sat, 25 Jul 2026 01:39:39 GMT"
+      "title": "코스피 급락에… 서학 개미, 다시 美 증시로 - 조선비즈 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTFZDZHBIb0djVjJxMUktaE0tSC1FZzNfWFBwdmtKUHJPcEVfandZUXNDM1Y0X1VtNGRQcFZabTJOWW9xQ1VRWWxLOVRyaUFWRXo5RTZ0TmxhUTlBRFNQRHB6bE1JeDNPLWhwZVdZMHNmbGhQVnA1UEJrVVEyZHJLTHJ5SkVaODNn0gGcAUFVX3lxTE85OUhyanV1RGh4Mk5pVlhpTHh5YUFpTFlfenI4eE84S3p0R1h3d1RYcmNBZlRBTThNcWFTem04MjRWbFprWUJxd2xBRk1RY3g1ZWtqUjdKTXI5LVFUZWhXYXgwWDAwZE14em5iZ05GdzVndEVpbk5oU3BFS19QTXliUDZVS0lVQTdIR0M4NXRIaWw1UDJMSHlhT1UwVA?oc=5",
+      "pub": "Sun, 26 Jul 2026 15:32:00 GMT"
     },
     {
-      "title": "7천피 붕괴 와중에도...\"55% 올랐다\" 블랙데이 살아남은 주식[김근희의 증시 랩업] - 머니투데이 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YbE5BbWRwTUdaQk81M0tkT2hDcVNPUlFXd0p5QkJrbmlKcHVPTlgxWGhBYzFWRFl5T0lERDliV0lsNUctYjRzbkRBMDI2ZndGaEZ5V2huUVZiYmtCaC1QSUhUejVWYnp30gFuQVVfeXFMTllyTnVvTnFyMFdxcTZkUEQwMXVzVWh1RnRqX1JfT0pQMVpsZ1RXajFCcVpVczY1cmZhX1g4a0xVcWQxQUFOZFY5b1ZUUzhiU3lCSWZWWDFYa0RDWW51b1g2NFdmV01sQWNJb1NoNmc?oc=5",
-      "pub": "Fri, 24 Jul 2026 21:00:00 GMT"
-    },
-    {
-      "title": "10일 내내 사이드카… 도박판 뺨친 코스피 - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORnpJc200OVNtUF8yTFFORm5zSDBSa0Y3dU1JdFdac09jMzViQTRHa2FYdEowSXNFcHpLZFVfLTViWFNpcnBhWmpWYVZvSXdEV3lJVEhtV2pRcXdpZTROY3BOMFNxZXlWQ29hazlrOTNOTXZJUmE5V2JVWGJOVzBLanNxS2NvajdSbk9IVDlB?oc=5",
-      "pub": "Fri, 24 Jul 2026 15:55:00 GMT"
+      "title": "코스피 흔들리자 ‘서학개미’ 늘어나는데···국민연금은 오히려 국장 ‘순매수’ 전환 - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KZkgtMEc5ckFEcGpjZ1JBcGxzcUVCOXBveFZmT21sNkpGc1J4UGxrdE40bERFNG9JTXpZN0pOWnR5Q1QyejJBUW0tYlhHS1VQVVowd1pDTDZpUdIBX0FVX3lxTE5fRVRwaTNqMWtFN3dlMXh3Y3E4b1lzODhQSlBfOWZ3cEtQN1hsOEY2bG9BeklIRndHSEJNdVFUT19xU1hXdVp3MEdwQ2l0ODk5MlYxV0liZjRPaUMwWmxR?oc=5",
+      "pub": "Sun, 26 Jul 2026 07:21:00 GMT"
     },
     {
       "title": "롤러코스피에 다시 美로?…7월 서학개미 순매수 4배 늘었다 - 마켓인",
@@ -57,9 +52,14 @@
       "pub": "Sat, 25 Jul 2026 00:07:54 GMT"
     },
     {
-      "title": "'주식 계좌 녹는다더니'…폭락장에 개미들 '우르르' 몰린 곳 [투자톡] - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRbmZkckY4aEFKNzRfUi11OWFKZUlWUTBhWGJSSU8tdUUtcFFKcUwtdEVLR2JvWkd0VVRUU3c3ZUxaMnMzZ1dEVjdhLU9TalFTMGFZRy1SdFkxUQ?oc=5",
-      "pub": "Fri, 24 Jul 2026 23:02:54 GMT"
+      "title": "사이드카 65번' 정상이야?…미국에 없는데 왜 한국만 [손엄지의 주식살롱] - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WWTZCT3lSd0lqSzRVd2VhLU9EemFVcU1wZlJQVnZUeG8yMy1nbi1IWUc5cVJpZlVuWi1SU0dSLUlpbjY4ODhYZVBXTU9DSTBVcXc0?oc=5",
+      "pub": "Sun, 26 Jul 2026 21:01:00 GMT"
+    },
+    {
+      "title": "[코스피·코스닥 전 거래일(24일) 주요공시] - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wRDdBdDFXR1czeS1YVlM3QmNLQVdQbEU0NjFDTHUtN0dkdHUyQlh2cGJnbTdZZy0wYzhCY1ZQWWc1QTJ4RUsyVW5aa3ZMVlZDdmc?oc=5",
+      "pub": "Sun, 26 Jul 2026 21:05:00 GMT"
     }
   ],
   "signal": {
