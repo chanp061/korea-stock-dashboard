@@ -1,40 +1,50 @@
 {
-  "updated_at": "2026년 07월 28일 07:53",
-  "updated_date": "2026-07-28",
+  "updated_at": "2026년 07월 29일 07:51",
+  "updated_date": "2026-07-29",
   "kospi": {
-    "price": 6755.75,
-    "change": 65.13,
-    "pct": 0.97,
-    "label": "소폭 강세",
-    "emoji": "📈"
+    "price": 6023.66,
+    "change": -732.09,
+    "pct": -10.84,
+    "label": "약세",
+    "emoji": "🔻"
   },
   "kosdaq": {
-    "price": 764.86,
-    "change": 16.64,
-    "pct": 2.22,
-    "label": "강세",
-    "emoji": "🚀"
+    "price": 705.85,
+    "change": -42.37,
+    "pct": -5.66,
+    "label": "약세",
+    "emoji": "🔻"
   },
   "sp500": {
-    "price": 7413.18,
-    "change": 1.2,
-    "pct": 0.02
+    "price": 7428.78,
+    "change": 15.6,
+    "pct": 0.21
   },
   "nasdaq": {
-    "price": 24932.08,
-    "change": -43.74,
-    "pct": -0.18
+    "price": 24876.91,
+    "change": -55.17,
+    "pct": -0.22
   },
   "usdkrw": {
-    "price": 1464.92,
-    "change": 5.5,
-    "pct": 0.38
+    "price": 1453.7,
+    "change": -12.09,
+    "pct": -0.82
   },
   "news": [
     {
-      "title": "\"코스피, 한 달새 28% 밀렸는데\"…증권가 전망에 개미 '한숨' [분석+] - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FNm5ZaHptNWI4Vnk4NlNiRUVIejhNbEt4MW11d2J5WHE1LW9FOHFsTnNkdnNEaHVsa3J5OFpLT3dYTHpkZXdTTUhmeENpU0JwMGNJQ2lWbHZpZw?oc=5",
-      "pub": "Sun, 26 Jul 2026 23:29:02 GMT"
+      "title": "\"주식 시장 이게 맞나?\" 통곡의 개미들…코스피 -10% 대폭락 - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9OMXY1c1RBVHQxRkQyMS16blZUcE4tVHE1eXZMOS1GZVMyVzQ5dHRUV3RlT215Q2ZSak5ZYTctSGlEUE8xZFdfQXRBQW16NVgxdXFtOEd0cjVsLVBLMG1heTRmMURWQUJl0gFuQVVfeXFMTmQ0OXA4T25BaGlrbWNZd21lb3JNSnBtS2g3WWk4dGRRUjhPb1ZYVS13aEh4Sk94ckxEbVU4Um1kNnUydnZxWjNfX1g4SWU2UkQ1a2xtOUlBaGRYaWQxclhSREJFaUlhVWZySjV5TEE?oc=5",
+      "pub": "Tue, 28 Jul 2026 07:25:10 GMT"
+    },
+    {
+      "title": "서학개미, 코스피 부진에 美주식 매수 확대…이달 5조원 넘어 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAydjZrR1pYNHJjSGVPVC13bzN1UFBycnlYVEdwWkk1cFdlTGtDMlltb08xV0xIRzY5N214WjhpMDJmZlEtUGdjQW5WcW1YYVE1N3ZxLWVGMG8zRFHSAWBBVV95cUxNbjlqMkxXZDN1cEROY2xrQnd2REc3Vi12VDJYd3A5TTR3T21fVzVONkRTRUIxVnd0b2xlQmJjYW8tRGdnV0ZaR3dxV0ZCSEVVYnlUZm5HaVNhOFZPV29VZUo?oc=5",
+      "pub": "Tue, 28 Jul 2026 02:39:17 GMT"
+    },
+    {
+      "title": "코스피 급락하자…\"이달 들어 4배 급증\" 개미들 몰린 곳 - news.sbs.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kaTVQUXVVZ1ZZejZocS1VN180eHhDbDE2cnN1M1BlbkFmVi03emtlNWJFcHZWMWJTQ1RHV29LUHBOLTJpbHdhcFIyUm02SkFrY2ZSUFBKdFZNcTFwbWszS254LWVWWDFNS3fSAWZBVV95cUxQTXN2QUp6LXB3bTVaUFRRdjRmSnFsX21xNzZHaVdjbG1PTVZ6a0ZDdjUtekVWczFvR3Z6V0hUdjhNLWFKMlJHRldqRUs0Yl9xYU91cmFaMHlpUFJTeHI2ZXVvNWlRbWc?oc=5",
+      "pub": "Mon, 27 Jul 2026 11:36:00 GMT"
     },
     {
       "title": "코스피 흔들리자 ‘서학개미’ 늘어나는데···국민연금은 오히려 국장 ‘순매수’ 전환 - 경향신문",
@@ -42,29 +52,19 @@
       "pub": "Sun, 26 Jul 2026 07:21:00 GMT"
     },
     {
-      "title": "코스피 급락에 투자 '주춤'…다시 '미장' 몰린다 - news.sbs.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93TVQ5X2VGd0J3U1VpTEg3LVlNc0F3MHRsR1hrcUxFZjRzelY0LVpCTWNjOVM3M292Y1phaXRudjdsRVB0VURhM3l3c09aZktWb1U2UEQ0SjlQN2tVZHA2NHRlZXVZQ3B1dmc?oc=5",
-      "pub": "Mon, 27 Jul 2026 21:54:00 GMT"
+      "title": "‘천당에서 지옥으로’ 李대통령 뒤흔드는 코스피[이슈 현미경] - 이데일리TV",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBDZ0pjajZGQ2loRGFnYTVpc0lEeXNNRGZzQUwyeE5lc0xCeURKaWpYZTJLRzhVOUd4YUJqTnlrRGM1eE9aQV9zLXFuZGhabzUzZ0xqQVNiamktcTd6UU5jNGdZVWU4VnphUk9xdmVJRnlMS1pGSmtKbEp0aw?oc=5",
+      "pub": "Tue, 28 Jul 2026 07:25:00 GMT"
     },
     {
-      "title": "개인 올해 ETF 69.5조 순매수, 코스피 주식 순매수의 63% 규모 - 비즈니스포스트",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5jeURIeGhnYUFWcVl4VmVuR25xZ2VBOU5FSTNuUmlvX1cyQWxTOWNVZUpESVhjY0NQdDItRFJpblBVTkVVSXRHRVg2LXBURkgtRldUMjhMaDNsdUNrOXdSNDFlQmZ5YWVmUHh1b2F1LXluRWM?oc=5",
-      "pub": "Sun, 26 Jul 2026 05:56:18 GMT"
-    },
-    {
-      "title": "“코스피 상승? 이 시점에 끝”…34억 파이어족이 쟁인 3가지 - 중앙일보",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84NS1MTWdCZmRsWVR4WERPT29WOGhJaWZ5a2Rpb3NmTmFZX0s2YkR2U09MVnJROHdudmw2SFRsanU5T0VfT1dVTnhmRlFIX0hHM2ticjhR?oc=5",
-      "pub": "Mon, 27 Jul 2026 09:14:36 GMT"
-    },
-    {
-      "title": "주식으로 돈 잃는 사람들이 흔히 하는 결정적 실수 - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOV1VfdTFKSWtSVDI2ZnJrYV8xVDNva1BkeEFpdlhrcE9pVjdDUGNYVm1kTGZ5eFdsSHU3TDRka0pqNWlwYnZLdnlVbF9UdF9Cd1NxUm5jRVVSbTJXYm9FUmNEWDBnY3c1UkRjMHV3c1h5X2ZRV0dHeXNEVE1FSFhCdg?oc=5",
-      "pub": "Sun, 26 Jul 2026 20:33:58 GMT"
+      "title": "Citi, 중국 주식 포지셔닝 개선 속 코스피지수 약세 전망 - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2dFdTNHhaUURBa0VyS2pXSHk0U0dPWU9nZ1hxV3RPTUFQRmhyQ1ZfTTBPVzJ5cmpWM2xDNkdFN2V6RXJZenJIdDVuYkM5SmVQWnE0M0hfNFU4b3dUczZGYVBOWUNCR0FRVlJJeFd4bW5FWEtTc2xV?oc=5",
+      "pub": "Tue, 28 Jul 2026 10:35:00 GMT"
     }
   ],
   "signal": {
-    "text": "오늘 시장은 강세입니다. 추격 매수보다 보유 전략이 유리할 수 있어요.",
-    "type": "positive"
+    "text": "시장 조정 국면. 손절보다 비중 축소 후 상황을 지켜보세요.",
+    "type": "negative"
   },
-  "one_liner": "코스피 📈 소폭 강세 · 코스닥 🚀 강세"
+  "one_liner": "코스피 🔻 약세 · 코스닥 🔻 약세"
 }
