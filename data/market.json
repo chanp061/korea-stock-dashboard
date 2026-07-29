@@ -1,65 +1,65 @@
 {
-  "updated_at": "2026년 07월 29일 07:51",
-  "updated_date": "2026-07-29",
+  "updated_at": "2026년 07월 30일 07:52",
+  "updated_date": "2026-07-30",
   "kospi": {
-    "price": 6023.66,
-    "change": -732.09,
-    "pct": -10.84,
+    "price": 5663.24,
+    "change": -360.42,
+    "pct": -5.98,
     "label": "약세",
     "emoji": "🔻"
   },
   "kosdaq": {
-    "price": 705.85,
-    "change": -42.37,
-    "pct": -5.66,
+    "price": 662.68,
+    "change": -43.17,
+    "pct": -6.12,
     "label": "약세",
     "emoji": "🔻"
   },
   "sp500": {
-    "price": 7428.78,
-    "change": 15.6,
-    "pct": 0.21
+    "price": 7316.15,
+    "change": -112.63,
+    "pct": -1.52
   },
   "nasdaq": {
-    "price": 24876.91,
-    "change": -55.17,
-    "pct": -0.22
+    "price": 24442.94,
+    "change": -433.97,
+    "pct": -1.74
   },
   "usdkrw": {
-    "price": 1453.7,
-    "change": -12.09,
-    "pct": -0.82
+    "price": 1444.12,
+    "change": -9.59,
+    "pct": -0.66
   },
   "news": [
     {
-      "title": "\"주식 시장 이게 맞나?\" 통곡의 개미들…코스피 -10% 대폭락 - 머니투데이 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9OMXY1c1RBVHQxRkQyMS16blZUcE4tVHE1eXZMOS1GZVMyVzQ5dHRUV3RlT215Q2ZSak5ZYTctSGlEUE8xZFdfQXRBQW16NVgxdXFtOEd0cjVsLVBLMG1heTRmMURWQUJl0gFuQVVfeXFMTmQ0OXA4T25BaGlrbWNZd21lb3JNSnBtS2g3WWk4dGRRUjhPb1ZYVS13aEh4Sk94ckxEbVU4Um1kNnUydnZxWjNfX1g4SWU2UkQ1a2xtOUlBaGRYaWQxclhSREJFaUlhVWZySjV5TEE?oc=5",
-      "pub": "Tue, 28 Jul 2026 07:25:10 GMT"
+      "title": "하이닉스 '사상 최대실적'에도 코스피 하락...이유는? [뉴스나우] - YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yY1RUWk9aUmpEVHpaSVlKVG8zbjZZTGg3alRrWVNXN0V4bVNGQXo0SG1lX2pKOWo3ZGVueHcyd2JjM3plUE5vaDlvMGxESmwybXVHcV9YVEZzb2FOWlE?oc=5",
+      "pub": "Wed, 29 Jul 2026 04:01:00 GMT"
     },
     {
-      "title": "서학개미, 코스피 부진에 美주식 매수 확대…이달 5조원 넘어 - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAydjZrR1pYNHJjSGVPVC13bzN1UFBycnlYVEdwWkk1cFdlTGtDMlltb08xV0xIRzY5N214WjhpMDJmZlEtUGdjQW5WcW1YYVE1N3ZxLWVGMG8zRFHSAWBBVV95cUxNbjlqMkxXZDN1cEROY2xrQnd2REc3Vi12VDJYd3A5TTR3T21fVzVONkRTRUIxVnd0b2xlQmJjYW8tRGdnV0ZaR3dxV0ZCSEVVYnlUZm5HaVNhOFZPV29VZUo?oc=5",
-      "pub": "Tue, 28 Jul 2026 02:39:17 GMT"
+      "title": "李 '주식 사라'에 노후 자금 몰빵 … 6070, 폭락장에 '10조 빚투' 청산 공포 - biz.newdaily.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9yOGJGWndNRktJZm92R3gzbWdyYzdUZElEYU9ZdkR1MjFuWDZPOVVVQnVCWjRTOG16aU1FZ19uSG9JWmw4NG1yNXB1UFQwczRxQmRDdE1CT3lxZWhodlVKUFFMMnpSYzE5Q2lHVXd6d3JPZE51X0tZQWUzZ9IBgAFBVV95cUxQSzg4NU1QNzlGVkNpZmYwa1M2OTcyTmZ0azRXaDkzSVNaTVdpYzF0YjJyNGNXVkVMWnA2MHVxWFR6SF8zMHZQdlFWc1BTcUVRNGMtckFibkJpMllJcGd2SUhzQ1htNWFGM0FCUlFHbEpQdUEwcEVLaTJJeFNLV1A0aA?oc=5",
+      "pub": "Wed, 29 Jul 2026 06:30:00 GMT"
     },
     {
-      "title": "코스피 급락하자…\"이달 들어 4배 급증\" 개미들 몰린 곳 - news.sbs.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kaTVQUXVVZ1ZZejZocS1VN180eHhDbDE2cnN1M1BlbkFmVi03emtlNWJFcHZWMWJTQ1RHV29LUHBOLTJpbHdhcFIyUm02SkFrY2ZSUFBKdFZNcTFwbWszS254LWVWWDFNS3fSAWZBVV95cUxQTXN2QUp6LXB3bTVaUFRRdjRmSnFsX21xNzZHaVdjbG1PTVZ6a0ZDdjUtekVWczFvR3Z6V0hUdjhNLWFKMlJHRldqRUs0Yl9xYU91cmFaMHlpUFJTeHI2ZXVvNWlRbWc?oc=5",
-      "pub": "Mon, 27 Jul 2026 11:36:00 GMT"
+      "title": "코스피 급락에 계좌 '반토막'…투자대가들의 비상 대응법 보니 - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9na2FWc3M0dmxpdDhiYmY0NFlWbXRjYWx5OEpVdTJWelVWUFJlaVEtcElvNnlZMDFWdjl2czU0RWpiYzFubWdBZ09WZTc3ajBVNHBEQzNCcnlfQQ?oc=5",
+      "pub": "Wed, 29 Jul 2026 08:59:19 GMT"
     },
     {
-      "title": "코스피 흔들리자 ‘서학개미’ 늘어나는데···국민연금은 오히려 국장 ‘순매수’ 전환 - 경향신문",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KZkgtMEc5ckFEcGpjZ1JBcGxzcUVCOXBveFZmT21sNkpGc1J4UGxrdE40bERFNG9JTXpZN0pOWnR5Q1QyejJBUW0tYlhHS1VQVVowd1pDTDZpUdIBX0FVX3lxTE5fRVRwaTNqMWtFN3dlMXh3Y3E4b1lzODhQSlBfOWZ3cEtQN1hsOEY2bG9BeklIRndHSEJNdVFUT19xU1hXdVp3MEdwQ2l0ODk5MlYxV0liZjRPaUMwWmxR?oc=5",
-      "pub": "Sun, 26 Jul 2026 07:21:00 GMT"
+      "title": "\"1년 연봉이 날아갔어요\"‥커진 반도체 의구심, 코스피 바닥은 어디? - MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBoRGhWWDM5N0lYd0c2c3lYNnB6OUtaX3hMY09HUmhmT1IyUmRBNDBzTlZwNWV5M3BSVnBjU3NOMmxXcjFYdjcyQlpPTGxXZDFRQndiUlZDVnJrWlJMRm1md2Y3ay13RWQxS3NUZl9MWlRReXdSajFDNw?oc=5",
+      "pub": "Wed, 29 Jul 2026 10:47:56 GMT"
     },
     {
       "title": "‘천당에서 지옥으로’ 李대통령 뒤흔드는 코스피[이슈 현미경] - 이데일리TV",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBDZ0pjajZGQ2loRGFnYTVpc0lEeXNNRGZzQUwyeE5lc0xCeURKaWpYZTJLRzhVOUd4YUJqTnlrRGM1eE9aQV9zLXFuZGhabzUzZ0xqQVNiamktcTd6UU5jNGdZVWU4VnphUk9xdmVJRnlMS1pGSmtKbEp0aw?oc=5",
-      "pub": "Tue, 28 Jul 2026 07:25:00 GMT"
+      "pub": "Tue, 28 Jul 2026 11:40:00 GMT"
     },
     {
-      "title": "Citi, 중국 주식 포지셔닝 개선 속 코스피지수 약세 전망 - Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2dFdTNHhaUURBa0VyS2pXSHk0U0dPWU9nZ1hxV3RPTUFQRmhyQ1ZfTTBPVzJ5cmpWM2xDNkdFN2V6RXJZenJIdDVuYkM5SmVQWnE0M0hfNFU4b3dUczZGYVBOWUNCR0FRVlJJeFd4bW5FWEtTc2xV?oc=5",
-      "pub": "Tue, 28 Jul 2026 10:35:00 GMT"
+      "title": "코스피 유상증자 반토막…상반기 전체 규모 6.3조원 - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE02ZGxCUnBGZFE1Zm15UU9KWldwN3ZNZWtIWnZOclBBeGdhaV9vTlRQRjJRcHF5Rjh2UzZQQ2hwVE0wc2RPcVpaN0k0b1o3QQ?oc=5",
+      "pub": "Wed, 29 Jul 2026 00:47:15 GMT"
     }
   ],
   "signal": {
