@@ -1,70 +1,70 @@
 {
-  "updated_at": "2026년 07월 31일 07:56",
-  "updated_date": "2026-07-31",
+  "updated_at": "2026년 08월 01일 07:52",
+  "updated_date": "2026-08-01",
   "kospi": {
-    "price": 5593.56,
-    "change": -69.68,
-    "pct": -1.23,
-    "label": "소폭 약세",
-    "emoji": "📉"
+    "price": 6595.45,
+    "change": 1001.89,
+    "pct": 17.91,
+    "label": "강세",
+    "emoji": "🚀"
   },
   "kosdaq": {
-    "price": 644.78,
-    "change": -61.07,
-    "pct": -8.65,
-    "label": "약세",
-    "emoji": "🔻"
+    "price": 719.76,
+    "change": 57.08,
+    "pct": 8.61,
+    "label": "강세",
+    "emoji": "🚀"
   },
   "sp500": {
-    "price": 7437.63,
-    "change": 121.48,
-    "pct": 1.66
+    "price": 7489.72,
+    "change": 52.09,
+    "pct": 0.7
   },
   "nasdaq": {
-    "price": 25122.18,
-    "change": 679.24,
-    "pct": 2.78
+    "price": 25373.85,
+    "change": 251.68,
+    "pct": 1.0
   },
   "usdkrw": {
-    "price": 1421.15,
-    "change": -22.5,
-    "pct": -1.56
+    "price": 1442.07,
+    "change": 20.73,
+    "pct": 1.46
   },
   "news": [
     {
-      "title": "'공포의 7월' 코스피 사흘 연속 하락...이유는? [이슈플러스] - YTN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1uOVkyMFZUdW1BOXdQR3dYeHhONi1ZU3VUSmNYcWlzQlI4NnJQam9UZ2h0UHV3MHo1R2ZTbHNvckhFeVJlOG1FTEpHOFRKWnBVQnotRTZ4aUlMVWJqNEE?oc=5",
-      "pub": "Thu, 30 Jul 2026 10:21:00 GMT"
+      "title": "코스피 18% 역대급 폭등한 날, 개미는 역대 최대 10조 던졌다 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMUJOeXp3N0xTcHBCYjNCa2FSRjNLNmlHdHVTWElLRE9QRS0yVzlZdnpjd1d4TnA4YThLVzlodEEyaXRwWVRySDROMDAtRkllZ1VhRUlyQkdqZHk0RzJSVGdBUFdmOVBXRGcwWTdDUTY5MVZuTnRVTkxEQmVwek5vZVlYd2VfbHBYYURVNVZ3?oc=5",
+      "pub": "Fri, 31 Jul 2026 09:54:24 GMT"
     },
     {
-      "title": "코스피 폭락에 ‘역대급 호황’ 백화점 성장세 둔화하나 - 경향신문",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KdTFrNThmMG03QkJxaGxfRnhFNm5YYWlyMTBNYmRhQl9ObFUyYzg0SWREQWFZcXp1NVhVTzBEWWFuZ0pjeXRmVUFDakpfTDluVHR4S0JjakRoUdIBX0FVX3lxTE5kVTlmUUV3YXdqTkZLRG1MWFFKcVhLNWQ0d2xyWU9IX0RrbTcyeF9RYjFiQUhrR3Rwa1FCc0xWOHF1ckpHNTZvWmN6MF96Qlh2LXA5MFRuYWVrY0ZHWERB?oc=5",
-      "pub": "Thu, 30 Jul 2026 21:00:00 GMT"
+      "title": "\"코스피, 최악 통과중\"…대신증권, '5700→8200→9300' 제시 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vV2JfRjlFMVBYd1VpbW81Ni1oREk2X0lUNTJMQVNRSkFraDNZLV8yWVdlQkZuUnZfVkRBX0xMWU5ZOExQSW82T0NUZWZvUUk?oc=5",
+      "pub": "Thu, 30 Jul 2026 06:17:11 GMT"
+    },
+    {
+      "title": "‘바닥 찍었다, 9300간다’…코스피 반등 예고한 대신증권 - 문화일보",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5zWHI1Y2t4XzZaa0thdGh3ak04TklJNW5WeUVJVEF2U1FZNWpYVmdkZUN5Wi1iMS12c3VxQ1RlSDJDeEY3eUJpNUlSR0loa3F6?oc=5",
+      "pub": "Fri, 31 Jul 2026 00:26:09 GMT"
+    },
+    {
+      "title": "“SK하이닉스 470만원 간다”던 노무라…“코스피 급락, 진짜 이유는 따로 있다” - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kaG15OHJPQ1lvMkZCSEtrLXJnM3RxUjk2UXAxcXkteUFGU2RGY3Bhc3RCQ2FySWY2NGVsSUhiQ2V6N0lieWNJd25ISW5rNHN5eEHSAVNBVV95cUxQVGFZM1NvWmVHX0RWLWdTVXRqbnJ0ZjlxS2ZDVjdEMG9ocXh0X01DR3RGdXRjamtVOHM1X3JCa2pwNE9sbDZMQWtUYXFZam9EbXd3UQ?oc=5",
+      "pub": "Wed, 29 Jul 2026 12:08:26 GMT"
+    },
+    {
+      "title": "코스피 급등 부른 뜻밖 배경 있었다…\"악순환 종료\" 들썩 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MRWZWM2hPdmJIM1EwME5tOVlvaVFzQ0dhNlRURnlac1l5UVlQQ3BFaDduaFQwMGNXNlpBV1RsYnM2dWpTOEgyQkpMem8xZlU?oc=5",
+      "pub": "Fri, 31 Jul 2026 11:12:05 GMT"
     },
     {
       "title": "“취업 못해 월세라도 벌려다…” 주식 물린 2030 개미들 비명 - 중앙일보",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tb1BCOWpqSFJUVmduYXZRUVJxSDgyemlIZFdFQ1BsWmZ0RFFHYXp5TXR6aHZXN2JaMnBDc0pOQk9tUnoxdDhZLUVZOWNMcFM5aFpiZDNR?oc=5",
       "pub": "Thu, 30 Jul 2026 05:42:27 GMT"
-    },
-    {
-      "title": "하이닉스 '사상 최대실적'에도 코스피 하락...이유는? [뉴스나우] - YTN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yY1RUWk9aUmpEVHpaSVlKVG8zbjZZTGg3alRrWVNXN0V4bVNGQXo0SG1lX2pKOWo3ZGVueHcyd2JjM3plUE5vaDlvMGxESmwybXVHcV9YVEZzb2FOWlE?oc=5",
-      "pub": "Wed, 29 Jul 2026 04:01:00 GMT"
-    },
-    {
-      "title": "'코스피 폭등의 역설' 돈 필요한 기업들 \"주식시장 No, 은행 대출 Yes!\" - 파이낸셜뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yNUhkazlDTXNqbXdyZU03VUxpd2xBNlItUUZwMjktcnE0YmtKS0VOTkpwdlN0SDdWdXNxLWMxMnBEVG8ybDBPYk9ydTlsekhrcjFfek5rTF9zUQ?oc=5",
-      "pub": "Thu, 30 Jul 2026 03:34:14 GMT"
-    },
-    {
-      "title": "코스피 9000일때도…기업 30%만 “주식시장, 경영활동에 긍정적 영향” - dt.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE96YWx6ZVZRMnh5S1RiLUZGaFJkUm1pWVdqdkxHZzFBTGFwbkRuMjZwRlNMbnRRekU0TXBVNFBPNmp1UlpxRU0xTEl0ekxQZw?oc=5",
-      "pub": "Thu, 30 Jul 2026 05:20:12 GMT"
     }
   ],
   "signal": {
-    "text": "시장 조정 국면. 손절보다 비중 축소 후 상황을 지켜보세요.",
-    "type": "negative"
+    "text": "오늘 시장은 강세입니다. 추격 매수보다 보유 전략이 유리할 수 있어요.",
+    "type": "positive"
   },
-  "one_liner": "코스피 📉 소폭 약세 · 코스닥 🔻 약세"
+  "one_liner": "코스피 🚀 강세 · 코스닥 🚀 강세"
 }
