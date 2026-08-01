@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026년 08월 01일 07:52",
-  "updated_date": "2026-08-01",
+  "updated_at": "2026년 08월 02일 07:44",
+  "updated_date": "2026-08-02",
   "kospi": {
     "price": 6595.45,
     "change": 1001.89,
@@ -10,8 +10,8 @@
   },
   "kosdaq": {
     "price": 719.76,
-    "change": 57.08,
-    "pct": 8.61,
+    "change": 74.98,
+    "pct": 11.63,
     "label": "강세",
     "emoji": "🚀"
   },
@@ -26,40 +26,40 @@
     "pct": 1.0
   },
   "usdkrw": {
-    "price": 1442.07,
-    "change": 20.73,
-    "pct": 1.46
+    "price": 1436.6,
+    "change": 15.26,
+    "pct": 1.07
   },
   "news": [
-    {
-      "title": "코스피 18% 역대급 폭등한 날, 개미는 역대 최대 10조 던졌다 - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMUJOeXp3N0xTcHBCYjNCa2FSRjNLNmlHdHVTWElLRE9QRS0yVzlZdnpjd1d4TnA4YThLVzlodEEyaXRwWVRySDROMDAtRkllZ1VhRUlyQkdqZHk0RzJSVGdBUFdmOVBXRGcwWTdDUTY5MVZuTnRVTkxEQmVwek5vZVlYd2VfbHBYYURVNVZ3?oc=5",
-      "pub": "Fri, 31 Jul 2026 09:54:24 GMT"
-    },
-    {
-      "title": "\"코스피, 최악 통과중\"…대신증권, '5700→8200→9300' 제시 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vV2JfRjlFMVBYd1VpbW81Ni1oREk2X0lUNTJMQVNRSkFraDNZLV8yWVdlQkZuUnZfVkRBX0xMWU5ZOExQSW82T0NUZWZvUUk?oc=5",
-      "pub": "Thu, 30 Jul 2026 06:17:11 GMT"
-    },
     {
       "title": "‘바닥 찍었다, 9300간다’…코스피 반등 예고한 대신증권 - 문화일보",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5zWHI1Y2t4XzZaa0thdGh3ak04TklJNW5WeUVJVEF2U1FZNWpYVmdkZUN5Wi1iMS12c3VxQ1RlSDJDeEY3eUJpNUlSR0loa3F6?oc=5",
       "pub": "Fri, 31 Jul 2026 00:26:09 GMT"
     },
     {
+      "title": "‘현기증 롤러코스피’ 사상 최대 17.9% 폭등 - 동아일보",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tb3k1a1N1dzVnVXA2NE50dDNhckN2UTlteHVkZ2FsenpacllKNlFiUy0tNmdnSy1fSllWRVR6aXVOMGhSRTNCSEFFRXRXcGlaZzd1cmpEZkJEb1ZHN0JOblMxOFBmTXY2bkVQdmo4b1lMVmdiV1HSAWZBVV95cUxNZVNuQlloM0F1UGtPNjdrM08zd0s5YVQwQmYwNWsyNWxLcTUzcHR6M1NzeXJIQkd2VzVaQlBDRlNhUUJpZ1FWbXVfbHJ5cm1fOWZhNnhwODgxMEQ1WVNfcFBsSUpyN1E?oc=5",
+      "pub": "Fri, 31 Jul 2026 16:40:00 GMT"
+    },
+    {
+      "title": "지난달 급락장 속 국내주식 10개 중 7개 녹았다…하락률 1위는 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40T3NId25IT1JzZU5LaTJpRGhBZGJVOVBhVkNiQ0hIb0s2Tk9qOUtXUlhkenBJME5GZHA2dkhpcFJrelNUQUJsUnRtWG9ITU1CNWxaVkpIb1gwZnfSAWBBVV95cUxQTnl2TTZuTVFMcFlhcHNHV2wwVE9jTWN1TEJvUFhlcXZuQ2prU2U2ZTdIRTNNNUE0YWtwX3FoVGc1d19fa25BeFZlRVRNWVNBZFNodDFXTEd4M0JyV3BzdUY?oc=5",
+      "pub": "Sat, 01 Aug 2026 21:20:01 GMT"
+    },
+    {
+      "title": "\"미련하게 누가 '4% 적금' 드냐\"더니…코스피 폭락하자 \"차라리 적금 들 걸\" [개미의 세계] - 파이낸셜뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aZnVLWnpVSkFQa2h0bExCQWtqZnV4RENSUU5SQy03Zmw4czFnYncyeHZsYXRycUFvNVRjc3BNejRibmJESS05T25XWFNVTFc1NEVrczlXRktMZw?oc=5",
+      "pub": "Sat, 01 Aug 2026 21:00:00 GMT"
+    },
+    {
+      "title": "“주식창 켤 때마다 뒤집혀”…코스피, 장중 1000포인트 출렁 ‘아찔한 7월’ [투자360] - 헤럴드경제",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzRExOQzBXekNmMVdzTjNRZXU5VVljcFlyZmpiZThjQ1EybmhlZmFXa2F3dXhRNGdXSjZXeF9oM195VGc4VFFycXo0a0VXOUF6V19PRDVR?oc=5",
+      "pub": "Fri, 31 Jul 2026 10:00:07 GMT"
+    },
+    {
       "title": "“SK하이닉스 470만원 간다”던 노무라…“코스피 급락, 진짜 이유는 따로 있다” - 서울경제",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kaG15OHJPQ1lvMkZCSEtrLXJnM3RxUjk2UXAxcXkteUFGU2RGY3Bhc3RCQ2FySWY2NGVsSUhiQ2V6N0lieWNJd25ISW5rNHN5eEHSAVNBVV95cUxQVGFZM1NvWmVHX0RWLWdTVXRqbnJ0ZjlxS2ZDVjdEMG9ocXh0X01DR3RGdXRjamtVOHM1X3JCa2pwNE9sbDZMQWtUYXFZam9EbXd3UQ?oc=5",
       "pub": "Wed, 29 Jul 2026 12:08:26 GMT"
-    },
-    {
-      "title": "코스피 급등 부른 뜻밖 배경 있었다…\"악순환 종료\" 들썩 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MRWZWM2hPdmJIM1EwME5tOVlvaVFzQ0dhNlRURnlac1l5UVlQQ3BFaDduaFQwMGNXNlpBV1RsYnM2dWpTOEgyQkpMem8xZlU?oc=5",
-      "pub": "Fri, 31 Jul 2026 11:12:05 GMT"
-    },
-    {
-      "title": "“취업 못해 월세라도 벌려다…” 주식 물린 2030 개미들 비명 - 중앙일보",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tb1BCOWpqSFJUVmduYXZRUVJxSDgyemlIZFdFQ1BsWmZ0RFFHYXp5TXR6aHZXN2JaMnBDc0pOQk9tUnoxdDhZLUVZOWNMcFM5aFpiZDNR?oc=5",
-      "pub": "Thu, 30 Jul 2026 05:42:27 GMT"
     }
   ],
   "signal": {
