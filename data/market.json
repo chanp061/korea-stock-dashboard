@@ -1,70 +1,70 @@
 {
-  "updated_at": "2026년 08월 04일 07:53",
-  "updated_date": "2026-08-04",
+  "updated_at": "2026년 08월 05일 07:53",
+  "updated_date": "2026-08-05",
   "kospi": {
-    "price": 6257.45,
-    "change": -338.0,
-    "pct": -5.12,
-    "label": "약세",
-    "emoji": "🔻"
+    "price": 6358.95,
+    "change": 101.5,
+    "pct": 1.62,
+    "label": "강세",
+    "emoji": "🚀"
   },
   "kosdaq": {
-    "price": 737.35,
-    "change": 17.59,
-    "pct": 2.44,
+    "price": 780.72,
+    "change": 60.96,
+    "pct": 8.47,
     "label": "강세",
     "emoji": "🚀"
   },
   "sp500": {
-    "price": 7600.5,
-    "change": 110.78,
-    "pct": 1.48
+    "price": 7736.52,
+    "change": 136.02,
+    "pct": 1.79
   },
   "nasdaq": {
-    "price": 25913.9,
-    "change": 540.04,
-    "pct": 2.13
+    "price": 26584.99,
+    "change": 671.1,
+    "pct": 2.59
   },
   "usdkrw": {
-    "price": 1428.91,
-    "change": -13.16,
-    "pct": -0.91
+    "price": 1429.43,
+    "change": 0.65,
+    "pct": 0.05
   },
   "news": [
-    {
-      "title": "모건스탠리, 韓 주식 비중 확대로 상향…\"코스피 9,000 다시 간다\" - 연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjY2pMNXR5UGpmMVFaazkxbjREOFBQSFlqSTRtdVBGTmstUXJlZm1GZXZRNU0tSHdMMTAtSElha2x0ZmoyelU0aHVPQ2ZlTkFvaGtPd2pEcVJwQm1Pa1pWRmhLUlRhMFdyTnhubnRTaXg?oc=5",
-      "pub": "Mon, 03 Aug 2026 04:12:00 GMT"
-    },
     {
       "title": "코스피 또 떨어지는데...\"9000 간다, 사라\" 모간스탠리 돌변 이유는 - 머니투데이 - 머니투데이",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tZnNBS0QyT1JVNjdObG1kZUNMQ0dkMnR5ZkYtMS1UdU9yRkNwNlJnY1dMVWtvYXo4YU5CeWlUMXlpVDQwbU1ZbG8yOUFCMV81dk1NTWtMdGZyNW1aX0hWbGxnSzliSTA20gFuQVVfeXFMTk4xLVlqaDl4T3RQcDFPYW1pcXlxd3FheURJQklzMUpUcjJsX1JUR0VaMFVteFVtMkF1dVNyVEE3LXpNamRKQldkcXE3cnhvU282Q1dlRXdhbzVuVk96a0szcy0xMWpHLWFmdjRObEE?oc=5",
       "pub": "Mon, 03 Aug 2026 05:27:50 GMT"
     },
     {
-      "title": "모건스탠리, 코스피 5% 급락에도 “9000 유지”…비중도 확대 - 스트레이트뉴스",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE92RkNWcDNnZ0ZocEVFWkNmbEtJU1AzMlpxV1FuUEpXcVpwLUhPVE9DOTk2anF4bnhCSXB5V3dnbjNSd3IxQUN1WS1ybkotTDYxemtILXRuUnktLWxCdE1JT0JXODdGMHhOX3VUeHdTaUxFbmPSAXdBVV95cUxQblpDajFGd3Y1Mzk3cS1WRTBxV3JqNl9PYWdQTDNoWFpSZ2hCZmJyNEJMTkpYTVBmdXN2YVFKTTQwT3QxQ193T0NpeDd1dHJzWU1wdDFyU1NGVk5Uclh4bUNWX0gyVVU2SzQxczlNSWpyUXZrT2dRdw?oc=5",
-      "pub": "Sat, 01 Aug 2026 07:00:00 GMT"
+      "title": "모건스탠리 “한국 주식 비중 확대”… 매수사이드카 터진 코스닥 반등 시동? [한강로 경제브리핑] - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04SmpwMGwzc19SbVZKZV81WDM0UWlhYWo5MWtjMjNsT0tnYWR4M1ZfMS1hWk0tMkp5b2RxVS1tUk11YlNPVUNCT3VHRlJQTWc?oc=5",
+      "pub": "Mon, 03 Aug 2026 21:04:13 GMT"
     },
     {
-      "title": "코스피 역대급 폭등에…단일레버리지 등 ETF 대거 초과 괴리율 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5lTjJFWG1KclI4d051NFlYbnUwOG9yc1NsN1VvelpzSk5xem1zSjh1V3ZRZFpnNFBKaGtYVEp2RjVhMTZMd0E?oc=5",
-      "pub": "Mon, 03 Aug 2026 01:46:49 GMT"
+      "title": "모건스탠리, 韓 주식 비중 확대로 상향…\"코스피 9,000 다시 간다\" - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjY2pMNXR5UGpmMVFaazkxbjREOFBQSFlqSTRtdVBGTmstUXJlZm1GZXZRNU0tSHdMMTAtSElha2x0ZmoyelU0aHVPQ2ZlTkFvaGtPd2pEcVJwQm1Pa1pWRmhLUlRhMFdyTnhubnRTaXg?oc=5",
+      "pub": "Mon, 03 Aug 2026 04:12:00 GMT"
     },
     {
-      "title": "“코스피 극단적 저평가, 매수 기회”…대신증권, 목표주가는 하향 - 문화일보",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5mZVF4SkttRUdsWmFvMDFpWHVkYWNCbXBtRFEtQ1QyS2ZHTkN0LTFkR1E3czA5UzlTLWdWNXpEZE5qaXp0S24yRXpLZEhQV3I3?oc=5",
-      "pub": "Mon, 03 Aug 2026 14:39:44 GMT"
+      "title": "블룸버그 \"주식 애호가 이재명 대통령, 코스피 급등락에 역풍\" - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0za2NPTk1rT2xhSFZpWGNSWUJVN1VGN3U1c3kyUU51bjdsb3VIaUVsZmdHZE9vOG14RGZFQWVOS0pTR2Y0YXN5MzltUXQ4Z3M?oc=5",
+      "pub": "Mon, 03 Aug 2026 05:27:31 GMT"
     },
     {
-      "title": "7월 폭락 딛고 반등 시동 건 코스피...대신증권, \"9300선까지 밸류에이션 정상화 가능\" - 녹색경제신문",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByRVZxRHREcnE3dDduRDJ5bWpZY1E1Mi1hd0s3cHVYNWhPRXNPaUhVTGZUUVJNajBXeDdwSjdkc21CTlBnLUhwU0pPbWFhQzZlOVBsUUhjZUtIZnR2Y2xZQ3NpcnNLcnhM?oc=5",
-      "pub": "Mon, 03 Aug 2026 05:55:09 GMT"
+      "title": "블룸버그 “韓 개미들, 이재명 비난하며 코스피 떠난다” - 조선비즈 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLXJCM3ZmNTB4S09hNEVTRUFHcmktaUE2UGdXMk1jYV8ydUJBb3VxTjdLNTJCSzM5cnVWMDZXR1FYbDdMX29uQ29MdVZKMUphTlZwZ3haVGxCLVNfcTVvMGFCYkVjZFQ5dEROOVdONGhfd05yVng5VG1tXzlJUkoyaWxxT3dVVnJITjhnanBBeGdBMDBhUFQ2dlhGUWF4UdIBsgFBVV95cUxQcEFoaXpSWU52STZNMGFWWUhxRmlPeGsza1NQVUNMQXh0UGFxbllJNWhtd3EtdEN0aHBPRmdYTDlteWR1TkVXVDVERUd0dU5IUENFUXN2cF9BZWpQak9ld01NdXZET0lPU1hic1diWUlzMlZsclkybWk2QWYwejNGX1lZa05mSmpuX1pYb1BIRTBPMEFMVTZBcmJDTXdRNmdVeWFPOENNWm1zakNfOUkwR2NB?oc=5",
+      "pub": "Mon, 03 Aug 2026 05:02:00 GMT"
+    },
+    {
+      "title": "“무섭다, 다시는 韓 주식 투자 안해”…블룸버그, 레버리지 역풍 맞은 코스피 조명 - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5yUnlTN1JpbW9FNDRtVTFMb0RVRV9tNGhqdTB4TldIa0x0bkJFcjN6MzBRRUV5YWhOTGR0MzBqM29IaEw3T3Nwa1dIMHJNdw?oc=5",
+      "pub": "Mon, 03 Aug 2026 08:59:34 GMT"
     }
   ],
   "signal": {
-    "text": "시장 조정 국면. 손절보다 비중 축소 후 상황을 지켜보세요.",
-    "type": "negative"
+    "text": "오늘 시장은 강세입니다. 추격 매수보다 보유 전략이 유리할 수 있어요.",
+    "type": "positive"
   },
-  "one_liner": "코스피 🔻 약세 · 코스닥 🚀 강세"
+  "one_liner": "코스피 🚀 강세 · 코스닥 🚀 강세"
 }
