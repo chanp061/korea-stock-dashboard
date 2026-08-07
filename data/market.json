@@ -1,70 +1,70 @@
 {
-  "updated_at": "2026년 08월 06일 07:49",
-  "updated_date": "2026-08-06",
+  "updated_at": "2026년 08월 07일 10:27",
+  "updated_date": "2026-08-07",
   "kospi": {
-    "price": 6598.26,
-    "change": 239.31,
-    "pct": 3.76,
-    "label": "강세",
-    "emoji": "🚀"
+    "price": 6341.34,
+    "change": 44.96,
+    "pct": 0.71,
+    "label": "소폭 강세",
+    "emoji": "📈"
   },
   "kosdaq": {
-    "price": 799.59,
-    "change": 62.24,
-    "pct": 8.44,
-    "label": "강세",
-    "emoji": "🚀"
+    "price": 796.31,
+    "change": -5.36,
+    "pct": -0.67,
+    "label": "소폭 약세",
+    "emoji": "📉"
   },
   "sp500": {
-    "price": 7723.55,
-    "change": -12.97,
-    "pct": -0.17
+    "price": 7709.96,
+    "change": -13.59,
+    "pct": -0.18
   },
   "nasdaq": {
-    "price": 26363.44,
-    "change": -221.55,
-    "pct": -0.83
+    "price": 26348.35,
+    "change": -15.09,
+    "pct": -0.06
   },
   "usdkrw": {
-    "price": 1422.15,
-    "change": -7.19,
-    "pct": -0.5
+    "price": 1420.46,
+    "change": -2.23,
+    "pct": -0.16
   },
   "news": [
     {
-      "title": "코스피 또 떨어지는데...\"9000 간다, 사라\" 모간스탠리 돌변 이유는 - 머니투데이 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tZnNBS0QyT1JVNjdObG1kZUNMQ0dkMnR5ZkYtMS1UdU9yRkNwNlJnY1dMVWtvYXo4YU5CeWlUMXlpVDQwbU1ZbG8yOUFCMV81dk1NTWtMdGZyNW1aX0hWbGxnSzliSTA20gFuQVVfeXFMTk4xLVlqaDl4T3RQcDFPYW1pcXlxd3FheURJQklzMUpUcjJsX1JUR0VaMFVteFVtMkF1dVNyVEE3LXpNamRKQldkcXE3cnhvU282Q1dlRXdhbzVuVk96a0szcy0xMWpHLWFmdjRObEE?oc=5",
-      "pub": "Mon, 03 Aug 2026 05:27:50 GMT"
-    },
-    {
-      "title": "블룸버그 “韓 개미들, 이재명 비난하며 코스피 떠난다” - 조선비즈 - biz.chosun.com",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLXJCM3ZmNTB4S09hNEVTRUFHcmktaUE2UGdXMk1jYV8ydUJBb3VxTjdLNTJCSzM5cnVWMDZXR1FYbDdMX29uQ29MdVZKMUphTlZwZ3haVGxCLVNfcTVvMGFCYkVjZFQ5dEROOVdONGhfd05yVng5VG1tXzlJUkoyaWxxT3dVVnJITjhnanBBeGdBMDBhUFQ2dlhGUWF4UdIBsgFBVV95cUxQcEFoaXpSWU52STZNMGFWWUhxRmlPeGsza1NQVUNMQXh0UGFxbllJNWhtd3EtdEN0aHBPRmdYTDlteWR1TkVXVDVERUd0dU5IUENFUXN2cF9BZWpQak9ld01NdXZET0lPU1hic1diWUlzMlZsclkybWk2QWYwejNGX1lZa05mSmpuX1pYb1BIRTBPMEFMVTZBcmJDTXdRNmdVeWFPOENNWm1zakNfOUkwR2NB?oc=5",
-      "pub": "Mon, 03 Aug 2026 05:02:00 GMT"
-    },
-    {
-      "title": "코스피 변동성 두배 뛰었다…자본연 \"주범은 '반도체·수급충돌'\" - 아시아경제",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zRE1ETHl4MFoxWTlUQ1ktSExBSVNFZ3k2X2FRbmE4NkhlNHRkdnJ2c05PbFJzLWs1ZXM4Tng4STdNZTI1MUFiR2c1VGp5SzhPU2lfSGtLWUdydTZod2VnellR?oc=5",
-      "pub": "Wed, 05 Aug 2026 21:46:00 GMT"
-    },
-    {
-      "title": "김원훈 ‘개미’도 물렸다…“문상훈, 너도?” 예능이 된 ‘롤러 코스피’ - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fczkyU2M0blVqcTFsdkZXVy04V3NaZUtoRC1rNzd4eHl4Y01wZHhjMFcwV3ZsQUVZOERveFJPclV4UUt0a0VfVjZRWFVtdngtSE5XY3ZSZlJMcmJ4eTVEMVQzZlZISmxSTlY3dmdobEY2QQ?oc=5",
-      "pub": "Wed, 05 Aug 2026 13:11:00 GMT"
-    },
-    {
-      "title": "190조 털고 나간 외국인…다시 코스피 방향타 쥐나 - 뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GMlRkU3ZiVlp0bm43NllPU08zeXlDVHFCam4ydFQxT0JXTGtTaXdUdHVuNXZuRkVObXJMM0U0NXg0NHRrVnotTnhDS2FJVlJnWmdrMjVSam5FZ0JxYmtYNtIBeEFVX3lxTE5ZaEhCMGppV2Y4cS1OMGotU0NVNU9tT0pFVHU1Vi0ydXNPWGwyQi1TSl9HSW5DTFA4cGd2Q3R4Q0xmNms4WktsMG9DdTZXd1FNUm52VHVSUjlIUnNXSWx5czV3amR0LVdhMC1Hb2ZyLUsxZkQyNU5BcA?oc=5",
+      "title": "5월엔 ‘106% 대박’ 국민연금… 7월 코스피 폭락에 120조 날렸다 - 조선비즈 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSDhsSWlTYmNQeEhIVHZnOUp0Yng1d1VLNG40TTlVeVhPS25VMHFreHM1WVMyaFJiTzAxcTQ0QVl6WTkzeXM4MzJlOV9tR3QweEk0dEVKQVFaNXBMWUpJVVlaeE9JUmp2eXhYUEMzVlVweWtfWkUtZW5XMGVMVUp4OHpDbmttMjFI0gGcAUFVX3lxTE5XMDlJaTRWUFJoQWRoY3Q5ckJUR1QtMW9wTEVla3JFaDRfcHBXdGFIaUcwVkRheXpUblM1QkZncll2dGZScEEwczIwSTBDVUJiemVIMkJBdTZ0X0NmVjZtSmVZaF9LMG1QNFJCZV9ReVRkNWhaSkFVdWdSNmFXYkdsOVJEbWhRMFlrRENmUHRyUDgtRTFHN3M1UklDTA?oc=5",
       "pub": "Tue, 04 Aug 2026 21:00:00 GMT"
     },
     {
-      "title": "코스피 6600선 회복…삼성전자 5%·하이닉스 6%↑[이런국장 저런주식] - 서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5V2tXWWdNVk5SMFFia0pDT3FxdTBLQk9oc3J1ZXZCOElOdHlDLVVFcjhlNC1KVVhfcTdwSU9lQnVlaTlSbnZiZFVfZGpPV0FYcUHSAVNBVV95cUxPUXBFaEoySGJpMXozRlk2LTljRk8tUW1QckUxWktiRV9Tb3lWQlR3TnFkX0o3V3RNZW5wN2hWczluR2ZtMDVyUGxXZThGX3FDeTJXaw?oc=5",
-      "pub": "Wed, 05 Aug 2026 00:29:36 GMT"
+      "title": "\"오를 줄 알았는데…주식 안 할란다\" 삼전닉스 흔들리자 개미들 결국 떠났다 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5zNG5KV0txVHJrcG85czFQWlBNc3M0WVFYZlM3UFRnSnZRdlhqRTFfQ3hzbHlZUjdQWnZmOEtiMVlOUm51el8ydVB3Vm80djg?oc=5",
+      "pub": "Thu, 06 Aug 2026 01:24:39 GMT"
+    },
+    {
+      "title": "코스피 급반등때 공매도 숏커버 정황…증시 부양 신호탄? - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XS0hMOUxINC1TMWk3a1JYQ2JMR25VY3hRNlRRWXhxQVI2dmpXS0ZkZkxESENRaXAtMTRNYjZ5eWxjSV91Mm9QN1l6cUhWeHlsQ3VxSjJwYWNwV2RJemJwLXplNGhCNmdf0gFuQVVfeXFMTkJEbmgyZ0c4eGQ2VXhJNF9VQm9IZWRvUWhfdjNBYlNET1M5R0pIWW9TS1BhRF83Nlh4R1RObHhTYjE2clF6d1hvaTdyS2YyM3FGMENzYlVzZFZYQWR1ODlyaWlqYU84LWdadENuTmc?oc=5",
+      "pub": "Thu, 06 Aug 2026 08:41:00 GMT"
+    },
+    {
+      "title": "코스피 폭락 경고 8배 급증 … 이번엔 샌디 공포 - mk.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yQjM3MFQ2TGNyOS1LUEJaM0pld1hGUUhaTGhzT29oLURmNmYtZ2VSdDZLTThVSE1TbVRwQ3RuRUtSWm1DcWJKWFlucmlkQzl1NkRTdUtB?oc=5",
+      "pub": "Thu, 06 Aug 2026 06:24:35 GMT"
+    },
+    {
+      "title": "'V자 반등' vs 'L자형 박스권'…코스피 운명 가를 4가지 변수 - hankyung.com",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJc1lMRUh3THJvS0FiRGQ0bGxJVmR5UFNEVmxvd3M0QzhWbXFxSVA1amRZd0E0TkVkR3B5Z3lnV0Z1TnFGN1l4NkFWbWpfU1pOTThOMnFHb1dPdw?oc=5",
+      "pub": "Wed, 05 Aug 2026 23:00:09 GMT"
+    },
+    {
+      "title": "코스피, 기관·개인 '팔자'에 1.81% 하락 출발 - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wZzY1TGFWZ09sRFRDamtYeVVBRTVaZlp4LXhVbEJWelNpcTlDdzU4M1BucWxvRU5iRXpyRC13OVlPdDV1bDRtc2Q0T1VfazBVaEJueUllOG54bkZUTE9CLXFibjI4ODVaUEtibHR1ZTPSAXRBVV95cUxOOGlhN1Z5eUtGZl9RWVlzYnIxZXJ1VmkzSF9JZXZTQTFxLWZ1N2tMSkYxazdnVVZPWmcxVm1qcWVwRFpGZmdkWFdjUmpScHhDVG5aTDNKb2Zwc2diaks0cUgtOVdwQWREUWJSQVlkUlI1S2Vxbg?oc=5",
+      "pub": "Thu, 06 Aug 2026 00:02:54 GMT"
     }
   ],
   "signal": {
-    "text": "오늘 시장은 강세입니다. 추격 매수보다 보유 전략이 유리할 수 있어요.",
-    "type": "positive"
+    "text": "소폭 상승권. 뚜렷한 방향성보다 관망이 적절합니다.",
+    "type": "neutral"
   },
-  "one_liner": "코스피 🚀 강세 · 코스닥 🚀 강세"
+  "one_liner": "코스피 📈 소폭 강세 · 코스닥 📉 소폭 약세"
 }
