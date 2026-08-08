@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026년 08월 08일 07:25",
-  "updated_date": "2026-08-08",
+  "updated_at": "2026년 08월 09일 07:19",
+  "updated_date": "2026-08-09",
   "kospi": {
     "price": 6258.77,
     "change": -37.61,
@@ -10,10 +10,10 @@
   },
   "kosdaq": {
     "price": 798.81,
-    "change": -0.78,
-    "pct": -0.1,
-    "label": "보합",
-    "emoji": "➡️"
+    "change": -2.86,
+    "pct": -0.36,
+    "label": "소폭 약세",
+    "emoji": "📉"
   },
   "sp500": {
     "price": 7757.64,
@@ -32,39 +32,39 @@
   },
   "news": [
     {
+      "title": "해외 IB “코스피, 1만피 가능”…주가 39% 급락은 일시적 조정? - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0yTU5RTDktdnFybW1HeXBCM01ic1JDeWo2bFctSl9jN0hlQ0oyVWpnY01LUGJQcW9ySDJIakJUdW1vZ29GM3U3bWMyaXhPV0dSalNpMg?oc=5",
+      "pub": "Fri, 07 Aug 2026 02:21:46 GMT"
+    },
+    {
       "title": "코스피 급반등때 공매도 숏커버 정황…증시 부양 신호탄? - 머니투데이 - 머니투데이",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XS0hMOUxINC1TMWk3a1JYQ2JMR25VY3hRNlRRWXhxQVI2dmpXS0ZkZkxESENRaXAtMTRNYjZ5eWxjSV91Mm9QN1l6cUhWeHlsQ3VxSjJwYWNwV2RJemJwLXplNGhCNmdf0gFuQVVfeXFMTkJEbmgyZ0c4eGQ2VXhJNF9VQm9IZWRvUWhfdjNBYlNET1M5R0pIWW9TS1BhRF83Nlh4R1RObHhTYjE2clF6d1hvaTdyS2YyM3FGMENzYlVzZFZYQWR1ODlyaWlqYU84LWdadENuTmc?oc=5",
       "pub": "Thu, 06 Aug 2026 08:41:00 GMT"
     },
     {
-      "title": "코스피 흔들리면 닛케이도 출렁…'한국 연동'에 갇힌 日 증시 - 주간조선",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwT2lSVjYwSjdxNkpUdE9BaG9RbWtGZUxLcVQzOTlWemxsQzlwRkhPX2NmOE9paGU5b2lHMVpoY3o0VHJVWlVBbUlOdm1vS2RhbzRmLVJzamhnU25oa1d6UElBT2hIMUs5OUHSAW5BVV95cUxPUjFsV0pXODNnV0lLU3NMVllteExNZk5TZ0oxZllzLTV1YzZ2OTVFTTVjZGhnZUJDdm9JWWpLVkFqY2MxYTVRcFdTOFNsZEJxdk0wU3pLMldCUER0ek1wbHBad1RDd0gzS2lmODFfdw?oc=5",
-      "pub": "Thu, 06 Aug 2026 13:35:00 GMT"
+      "title": "판 깔아주고 나 몰라라… 롤러코스피에 우는 2030 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdUgwNWxYbmxLQmpPal9lNFdvQjgyQkVuRkZjSXc2VmVwdDBZM0tTem9tSU02MnJYRndnYTR2THZHdEtuOGxTRHRHTVU2VGViZnVLZzF6dFV1bG91VnZieDVpeXRWWS1SOFRGamhHb2lCYWw0djh1VU42RjN2NnNEYl8zdFFVZEpkNHJ3SGhR?oc=5",
+      "pub": "Sat, 08 Aug 2026 20:30:00 GMT"
     },
     {
-      "title": "코스피 폭락 경고 8배 급증…이번엔 샌디 공포 [플러스 관심종목] - 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zcU83RjBXMVVaR3RNSDBoc2VfSTdFaGNzd2lYbndJQ0E3N0JsYU9CWmFoLUxLMVFDWVZhY0FZdUZsN3NNWDBOWUNZNnpLQmdRdmc?oc=5",
-      "pub": "Fri, 07 Aug 2026 09:45:05 GMT"
+      "title": "“국장 돌아오니 꼭대기였네”…서학개미, 코스피 꺾이자 다시 ‘미장’으로 - 국민일보",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSlFyT0c5Y2NCc3hGQkQwZGtaZmxUWGY0TG1iNUx6R2l3VkdubVU4T0NPNEVRQXRkVVB6SnVWNGNfakNCdkttOGdscUJmRHoyc1JjNUE2N1NhOUpFT09Kc1FNT05FeTJPTURwd2NjY3JsNEYxRV9NaGNaWUFkdlhhQ3k1cHROQdIBbEFVX3lxTFBtcEZfSFU2X09IZ3BrU2RnT0Vtd0tWM2hCSnlYWUJ3T2VtNzZhWUZWMU9SOWFKbFN6NkFSNXplLTBmUElLNDU5NnFab0xmeGpVNm00bnVWal9TZzJEbzR2SkNHWG5FeWZOOWhiTg?oc=5",
+      "pub": "Sat, 08 Aug 2026 20:01:00 GMT"
     },
     {
-      "title": "숨 고르는 코스피 6300선 ‘숨고르기’… 코스닥 6거래일 연속 상승 [이런국장 저런주식] - 서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IVy1NZEVWRDQyVE1aN0RwbnkwdUZPelFKbG5hSHN0RVVMRjhTVUlQSmlpWFJoQTRmcHhWRzBoQ0E4TUZrZnBEOUZ1V0g4cFhBX2fSAVNBVV95cUxPLUR5cjVKVFVuTTJ5TEx6RFdjUXhPVm9wbVIzV3VLbmctaDVsNnJZYWhKS01vd0YyMGE4bnBMS3A4WXd4QkNoaFIyOF93LW54MEJ5OA?oc=5",
-      "pub": "Fri, 07 Aug 2026 00:46:07 GMT"
+      "title": "“역시 미국이 답”…코스피 폭락에 서학개미 ‘대탈출’ [머니+] - 에너지경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sdnF3NUVMRzJ6MnlFNThLMG54eno2OUFfeHZaaFZfVjJIVjBhZ2RLNmd3UFZ3RkdzVjhTUGlEeUxQTThpNmpOSnczY0xpWGJPV3FRQmlpSTZDSnc?oc=5",
+      "pub": "Sat, 08 Aug 2026 02:20:04 GMT"
     },
     {
-      "title": "해외 IB “코스피, 1만피 가능”…주가 39% 급락은 일시적 조정? - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8tY1otSVQyVkhNNE1JNkh6dW5GamR5NkFqSHM0Q2g4ZEpCZkRUSDFJVXZjRGJQRE5XTXNxaThGeHZRNEhsR0t0LUdVTlNoZGs?oc=5",
-      "pub": "Fri, 07 Aug 2026 02:24:04 GMT"
-    },
-    {
-      "title": "김원훈 ‘개미’도 물렸다…“문상훈, 너도?” 예능이 된 ‘롤러 코스피’ - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fczkyU2M0blVqcTFsdkZXVy04V3NaZUtoRC1rNzd4eHl4Y01wZHhjMFcwV3ZsQUVZOERveFJPclV4UUt0a0VfVjZRWFVtdngtSE5XY3ZSZlJMcmJ4eTVEMVQzZlZISmxSTlY3dmdobEY2QQ?oc=5",
-      "pub": "Wed, 05 Aug 2026 13:11:00 GMT"
+      "title": "변동성 계속되는 코스피, '증권시장안정펀드' 가동해야할까 - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hU0kzS3VKX3NickxNSExDZ09Wdkt1WGg3UUt6X2VIQy00aWc5MkhVRHVlWFdzTXhkTkRMM1U5NHh2Z0pFU2Yxa3BlMlNMY2Y4M2QwcHNmZmZxUQ?oc=5",
+      "pub": "Fri, 07 Aug 2026 02:30:02 GMT"
     }
   ],
   "signal": {
     "text": "소폭 하락권. 패닉셀보다 분할 매수 기회를 살펴보세요.",
     "type": "neutral"
   },
-  "one_liner": "코스피 📉 소폭 약세 · 코스닥 ➡️ 보합"
+  "one_liner": "코스피 📉 소폭 약세 · 코스닥 📉 소폭 약세"
 }
