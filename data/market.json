@@ -1,70 +1,70 @@
 {
-  "updated_at": "2026년 08월 12일 07:32",
-  "updated_date": "2026-08-12",
+  "updated_at": "2026년 08월 13일 07:31",
+  "updated_date": "2026-08-13",
   "kospi": {
-    "price": 6345.53,
-    "change": 45.87,
-    "pct": 0.73,
-    "label": "소폭 강세",
-    "emoji": "📈"
-  },
-  "kosdaq": {
-    "price": 857.84,
-    "change": 59.03,
-    "pct": 7.39,
+    "price": 6579.04,
+    "change": 233.51,
+    "pct": 3.68,
     "label": "강세",
     "emoji": "🚀"
   },
+  "kosdaq": {
+    "price": 858.91,
+    "change": 4.44,
+    "pct": 0.52,
+    "label": "소폭 강세",
+    "emoji": "📈"
+  },
   "sp500": {
-    "price": 7728.2,
-    "change": -24.91,
-    "pct": -0.32
+    "price": 7748.5,
+    "change": 20.3,
+    "pct": 0.26
   },
   "nasdaq": {
-    "price": 26445.44,
-    "change": -159.91,
-    "pct": -0.6
+    "price": 26588.49,
+    "change": 143.04,
+    "pct": 0.54
   },
   "usdkrw": {
-    "price": 1412.4,
-    "change": -5.32,
-    "pct": -0.38
+    "price": 1416.74,
+    "change": 4.41,
+    "pct": 0.31
   },
   "news": [
+    {
+      "title": "반도체 훈풍에 코스피 장초반 강세…코스닥은 반락 - 머니투데이 - mt.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Gc1hXR2lUY3BQTnRwem5hUFJOS2l3TVNGc2xJYTZNVDJnS0ZWVGZoN3ItWl9LRi1aV2ktVmNPRFQyQlRMQnVpVFJMWWpWOUZCaFlhcWRta2lVWDNiYjVnWk5KcFBFNV9F0gFuQVVfeXFMTm8wSFNNTDJxWGpvTmR1ckN3SVhwUDVxRUtHUmJUczZheE9mek5QblFxbFA4bGJtUENxQTdkOWxURVk1MW5LdlpxMDN6X0wxZXM1STY4TTZwYUotRHVFZ3VqYzEwQ2VZdjVMV1JWdHc?oc=5",
+      "pub": "Wed, 12 Aug 2026 00:33:52 GMT"
+    },
+    {
+      "title": "[코스피·코스닥 전 거래일(12일) 주요공시] - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OT1Q5enJhN2lfVGtxTkVHZ0FDZ28wczR1ZHVSNHNYQkdSYVRJWExZOEY1LWZTMFZ4b2NhU0YtNzRiZzctRXlyak5pWThFQ1VvMG5pakp0N3FQOTDSAWBBVV95cUxQTHJpcVNoenY0a0NuNE43c05wWGFOZEt6WHJ5WW1ZQW5OSDdTMU1IMm90R05PRF91dGowNjdjUUZ2dHR1SmkycVY2VzlFYmdnemluYUFjbXgtbk5mRTZYWEU?oc=5",
+      "pub": "Wed, 12 Aug 2026 21:05:00 GMT"
+    },
     {
       "title": "코스피, 반도체 과열 식더니…변동성 지수 11% 빠져 - 한겨레",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UeFdkSWJwV1ltNl9IWGJid19kelM1UW01cEFDeFczYTJvQkNOWWNTTWdUcURQWEJoX0x2eWJLV2R1LXhOVGdtTlZxMnhLZk9VU1dqYkdsTmxKTzQ4TWd3aURyN2toNFE?oc=5",
       "pub": "Tue, 11 Aug 2026 08:11:00 GMT"
     },
     {
-      "title": "코스피 0.7%·코스닥 0.3% 상승 마감…2거래일 연속 상승 - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4dHFZdlZpRHpvTlVaNlF6YjhGd0NRODhrUkh0NnRpTEM1dXVxcGFKMDNCSGhmNVE2cEdMZnd3SkI4Qk92WEs2Rl8yRkh3T2VjT1pIVzhYMU0wLTDSAWBBVV95cUxQcGNFT3AzZDNiYTVsbUJfYlNBaDk3LTl0ZWt2bFBqRk1mNVZzVm05SURlRk9hMFJaN3A3c2RhbXZZc2Zma3VFU1phX1Q3Mlh6c3YtRWVTV1RJcWdGLWZaR1o?oc=5",
-      "pub": "Tue, 11 Aug 2026 06:37:51 GMT"
+      "title": "8월 코스피 뛰어넘은 코스닥…1000포인트 회복하나 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3d1BaakNDV0VpUXpBNjFHaHJXdl95ckZHYjJMVHhMaHpvRGhwcGJfSmp0aXlxV253Tmtfa2pCVjlBR2FvdXpEWGJnN1F4bFk?oc=5",
+      "pub": "Wed, 12 Aug 2026 01:27:00 GMT"
     },
     {
-      "title": "반도체주 상승에 코스피 오름세… 코스닥도 방긋 [MTN 마감시황] - MTN 머니투데이방송",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VbkxMcWpxMkZrWlAzOTh5VDdmYnBJUlFKbndmNk9oaFlaTkZGenVnRWxSbjlybWREZ19hb0tJSmhnbnJNbElKOFZybWFRUmp3SjJMTlZyeTVPSENOVG1PU2FTNEs?oc=5",
-      "pub": "Tue, 11 Aug 2026 06:49:20 GMT"
+      "title": "[이슈 체크] 내 종목이 관리종목? 코스피·코스닥 36개사 관리종목 현황 분석 - 네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNEtEcnB3YnJFWkhWWXFjMEVRdnVNV0NCTkRUdWdYZFBPR2NlZ1M1X2xvZWc5bnRSRlFaSmFNSG9zMG1wYVdERHp4MmpYMmdpdHhUMl9QUDR0R0FnMVBQNUxINk5tU3NFQlJDazllNzNTZXF0eUZ1TWxLWkk4VTYyd3ZuajlkS084RkE?oc=5",
+      "pub": "Wed, 12 Aug 2026 12:16:00 GMT"
     },
     {
-      "title": "코스피 소폭 상승세...코스닥은 '매수 사이드카' - YTN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtWUhiVy1XVjZQb1lEZXY3MzJ1R2preEtQNEVpTUVVNXVIVUZQdE9JV2JRY2RFdlROTHR1SEdGSU5oV0pDWGxaV0lZTVdUeDdqQWJCa0ZFSkJVZndldFE?oc=5",
-      "pub": "Mon, 10 Aug 2026 02:48:00 GMT"
-    },
-    {
-      "title": "상승 전환 성공한 코스피…상위 1%는 하닉·삼전 던졌다 [주식 초고수는 지금] - 서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qbWhMOGh2dnNpVjJvSE9IdW5jSk5FNDJMeXpNSzZiOVhDVlV2d0d6UUwteTNScXNxb3hhODRzUG05c1RkVlBUaXJjVFZ3MVJOeEHSAVNBVV95cUxNSzB1YkIzV0N2dVp1eC1waWR6aHZGT1hJckFoQW1qOTRPdE1RMTFlM01iQzZMSnU0Nmtzb2pLemJXVGVGdXhBUHIzOGxYb0VEMGphOA?oc=5",
-      "pub": "Tue, 11 Aug 2026 04:50:06 GMT"
-    },
-    {
-      "title": "아찔한 ‘롤러코스피’… 서학개미, 두 달 만에 국장 떠나 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqSVJBSEwxZUNKc291NHBCTWE3UzNFenFUZnk1cHVLRGxCQWFVc25lcEtUZWc0TEtBMms0UlBVR29yU2ZhLThQVDdoRmR6bjA?oc=5",
-      "pub": "Mon, 10 Aug 2026 21:06:00 GMT"
+      "title": "롤러코스피에 국민연금도 흔들흔들? 두 달 사이 120조 원 증발한 이유 💸 - 뉴닉",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9WRmJrQ3cyUFkyQUx0UzROUHhMaDlQWXFCOEh2N3BNa1BuMG1YdjR0UFV5VmFuQzRHQlEtMllsaDUteWxqazVCZE5hYzBPenJjV0JZ?oc=5",
+      "pub": "Wed, 12 Aug 2026 07:01:03 GMT"
     }
   ],
   "signal": {
     "text": "오늘 시장은 강세입니다. 추격 매수보다 보유 전략이 유리할 수 있어요.",
     "type": "positive"
   },
-  "one_liner": "코스피 📈 소폭 강세 · 코스닥 🚀 강세"
+  "one_liner": "코스피 🚀 강세 · 코스닥 📈 소폭 강세"
 }
