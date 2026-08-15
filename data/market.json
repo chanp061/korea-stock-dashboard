@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026년 08월 15일 07:13",
-  "updated_date": "2026-08-15",
+  "updated_at": "2026년 08월 16일 07:11",
+  "updated_date": "2026-08-16",
   "kospi": {
     "price": 6977.94,
     "change": 164.6,
@@ -10,8 +10,8 @@
   },
   "kosdaq": {
     "price": 864.65,
-    "change": 5.74,
-    "pct": 0.67,
+    "change": 3.28,
+    "pct": 0.38,
     "label": "소폭 강세",
     "emoji": "📈"
   },
@@ -26,11 +26,21 @@
     "pct": -0.28
   },
   "usdkrw": {
-    "price": 1416.48,
-    "change": -1.65,
-    "pct": -0.12
+    "price": 1412.0,
+    "change": -6.13,
+    "pct": -0.43
   },
   "news": [
+    {
+      "title": "코스피 장중 7000선 돌파…5거래일 연속 '상승' - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XUDljVHlHb3VXNmFBWnJFZmZhWUJ1TVpXdG9WRy0zWFFqT1FJZm1Xa1QyU2Y2VXhYX19WSGg4dFBLQUZFaW9jVkFRNlhoUklsY2x0dlBtQUFBM09B?oc=5",
+      "pub": "Fri, 14 Aug 2026 06:35:00 GMT"
+    },
+    {
+      "title": "코스피 반등 못 믿는 개미…美 ETF로 피하더니 이번엔 ‘하락’ 베팅 - 조선비즈 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRndVcWEzZ3ZIY1NXMGVuTUZTdl9hQTYwMDREYnZSTDczYjI4ZTBQVTFBU0lTVEh3cFNRczU3WkFVNy1oekZ6OG9GUmNPTFp6MDFXQnhyNURkNVZSV2syVHRuQTA3ZFJwNzA2bngxMHEyc2g0N1NVbFJDOUxhZFoyNzJMaDdVeDZv0gGcAUFVX3lxTE9yVkdRcWItV0xOZWpjcFBiaDV4ZVFGS0JhZ0o3eW83ZjBXUHJoYjYzWHFicUJBczhNck1LRzJTc3N3VVZGc3ZaZV92Q3ZEaWdVZDRrb0tUZnR4OEhOSTJrOHBFSnp3TGlKd2x3ZVFDQndsWjRTTTBqWW9yT2xyWWljb2hEb21ZZzlfc0thV19XT0I4V04zM3Jvc2Z5Yw?oc=5",
+      "pub": "Sat, 15 Aug 2026 21:05:34 GMT"
+    },
     {
       "title": "[오늘을 생각한다] 투자의 민주화는 어쩌다 불안의 민주화가 됐을까 - 주간경향",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFUmFlWW1Vb0lBMDUyRWVLQkJLazFqaTVOUmNTVnVsaElSNUdMVUo3MnBwMGx2MUYtZGg3VUc1NTd5bWlRbUxpUm02a1Nqck5Uc1MxMC1MaGRNcTR6MXc?oc=5",
@@ -42,24 +52,14 @@
       "pub": "Fri, 14 Aug 2026 12:41:40 GMT"
     },
     {
+      "title": "코스피 떠난 개미들, '코스닥·미장' 행렬 뚜렷 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9fQnZDQ2hPSzFVLVJVZmdUbXgwUTFqTG1xcTRLSWU1R2FvU045ME1TQXY3NkR2eTJ6TDkxN2RfaTZNOGdmOHVZeEVHZXVVajA?oc=5",
+      "pub": "Fri, 14 Aug 2026 02:46:30 GMT"
+    },
+    {
       "title": "코스피에 푹 빠진 세계 최대 국부펀드…‘이 업종’선 과감하게 발 뺐다 - 매일경제 마켓",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Yczg0NGxFQ0NsS1ZibjJvOHJtLXZOekNKak9XVVNjZ3hreUREWTJBTVh0aDFZS25taXR4Y2NYVVQyYWVYOXlxeHJ6elJfVWNHWFE?oc=5",
       "pub": "Thu, 13 Aug 2026 11:07:54 GMT"
-    },
-    {
-      "title": "[食전食후] 코스피, 6900선 숨고르기…코스닥 하락전환 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFByTnNRSDE4Ql9WZXpxUW9vZGVHbmlmanJWWDY4dWt1YllsV1NpdDZYTE9UN0o4Q1QyOWY5QkFGZEFsUkc0bkRUc3J6WXVnSjQ?oc=5",
-      "pub": "Fri, 14 Aug 2026 05:14:37 GMT"
-    },
-    {
-      "title": "“한국 증시 믿은 내가 바보”…코스피 개미들의 눈물 외신도 조명 - 동아일보",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBQT1F0RHdYNld1QUdleDV3djdBTkd1LTVPeHBHbTk5eXFWZHhfWFNZZFZZbFZQZzBzYjVwMXpxYThfUjl3QzUwZzllVUtodEU1VTJGMlh6ekk0a3YxWkM3Rm14T1VUdmc4Mi1jTnNkTkxNQTjSAWZBVV95cUxOV3VTVzhOWklXbUxjZGRZVjhZODJzVVp6Z0Y1RnRjdmtmdGZDZ2FFZU1Id0tObWNESXYtMW9HR0RvcjFMME81STJZTmx3dUNYd1NYNDg0YnVyTG03OHJrUzMzMjdRQ1E?oc=5",
-      "pub": "Fri, 14 Aug 2026 02:59:00 GMT"
-    },
-    {
-      "title": "지금, 주식을 언제 어떻게 사고 팔아야 할까요? - contents.premium.naver.com",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wVzN4MHVROUtJWHY2cmlYVjExU1lBcDB4NEx3eFE0dUotd01OdWdTUWViMnllNUpjYzNVcVpTaWhxSXkycUNBUTQ3NTBuZkdxYnUzZ3dhLW9HSWxWNk1hWHRLd3pIOWdhQTV5bTlkbGVvYzNBOHktRDB4TEJlV00?oc=5",
-      "pub": "Wed, 12 Aug 2026 07:34:00 GMT"
     }
   ],
   "signal": {
