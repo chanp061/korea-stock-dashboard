@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026년 08월 16일 07:11",
-  "updated_date": "2026-08-16",
+  "updated_at": "2026년 08월 17일 07:11",
+  "updated_date": "2026-08-17",
   "kospi": {
     "price": 6977.94,
     "change": 164.6,
@@ -22,44 +22,44 @@
   },
   "nasdaq": {
     "price": 26729.16,
-    "change": -73.86,
+    "change": -73.84,
     "pct": -0.28
   },
   "usdkrw": {
-    "price": 1412.0,
-    "change": -6.13,
-    "pct": -0.43
+    "price": 1416.48,
+    "change": -1.65,
+    "pct": -0.12
   },
   "news": [
     {
-      "title": "코스피 장중 7000선 돌파…5거래일 연속 '상승' - 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XUDljVHlHb3VXNmFBWnJFZmZhWUJ1TVpXdG9WRy0zWFFqT1FJZm1Xa1QyU2Y2VXhYX19WSGg4dFBLQUZFaW9jVkFRNlhoUklsY2x0dlBtQUFBM09B?oc=5",
-      "pub": "Fri, 14 Aug 2026 06:35:00 GMT"
+      "title": "코스피 7000 회복에도 ‘하락 베팅’…공매도 잔고 14% 증가 - viva100.com",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrZTQ3QjNaT05fN205SzU0TTdOSmJOSkFrQ21xbXBMcXhaeDhfQUFJMjZFa3lZMWRMVEJnd1JtV0hCVmVSUjg4elpndkJVd05NWU45eHRqZlowQQ?oc=5",
+      "pub": "Sun, 16 Aug 2026 02:40:00 GMT"
     },
     {
-      "title": "코스피 반등 못 믿는 개미…美 ETF로 피하더니 이번엔 ‘하락’ 베팅 - 조선비즈 - Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRndVcWEzZ3ZIY1NXMGVuTUZTdl9hQTYwMDREYnZSTDczYjI4ZTBQVTFBU0lTVEh3cFNRczU3WkFVNy1oekZ6OG9GUmNPTFp6MDFXQnhyNURkNVZSV2syVHRuQTA3ZFJwNzA2bngxMHEyc2g0N1NVbFJDOUxhZFoyNzJMaDdVeDZv0gGcAUFVX3lxTE9yVkdRcWItV0xOZWpjcFBiaDV4ZVFGS0JhZ0o3eW83ZjBXUHJoYjYzWHFicUJBczhNck1LRzJTc3N3VVZGc3ZaZV92Q3ZEaWdVZDRrb0tUZnR4OEhOSTJrOHBFSnp3TGlKd2x3ZVFDQndsWjRTTTBqWW9yT2xyWWljb2hEb21ZZzlfc0thV19XT0I4V04zM3Jvc2Z5Yw?oc=5",
-      "pub": "Sat, 15 Aug 2026 21:05:34 GMT"
+      "title": "[롤러코스피 탑승기] 청년도, 노인도, 주부도…모두가 주식을 시작했다 - kmib.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8ydjNsa3N5VENJblVvZ01MMHNsc1B0eS1NYkdlRHdOSFg4TXNQRWV4ZXhwYWZqR1JtWHNTRmZmOTVpbE9GaHVmenZmdnpiOEVlNHA3cEdFOWJZdFBHaE91RmIwWEVQSTDSAWxBVV95cUxQcGZGZVBlamJVMFlXVVVKWTNBVlI5dHFhOVJiUVp5SXFUamJkajhtZm9tQm40emJvd0wyMmxEbE56ajFpNEdEblI0YS1QRE84MXJYNU8tVGhUWFBjOGdpcjQ2OWJXbGRCcUswUTk?oc=5",
+      "pub": "Sun, 16 Aug 2026 03:11:00 GMT"
     },
     {
-      "title": "[오늘을 생각한다] 투자의 민주화는 어쩌다 불안의 민주화가 됐을까 - 주간경향",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFUmFlWW1Vb0lBMDUyRWVLQkJLazFqaTVOUmNTVnVsaElSNUdMVUo3MnBwMGx2MUYtZGg3VUc1NTd5bWlRbUxpUm02a1Nqck5Uc1MxMC1MaGRNcTR6MXc?oc=5",
-      "pub": "Fri, 14 Aug 2026 21:00:00 GMT"
+      "title": "코스피 ‘변동성’ 단일종목 레버리지, 규제 후 35% 이상 하락 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12RkJpUFplOVlTbUphMVVUR0dhNUhtOUlydU5ZWHpWclJBbnp3ejFfMEkyTF9ESHZrWU5Kd0M5WWRSTjlENk1xdXN5aU9WWkU?oc=5",
+      "pub": "Sun, 16 Aug 2026 05:35:38 GMT"
     },
     {
-      "title": "코스피 올랐지만…\"결혼자금 날려\" 아직 손실? - 마켓인",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5NSFQtMjNuaTh0ZjNGaHlnNUhzd0tIdGk3VlFDOXhacmt5aDRFMEtUZmU1U0tNZ01hTjE2Y0kxY3JBNVBpUk9HOVB4U2RKSWJVVjRYUE40NU5LQks0bE1sbE9KUEZ4eEk5aHlKSzdUakQyZWc?oc=5",
-      "pub": "Fri, 14 Aug 2026 12:41:40 GMT"
+      "title": "코스피, 外人 귀환에 ‘추가 상승’ 기대…낙관론 확산[주간증시] - 에너지경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxcS0waER2TC1ueGtDbjVWQm92MndiRm43Z09NSXd5eF9Ic1BoajdjZjRRRWRDMGJnVWtXNzl3QzZ2YTRKSHRRMVAzV1VueHU4dFl6b0VaallSLWsyblBGWXYyNA?oc=5",
+      "pub": "Sun, 16 Aug 2026 20:01:06 GMT"
     },
     {
-      "title": "코스피 떠난 개미들, '코스닥·미장' 행렬 뚜렷 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9fQnZDQ2hPSzFVLVJVZmdUbXgwUTFqTG1xcTRLSWU1R2FvU045ME1TQXY3NkR2eTJ6TDkxN2RfaTZNOGdmOHVZeEVHZXVVajA?oc=5",
-      "pub": "Fri, 14 Aug 2026 02:46:30 GMT"
+      "title": "‘코스닥 천하’ 일주일 만에 흔들…외국인은 코스피로 [이런국장 저런주식] - sedaily.com",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QVm1sWUVuTFZKWlpkTThQdXhnTXdTd3hhaTBXZzhrQmlNdWVWNzhqYzYyOUFFcnFjZ0dQdllGS0ZEV1g5a01odV82ZW9ZR05jamc?oc=5",
+      "pub": "Sun, 16 Aug 2026 07:00:00 GMT"
     },
     {
-      "title": "코스피에 푹 빠진 세계 최대 국부펀드…‘이 업종’선 과감하게 발 뺐다 - 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Yczg0NGxFQ0NsS1ZibjJvOHJtLXZOekNKak9XVVNjZ3hreUREWTJBTVh0aDFZS25taXR4Y2NYVVQyYWVYOXlxeHJ6elJfVWNHWFE?oc=5",
-      "pub": "Thu, 13 Aug 2026 11:07:54 GMT"
+      "title": "윤지호 \"코스피 전고점 회복은 쉽지 않다…당분간 박스권 될 것\" - hankyung.com",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JSFRmSE1MS2VoaVAyWDMxbS1YM2JkVUM1RmtNQVZOcnpId0ZrUk9HaURrb0NjQTlPanhKclRkWkxVQjVtYURxSld0UEpKQ1FWSEFrZm1FOU9RZw?oc=5",
+      "pub": "Sat, 15 Aug 2026 23:00:02 GMT"
     }
   ],
   "signal": {
