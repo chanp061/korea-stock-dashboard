@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026년 08월 17일 07:11",
-  "updated_date": "2026-08-17",
+  "updated_at": "2026년 08월 18일 07:14",
+  "updated_date": "2026-08-18",
   "kospi": {
     "price": 6977.94,
     "change": 164.6,
@@ -16,50 +16,50 @@
     "emoji": "📈"
   },
   "sp500": {
-    "price": 7785.76,
-    "change": -13.23,
-    "pct": -0.17
+    "price": 7745.06,
+    "change": -40.7,
+    "pct": -0.52
   },
   "nasdaq": {
-    "price": 26729.16,
-    "change": -73.84,
-    "pct": -0.28
+    "price": 26644.91,
+    "change": -84.25,
+    "pct": -0.32
   },
   "usdkrw": {
-    "price": 1416.48,
-    "change": -1.65,
-    "pct": -0.12
+    "price": 1416.21,
+    "change": -0.27,
+    "pct": -0.02
   },
   "news": [
     {
-      "title": "코스피 7000 회복에도 ‘하락 베팅’…공매도 잔고 14% 증가 - viva100.com",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrZTQ3QjNaT05fN205SzU0TTdOSmJOSkFrQ21xbXBMcXhaeDhfQUFJMjZFa3lZMWRMVEJnd1JtV0hCVmVSUjg4elpndkJVd05NWU45eHRqZlowQQ?oc=5",
-      "pub": "Sun, 16 Aug 2026 02:40:00 GMT"
+      "title": "코스피 반등 못 믿는 개미…美 ETF로 피하더니 이번엔 ‘하락’ 베팅 - 조선비즈 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRndVcWEzZ3ZIY1NXMGVuTUZTdl9hQTYwMDREYnZSTDczYjI4ZTBQVTFBU0lTVEh3cFNRczU3WkFVNy1oekZ6OG9GUmNPTFp6MDFXQnhyNURkNVZSV2syVHRuQTA3ZFJwNzA2bngxMHEyc2g0N1NVbFJDOUxhZFoyNzJMaDdVeDZv0gGcAUFVX3lxTE9yVkdRcWItV0xOZWpjcFBiaDV4ZVFGS0JhZ0o3eW83ZjBXUHJoYjYzWHFicUJBczhNck1LRzJTc3N3VVZGc3ZaZV92Q3ZEaWdVZDRrb0tUZnR4OEhOSTJrOHBFSnp3TGlKd2x3ZVFDQndsWjRTTTBqWW9yT2xyWWljb2hEb21ZZzlfc0thV19XT0I4V04zM3Jvc2Z5Yw?oc=5",
+      "pub": "Sat, 15 Aug 2026 21:00:00 GMT"
     },
     {
-      "title": "[롤러코스피 탑승기] 청년도, 노인도, 주부도…모두가 주식을 시작했다 - kmib.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8ydjNsa3N5VENJblVvZ01MMHNsc1B0eS1NYkdlRHdOSFg4TXNQRWV4ZXhwYWZqR1JtWHNTRmZmOTVpbE9GaHVmenZmdnpiOEVlNHA3cEdFOWJZdFBHaE91RmIwWEVQSTDSAWxBVV95cUxQcGZGZVBlamJVMFlXVVVKWTNBVlI5dHFhOVJiUVp5SXFUamJkajhtZm9tQm40emJvd0wyMmxEbE56ajFpNEdEblI0YS1QRE84MXJYNU8tVGhUWFBjOGdpcjQ2OWJXbGRCcUswUTk?oc=5",
+      "title": "[롤러코스피 탑승기] 청년도, 노인도, 주부도…모두가 주식을 시작했다 - 국민일보",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwZkZlUGVqYlUwWVdVVUpZM0FWUjl0cWE5UmJRWnlJcVRqYmRqOG1mb21CbjR6Ym93TDIybERsTnpqMWk0R0RuUjRhLVBETzgxclg1Ty1UaFRYUGM4Z2lyNDY5YldsZEJxSzBROdIBbEFVX3lxTFBwZkZlUGVqYlUwWVdVVUpZM0FWUjl0cWE5UmJRWnlJcVRqYmRqOG1mb21CbjR6Ym93TDIybERsTnpqMWk0R0RuUjRhLVBETzgxclg1Ty1UaFRYUGM4Z2lyNDY5YldsZEJxSzBROQ?oc=5",
       "pub": "Sun, 16 Aug 2026 03:11:00 GMT"
     },
     {
-      "title": "코스피 ‘변동성’ 단일종목 레버리지, 규제 후 35% 이상 하락 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12RkJpUFplOVlTbUphMVVUR0dhNUhtOUlydU5ZWHpWclJBbnp3ejFfMEkyTF9ESHZrWU5Kd0M5WWRSTjlENk1xdXN5aU9WWkU?oc=5",
-      "pub": "Sun, 16 Aug 2026 05:35:38 GMT"
+      "title": "“올라도 못 믿겠다”... 코스피 반등에도 주식 팔아치우는 개미들 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1IV290YWpETU1uMFk5ZGtmcTJXaEczTjFfRXpnSEJVZi1vcFlEZFh5VHI0X1JkMXNYN2JjbU04TGFjeWFVVUE?oc=5",
+      "pub": "Sun, 16 Aug 2026 01:25:37 GMT"
     },
     {
-      "title": "코스피, 外人 귀환에 ‘추가 상승’ 기대…낙관론 확산[주간증시] - 에너지경제신문",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxcS0waER2TC1ueGtDbjVWQm92MndiRm43Z09NSXd5eF9Ic1BoajdjZjRRRWRDMGJnVWtXNzl3QzZ2YTRKSHRRMVAzV1VueHU4dFl6b0VaallSLWsyblBGWXYyNA?oc=5",
+      "title": "“월 50억씩 벌다 반년 만에 65억 손실” 코스피 ETF에서 새 길 찾은 황준호 작가 - 동아일보",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzdDh4THNsUGYwWUs0RlNIVjU1OWEyUzNHY0FEV1RES2RXdXpTbzkySmRZMHVOeFptUDgtOUJmVmZYR1VFcFFFbWM5VTN3am9rR2Z2NXNnNEgxekt3YjlLQjl1ZGljcTVicTg3dTdyOEdRSEY5dUHSAWZBVV95cUxPQUVmekZIQ3g5bzZ6Y2F1Z3E0dGRqVXRDTU84djBWdFlQTFJaS3dza2FkWkxXNHNzcGw4R0hrbXVzOFdXOG5Ma3h6YTNCQTdkejg2ak1SWGd2NlFhenR1UFdxQ0hGTnc?oc=5",
+      "pub": "Sun, 16 Aug 2026 23:06:00 GMT"
+    },
+    {
+      "title": "코스피, 外人 귀환에 ‘추가 상승’ 기대…낙관론 확산[주간증시] - ekn.kr",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uOW01RUxPamh0R1NsalRTcENFSnItb0NKb3Y1YWxCUnpvLXZ0eGI4OUlPcUpSVFEtVFRPeEFyY3NvRlJqTFVzc2ZvdEpWRzJndkJlTjFwb2ZOS28?oc=5",
       "pub": "Sun, 16 Aug 2026 20:01:06 GMT"
     },
     {
-      "title": "‘코스닥 천하’ 일주일 만에 흔들…외국인은 코스피로 [이런국장 저런주식] - sedaily.com",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QVm1sWUVuTFZKWlpkTThQdXhnTXdTd3hhaTBXZzhrQmlNdWVWNzhqYzYyOUFFcnFjZ0dQdllGS0ZEV1g5a01odV82ZW9ZR05jamc?oc=5",
-      "pub": "Sun, 16 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "title": "윤지호 \"코스피 전고점 회복은 쉽지 않다…당분간 박스권 될 것\" - hankyung.com",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JSFRmSE1MS2VoaVAyWDMxbS1YM2JkVUM1RmtNQVZOcnpId0ZrUk9HaURrb0NjQTlPanhKclRkWkxVQjVtYURxSld0UEpKQ1FWSEFrZm1FOU9RZw?oc=5",
-      "pub": "Sat, 15 Aug 2026 23:00:02 GMT"
+      "title": "“코스피 신호등 그린라이트” … 투자베테랑의 베팅은 - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02bl9wWS0wXzZyaDJjOVpLTjFCM0NKMXFiZ3pCaDU0SEZjZDBpeWZ3VF9IQ0taSmd6cS1NSDFPWUdyTVNUYm5XWlppWVRWRUFoVUE?oc=5",
+      "pub": "Mon, 17 Aug 2026 19:00:00 GMT"
     }
   ],
   "signal": {
