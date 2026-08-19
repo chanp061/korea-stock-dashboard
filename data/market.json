@@ -1,65 +1,65 @@
 {
-  "updated_at": "2026년 08월 19일 07:12",
-  "updated_date": "2026-08-19",
+  "updated_at": "2026년 08월 20일 07:15",
+  "updated_date": "2026-08-20",
   "kospi": {
-    "price": 6869.83,
-    "change": -108.11,
-    "pct": -1.55,
+    "price": 6471.17,
+    "change": -398.66,
+    "pct": -5.8,
     "label": "약세",
     "emoji": "🔻"
   },
   "kosdaq": {
-    "price": 834.2,
-    "change": -30.45,
-    "pct": -3.52,
+    "price": 824.46,
+    "change": -40.19,
+    "pct": -4.65,
     "label": "약세",
     "emoji": "🔻"
   },
   "sp500": {
-    "price": 7691.76,
-    "change": -53.3,
-    "pct": -0.69
+    "price": 7707.98,
+    "change": 16.22,
+    "pct": 0.21
   },
   "nasdaq": {
-    "price": 26289.71,
-    "change": -355.2,
-    "pct": -1.33
+    "price": 26331.09,
+    "change": 41.38,
+    "pct": 0.16
   },
   "usdkrw": {
-    "price": 1412.29,
-    "change": -2.56,
-    "pct": -0.18
+    "price": 1386.77,
+    "change": -25.49,
+    "pct": -1.8
   },
   "news": [
     {
-      "title": "\"코스피 다시 오른다\"…간 큰 개미들 '18조 아찔한 베팅' - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtMlh3Q0NqX3ZoMHZGbVBIOE8ybWNNX19EZWxUWkNiR1BtcjNDejhHQ3lKUXBuZ2lIWXVaVnFlaVBTUEVuMndqSGVmdWFZVktyOXZzb3R0Ulo3UQ?oc=5",
-      "pub": "Tue, 18 Aug 2026 05:00:03 GMT"
+      "title": "美 금리 '충격'에‥코스피 매도 사이드카 - MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Ta1g4MnhnM0NFd1k1NUE1b0xkdjRMWlkxWWY0ZnBWT3Y0T3NVbVFiVGRQUGRveWtPTnZ4ZS1rWTRJbmlfNV9YUEd3YzRBMHlSM1pyWDlCSnA1OFI4OG9aTk5xSnRyU3ZHWlBpUGZKbUxNT3dEeVdkU9IBeEFVX3lxTFByLWVqNkNPcVBESWpkcXlaMFN3NjlTQXpubTJvblc3cERWTkxtQ2t6NnFLMHFnSEVIWm1tUVpBT2VyQWVRQmw4WnV6VzBQTVJ6dmUwSnBvQU9Pa29kc3R4Q01LRTZnOWpkNlFvVTEzS0xZNXNuVXlzWQ?oc=5",
+      "pub": "Wed, 19 Aug 2026 03:13:47 GMT"
     },
     {
-      "title": "[롤러코스피 탑승기] 청년도, 노인도, 주부도…모두가 주식을 시작했다 - 국민일보",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwZkZlUGVqYlUwWVdVVUpZM0FWUjl0cWE5UmJRWnlJcVRqYmRqOG1mb21CbjR6Ym93TDIybERsTnpqMWk0R0RuUjRhLVBETzgxclg1Ty1UaFRYUGM4Z2lyNDY5YldsZEJxSzBROdIBbEFVX3lxTFBwZkZlUGVqYlUwWVdVVUpZM0FWUjl0cWE5UmJRWnlJcVRqYmRqOG1mb21CbjR6Ym93TDIybERsTnpqMWk0R0RuUjRhLVBETzgxclg1Ty1UaFRYUGM4Z2lyNDY5YldsZEJxSzBROQ?oc=5",
-      "pub": "Sun, 16 Aug 2026 03:11:00 GMT"
+      "title": "“삼전닉스 주가 이미 반영”…한국 피터린치가 찍은 코스피 3 - 중앙일보",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pMnFMQVFrOFBYd1dqWDRqOUFrRFlHYVM2NHB5YVNfUDJ2VzJmWHlOd0lURElKb0dyT3piWGpmXzAtX2p4TFAwYmVWSERIOFRQTDlnQVl3?oc=5",
+      "pub": "Wed, 19 Aug 2026 20:00:02 GMT"
     },
     {
-      "title": "[코스피·코스닥 전 거래일(18일) 주요공시] - 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzZkc0cU03RzFVMHV6Wk5jQkY5SFBXSWpjOHNFZVhzaU4xd21nR3hnbTA2X3RUczdHSC1LcUdxWjdwbU5UUTE1dWw2QXZiZDRvRlE?oc=5",
-      "pub": "Tue, 18 Aug 2026 21:05:00 GMT"
+      "title": "[코스피·코스닥 전 거래일(19일) 주요공시] - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TckJtN0c3TUg3amtPU21fUHd5dTNvRGhZRmpITjhUS0N3bDhwWW8tRWV5X0VaeFVZSU9YaWdScTZHLVdJZGE0STllSHJZLVdMSGc?oc=5",
+      "pub": "Wed, 19 Aug 2026 21:05:00 GMT"
     },
     {
-      "title": "코스피 변동성 잦아들자 외국인 돌아오나…5거래일 연속 '사자'(종합) - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YT2M0WTZyOXpqdDBnLWI4MTBTcVdWZTJIUzFiOVAzUnZPVS1FbnJMc3RaWUFIcHp3OU1oLUxjbm0yRmdOcC1DQXN2WnZEYjF5dGprV2pKcW1HT1HSAWBBVV95cUxQVndIY1ctX2pBQ2lhR1RfSU5Xd2JqN0VZcDBUZXpJMGRPN1l6dF9xbURDZ2pXTFJldm1oWG5nYTRCVU1kbEpoWG8zZWtXOW0zZG05alY0bzM4NnRxNFNmRW0?oc=5",
-      "pub": "Tue, 18 Aug 2026 07:34:16 GMT"
+      "title": "“비정상적 주가 상승 끝은 폭락… 상투 잡은 개미들만 피해” - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJTzlaRmJObXBYZGZKWE00Q1JWWXczWVlZWnlTMUF0R284b3ZZS2hpNVpwcS1RSFdhNFotSUgyNkgzZjFHZmhMeFdLQV9UaVk?oc=5",
+      "pub": "Wed, 19 Aug 2026 09:37:52 GMT"
     },
     {
-      "title": "코스피·코스닥, 엿새 만에 하락 전환...\"미 국채금리 영향\" - YTN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVcEJQZ2xvSEpxaE9LMHN0NzUxV2dCVGU4SURZSTlDN1hnZTg3SzJoNE9SeS1JTmxCeUctMGNNazNfMzRqYmdZMUZ6QTl6V3FjcU56Umh3VlM5VkRsb0E?oc=5",
-      "pub": "Tue, 18 Aug 2026 13:55:00 GMT"
+      "title": "“코스피 올라도 불안” 개미, 다시 미국으로 - 헤럴드경제",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPcDh3V0ZRZEY5Z2xYd1hNX0Y4T2ZqdTVhV2hKcDN6clNCYUNaNDlsN0wzTmxoVzJoLTdpUWRkQ3lDZm5WZkxPaGF2aEs0VVBJRmJJbVVn?oc=5",
+      "pub": "Wed, 19 Aug 2026 02:35:39 GMT"
     },
     {
-      "title": "7월 극심한 변동성에 ‘마상’입은 개미들...코스피서 7조 넘게 순매도 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WankxMW9feGI3UTV3ZkdtS1ZzazJvT2xFbVk0RkJCeXcwcDBvVjloTl9GV0t1Zk9jWTZZSGlYemRLbEFwRUx0Z1gzV3BKYk0?oc=5",
-      "pub": "Tue, 18 Aug 2026 05:18:46 GMT"
+      "title": "국내주식 고점에 판 사학·공무원연금…국민연금과 달랐다 - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wQU54SGpIY1dZc2R3TWZjcE84VFZRWkt0cG8tVnVsS1ZmWFl3VmRDTXgzRzlfdHZnbU5wVF9QT2VLZ0FrRzBtWG9ua3Z5dXZVZ3dLdnpsTEptSElaV1J6S3Y2WHloU1FRc1hXUUlWVkI?oc=5",
+      "pub": "Tue, 18 Aug 2026 01:11:00 GMT"
     }
   ],
   "signal": {
