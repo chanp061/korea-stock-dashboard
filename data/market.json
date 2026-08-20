@@ -1,70 +1,70 @@
 {
-  "updated_at": "2026년 08월 20일 07:15",
-  "updated_date": "2026-08-20",
+  "updated_at": "2026년 08월 21일 07:17",
+  "updated_date": "2026-08-21",
   "kospi": {
-    "price": 6471.17,
-    "change": -398.66,
-    "pct": -5.8,
-    "label": "약세",
-    "emoji": "🔻"
+    "price": 6852.58,
+    "change": 381.41,
+    "pct": 5.89,
+    "label": "강세",
+    "emoji": "🚀"
   },
   "kosdaq": {
-    "price": 824.46,
-    "change": -40.19,
-    "pct": -4.65,
-    "label": "약세",
-    "emoji": "🔻"
+    "price": 840.89,
+    "change": 6.69,
+    "pct": 0.8,
+    "label": "소폭 강세",
+    "emoji": "📈"
   },
   "sp500": {
-    "price": 7707.98,
-    "change": 16.22,
-    "pct": 0.21
+    "price": 7641.16,
+    "change": -66.82,
+    "pct": -0.87
   },
   "nasdaq": {
-    "price": 26331.09,
-    "change": 41.38,
-    "pct": 0.16
+    "price": 26067.17,
+    "change": -263.92,
+    "pct": -1.0
   },
   "usdkrw": {
-    "price": 1386.77,
-    "change": -25.49,
-    "pct": -1.8
+    "price": 1394.02,
+    "change": 6.88,
+    "pct": 0.5
   },
   "news": [
     {
-      "title": "美 금리 '충격'에‥코스피 매도 사이드카 - MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Ta1g4MnhnM0NFd1k1NUE1b0xkdjRMWlkxWWY0ZnBWT3Y0T3NVbVFiVGRQUGRveWtPTnZ4ZS1rWTRJbmlfNV9YUEd3YzRBMHlSM1pyWDlCSnA1OFI4OG9aTk5xSnRyU3ZHWlBpUGZKbUxNT3dEeVdkU9IBeEFVX3lxTFByLWVqNkNPcVBESWpkcXlaMFN3NjlTQXpubTJvblc3cERWTkxtQ2t6NnFLMHFnSEVIWm1tUVpBT2VyQWVRQmw4WnV6VzBQTVJ6dmUwSnBvQU9Pa29kc3R4Q01LRTZnOWpkNlFvVTEzS0xZNXNuVXlzWQ?oc=5",
-      "pub": "Wed, 19 Aug 2026 03:13:47 GMT"
+      "title": "[AI MY 증시전망] 코스피, 美 장기금리 진정에 반등 시도 전망 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SbEk4RDlqT0xFSGsxSzdMMzNDVU5PLTRoQ3ZYdHBLdmVMSUdvX0RKWHR1bjRqZTExZnJmN2VTWE92d1VpVlFGUFRjcGIzUXZLeHFyM3M0QWpwSDZw?oc=5",
+      "pub": "Wed, 19 Aug 2026 23:55:00 GMT"
+    },
+    {
+      "title": "\"코스피 생큐, 잘 먹고 갑니다\" 외인 7개월째 매도...'여기로' 몰려갔다 - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OMzhjVDZqa2dTNjc4MERKcC1qNVRXUkxBNHcyZHd4UDZfd1VoNGJoQWhuSGRvU0wzV3BMS0VoRUNyeTlWb3BmWEMtaklMMjlSSzdhaVBiaUpuUElpZmpYamZWLWxxN3Vm0gFuQVVfeXFMTll4ZnduUTlSSUc0YmljSmpndldHVVZiU3JaSVFsdDduSVN0bW5zVFh0ckJfYTY2YWtPTUoxLXVnQXNQNUQ4LVc2RWYtU3kwekV1SmNhQnVrNUFjLW40YUZONFNRaHdfWkU5dGY2WWc?oc=5",
+      "pub": "Thu, 20 Aug 2026 21:00:00 GMT"
+    },
+    {
+      "title": "[코스피·코스닥 전 거래일(20일) 주요공시] - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84ZXVyMzJJNVh5MXVBbzNZeDM5c0dPdkY5MU1FcFdSbng4Q2hrYzBUU3ptNkd4UjdxQlZhUk9EcUMxbXdnaE5CVUNoQjRsTGswOUE?oc=5",
+      "pub": "Thu, 20 Aug 2026 21:05:01 GMT"
+    },
+    {
+      "title": "코스피 짓누른 美 금리 꺾였다…'안도 랠리' 이어질까 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qVnpfUzJySHVNMG4xZkhDa1RYbjFwZVlvdkVhTzZrR0lnUXdJcFRWNGRVUUxrc0pUUTJyTXZjZkx6MTZIa2NrSnlOSWduTlNvTXVJUFJfN0NpSmFh?oc=5",
+      "pub": "Thu, 20 Aug 2026 21:00:00 GMT"
+    },
+    {
+      "title": "SK하이닉스發 주주환원 훈풍…삼성전자도 들썩, 코스피 다시 뛸까? - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlMWlsLWFaOHk3UUt2c1FSSXZRSGptUTRRblVzZWdaWHg4X0k0ZjhPVWRXbElmRGpxbDlSSlRYQ1cyTE1vZXRrd3ZWYk9uTGk1TDlpMjZzemVGZ25XdldsX0FkOEVlUHI10gFuQVVfeXFMT0FlNUdCU2lhbWJRMVJ3TFVZOFlUZEQ1dm1TRmtLVHAyTFJSQm1HcEMtSVFpRUpaRVVFd21mNkxranRFN3NSM0ZxNkkzeFRrZGlVUm5SX1NJM3VETGVobnl1clJBMVlXSDFKeVFKaFE?oc=5",
+      "pub": "Thu, 20 Aug 2026 01:42:09 GMT"
     },
     {
       "title": "“삼전닉스 주가 이미 반영”…한국 피터린치가 찍은 코스피 3 - 중앙일보",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pMnFMQVFrOFBYd1dqWDRqOUFrRFlHYVM2NHB5YVNfUDJ2VzJmWHlOd0lURElKb0dyT3piWGpmXzAtX2p4TFAwYmVWSERIOFRQTDlnQVl3?oc=5",
       "pub": "Wed, 19 Aug 2026 20:00:02 GMT"
-    },
-    {
-      "title": "[코스피·코스닥 전 거래일(19일) 주요공시] - 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TckJtN0c3TUg3amtPU21fUHd5dTNvRGhZRmpITjhUS0N3bDhwWW8tRWV5X0VaeFVZSU9YaWdScTZHLVdJZGE0STllSHJZLVdMSGc?oc=5",
-      "pub": "Wed, 19 Aug 2026 21:05:00 GMT"
-    },
-    {
-      "title": "“비정상적 주가 상승 끝은 폭락… 상투 잡은 개미들만 피해” - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJTzlaRmJObXBYZGZKWE00Q1JWWXczWVlZWnlTMUF0R284b3ZZS2hpNVpwcS1RSFdhNFotSUgyNkgzZjFHZmhMeFdLQV9UaVk?oc=5",
-      "pub": "Wed, 19 Aug 2026 09:37:52 GMT"
-    },
-    {
-      "title": "“코스피 올라도 불안” 개미, 다시 미국으로 - 헤럴드경제",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPcDh3V0ZRZEY5Z2xYd1hNX0Y4T2ZqdTVhV2hKcDN6clNCYUNaNDlsN0wzTmxoVzJoLTdpUWRkQ3lDZm5WZkxPaGF2aEs0VVBJRmJJbVVn?oc=5",
-      "pub": "Wed, 19 Aug 2026 02:35:39 GMT"
-    },
-    {
-      "title": "국내주식 고점에 판 사학·공무원연금…국민연금과 달랐다 - 연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wQU54SGpIY1dZc2R3TWZjcE84VFZRWkt0cG8tVnVsS1ZmWFl3VmRDTXgzRzlfdHZnbU5wVF9QT2VLZ0FrRzBtWG9ua3Z5dXZVZ3dLdnpsTEptSElaV1J6S3Y2WHloU1FRc1hXUUlWVkI?oc=5",
-      "pub": "Tue, 18 Aug 2026 01:11:00 GMT"
     }
   ],
   "signal": {
-    "text": "시장 조정 국면. 손절보다 비중 축소 후 상황을 지켜보세요.",
-    "type": "negative"
+    "text": "오늘 시장은 강세입니다. 추격 매수보다 보유 전략이 유리할 수 있어요.",
+    "type": "positive"
   },
-  "one_liner": "코스피 🔻 약세 · 코스닥 🔻 약세"
+  "one_liner": "코스피 🚀 강세 · 코스닥 📈 소폭 강세"
 }
