@@ -1,70 +1,70 @@
 {
-  "updated_at": "2026년 08월 21일 07:17",
-  "updated_date": "2026-08-21",
+  "updated_at": "2026년 08월 22일 07:14",
+  "updated_date": "2026-08-22",
   "kospi": {
-    "price": 6852.58,
-    "change": 381.41,
-    "pct": 5.89,
-    "label": "강세",
-    "emoji": "🚀"
-  },
-  "kosdaq": {
-    "price": 840.89,
-    "change": 6.69,
-    "pct": 0.8,
+    "price": 6912.95,
+    "change": 60.37,
+    "pct": 0.88,
     "label": "소폭 강세",
     "emoji": "📈"
   },
+  "kosdaq": {
+    "price": 801.94,
+    "change": -22.52,
+    "pct": -2.73,
+    "label": "약세",
+    "emoji": "🔻"
+  },
   "sp500": {
-    "price": 7641.16,
-    "change": -66.82,
-    "pct": -0.87
+    "price": 7674.37,
+    "change": 33.21,
+    "pct": 0.43
   },
   "nasdaq": {
-    "price": 26067.17,
-    "change": -263.92,
-    "pct": -1.0
+    "price": 26180.46,
+    "change": 113.29,
+    "pct": 0.43
   },
   "usdkrw": {
-    "price": 1394.02,
-    "change": 6.88,
-    "pct": 0.5
+    "price": 1385.98,
+    "change": -7.76,
+    "pct": -0.56
   },
   "news": [
-    {
-      "title": "[AI MY 증시전망] 코스피, 美 장기금리 진정에 반등 시도 전망 - 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SbEk4RDlqT0xFSGsxSzdMMzNDVU5PLTRoQ3ZYdHBLdmVMSUdvX0RKWHR1bjRqZTExZnJmN2VTWE92d1VpVlFGUFRjcGIzUXZLeHFyM3M0QWpwSDZw?oc=5",
-      "pub": "Wed, 19 Aug 2026 23:55:00 GMT"
-    },
     {
       "title": "\"코스피 생큐, 잘 먹고 갑니다\" 외인 7개월째 매도...'여기로' 몰려갔다 - 머니투데이 - 머니투데이",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OMzhjVDZqa2dTNjc4MERKcC1qNVRXUkxBNHcyZHd4UDZfd1VoNGJoQWhuSGRvU0wzV3BMS0VoRUNyeTlWb3BmWEMtaklMMjlSSzdhaVBiaUpuUElpZmpYamZWLWxxN3Vm0gFuQVVfeXFMTll4ZnduUTlSSUc0YmljSmpndldHVVZiU3JaSVFsdDduSVN0bW5zVFh0ckJfYTY2YWtPTUoxLXVnQXNQNUQ4LVc2RWYtU3kwekV1SmNhQnVrNUFjLW40YUZONFNRaHdfWkU5dGY2WWc?oc=5",
       "pub": "Thu, 20 Aug 2026 21:00:00 GMT"
     },
     {
-      "title": "[코스피·코스닥 전 거래일(20일) 주요공시] - 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84ZXVyMzJJNVh5MXVBbzNZeDM5c0dPdkY5MU1FcFdSbng4Q2hrYzBUU3ptNkd4UjdxQlZhUk9EcUMxbXdnaE5CVUNoQjRsTGswOUE?oc=5",
-      "pub": "Thu, 20 Aug 2026 21:05:01 GMT"
+      "title": "“올해 주식, 아직 ‘+’이세요?” 물어보니…‘수익 중’ 42%·‘코스피 더 오른다’ 37% - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xOF9EdnBacldzRndLSjd1RG5pMmpyV3RkMDZLQXhWODV5WHQ5Sk5RY1pNcVYtUEVReThDNGF2WkZUNjRMOG9wazh0VmNOWVZqZ0E?oc=5",
+      "pub": "Fri, 21 Aug 2026 08:13:00 GMT"
     },
     {
-      "title": "코스피 짓누른 美 금리 꺾였다…'안도 랠리' 이어질까 - 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qVnpfUzJySHVNMG4xZkhDa1RYbjFwZVlvdkVhTzZrR0lnUXdJcFRWNGRVUUxrc0pUUTJyTXZjZkx6MTZIa2NrSnlOSWduTlNvTXVJUFJfN0NpSmFh?oc=5",
-      "pub": "Thu, 20 Aug 2026 21:00:00 GMT"
-    },
-    {
-      "title": "SK하이닉스發 주주환원 훈풍…삼성전자도 들썩, 코스피 다시 뛸까? - 머니투데이 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlMWlsLWFaOHk3UUt2c1FSSXZRSGptUTRRblVzZWdaWHg4X0k0ZjhPVWRXbElmRGpxbDlSSlRYQ1cyTE1vZXRrd3ZWYk9uTGk1TDlpMjZzemVGZ25XdldsX0FkOEVlUHI10gFuQVVfeXFMT0FlNUdCU2lhbWJRMVJ3TFVZOFlUZEQ1dm1TRmtLVHAyTFJSQm1HcEMtSVFpRUpaRVVFd21mNkxranRFN3NSM0ZxNkkzeFRrZGlVUm5SX1NJM3VETGVobnl1clJBMVlXSDFKeVFKaFE?oc=5",
-      "pub": "Thu, 20 Aug 2026 01:42:09 GMT"
+      "title": "로이터, 코스피 30% 급락 조명…레버리지 투자 후폭풍 - 이데일리TV",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNbWt1YW53V2lBV1AxTXhfT3pibnNkdXNPM2l6RTFyRnN3YnBXQlA3MUJ5TXhBZkdjdmpkNzJiZER5a1RXU0RXMVdpOF9YdFJMcVNKbUNBNFNZN0dwLVg3R1RzUk5zS0J3ejlWb3hTa2c0Skowb05xWDdCbw?oc=5",
+      "pub": "Thu, 20 Aug 2026 23:40:00 GMT"
     },
     {
       "title": "“삼전닉스 주가 이미 반영”…한국 피터린치가 찍은 코스피 3 - 중앙일보",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pMnFMQVFrOFBYd1dqWDRqOUFrRFlHYVM2NHB5YVNfUDJ2VzJmWHlOd0lURElKb0dyT3piWGpmXzAtX2p4TFAwYmVWSERIOFRQTDlnQVl3?oc=5",
       "pub": "Wed, 19 Aug 2026 20:00:02 GMT"
+    },
+    {
+      "title": "주주환원 소식에 코스피·하이닉스 급등‥본격적으로 반등하나? - MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1sNm9pU3VoaXYwUkRGWjFKa1RzbnJxa0d6dUFIWGh3dE9sTVB4U04tc0lHdlRBampneFdpWUNfX0RPS0ptbEZzaVRIdmd3dDY2c0YxbWQ4UEtZcXZueTVsdVJvdGU3ZnIzYVBfSlBBWDJNTXNxSkpCM9IBeEFVX3lxTE93U3RhaWw4clZLQVZKN3JyU1RvWXp0ZWZ2MFozeWNWd1N4VVhPM2pJdXpIaDNWdUE1c3A2RE1odHNKMFFqTFhGNkJPY2tva0ZDOWd6czFrTm5yMXdhRzhKTUhSTW9xU0VoLS14akx4MzlzOE80c2REaA?oc=5",
+      "pub": "Thu, 20 Aug 2026 11:17:02 GMT"
+    },
+    {
+      "title": "[코스피·코스닥 전 거래일(20일) 주요공시] - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84ZXVyMzJJNVh5MXVBbzNZeDM5c0dPdkY5MU1FcFdSbng4Q2hrYzBUU3ptNkd4UjdxQlZhUk9EcUMxbXdnaE5CVUNoQjRsTGswOUE?oc=5",
+      "pub": "Thu, 20 Aug 2026 21:05:01 GMT"
     }
   ],
   "signal": {
-    "text": "오늘 시장은 강세입니다. 추격 매수보다 보유 전략이 유리할 수 있어요.",
-    "type": "positive"
+    "text": "소폭 하락권. 패닉셀보다 분할 매수 기회를 살펴보세요.",
+    "type": "neutral"
   },
-  "one_liner": "코스피 🚀 강세 · 코스닥 📈 소폭 강세"
+  "one_liner": "코스피 📈 소폭 강세 · 코스닥 🔻 약세"
 }
