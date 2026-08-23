@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026년 08월 23일 07:12",
-  "updated_date": "2026-08-23",
+  "updated_at": "2026년 08월 24일 07:12",
+  "updated_date": "2026-08-24",
   "kospi": {
     "price": 6912.95,
     "change": 60.37,
@@ -22,13 +22,13 @@
   },
   "nasdaq": {
     "price": 26180.46,
-    "change": 113.29,
+    "change": 113.26,
     "pct": 0.43
   },
   "usdkrw": {
-    "price": 1383.9,
-    "change": -9.84,
-    "pct": -0.71
+    "price": 1385.91,
+    "change": -7.83,
+    "pct": -0.56
   },
   "news": [
     {
@@ -37,29 +37,29 @@
       "pub": "Thu, 20 Aug 2026 21:00:00 GMT"
     },
     {
-      "title": "\"삼전닉스 흔들리면 끝장\"…'롤러코스피'에 뼈 때리는 경고 - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpU21CelQwUk16OUdkNndndF9vZl9zQ2tEQkZWaG5QLTgzZk0xVFgwUllud19WVjhmTDZkZ1VLQ0RuWEtyWEkzZ1JGVzVTQ2tpQ09aSndfejRnQQ?oc=5",
-      "pub": "Wed, 19 Aug 2026 23:00:05 GMT"
+      "title": "코스피 조정에 실탄 줄어든 개미들 해외주식 투자도 주춤 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNSXJJSmVGZ2xOOHJCeDUtbHdWTzdmaGROeGI2SDBQQl9oWXdScXE4QXNJNFlOMjI2bXhIakhhd3FUWnU0VEZYRElaR3kwM3c?oc=5",
+      "pub": "Sun, 23 Aug 2026 09:23:11 GMT"
     },
     {
-      "title": "삼전닉스 반등에도 투심은 '냉랭'…코스피 회전율 연중 최저 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UWGtpSExPaXpqbnY0eWR2VVZfaURQMWpIaUVoV1B1eXg3cFRlUGUyal8zVXlWLUZyajhEVHUwaDlxc1hkeE5GT2xHUXRENkU?oc=5",
-      "pub": "Sat, 22 Aug 2026 21:12:06 GMT"
+      "title": "삼전닉스 반등에도 투심은 '냉랭'…코스피 회전율 연중 최저 - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nWE13MXdpVW8tVngzcjl3YjN4Rm1GR1VjWXNqYkRuR2ZWQzdHVHozQ1FLSXlmRy1ZeWlneGVQVTFPTDU4Ml9naEtPTmd2OGlMNEE?oc=5",
+      "pub": "Sat, 22 Aug 2026 21:10:01 GMT"
     },
     {
-      "title": "“올해 주식, 아직 ‘+’이세요?” 물어보니…‘수익 중’ 42%·‘코스피 더 오른다’ 37% - 서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xOF9EdnBacldzRndLSjd1RG5pMmpyV3RkMDZLQXhWODV5WHQ5Sk5RY1pNcVYtUEVReThDNGF2WkZUNjRMOG9wazh0VmNOWVZqZ0E?oc=5",
-      "pub": "Fri, 21 Aug 2026 08:13:00 GMT"
+      "title": "코스피 급락 맞춘 이재만 실장이 꼽은 '내년에 삼전닉스 능가할 두 업종' - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CRVlNajlFZU5Pd0c0Mm1DRnhod0l5Wng3YTFKbENCMWhvU1ZEY21YdG9aNWpzb3Q0dXVYT09fM09weXQ2aFhhZVFoSjMxUW9hWmx1UkxYU2paUQ?oc=5",
+      "pub": "Sun, 23 Aug 2026 01:00:55 GMT"
     },
     {
-      "title": "[코스피·코스닥 전 거래일(20일) 주요공시] - 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84ZXVyMzJJNVh5MXVBbzNZeDM5c0dPdkY5MU1FcFdSbng4Q2hrYzBUU3ptNkd4UjdxQlZhUk9EcUMxbXdnaE5CVUNoQjRsTGswOUE?oc=5",
-      "pub": "Thu, 20 Aug 2026 21:05:01 GMT"
+      "title": "\"코스피 빠져도 얘들은 간다\"…지금 눈여겨 볼 '알파' 6종목 [주末머니] - 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1tZk1IZ1J1bnRFM0czVHl5RFFjSW81MTZtQTdJRE4tZ25tRUR1ZjZtN1JHM2Y0aWc3d1piTUs5NkI0d3dXTF9xeFZXVnFwejNxYTgtOFEzZTJGVWxZd2pjRU9B?oc=5",
+      "pub": "Sun, 23 Aug 2026 01:05:00 GMT"
     },
     {
-      "title": "\"코스피, 쏠려도 너무 쏠렸다?\"…'삼전닉스' 쏠림에 변동성 경고 - 파이낸셜뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UMHVEZUdLa2daTm9COTUxVGdwNnl6Wm10eWoxcFlMcENBLXI1MjM4NXQwYmh4SmVMTGVWQk5oTmJlT2tka3FsVXR3ckQycjMtSU0wSFJlYnhwZw?oc=5",
-      "pub": "Sat, 22 Aug 2026 04:00:00 GMT"
+      "title": "코스피 회전율 연중 최저…삼전닉스 자사주 매입이 증시 활력 반전 이끌까 - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9obFU1WUd6OTJCWGlFOU94RmtwNVBwal9kX0l0eEt2RzYzdnBRVHlwUWRfaXFmNXQ2MEo5ZExleXBDMFZSaktYQkZnc1I3TmItMHhHTm5ha01hVFZHYWF0VNIBeEFVX3lxTE81MjJ6LW4xQWl1aERSeFlIMndNSzNpUmd3YlE5MV83SXpJUFpnOUIzbUVNVEF1VFlfeS1xbC1HeXZCZGw5NmhoalJlQTk0em9FTjVpbmZ4a1FiaXhaMUtqdVRxdjFjaVFDSGRtX0V0YkR4aUN6Tk00VA?oc=5",
+      "pub": "Sun, 23 Aug 2026 01:29:30 GMT"
     }
   ],
   "signal": {
