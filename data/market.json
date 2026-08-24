@@ -1,70 +1,70 @@
 {
-  "updated_at": "2026년 08월 24일 07:12",
-  "updated_date": "2026-08-24",
+  "updated_at": "2026년 08월 25일 07:16",
+  "updated_date": "2026-08-25",
   "kospi": {
-    "price": 6912.95,
-    "change": 60.37,
-    "pct": 0.88,
-    "label": "소폭 강세",
-    "emoji": "📈"
-  },
-  "kosdaq": {
-    "price": 801.94,
-    "change": -38.95,
-    "pct": -4.63,
+    "price": 6696.96,
+    "change": -215.99,
+    "pct": -3.12,
     "label": "약세",
     "emoji": "🔻"
   },
+  "kosdaq": {
+    "price": 813.33,
+    "change": 11.39,
+    "pct": 1.42,
+    "label": "소폭 강세",
+    "emoji": "📈"
+  },
   "sp500": {
-    "price": 7674.37,
-    "change": 33.21,
-    "pct": 0.43
+    "price": 7652.86,
+    "change": -21.51,
+    "pct": -0.28
   },
   "nasdaq": {
-    "price": 26180.46,
-    "change": 113.26,
-    "pct": 0.43
+    "price": 25980.19,
+    "change": -200.26,
+    "pct": -0.76
   },
   "usdkrw": {
-    "price": 1385.91,
-    "change": -7.83,
-    "pct": -0.56
+    "price": 1381.75,
+    "change": -3.25,
+    "pct": -0.23
   },
   "news": [
     {
-      "title": "\"코스피 생큐, 잘 먹고 갑니다\" 외인 7개월째 매도...'여기로' 몰려갔다 - 머니투데이 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OMzhjVDZqa2dTNjc4MERKcC1qNVRXUkxBNHcyZHd4UDZfd1VoNGJoQWhuSGRvU0wzV3BMS0VoRUNyeTlWb3BmWEMtaklMMjlSSzdhaVBiaUpuUElpZmpYamZWLWxxN3Vm0gFuQVVfeXFMTll4ZnduUTlSSUc0YmljSmpndldHVVZiU3JaSVFsdDduSVN0bW5zVFh0ckJfYTY2YWtPTUoxLXVnQXNQNUQ4LVc2RWYtU3kwekV1SmNhQnVrNUFjLW40YUZONFNRaHdfWkU5dGY2WWc?oc=5",
-      "pub": "Thu, 20 Aug 2026 21:00:00 GMT"
+      "title": "\"코스피 거품? 일본 대비 1/4 저평가, 총수가 진심 주가 상승 원하는 이 주식 사라\" - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTTUyZzM5Z3Jna0N2WUo4ZDZ5Rzh4TXZibXE5YjZnbFljMy1FOHJMT3BfNWp5cTFNNFlKSnZ3R296clNhTmM2ei1VLWg3MmNPeFJqejVQV2EzWXNzN0FYclVISWxfSzV5Y0tXQ1ZVSlMwLTg3bG1MNWFrYWUwT28xVg?oc=5",
+      "pub": "Mon, 24 Aug 2026 20:39:56 GMT"
     },
     {
-      "title": "코스피 조정에 실탄 줄어든 개미들 해외주식 투자도 주춤 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNSXJJSmVGZ2xOOHJCeDUtbHdWTzdmaGROeGI2SDBQQl9oWXdScXE4QXNJNFlOMjI2bXhIakhhd3FUWnU0VEZYRElaR3kwM3c?oc=5",
-      "pub": "Sun, 23 Aug 2026 09:23:11 GMT"
+      "title": "코스피 흔들릴 때 코스닥은 반등…AI·금리 이벤트 주목 - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FeEpOLXNuSHN4NmlTRDFKSk42R3pZQlgzY2stNFprdEVZN2NzZ2h6cFV5anZ1Z1pmbFlZZVQtcnRxRHI1SFdNcExlRTZyNmlKYzRhUUplVkhxOEpJMF9LbWNOTTVSTGNC0gFuQVVfeXFMT2VaRnMwZ0xKRG1OaU1sQ1ZXMGhZMHlYLUVkakJCQUlNYkMtaUp1NWgwdzFmNUV5ZFFMZzRHaWRtWVItcTBfUkRpcVlQMllXdHNlVk1rUFFDeU5rMW9jRWRFSEpVcG9YUlctOTF6dmc?oc=5",
+      "pub": "Mon, 24 Aug 2026 08:23:22 GMT"
     },
     {
-      "title": "삼전닉스 반등에도 투심은 '냉랭'…코스피 회전율 연중 최저 - 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nWE13MXdpVW8tVngzcjl3YjN4Rm1GR1VjWXNqYkRuR2ZWQzdHVHozQ1FLSXlmRy1ZeWlneGVQVTFPTDU4Ml9naEtPTmd2OGlMNEE?oc=5",
-      "pub": "Sat, 22 Aug 2026 21:10:01 GMT"
+      "title": "8월에 31% 뛴 코스피, 안심 이르다는데…삼성전자·엔비디아 다음 변수는 - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01SkNZR1RiTENaS0xiVHk4SEREdFNkVnZ4S3FYZDFrLV9nYmhjX3RTTGwtUUo3dERLaXJWSzRJSmNxRE1TNHcyNzd3WklXMWo4eGNnOVR4d2c2TkhVZ29wNg?oc=5",
+      "pub": "Mon, 24 Aug 2026 06:16:02 GMT"
     },
     {
-      "title": "코스피 급락 맞춘 이재만 실장이 꼽은 '내년에 삼전닉스 능가할 두 업종' - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CRVlNajlFZU5Pd0c0Mm1DRnhod0l5Wng3YTFKbENCMWhvU1ZEY21YdG9aNWpzb3Q0dXVYT09fM09weXQ2aFhhZVFoSjMxUW9hWmx1UkxYU2paUQ?oc=5",
-      "pub": "Sun, 23 Aug 2026 01:00:55 GMT"
+      "title": "외인·기관 5조 매도에 코스피 3%대 하락…6690선 마감 - 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IUlVBWEFGWlhFSUpFaHFMcWdJNHBXOWpHLVl2Um9jY2JKQkhrYnFVU096bDRUdkZaRmN4c2FQbnZIYjUwSk5qb1FOUHNWRnYwR1V5Zm5KVkdrQUlIRXFmXzVR?oc=5",
+      "pub": "Mon, 24 Aug 2026 07:04:00 GMT"
     },
     {
-      "title": "\"코스피 빠져도 얘들은 간다\"…지금 눈여겨 볼 '알파' 6종목 [주末머니] - 아시아경제",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1tZk1IZ1J1bnRFM0czVHl5RFFjSW81MTZtQTdJRE4tZ25tRUR1ZjZtN1JHM2Y0aWc3d1piTUs5NkI0d3dXTF9xeFZXVnFwejNxYTgtOFEzZTJGVWxZd2pjRU9B?oc=5",
-      "pub": "Sun, 23 Aug 2026 01:05:00 GMT"
+      "title": "코스피, 삼전 급락에 6700선 아래로…외인·기관 '팔자' - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LTmFkTHRValBPc1daeWJ3T2NFMVFuQVR2R2JpNGRjNzk3ZU52aE9rOFRfamNka0x2djNsUEZjS0dJQlBkS08wNTIwRFc0eHV5eUFVcWhTZlg2Zw?oc=5",
+      "pub": "Mon, 24 Aug 2026 06:49:36 GMT"
     },
     {
-      "title": "코스피 회전율 연중 최저…삼전닉스 자사주 매입이 증시 활력 반전 이끌까 - 뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9obFU1WUd6OTJCWGlFOU94RmtwNVBwal9kX0l0eEt2RzYzdnBRVHlwUWRfaXFmNXQ2MEo5ZExleXBDMFZSaktYQkZnc1I3TmItMHhHTm5ha01hVFZHYWF0VNIBeEFVX3lxTE81MjJ6LW4xQWl1aERSeFlIMndNSzNpUmd3YlE5MV83SXpJUFpnOUIzbUVNVEF1VFlfeS1xbC1HeXZCZGw5NmhoalJlQTk0em9FTjVpbmZ4a1FiaXhaMUtqdVRxdjFjaVFDSGRtX0V0YkR4aUN6Tk00VA?oc=5",
-      "pub": "Sun, 23 Aug 2026 01:29:30 GMT"
+      "title": "[주식시황]삼성전자 7% 빠지자 코스피 ‘휘청’…6700선까지 밀렸다 - 남도일보",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hTzhLeW8yNkZDTjl6dFo2MDJFVnRsWWswakhHSnF2RWI1Uk9kalJSVkU4SlBGU0NNWHFZZjJzalY0NzhIcU8xSDNzbXJWQ1hIYVdldWViYTFjZF9IbFFpS1dhZlNKbl96NTRYZNIBcEFVX3lxTE5BNExhckpPaUZOM1pwdE9wT2xhZ1BEWWx2T3M3SHVkUUdVVzJuQzNXc2RmQzNiV21lbk9UcHVudnMxR1U3V29ja2M5Y2JyTGdTX056MVlUMW0xZ1FDN0s3V2NqQktJdnYzeTVsV3phRWU?oc=5",
+      "pub": "Mon, 24 Aug 2026 00:41:00 GMT"
     }
   ],
   "signal": {
-    "text": "시장 조정 국면. 손절보다 비중 축소 후 상황을 지켜보세요.",
-    "type": "negative"
+    "text": "소폭 하락권. 패닉셀보다 분할 매수 기회를 살펴보세요.",
+    "type": "neutral"
   },
-  "one_liner": "코스피 📈 소폭 강세 · 코스닥 🔻 약세"
+  "one_liner": "코스피 🔻 약세 · 코스닥 📈 소폭 강세"
 }
