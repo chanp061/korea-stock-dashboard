@@ -1,34 +1,34 @@
 {
-  "updated_at": "2026년 08월 27일 11:26",
-  "updated_date": "2026-08-27",
+  "updated_at": "2026년 08월 28일 14:52",
+  "updated_date": "2026-08-28",
   "kospi": {
-    "price": 6928.01,
-    "change": 119.8,
-    "pct": 1.76,
-    "label": "강세",
-    "emoji": "🚀"
+    "price": 6802.18,
+    "change": -110.19,
+    "pct": -1.59,
+    "label": "약세",
+    "emoji": "🔻"
   },
   "kosdaq": {
-    "price": 835.14,
-    "change": 8.27,
-    "pct": 1.0,
+    "price": 837.28,
+    "change": 10.41,
+    "pct": 1.26,
     "label": "소폭 강세",
     "emoji": "📈"
   },
   "sp500": {
-    "price": 7675.7,
-    "change": -1.58,
-    "pct": -0.02
+    "price": 7730.99,
+    "change": 55.29,
+    "pct": 0.72
   },
   "nasdaq": {
-    "price": 26130.2,
-    "change": -21.1,
-    "pct": -0.08
+    "price": 26541.35,
+    "change": 411.15,
+    "pct": 1.57
   },
   "usdkrw": {
-    "price": 1378.94,
-    "change": -6.48,
-    "pct": -0.47
+    "price": 1375.46,
+    "change": -4.97,
+    "pct": -0.36
   },
   "news": [
     {
@@ -37,34 +37,34 @@
       "pub": "Wed, 26 Aug 2026 02:36:56 GMT"
     },
     {
-      "title": "엔비디아 실적 앞두고 관망..코스피 0.97% 상승 마감 - 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91SkRueVhFR0VIbjJaR0NlZ2dIUXFYVVBwNmJLcERjOS1LaVlOUGZiX0U2b185Mml2c0hlcGszTkVmSTNrQW1MSFI1endpU1RJSkE?oc=5",
-      "pub": "Wed, 26 Aug 2026 08:02:30 GMT"
+      "title": "코스피, 삼전·닉스 자사주 매입에 6800 회복 - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kWjBUSmJOZURFYWhXSGRuRUxCYVlKcDFDRlNXNjZiZVoxUkFqcGd6ZGV3WnhmZkFvTHlYRVRKTWhRWW5nTnkydG5BZTJNR3k5UkJYTHV1V0hPUQ?oc=5",
+      "pub": "Wed, 26 Aug 2026 06:44:06 GMT"
     },
     {
-      "title": "\"영원히 오를 줄\" 퇴직금 넣었다가...\"미친 주식시장\" 외신 주목한 코스피 - 머니투데이 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5NQ1B6ZGVoNDMzS3VjMFgyV2JJUlBaZHhWcWRESjFPcmlqQUhFR05XZXIxR0s3VHpDZF9JVTFNekV3NW5zeVNVaUFDanFiOEQ4WkZHaFVUXzRtLU5HYThFLUtURzhPOU9u0gFuQVVfeXFMTkZKVXhIc1hhWV9IeVBSYXhZeUlGeGJ5eU5ndGtEOFJQN0V0ek5wN2QwNFZTS29sMEhIVnkxSDZWdDVabklDZFNjUThEdjlGOExaZ253bThIY0tycVpwdGl5aHRnbWxIUEdGa0xrc3c?oc=5",
-      "pub": "Tue, 25 Aug 2026 06:41:45 GMT"
+      "title": "국장 계좌에 돈 녹는데 마침 환율도 ‘뚝’…“미장으로 안 갈 이유 있나?” - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UOS1EZ3FvT1R2Y1FBU2F5TGwxeGF6MTR6U1h2eUlxRFpYLUE0aEs2SXRpYVM2d3ViT0VjcW1wbGJSbXJLMXdDRERCSElpUnY5c1E?oc=5",
+      "pub": "Thu, 27 Aug 2026 00:18:40 GMT"
     },
     {
-      "title": "“주식 움직임보다 빨라”…주가 고점 찍기 전 ‘이것’ 먼저 꺾였다 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlN19jdXVNRXZ2eTdCUlVWR3B0clJzV1hwZjJnNFpUWmQ3M20wRkhINElUenpuemc3UTJnOVJNM3E3THJxTlotQnRjNUNtcGM?oc=5",
-      "pub": "Tue, 25 Aug 2026 20:01:50 GMT"
+      "title": "\"코스피, 반도체 주주환원·FOMC 동결 전망에 7천선 회복\" - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95bkdiWkY5ZUhVQndxT0Jock1fYUtkbzlCbnA5OWpiaXB2cTYtTmNaV3ZXeXdiZXFMMEQ2Y1RjSHlVVDBPZGg5amhsOWZiTmxDS1AyUGJYRW5JRDhVYUZDa0Q0NFlyZndrZ0k4OGdNWE0?oc=5",
+      "pub": "Thu, 27 Aug 2026 23:41:53 GMT"
     },
     {
-      "title": "금리·유가 안정에 코스피 반등…6,800선 회복 - 연합뉴스TV",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rUFJhTjl1enlyaXg1eFZzdzdpbXpENmJ2NDZ0TmNnVzVoV1NvV04zSDJkdGUxc1JKUWVfUENBQS1OUkdEdVVoV1JYSHc0UWwxQk83NktCdVYwTmxuWkxpNFJyNnlBNDQ?oc=5",
-      "pub": "Wed, 26 Aug 2026 14:18:00 GMT"
+      "title": "코스피 19% 급락에도 소비 0%대 감소 '선방'…\"장기화 땐 충격↑\" - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5iM2NrMTh3a1V0eUFOM29EY2xZU1pEaXIzZV9jTUo4cW4zUnk0QjRXT01oYXFrYS1TZVgzR2dFYzNLVUdya0NhSHhmOE5Rc00?oc=5",
+      "pub": "Thu, 27 Aug 2026 04:45:52 GMT"
     },
     {
-      "title": "코스피 발목 잡는 외국인…일주일새 삼전닉스 '4조원' 순매도 - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fWl9XampWSVhZOE51NVA0ZWlPWVdPbGk0YUZOczlCOHVBMnpVMDZXNVU4SzlMc01OWlhjV25DYW9SWno4dURGV3dycURuaEExeXlRei1GSTdFUQ?oc=5",
-      "pub": "Wed, 26 Aug 2026 07:46:21 GMT"
+      "title": "엔비디아발 훈풍에 삼전·닉스 3~5%대 강세… 코스피 “7000 회복 겨냥” [이런국장 저런주식] - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3X3NTOE1yVndiVENPY3p5b0ZFZy1qNkw0Y0RpbnpqbGFvSnVwY3k1eS1YRlI4QXZKbnJGckVsRzVndlJsN3BRdlQ0ZUNEN1JSdXc?oc=5",
+      "pub": "Thu, 27 Aug 2026 00:50:50 GMT"
     }
   ],
   "signal": {
-    "text": "오늘 시장은 강세입니다. 추격 매수보다 보유 전략이 유리할 수 있어요.",
-    "type": "positive"
+    "text": "소폭 하락권. 패닉셀보다 분할 매수 기회를 살펴보세요.",
+    "type": "neutral"
   },
-  "one_liner": "코스피 🚀 강세 · 코스닥 📈 소폭 강세"
+  "one_liner": "코스피 🔻 약세 · 코스닥 📈 소폭 강세"
 }
