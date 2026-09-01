@@ -1,70 +1,70 @@
 {
-  "updated_at": "2026년 08월 31일 09:03",
-  "updated_date": "2026-08-31",
+  "updated_at": "2026년 09월 01일 09:54",
+  "updated_date": "2026-09-01",
   "kospi": {
-    "price": 6788.88,
-    "change": -123.49,
-    "pct": -1.79,
+    "price": 6779.84,
+    "change": -40.18,
+    "pct": -0.59,
+    "label": "소폭 약세",
+    "emoji": "📉"
+  },
+  "kosdaq": {
+    "price": 821.02,
+    "change": -13.27,
+    "pct": -1.59,
     "label": "약세",
     "emoji": "🔻"
   },
-  "kosdaq": {
-    "price": 838.41,
-    "change": 0.76,
-    "pct": 0.09,
-    "label": "보합",
-    "emoji": "➡️"
-  },
   "sp500": {
-    "price": 7711.76,
-    "change": -19.23,
-    "pct": -0.25
+    "price": 7686.14,
+    "change": -25.62,
+    "pct": -0.33
   },
   "nasdaq": {
-    "price": 26402.42,
-    "change": -138.98,
-    "pct": -0.52
+    "price": 26370.89,
+    "change": -31.53,
+    "pct": -0.12
   },
   "usdkrw": {
-    "price": 1377.78,
-    "change": 2.11,
-    "pct": 0.15
+    "price": 1368.61,
+    "change": 1.54,
+    "pct": 0.11
   },
   "news": [
     {
-      "title": "개인, 두 달간 미국 주식 10조 순매수…코스피보다 더 샀다 - 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45X3RsUnhrN2pSOHlHd2FzZWpmYVRVYzJBR3VhdTB4V1J0UFpXTzYwUVFxdF9keUNTaFpTSm5fVmppOG1nZHVjR3ZHYVNCTXQxTVE?oc=5",
-      "pub": "Sun, 30 Aug 2026 02:04:05 GMT"
+      "title": "\"바닥은 다졌다...9월 코스피는 8000까지 오를 수도\" - 파이낸셜뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rYUhMQjRLYU1ZenhITDJiU3hGOE1scW9ERVlpZzNaWEJXcGNZRzZNNDFSUTd1Y3dKai1uZUV2RnpqcXBRNWtqTHpEdy01T2RkNmlMMUt3aDQzQQ?oc=5",
+      "pub": "Sun, 30 Aug 2026 23:41:30 GMT"
     },
     {
-      "title": "[코스피·코스닥 전 거래일(28일) 주요공시] - 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40X05LTVplVUk4T2ExRTRaYl95Z1dNU3daaUF1VWhudmg0YVVCTjByNzlONm4tc1FUbTJ3dDc5YVFWVUVRSmFwSEo1NWlQWnFSSUE?oc=5",
-      "pub": "Sun, 30 Aug 2026 21:05:01 GMT"
+      "title": "코스피, 하락 출발해 6,700대로…코스닥도 내려 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PcnlDaG8zckNwSFB2emllNkdKWUx5TVdmTER6T2tiRWxKVE1xc1NxS3RreGhDTXllbjQ3Q2tnaUZxM2FKNVJBS0NDem9TV1RKNEN0bHUxdjFaWDTSAWBBVV95cUxPbzQ3QTdBRGhkaWdvYlhCWS1qajFzRVF3MGJiOWllaVlIaUZLcEJBc2Vlbnhlb1daVVRtVDVUMTJ4VUFCV0NtRGJHMnZYYThjLTVUMFA2Tm9nTnRxZnRXajc?oc=5",
+      "pub": "Tue, 01 Sep 2026 00:05:19 GMT"
     },
     {
-      "title": "\"코스피, 극심한 저평가 국면… 음식료주 주목해야\" - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRHpXaTBvODZFWmZyakFtNWFYVVpQVTR5djFDakhDOHViTzdhdG1lazRLbVhMMk8xd09mSW0wTVhsaHU5N193TU1Zb2wwUVdfMlozOWx5V2FVTC00Z3VoWjFLelhZU3h0LWxKZGxSNEE1WDBwVTl1LW81dzdtSFFXNg?oc=5",
-      "pub": "Sun, 30 Aug 2026 15:36:00 GMT"
+      "title": "코스피, 외인 이탈에 6700대로 하락… 코스닥도 약세 - MTN 머니투데이방송",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5icjY2aXFKWDIyWHVvbzhFRWNsYmhGUEdBdTE5ZFBicTVGbHdXbDVsdkNvU3Y1RjZUZzBaZ1NKY0ZuZFlySFJEYktCSTR6dWQ5b3M4N0xxV1VkQ3g0YVRneFFLOGE?oc=5",
+      "pub": "Tue, 01 Sep 2026 00:37:59 GMT"
     },
     {
-      "title": "\"9월 코스피 6,600~8,000 전망…반도체 자사주 매입이 하단 지지\" - 연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jRngwQmVaV3BjNlVVM1RaNnhVZm4wQkVMMkhIZ2NGV1g4VDU1dGdSU2NJZkQ5SGxGRnBFWkNSbTR5ZWxQb0ZzTHFIV1NKUFdJOExtMlBNYVNnTkpNZzQxSHd4R3ZPYjFvcUJSUEQ4X3o?oc=5",
-      "pub": "Sun, 30 Aug 2026 23:54:04 GMT"
+      "title": "코스피, 장중 1%대 하락해 6,600대…코스닥은 3% 급락 중 - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTRlVPOE44LW45U2RJQVBWSWI1YUhEbkZsVTdaeUpOZ0VyOTBORzR0bXQ0UXVyRnRHMFJCVHp2eXcybkcwTGdJa3BWY1pSSURKN2c?oc=5",
+      "pub": "Mon, 31 Aug 2026 02:29:27 GMT"
     },
     {
-      "title": "잠잠해진 ‘롤러코스피’…개인자금 10조원 미국행 - 경북매일",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5NnJxYVRRWHdrTjZyd25rVUtZODdSNG13eHlhUnlZUWNQV2ZyREFsOU50UGczMkVtWWpCZzRiS2lMY2ktNWRsb1VYSjA0VVNWM2lKOHpvYUs3QQ?oc=5",
-      "pub": "Sun, 30 Aug 2026 18:20:00 GMT"
+      "title": "코스피서 9조 판 외국인…반대로 담은 종목은 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1EX3ZzWkNBVE1iaXRKQXF2U1R1MUt5elktdFVhay13TFloNDY2YjA1TXByMUxqMjBiekpVT1VZY1Eyc3JuZVFxbERyM0JLRGVNeGFPN1J3WUJGdjZ1?oc=5",
+      "pub": "Mon, 31 Aug 2026 03:00:00 GMT"
     },
     {
-      "title": "“코스피, 최악은 지났는데…” 8820조 굴리는 美금융사의 조언 - 중앙일보",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tdVpkbGZjTTd5QkY5WklZUjRoR3EyWjNmODZpMEp1dGZ6cTdhM1Z1ZjVacTU1OExvbzFzUDYwY3Q2NWJnSnVSTXBCRFItN2JFZEVpY21R?oc=5",
-      "pub": "Sun, 30 Aug 2026 20:00:02 GMT"
+      "title": "코스피서 발빼고 어디로 갔나 봤더니…다시 늘어난 빚투, 코스닥 향했다 - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BZm51N1JQbVJsR0x5R3JhVWRQdHppeWM4TXhJS2NKUUEwSnNtSGc0dFdtTHNXcWZ0ekZ5VTZyZWdwR1h0TERhRlh3QWoyMzBPV3c?oc=5",
+      "pub": "Mon, 31 Aug 2026 22:01:07 GMT"
     }
   ],
   "signal": {
-    "text": "소폭 하락권. 패닉셀보다 분할 매수 기회를 살펴보세요.",
-    "type": "neutral"
+    "text": "시장 조정 국면. 손절보다 비중 축소 후 상황을 지켜보세요.",
+    "type": "negative"
   },
-  "one_liner": "코스피 🔻 약세 · 코스닥 ➡️ 보합"
+  "one_liner": "코스피 📉 소폭 약세 · 코스닥 🔻 약세"
 }
