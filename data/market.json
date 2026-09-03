@@ -1,45 +1,55 @@
 {
-  "updated_at": "2026년 09월 03일 08:42",
-  "updated_date": "2026-09-03",
+  "updated_at": "2026년 09월 04일 08:42",
+  "updated_date": "2026-09-04",
   "kospi": {
-    "price": 6562.72,
-    "change": -273.08,
-    "pct": -3.99,
-    "label": "약세",
-    "emoji": "🔻"
+    "price": 6579.48,
+    "change": 16.76,
+    "pct": 0.26,
+    "label": "보합",
+    "emoji": "➡️"
   },
   "kosdaq": {
-    "price": 803.98,
-    "change": -30.31,
-    "pct": -3.63,
+    "price": 790.21,
+    "change": -31.04,
+    "pct": -3.78,
     "label": "약세",
     "emoji": "🔻"
   },
   "sp500": {
-    "price": 7666.6,
-    "change": 35.13,
-    "pct": 0.46
+    "price": 7747.71,
+    "change": 81.11,
+    "pct": 1.06
   },
   "nasdaq": {
-    "price": 26217.83,
-    "change": 118.06,
-    "pct": 0.45
+    "price": 26584.06,
+    "change": 366.23,
+    "pct": 1.4
   },
   "usdkrw": {
-    "price": 1358.68,
-    "change": 0.07,
-    "pct": 0.01
+    "price": 1356.38,
+    "change": 0.55,
+    "pct": 0.04
   },
   "news": [
     {
-      "title": "\"꿈의 9천피 다시 올까\"…여의도 증권가서 꼽은 '9월 찐바닥' - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92dkRIenZLZUFQdkxoVzhXS1BjUGlRazlORGhmYmRhU09VZHE2SVhRc0xyUFloNlhyaDNVNkJMRW81QTB2aHFtYWU2NXdpV3lMSG9Tc0RvdGF6Zw?oc=5",
-      "pub": "Mon, 31 Aug 2026 22:00:02 GMT"
+      "title": "“코스피 고점 가까워졌다”…전문가가 주식 대신 늘리라는 ‘이 자산’ - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GNmhJVGYxbUhKb0NrUTBQTUFpOHN4dmZuM2FXVGhzTV9xejl3VVJwMGVMUXdxYTAzVnBVbWZkNGYtcW9hRzFXUmM4Y2xiUm9FdVJ4Rw?oc=5",
+      "pub": "Wed, 02 Sep 2026 13:42:59 GMT"
     },
     {
-      "title": "\"코스피 정점 신호 나왔다…주식 줄이고 단기국채 늘려야\" - 뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBleG5hZDRfNWVzTjFzRVNlLTBDektyUTB1bmtCU3FDbVJrb2lidGx2OWZmNFhXaWM2WmlweloxWmkxRTYtc0pBTC1xUzNmMmEyTG45OVM1cGtoMWZ1R3ZiMNIBeEFVX3lxTE1UN3k1MkhCLTVBdnFDUlJLcDc5WUg0cDRfMTRpZTIyQ2FiRkkwVnRWSGV2U0lWU2ZPYnZlVUhyNXFxdjhhVlBaLXRZUDc1SnZvTUhlamRwUXpFb2pISXlJTGxiaERjRHdFRlE2ZEpFb0VmVjZJbXFORA?oc=5",
-      "pub": "Wed, 02 Sep 2026 08:02:00 GMT"
+      "title": "\"9월엔 주식 쉬어야 하나\"…26년간 코스피 수익률 따져보니 [분석+] - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kYzRmSFJDX0tkaDhVeFNqXzdreVUzNDhYcFo5MjZuUDN1SndnTzlYNnBuZ09iZmIyN3F1U2ZnUWk2ZURrbmdFUzF3a0g5a08tYzFveDRIVW52UQ?oc=5",
+      "pub": "Wed, 02 Sep 2026 10:00:04 GMT"
+    },
+    {
+      "title": "한투증권 “9월 코스피 삼중고”…6200∼7400 등락 전망 - 문화일보",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5sNmtsYVNybU9wd3JIRl9WRHdRek5kdHhjeG1fMWo4ak44NmdVMTNoai1RUkZ4eWxmdnhYLXZsMkVMWFdFSEV3TVA3MUdxTjhu?oc=5",
+      "pub": "Thu, 03 Sep 2026 23:26:08 GMT"
+    },
+    {
+      "title": "오후 2시 갑자기 급락?…'수급 절벽' 코스피 6600선 아래로[시황종합] - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tMFNtR1VPZGZqXzJVR1h4aEdtNDBOa0taUG1FWWFnMXVaamROaFdlVXJIblpnaE1xSzBxSFRnSHRMNVRHTUF4X2otTEdNc2c?oc=5",
+      "pub": "Thu, 03 Sep 2026 07:29:51 GMT"
     },
     {
       "title": "\"한국 주식 샀다고?\"…해외서 코스피 조롱 밈 확산 By EBN - Investing.com 한국어",
@@ -47,24 +57,14 @@
       "pub": "Wed, 02 Sep 2026 06:42:00 GMT"
     },
     {
-      "title": "기아(000270) - 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYWpkT05jY3JFTzZHMTFIQzJwTHU2Tkd2Y1BlRWtLUVpOUmZ5WVZhTzhBbkVnbDh6bnpGaHJhU3I2Sm5nUXFEUFFmR0NUOFlkT3QzQV9IUzVfUVVtOTdlUHA2VXVpdUg3bDdwSTEyc0xld3gzN3VybTVuTktXeFVRSFNtTzBmSDNESzdCT0NEYkh3THBsejZz?oc=5",
-      "pub": "Wed, 02 Sep 2026 15:18:51 GMT"
-    },
-    {
-      "title": "\"9월엔 주식 쉬어야 하나\"…26년간 코스피 수익률 따져보니 [분석+] - 네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yQm1qcE5RT1MyUHRSQUZmaGlPOENoWVZTaGl3X0NsLW5DS2ZjWGRwU2xEM094UGcxeWVWbGpUZHo1MHB4c2lHTERoSVZoQUFKWVR3?oc=5",
-      "pub": "Wed, 02 Sep 2026 10:01:00 GMT"
-    },
-    {
-      "title": "변동성 줄어든 코스피…거래량·대금도 줄었네 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5zZXI2VG4zWGd5QUxRMnZJZEU2QkdLWDBPeFFkR1AzZU41ODNmekFoNVVzUngydDRxTmg1MGRoQ1FxR09KVEVsZ2VlSVVPbDQ?oc=5",
-      "pub": "Tue, 01 Sep 2026 15:04:00 GMT"
+      "title": "[AI MY 증시전망] 코스피, 美 금리 하락·증시 강세에 상승 출발 전망 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5yVGFHbnZ0eDE0ak9QcnhDMnZfMnE3Z2g5X1FqWWhvQVh5ZVN2X3ZHNldGRndVb096SFBaNnhhZUowcGJVQnBwSzJQdUhCWlZMdndEa1RwX2QtRE9R?oc=5",
+      "pub": "Thu, 03 Sep 2026 23:38:00 GMT"
     }
   ],
   "signal": {
     "text": "시장 조정 국면. 손절보다 비중 축소 후 상황을 지켜보세요.",
     "type": "negative"
   },
-  "one_liner": "코스피 🔻 약세 · 코스닥 🔻 약세"
+  "one_liner": "코스피 ➡️ 보합 · 코스닥 🔻 약세"
 }
