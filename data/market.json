@@ -1,34 +1,34 @@
 {
-  "updated_at": "2026년 09월 04일 08:42",
-  "updated_date": "2026-09-04",
+  "updated_at": "2026년 09월 05일 08:34",
+  "updated_date": "2026-09-05",
   "kospi": {
-    "price": 6579.48,
-    "change": 16.76,
-    "pct": 0.26,
-    "label": "보합",
-    "emoji": "➡️"
+    "price": 6687.21,
+    "change": 107.73,
+    "pct": 1.64,
+    "label": "강세",
+    "emoji": "🚀"
   },
   "kosdaq": {
-    "price": 790.21,
-    "change": -31.04,
-    "pct": -3.78,
-    "label": "약세",
-    "emoji": "🔻"
+    "price": 813.5,
+    "change": 9.52,
+    "pct": 1.18,
+    "label": "소폭 강세",
+    "emoji": "📈"
   },
   "sp500": {
-    "price": 7747.71,
-    "change": 81.11,
-    "pct": 1.06
+    "price": 7718.6,
+    "change": -29.11,
+    "pct": -0.38
   },
   "nasdaq": {
-    "price": 26584.06,
-    "change": 366.23,
-    "pct": 1.4
+    "price": 26506.99,
+    "change": -77.07,
+    "pct": -0.29
   },
   "usdkrw": {
-    "price": 1356.38,
-    "change": 0.55,
-    "pct": 0.04
+    "price": 1345.99,
+    "change": -9.84,
+    "pct": -0.73
   },
   "news": [
     {
@@ -37,34 +37,34 @@
       "pub": "Wed, 02 Sep 2026 13:42:59 GMT"
     },
     {
-      "title": "\"9월엔 주식 쉬어야 하나\"…26년간 코스피 수익률 따져보니 [분석+] - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kYzRmSFJDX0tkaDhVeFNqXzdreVUzNDhYcFo5MjZuUDN1SndnTzlYNnBuZ09iZmIyN3F1U2ZnUWk2ZURrbmdFUzF3a0g5a08tYzFveDRIVW52UQ?oc=5",
-      "pub": "Wed, 02 Sep 2026 10:00:04 GMT"
+      "title": "코스피 1만2천 간다더니…골드만삭스 “향후 1년간 글로벌 증시 수익률 한 자릿수” - 문화일보",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE91RFYycHloUFNwVm1jeGlKRHJHb0ZUNnFqRldhZ3RTbzFUMm9IOTFFc2Rza1dkSXVaVnZpVTVpLXZfQXZUaG5oNGR2ZDBBaXFB?oc=5",
+      "pub": "Thu, 03 Sep 2026 23:03:35 GMT"
     },
     {
-      "title": "한투증권 “9월 코스피 삼중고”…6200∼7400 등락 전망 - 문화일보",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5sNmtsYVNybU9wd3JIRl9WRHdRek5kdHhjeG1fMWo4ak44NmdVMTNoai1RUkZ4eWxmdnhYLXZsMkVMWFdFSEV3TVA3MUdxTjhu?oc=5",
-      "pub": "Thu, 03 Sep 2026 23:26:08 GMT"
+      "title": "하반기 코스피 -21% 찍을때 은행주는 11% '쑥'…주가방어에 배당 매력 - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLUFdzSzRYcHhVaXBfd3RQV1BOaXRocXpQVkg2Vkotd1pkOVhqYU1hN3NFSm9mOTc5OGFJOU5JeHkzenhNbHJMdmxGSmhla3VYY1hheDNqQ2ZrZw?oc=5",
+      "pub": "Fri, 04 Sep 2026 11:04:02 GMT"
     },
     {
-      "title": "오후 2시 갑자기 급락?…'수급 절벽' 코스피 6600선 아래로[시황종합] - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tMFNtR1VPZGZqXzJVR1h4aEdtNDBOa0taUG1FWWFnMXVaamROaFdlVXJIblpnaE1xSzBxSFRnSHRMNVRHTUF4X2otTEdNc2c?oc=5",
-      "pub": "Thu, 03 Sep 2026 07:29:51 GMT"
+      "title": "[베스트&워스트] 코스피 약세에도 온타이드 52% 급등…SK디앤디ㆍ현대약품 등도 ↑ - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoNnNEUGF5bjEwYW5PZlctQlNWMFQ1c3c4TTh6TE0wdXU1cjBQTno5bGVvbUM1VkFaYUFSRU1RUkRRbEVNa1Izcmc0RVlHaEU?oc=5",
+      "pub": "Fri, 04 Sep 2026 22:01:03 GMT"
+    },
+    {
+      "title": "[개장시황] 코스피, '외인·기관' 동반 매수 1%대 ↑…6600선 회복 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qYzdqc2N5VjFHenBkZGRYZnBhMTMtejFQZ09jZE9VeHlTeGhrM0VIZG1VdmNlcmttYllLZlN6T2dtN3BQV09qRzR5VHlWMDlqWERocjVVdTA2QVYz?oc=5",
+      "pub": "Fri, 04 Sep 2026 00:30:00 GMT"
     },
     {
       "title": "\"한국 주식 샀다고?\"…해외서 코스피 조롱 밈 확산 By EBN - Investing.com 한국어",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYY0dpUmRNcHA1UjBrV0tjNC1BZEwzQi1Vd01ySFo5emhrQ0l4ZmYzMEdSanhnMnFTa19TRE1BY2c3UlpFQ0RQZFVaTDVLelh2NE1ib3hoLXZjM0kwYzBBcE15anhYLUh2eFhlV2I4QzQ?oc=5",
       "pub": "Wed, 02 Sep 2026 06:42:00 GMT"
-    },
-    {
-      "title": "[AI MY 증시전망] 코스피, 美 금리 하락·증시 강세에 상승 출발 전망 - 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5yVGFHbnZ0eDE0ak9QcnhDMnZfMnE3Z2g5X1FqWWhvQVh5ZVN2X3ZHNldGRndVb096SFBaNnhhZUowcGJVQnBwSzJQdUhCWlZMdndEa1RwX2QtRE9R?oc=5",
-      "pub": "Thu, 03 Sep 2026 23:38:00 GMT"
     }
   ],
   "signal": {
-    "text": "시장 조정 국면. 손절보다 비중 축소 후 상황을 지켜보세요.",
-    "type": "negative"
+    "text": "오늘 시장은 강세입니다. 추격 매수보다 보유 전략이 유리할 수 있어요.",
+    "type": "positive"
   },
-  "one_liner": "코스피 ➡️ 보합 · 코스닥 🔻 약세"
+  "one_liner": "코스피 🚀 강세 · 코스닥 📈 소폭 강세"
 }
