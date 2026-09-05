@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026년 09월 05일 08:34",
-  "updated_date": "2026-09-05",
+  "updated_at": "2026년 09월 06일 08:27",
+  "updated_date": "2026-09-06",
   "kospi": {
     "price": 6687.21,
     "change": 107.73,
@@ -10,10 +10,10 @@
   },
   "kosdaq": {
     "price": 813.5,
-    "change": 9.52,
-    "pct": 1.18,
-    "label": "소폭 강세",
-    "emoji": "📈"
+    "change": 23.29,
+    "pct": 2.95,
+    "label": "강세",
+    "emoji": "🚀"
   },
   "sp500": {
     "price": 7718.6,
@@ -22,49 +22,49 @@
   },
   "nasdaq": {
     "price": 26506.99,
-    "change": -77.07,
+    "change": -77.11,
     "pct": -0.29
   },
   "usdkrw": {
-    "price": 1345.99,
-    "change": -9.84,
-    "pct": -0.73
+    "price": 1351.1,
+    "change": -4.73,
+    "pct": -0.35
   },
   "news": [
     {
-      "title": "“코스피 고점 가까워졌다”…전문가가 주식 대신 늘리라는 ‘이 자산’ - 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GNmhJVGYxbUhKb0NrUTBQTUFpOHN4dmZuM2FXVGhzTV9xejl3VVJwMGVMUXdxYTAzVnBVbWZkNGYtcW9hRzFXUmM4Y2xiUm9FdVJ4Rw?oc=5",
-      "pub": "Wed, 02 Sep 2026 13:42:59 GMT"
+      "title": "삼전닉스 자사주 매입 벌써 30% 돌파…불안해지는 코스피 수급 방패 [박진우의 개미수다] - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1TVlkwaFpwMUQ5a2dpU0FhUFZNeUw5NGx4WFRmVWhNRkdGeWlycS0yMEltSmlBSlJrTDN1c1A1aXM3MTRRb0NMdUFQX1FpZ0U?oc=5",
+      "pub": "Sat, 05 Sep 2026 15:07:09 GMT"
     },
     {
-      "title": "코스피 1만2천 간다더니…골드만삭스 “향후 1년간 글로벌 증시 수익률 한 자릿수” - 문화일보",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE91RFYycHloUFNwVm1jeGlKRHJHb0ZUNnFqRldhZ3RTbzFUMm9IOTFFc2Rza1dkSXVaVnZpVTVpLXZfQXZUaG5oNGR2ZDBBaXFB?oc=5",
-      "pub": "Thu, 03 Sep 2026 23:03:35 GMT"
+      "title": "반도체 주주환원, 코스피 왜 못 올릴까…\"일회성 규모보다 꾸준함\" - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aek9QeFRSS0N2U1lBMWVmQ0ZBRTVWaEJ5M1hvMWNldGM1SFIzc2dlOXdIOXdseU51T0JmWjgxRjJ6ajY4VG5VYUc0TTd0TVVmeGYzY0hYQ0VEbHRPWUh1UTdKa1FUMldOOFNFM3ItdmU?oc=5",
+      "pub": "Fri, 04 Sep 2026 23:15:16 GMT"
     },
     {
-      "title": "하반기 코스피 -21% 찍을때 은행주는 11% '쑥'…주가방어에 배당 매력 - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLUFdzSzRYcHhVaXBfd3RQV1BOaXRocXpQVkg2Vkotd1pkOVhqYU1hN3NFSm9mOTc5OGFJOU5JeHkzenhNbHJMdmxGSmhla3VYY1hheDNqQ2ZrZw?oc=5",
-      "pub": "Fri, 04 Sep 2026 11:04:02 GMT"
+      "title": "코스피 불장에 주택도시기금도 '쏠쏠'…올 상반기 1.2조 수익 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ERldxV1pvX1JGNDZNY3V0d09fcjh2VlhRZ2o4VGdxOVhscUhzeVlKZXpRMkZnRzFGWEhtMl9UU3F0NXFOSTZFNHlZNEtIcFAtVmg0WldQaklKLUHSAWBBVV95cUxObkxhaHV2WmpMcGZXbENxelpFTXJEWHdhbFBrTGRTTkZjak1vdWphLWdGNy1WR3Rnd0xiaGJ1elF4ZnhNLXA2STZCV2FVdTAtN2x3XzY3Ml9qU0d2UWRrTVc?oc=5",
+      "pub": "Sat, 05 Sep 2026 21:21:01 GMT"
     },
     {
-      "title": "[베스트&워스트] 코스피 약세에도 온타이드 52% 급등…SK디앤디ㆍ현대약품 등도 ↑ - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoNnNEUGF5bjEwYW5PZlctQlNWMFQ1c3c4TTh6TE0wdXU1cjBQTno5bGVvbUM1VkFaYUFSRU1RUkRRbEVNa1Izcmc0RVlHaEU?oc=5",
-      "pub": "Fri, 04 Sep 2026 22:01:03 GMT"
-    },
-    {
-      "title": "[개장시황] 코스피, '외인·기관' 동반 매수 1%대 ↑…6600선 회복 - 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qYzdqc2N5VjFHenBkZGRYZnBhMTMtejFQZ09jZE9VeHlTeGhrM0VIZG1VdmNlcmttYllLZlN6T2dtN3BQV09qRzR5VHlWMDlqWERocjVVdTA2QVYz?oc=5",
-      "pub": "Fri, 04 Sep 2026 00:30:00 GMT"
+      "title": "美 CPI에 쏠리는 시선…코스피, 7000선 회복 시험대[주간증시전망] - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfejZoQ1BraFNKSlVLNmJCMm5NWi11YWg2aExyU0czQzF1QkZabUNTWWh3d0NraVd4dmxQZmJHeTBuNkxjTlNJTGNJbVBjNVZwbW9FaHJubFhPYl9tcHRSU9IBeEFVX3lxTE1EYkFoakM4anB1YWZEdlpHY3hOMUx4MFU3Tms1RVZlS0lIaS1PcHN0LVUyM3BjTkpTdC13Q0RYWnplTDA4YlZ5bkJVMnRxSlJJQmxQckR3dnhfbl9nb1I0ZTB6QTdLNXZrY2dZWFRNdXc0UUdiUjJteg?oc=5",
+      "pub": "Sat, 05 Sep 2026 22:00:00 GMT"
     },
     {
       "title": "\"한국 주식 샀다고?\"…해외서 코스피 조롱 밈 확산 By EBN - Investing.com 한국어",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYY0dpUmRNcHA1UjBrV0tjNC1BZEwzQi1Vd01ySFo5emhrQ0l4ZmYzMEdSanhnMnFTa19TRE1BY2c3UlpFQ0RQZFVaTDVLelh2NE1ib3hoLXZjM0kwYzBBcE15anhYLUh2eFhlV2I4QzQ?oc=5",
       "pub": "Wed, 02 Sep 2026 06:42:00 GMT"
+    },
+    {
+      "title": "중동 불안에 코스피 상승폭 축소 - KB Think",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zSlFXOU5PX1VFdVRWNi1oNVNsYWpXMC04bm5tWjQ2VDRZTXJCejJJdEVhNkVsTTZEcXhiczhaYmk4bUlwU1F0NDFoX3RFc3FfNkQzYlNWby1XMVpiNkozb0RLcm1xYm9jTWI0dQ?oc=5",
+      "pub": "Thu, 03 Sep 2026 07:01:00 GMT"
     }
   ],
   "signal": {
     "text": "오늘 시장은 강세입니다. 추격 매수보다 보유 전략이 유리할 수 있어요.",
     "type": "positive"
   },
-  "one_liner": "코스피 🚀 강세 · 코스닥 📈 소폭 강세"
+  "one_liner": "코스피 🚀 강세 · 코스닥 🚀 강세"
 }
