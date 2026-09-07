@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026년 09월 07일 08:21",
-  "updated_date": "2026-09-07",
+  "updated_at": "2026년 09월 08일 08:52",
+  "updated_date": "2026-09-08",
   "kospi": {
-    "price": 6687.21,
-    "change": 107.73,
-    "pct": 1.64,
+    "price": 6995.39,
+    "change": 308.18,
+    "pct": 4.61,
     "label": "강세",
     "emoji": "🚀"
   },
   "kosdaq": {
-    "price": 813.5,
-    "change": 23.29,
-    "pct": 2.95,
-    "label": "강세",
-    "emoji": "🚀"
+    "price": 822.19,
+    "change": 8.69,
+    "pct": 1.07,
+    "label": "소폭 강세",
+    "emoji": "📈"
   },
   "sp500": {
     "price": 7718.6,
@@ -26,45 +26,45 @@
     "pct": -0.29
   },
   "usdkrw": {
-    "price": 1345.56,
-    "change": -0.43,
-    "pct": -0.03
+    "price": 1344.48,
+    "change": -0.51,
+    "pct": -0.04
   },
   "news": [
     {
-      "title": "[코스피·코스닥 전 거래일(4일) 주요공시] - 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVOFlDWXJVSWJidndFMGxQWkVJM2ctNmVyR1ZrenR4ZmNVZEw1N0pmM19xVWQ1aUVpVzAyN2lKaGR2cXBaVFlVTzFtWmdxcGJxNVE?oc=5",
-      "pub": "Sun, 06 Sep 2026 21:05:01 GMT"
+      "title": "“코스피 수익 기준으로 역사점 저점 지나고 있어, 연말 전 9300 뚫을 것” - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZcmpkNm0tWEI3UkFuay1tX19lWFlSeVFHYm53QUw0VXhjLVlnbXhHX0xVRVNNd040R1B2WjFnNEpOZ0Rla0loT0ZHRlExcFE?oc=5",
+      "pub": "Mon, 07 Sep 2026 20:31:54 GMT"
     },
     {
-      "title": "삼전닉스 자사주 매입 벌써 30% 돌파… 불안해지는 코스피 수급 방패 [박진우의 개미수다] - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1TVlkwaFpwMUQ5a2dpU0FhUFZNeUw5NGx4WFRmVWhNRkdGeWlycS0yMEltSmlBSlJrTDN1c1A1aXM3MTRRb0NMdUFQX1FpZ0U?oc=5",
-      "pub": "Sat, 05 Sep 2026 15:07:09 GMT"
+      "title": "이번주 '저PBR 기업 망신주기'案 확정…코스피 25%·코스닥 10%로 - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuV2xpclVraXZUb2JwOFZJRUlhVzViOEM5X1NaWWx2em5XTFBub2xrTmdfcGtIbzZjejJWaVE3UlRYN2xHaDc3NFlOSmU2NzRUS01NdTNWSXNOZw?oc=5",
+      "pub": "Mon, 07 Sep 2026 07:01:59 GMT"
     },
     {
-      "title": "코스피 호황 덕에…주택도시기금 상반기에만 1.2조 수익 - 경기일보",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FbjlNU2kzNVBGNzBoMTVpRDZLNE5YSmdSWk9hYnd4b2tQeXp0ZTFVTDkxci1pVW9fSlBRYXcwLTFESGZRN2w4VU00dm4xVUhEcFk3RE13bjJKYUU?oc=5",
-      "pub": "Sun, 06 Sep 2026 04:59:02 GMT"
+      "title": "[이슈]“코스피목표 1만2천 유지” 골드만의 근거 - 문화일보",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGZ183amVUdkV1ZXdnb2FrNkJ4QWpoWjNxa2g1OHBLWjRJVEJ3MlhmT1huOWhqckFZRlRNNWFYZmxQSDYtNjRaUGM1d25VX1Ey?oc=5",
+      "pub": "Mon, 07 Sep 2026 08:15:27 GMT"
     },
     {
-      "title": "\"코스피 떨어지는데 편의점은 웃었다\"…백화점株는 반토막 - 메트로신문",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KbjIwRUJiS21jRU1pWkM1T2RhVF9SekEta0xydXBvUDFvSDY2dnNIYmhuSkhMcGpyVDNXS2s0RFNSYV9XS29MYWtzN2NUSUJoVTM0bUVnSkFfN0lRT3I5dA?oc=5",
-      "pub": "Sun, 06 Sep 2026 21:56:11 GMT"
+      "title": "코스피 7천피 '턱밑'…금리인상 우려에도 외인·기관 '사자' - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qcTFCSXV6eU9BeWVsUmIwb3F5NGZVUi1FS0RCNG5IM1VubS1rd01zWVpzbG95UVA3YXRQQnk5Z2lCczg5bkJLdXpPNkVLYnhpRXlxWThvQ19LOTZPcFN0U1owVmVrZ3pC0gFuQVVfeXFMUEJ6Vmk0WU5OOW1tcG9CNTUtTUlxTnBvSjE2TDVvaktVZUtYRVlYenhBUFlFblkxOW5pTm84ajZZMFpNeVQtNzRISEVVMUZmcnFYb0xOM2ViamlFNVpxRVIyWFNPWl9mVHVYMHZzMVE?oc=5",
+      "pub": "Mon, 07 Sep 2026 06:58:04 GMT"
     },
     {
-      "title": "美 ‘이란 왕따 작전’ 긴장감…코스피 6200~7300 [주간 증시 전망] - 데일리안",
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQM1dhZG4wRElLdjRSa1h4TmxNWlpPNjlVNUs4OW9qS09nT0ltV2tRSzBWeHRlSWItM3E0djJHbEdBNHFLSGFVME5ONWdYamFId1l3U0VFaWwtM0dPc1d5aUEyNlMyTGhMVzRHdVNpeHhNalo1N3drdExkdnhEZEFmV0Q2bUJJdXgwaFBiZDNZUVBmaGpleDlPLWdWYXBsVWJjYXFkSFo5SGNZWml0M3FIUlltRmdHQk1WOWVhNy1RVHFzS3JEb1k4VGRkVERCVnNqejJGSDZIWFdTMWVFbFZRYTRaNFBJVF9la3d3Xy1zbnRhZ0taN29kdTNTSkpMcmNpVTd5U2trVjh3QjloRVRCVVl0WWRlMXc?oc=5",
-      "pub": "Sat, 05 Sep 2026 22:00:00 GMT"
+      "title": "코스피, 3.34% 상승한 6,910.78 출발 - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TUG1JcWd1Zm8taGFJSWhsTjlWWDB3WENnZWhVemE2b1h3UjhIQUJqVmM2NUFWVzZ1eGV2RTRZa0Fva3VhVGpBSUNGYlZTcmt4WGtocnBsT2hxYXY2d05kV0JJVG9PU3pTTTZtNnpscHHSAXRBVV95cUxOWVBOcndCX21DaXRSQUFyTTI4M00xdms5NURsQkdCTktkNk91NHFQRXdGRmc1ODFsazAxdS02cjR6TnVDM2tnSUZRWmxjYUxRRFF2aGRMMEFYa2xIZE50MmQwd3ptS0Roa2ZnNjl5b3V3Y1UyZg?oc=5",
+      "pub": "Mon, 07 Sep 2026 00:02:35 GMT"
     },
     {
-      "title": "[주간증시전망] \"하방은 단단, 상단은 부담\"...코스피 '숨고르기' - g-enews.com",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZUVVQkEzUkJGZU1GT3d2MUlGUkhNcTZPaVhnMHYzSTUzdTFsSzBhS1MyOVRUR2VZejdUaF9ucU1NdWdhUkZqMzNSc3d4ci1KODhQOXJ5TERnNUJMenR1UTRXeDktTWhuVGtoVng1V3ZBUV9kTWotbWVsY1NPamRqak9wdjNPWk0t?oc=5",
-      "pub": "Sun, 06 Sep 2026 03:00:00 GMT"
+      "title": "[개장시황] 코스피, 반도체株 강세에 3%대 상승…6900선 - 브릿지경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RSUdxZkNtWDBrdldIdjhFM3RncGpYamcybG1XeGtsVW1lbHRjd0U1dndpNm5tV2FaMmt1NGt4eWNULXFteDRGRGJkTXBCSWZRUjBXcm80T0hEUQ?oc=5",
+      "pub": "Mon, 07 Sep 2026 00:30:00 GMT"
     }
   ],
   "signal": {
     "text": "오늘 시장은 강세입니다. 추격 매수보다 보유 전략이 유리할 수 있어요.",
     "type": "positive"
   },
-  "one_liner": "코스피 🚀 강세 · 코스닥 🚀 강세"
+  "one_liner": "코스피 🚀 강세 · 코스닥 📈 소폭 강세"
 }
