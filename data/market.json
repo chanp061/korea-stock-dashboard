@@ -1,70 +1,70 @@
 {
-  "updated_at": "2026년 09월 10일 08:41",
-  "updated_date": "2026-09-10",
+  "updated_at": "2026년 09월 11일 08:34",
+  "updated_date": "2026-09-11",
   "kospi": {
-    "price": 7051.64,
-    "change": 97.12,
-    "pct": 1.4,
-    "label": "소폭 강세",
-    "emoji": "📈"
+    "price": 7033.92,
+    "change": -17.72,
+    "pct": -0.25,
+    "label": "보합",
+    "emoji": "➡️"
   },
   "kosdaq": {
-    "price": 830.37,
-    "change": 8.18,
-    "pct": 0.99,
-    "label": "소폭 강세",
-    "emoji": "📈"
+    "price": 836.92,
+    "change": 25.04,
+    "pct": 3.08,
+    "label": "강세",
+    "emoji": "🚀"
   },
   "sp500": {
-    "price": 7636.36,
-    "change": -37.16,
-    "pct": -0.48
+    "price": 7591.7,
+    "change": -44.66,
+    "pct": -0.58
   },
   "nasdaq": {
-    "price": 26253.34,
-    "change": -168.07,
-    "pct": -0.64
+    "price": 26081.72,
+    "change": -171.62,
+    "pct": -0.65
   },
   "usdkrw": {
-    "price": 1339.25,
-    "change": -0.3,
+    "price": 1348.9,
+    "change": -0.25,
     "pct": -0.02
   },
   "news": [
     {
-      "title": "‘삼전 보합’에도 코스피 7000 안착… 2차전지·정유화학 ‘쌍끌이’ [이런국장 저런주식] - 서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoNzV4VjFRUVhfZXNwR00tVVlHYk9sMlBfZ0Y3MnViZkhwS3lQY25JTzVuX3lWM1NfaG9jTmNnelh0YmhEUDIxdmlaS3dtZDNESmfSAVNBVV95cUxObnAtaExXQTdDSkh0c3JpenptcnN1eWcwME90Z1lBWEdtcXdWY2FzaXhyc0tET19TMmpyZFpUZk51eW5xUmJlQnFvMThST19WNWdhRQ?oc=5",
-      "pub": "Wed, 09 Sep 2026 07:02:22 GMT"
+      "title": "코스피 지수, 네 마녀의 날·ETF리밸런싱에도 7000선 방어 - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RRU10V1RMVkZHVzA5d2YwSXR4LWkwTmNiN1o4eWtTdUVGeEpkZ2Y5UUlVOVVyNTBqRzliX3Awc3FyeHBKeDRQby05REFZOXE2eWkydGN6UUpvUQ?oc=5",
+      "pub": "Thu, 10 Sep 2026 08:28:20 GMT"
     },
     {
-      "title": "[오늘의 증시]코스피 7000선 지켜낼까…유가·美 국채금리 상승 '부담' - 뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JeUkwVk45Z2NTV3JIVWpWVzVjbGV2YTgxYUZnMmZnWEhFT2VNVE1BT2c0dGw0YXBtS0tfVjF1TXFBaW9nSms3UmZkSTJKMWpiQ3ZMNHZvZV9URXlaQjFxRtIBeEFVX3lxTE1DRldqc1hNLWRXUTAxaVpFeUJjZFpzTEtGdnY1VnNZS3FMNEkwQXpDRC0zTHQzTTg1NzBZVmJvTVlBaFJKbnVydGFTdzJVNndNRDlNSDNMVTBacTJQbGkyZm1nalJhZFVoRkVLcEgwV0pLdTk0RE1zSQ?oc=5",
-      "pub": "Wed, 09 Sep 2026 22:40:52 GMT"
+      "title": "[코스피·코스닥 전 거래일(10일) 주요공시] - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uMDBPUXdvQkZhelJxT2JPTjU5R0tCOHg3Uld2MFdQUVNDd29QUzdwUFdQY3NuOE9hU0J0SXpqVEN6eGQ0NmtWMDlicHBrQ01wWHdYVDQwdDF0c3fSAWBBVV95cUxNQXBvUlY5dm53WDd1bm5JUDBadnM1NnNsMGZzS1daSzRhbURydUEzcUtQVTVpZEtGMzU3Q18tTTRPV0dCZjVNTzJESTlla3k4SGRwTktRTldaQkhWWEEyaEo?oc=5",
+      "pub": "Thu, 10 Sep 2026 21:05:00 GMT"
     },
     {
-      "title": "기아(000270) - 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNa3loOW12Wmc2V01KSEtkNUY1TllCZEhPUEtmM0hWemU4TFpIc1JsV25yNDdtMzRULU15SkpPZ2xsbnhUQ1dxNXAyakpsX05MUHhaSjlmX1ExbXRlWTdtVnlyNlBYbVEwYmI1ZUh2bFJqSXJUT1dfRlg5aFZPeDZDYkZjNXhSMGx5WURGaXNEcFFrNVNiVmVj?oc=5",
-      "pub": "Wed, 09 Sep 2026 15:51:52 GMT"
+      "title": "“퇴근하고도 주식 산다”…14일부터 코스피·코스닥 밤 8시까지 거래 - 주간조선",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jc2dOel9hV0dNX2stVDNGQWRsOVk0aFVKQk53RFZ1WFVJdGpKcXlnSW1tNkhqSGVFdlN1SzRybUdKZktnV2tqb1doZHVOWkJQaVdhT25nZEtoTzZ2dUVyRVN5dEpBUm81bUHSAW5BVV95cUxQNlNhUFJFWHlOTUt6aWlhM0VTVU5qTUo5WkJsd1FXR0ZCM2RkLTZiTkdmNWRtRWtwVi1NUk84TlcybVVXVGZTVHc4V0hmSHRQY2QtbWdyeVVxNGRKUTNFZjZoYnVGRk11NkxfeDhTZw?oc=5",
+      "pub": "Wed, 09 Sep 2026 14:06:15 GMT"
     },
     {
-      "title": "\"코스피 더 오를 줄 알았는데\"…증권가서 나온 '뜻밖의 경고' [한경우의 케이스스터디] - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wUXpITGZ6S3lZekZBSGpzTnpURWEzWU10djUzWHBURWRRbjgwWURaaTY5TjZ1UHZaWDV6cndHcUxzeWRMV3JkX0V2dndFMFhNamxiQzk2aGtMUQ?oc=5",
-      "pub": "Tue, 08 Sep 2026 04:30:09 GMT"
+      "title": "“코스피 하락에”…전남광주 투자자 3달 연속 주식거래 줄여 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyUnRDdjhEaE9zT2trNl96a1NRN2tEZjFOUjBqV1NYTV90YU1HVTFOVXBvdUJTQWF6bGE2WjE0U2Fkbnh6RXJDNW9XbVJldDA?oc=5",
+      "pub": "Thu, 10 Sep 2026 10:50:00 GMT"
     },
     {
-      "title": "[속보] 코스피, 0.2% 오른 6972.87 출발…코스닥 0.3%↑ - MTN 머니투데이방송",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMQmxNcWRpVlFPbkxIdXdTa0dGeFM4QVpnOTNSMmZpbC1TRE9pNkI3WEJmTWtKWGRUbmkwdWVMOWxOWTFjVHoxZ0NpY2djcllaNzFILVVGVHdpakNZT1Z6VUZGeTI?oc=5",
-      "pub": "Wed, 09 Sep 2026 00:01:01 GMT"
+      "title": "‘코스피 불장’ 2분기 증권사 순익 5조 돌파…전년 대비 82%↑ - hani.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MQnRPRlNzdFFpd0NHUHdBSVNnSmhzdXNqakV3eGhYZ1ZFNGw0eXRnTGdLaUdndGNkenFLenBGMGN6Y1dTRU85T0lZdGFYVUlnV3dhNUNOVS1xQ2hXdjJFUEJmeWhoRDg?oc=5",
+      "pub": "Thu, 10 Sep 2026 01:16:00 GMT"
     },
     {
-      "title": "[트렌드 키워드] 9월 10일 ‘네 마녀의 날’ 코스피 하락할까 - 여성신문",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3UmhLM3VWcWNFWEVNZWo2VnE0YS1QMTJWRjBpcUtURmlrWGZsVHpnUEZnWmdndzRuZF83TC1sckc5NU9VdWVDZHNJTVpEdE9EcnE1Szdaa3hBa2Vic0lDT1o1RlJjdjZsUVNyU3Z6QdIBc0FVX3lxTE9PNDZCbmhVbHJ1bkkyMGVhYmZPN0ZFV3hqOFZFbTZlQWdxM2hBSy1KNmZHWWFoSk1SUUlqWmZMVmlWN0J4d3BNdndRc1VxUnpjaGtmSFVYaENDTXVRWFBlQ0g1SjFiZi1UNFJkTWZJU3FpbTg?oc=5",
-      "pub": "Tue, 08 Sep 2026 09:01:21 GMT"
+      "title": "코스닥 죽쒔다고?…코스피보다 수익성 좋은 기업 140곳 육박 - 에너지경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TTnlneHFxYUh3VUg1TkZkSW1SZFI1QWR3REZkOWZYdDRvRGJycktYRWRoR21oMXlJWDVQRk1YUUVHRE1kcEgxT0xNcWp4U1Rzb1FLWmZDdm5pU3c?oc=5",
+      "pub": "Thu, 10 Sep 2026 00:20:26 GMT"
     }
   ],
   "signal": {
     "text": "오늘 시장은 강세입니다. 추격 매수보다 보유 전략이 유리할 수 있어요.",
     "type": "positive"
   },
-  "one_liner": "코스피 📈 소폭 강세 · 코스닥 📈 소폭 강세"
+  "one_liner": "코스피 ➡️ 보합 · 코스닥 🚀 강세"
 }
