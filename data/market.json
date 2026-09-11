@@ -1,40 +1,45 @@
 {
-  "updated_at": "2026년 09월 11일 08:34",
-  "updated_date": "2026-09-11",
+  "updated_at": "2026년 09월 12일 08:42",
+  "updated_date": "2026-09-12",
   "kospi": {
-    "price": 7033.92,
-    "change": -17.72,
-    "pct": -0.25,
-    "label": "보합",
-    "emoji": "➡️"
+    "price": 6909.91,
+    "change": -124.01,
+    "pct": -1.76,
+    "label": "약세",
+    "emoji": "🔻"
   },
   "kosdaq": {
-    "price": 836.92,
-    "change": 25.04,
-    "pct": 3.08,
-    "label": "강세",
-    "emoji": "🚀"
+    "price": 820.64,
+    "change": -9.73,
+    "pct": -1.17,
+    "label": "소폭 약세",
+    "emoji": "📉"
   },
   "sp500": {
-    "price": 7591.7,
-    "change": -44.66,
-    "pct": -0.58
+    "price": 7656.98,
+    "change": 65.28,
+    "pct": 0.86
   },
   "nasdaq": {
-    "price": 26081.72,
-    "change": -171.62,
-    "pct": -0.65
+    "price": 26333.03,
+    "change": 251.31,
+    "pct": 0.96
   },
   "usdkrw": {
-    "price": 1348.9,
-    "change": -0.25,
-    "pct": -0.02
+    "price": 1341.05,
+    "change": -8.1,
+    "pct": -0.6
   },
   "news": [
     {
-      "title": "코스피 지수, 네 마녀의 날·ETF리밸런싱에도 7000선 방어 - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RRU10V1RMVkZHVzA5d2YwSXR4LWkwTmNiN1o4eWtTdUVGeEpkZ2Y5UUlVOVVyNTBqRzliX3Awc3FyeHBKeDRQby05REFZOXE2eWkydGN6UUpvUQ?oc=5",
-      "pub": "Thu, 10 Sep 2026 08:28:20 GMT"
+      "title": "[마감] 자사주 매입에도 주저앉은 코스피… 6909.91로 마감 - IT조선",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Uak5mSHFuTkNYU1plWW00aVpHZldwVmhYbFpWbDlJdVBIMFUyakFhNl9RZnBZV3AtR3Q5LVNqR0t1LTY0Nlh0b05ldVlRVWxVcW5SZm9GU1dTd2tJcEwxSGVPWGw1OXFrUkh6RFRkOWvSAXRBVV95cUxNbkFQdEg1YW40dXNVb3RwSzhCUjIxMXpxS0dlVUVPS3A1bldXX2VESC16cnBjaHhtV09ySFJvcHZpM2Jac29DckxCOEstekFHWGZtRU15RlRPWnN6YmFVLU4yVW9zeDNnbE51MGFsSm5EeU9XdQ?oc=5",
+      "pub": "Fri, 11 Sep 2026 07:41:01 GMT"
+    },
+    {
+      "title": "‘10월이면 돈줄 마른다’ 자사주 매입에 버티는 코스피…벌써 ‘25조’나 썼다 [투자360] - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80WGxnc1dReVVrSDVLd20xN2Y5bGo3bGVkQkd3bGg2N0ZZREZFUUNraUtLdEJHMlhYOU44Y2lBZGYwdXN0THdMRy1obmVxQ1U?oc=5",
+      "pub": "Fri, 11 Sep 2026 12:42:10 GMT"
     },
     {
       "title": "[코스피·코스닥 전 거래일(10일) 주요공시] - 연합뉴스",
@@ -42,29 +47,24 @@
       "pub": "Thu, 10 Sep 2026 21:05:00 GMT"
     },
     {
-      "title": "“퇴근하고도 주식 산다”…14일부터 코스피·코스닥 밤 8시까지 거래 - 주간조선",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jc2dOel9hV0dNX2stVDNGQWRsOVk0aFVKQk53RFZ1WFVJdGpKcXlnSW1tNkhqSGVFdlN1SzRybUdKZktnV2tqb1doZHVOWkJQaVdhT25nZEtoTzZ2dUVyRVN5dEpBUm81bUHSAW5BVV95cUxQNlNhUFJFWHlOTUt6aWlhM0VTVU5qTUo5WkJsd1FXR0ZCM2RkLTZiTkdmNWRtRWtwVi1NUk84TlcybVVXVGZTVHc4V0hmSHRQY2QtbWdyeVVxNGRKUTNFZjZoYnVGRk11NkxfeDhTZw?oc=5",
-      "pub": "Wed, 09 Sep 2026 14:06:15 GMT"
-    },
-    {
-      "title": "“코스피 하락에”…전남광주 투자자 3달 연속 주식거래 줄여 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyUnRDdjhEaE9zT2trNl96a1NRN2tEZjFOUjBqV1NYTV90YU1HVTFOVXBvdUJTQWF6bGE2WjE0U2Fkbnh6RXJDNW9XbVJldDA?oc=5",
-      "pub": "Thu, 10 Sep 2026 10:50:00 GMT"
-    },
-    {
-      "title": "‘코스피 불장’ 2분기 증권사 순익 5조 돌파…전년 대비 82%↑ - hani.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MQnRPRlNzdFFpd0NHUHdBSVNnSmhzdXNqakV3eGhYZ1ZFNGw0eXRnTGdLaUdndGNkenFLenBGMGN6Y1dTRU85T0lZdGFYVUlnV3dhNUNOVS1xQ2hXdjJFUEJmeWhoRDg?oc=5",
-      "pub": "Thu, 10 Sep 2026 01:16:00 GMT"
-    },
-    {
       "title": "코스닥 죽쒔다고?…코스피보다 수익성 좋은 기업 140곳 육박 - 에너지경제신문",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TTnlneHFxYUh3VUg1TkZkSW1SZFI1QWR3REZkOWZYdDRvRGJycktYRWRoR21oMXlJWDVQRk1YUUVHRE1kcEgxT0xNcWp4U1Rzb1FLWmZDdm5pU3c?oc=5",
       "pub": "Thu, 10 Sep 2026 00:20:26 GMT"
+    },
+    {
+      "title": "외국인이 2조 5천억을 던졌는데, 오늘 코스피를 받아낸 건 따로 있었습니다 - 네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLUNFeWJzVDllaGFTQ2ZXbEluNHNLR0hyWEpUSW85OThrdnZ2UFVaSWo0RnI4NU4wc3lEbXhTS2JVblRyRE1WWHJ3VGJ0WFdsN01KZUktMVJrVkp3Zk84cTZrVkl5ZTNvSldLeThkZHMwcVJWRG52Y2xRRmtULWlXbG42Z2Riemc?oc=5",
+      "pub": "Thu, 10 Sep 2026 07:17:00 GMT"
+    },
+    {
+      "title": "[코스피·코스닥 전 거래일(9일) 주요공시] - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hQnBRaXYwbFNSQU1uaFRIT2l2VjFTbnBqYVd4dGtGOVRQWVcyUFNiZWU1Q0xBMDFwYnI5c3VPQXc5T0JhNlRJSWtWR1o5V21YcVE?oc=5",
+      "pub": "Wed, 09 Sep 2026 21:05:00 GMT"
     }
   ],
   "signal": {
-    "text": "오늘 시장은 강세입니다. 추격 매수보다 보유 전략이 유리할 수 있어요.",
-    "type": "positive"
+    "text": "시장 조정 국면. 손절보다 비중 축소 후 상황을 지켜보세요.",
+    "type": "negative"
   },
-  "one_liner": "코스피 ➡️ 보합 · 코스닥 🚀 강세"
+  "one_liner": "코스피 🔻 약세 · 코스닥 📉 소폭 약세"
 }
