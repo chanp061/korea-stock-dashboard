@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026년 09월 13일 08:36",
-  "updated_date": "2026-09-13",
+  "updated_at": "2026년 09월 14일 08:47",
+  "updated_date": "2026-09-14",
   "kospi": {
     "price": 6909.91,
     "change": -124.01,
@@ -22,29 +22,29 @@
   },
   "nasdaq": {
     "price": 26333.03,
-    "change": 251.31,
+    "change": 251.33,
     "pct": 0.96
   },
   "usdkrw": {
-    "price": 1341.05,
-    "change": -8.1,
-    "pct": -0.6
+    "price": 1343.3,
+    "change": 2.25,
+    "pct": 0.17
   },
   "news": [
+    {
+      "title": "반도체 급락할 때 '이 주식' 담았더니…\"15%나 올랐다\" 환호 [한경우의 케이스스터디] - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xc053bHZGbWFraGFId2k5bGRrU2llZ2ktdHZjcE1aR2p6UDRBVkdQWHVNVnVXN1M4SlJQaEx0SXpQQ0tWd1NGQkJaWEVjS0g0aWF6YVhHMFpQdw?oc=5",
+      "pub": "Sun, 13 Sep 2026 11:00:01 GMT"
+    },
+    {
+      "title": "[코스피·코스닥 전 거래일(11일) 주요공시] - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlbDgxUE10cEJWbXM1WEc2U2dPdllEVU9TdXJUQXZ3czYtMjM4TWQ4UTFEZkRRZms5amM1dGluT292enlSeWE1SlV6OEtiWS1rRFE?oc=5",
+      "pub": "Sun, 13 Sep 2026 21:05:01 GMT"
+    },
     {
       "title": "\"주식창 또 파랗네\" 힘 빠지는 개미...7천피 깨졌다 - 머니투데이 - 머니투데이",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RaVNWLTZUdjM3NkJfdjRBbUh5MlFhNTB6YkNxd3JRV2ZUNWw1T1ZpWnhJZXZqSWltWjdVTVlMVldsNXkySzd0UkhTcUNVbktmYk9pNWx5OEFvX28zcjh4eEgxU25XWE5V0gFuQVVfeXFMUDV1NDJaQlM5UHlPdTdGRFY3aU90eTNzbm14c3JZR29RMFNjQlV4TFlEa1RsVmcxYkZhSHpMTDVYck1TZGN5dnZyX1M5ZnN4SURVR3Y0Z2V2Z2JROUh4WkN1Q2xFQk1rX0N3ZTY3RkE?oc=5",
       "pub": "Fri, 11 Sep 2026 00:23:25 GMT"
-    },
-    {
-      "title": "SK하이닉스 ADR, 7%대 급등 최고가 마감…코스피는 하락 출발 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAyaFBmQmdlQlBrV1NfcF83SkNyV2s2MjUwZlVlNHRFRVA1ZjBvajB6LV9FSkY1R1d3SXJDWVhUTEZhaDc5VUE?oc=5",
-      "pub": "Thu, 10 Sep 2026 02:13:48 GMT"
-    },
-    {
-      "title": "“퇴근하고도 주식 산다”…14일부터 코스피·코스닥 밤 8시까지 거래 - 주간조선",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jc2dOel9hV0dNX2stVDNGQWRsOVk0aFVKQk53RFZ1WFVJdGpKcXlnSW1tNkhqSGVFdlN1SzRybUdKZktnV2tqb1doZHVOWkJQaVdhT25nZEtoTzZ2dUVyRVN5dEpBUm81bUHSAW5BVV95cUxQNlNhUFJFWHlOTUt6aWlhM0VTVU5qTUo5WkJsd1FXR0ZCM2RkLTZiTkdmNWRtRWtwVi1NUk84TlcybVVXVGZTVHc4V0hmSHRQY2QtbWdyeVVxNGRKUTNFZjZoYnVGRk11NkxfeDhTZw?oc=5",
-      "pub": "Wed, 09 Sep 2026 14:06:15 GMT"
     },
     {
       "title": "유가 등 중동 악재에 눌린 코스피, 美 FOMC 금리결정 주시 - 연합뉴스",
@@ -52,14 +52,14 @@
       "pub": "Sat, 12 Sep 2026 21:00:08 GMT"
     },
     {
-      "title": "\"금리 흔들려도 AI 성장 유효\"…코스피 7000선 안착할까 [주간전망] - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoeUNiU0l2d0s2MHhsMld6VVI3RkFiUDhyN0ZmYkZaX0ttdnA3RWs2TWN6c2NMd3R0SjMtWDRpQTJMYW5HSkpsbVlVdWgyZnVNdnRRVFF3djlodw?oc=5",
-      "pub": "Sat, 12 Sep 2026 23:00:07 GMT"
+      "title": "‘칠천피’ 찍고 밀린 코스피…반도체 주도력 시험대[주간증시전망] - 이데일리TV",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBLZTJQaEEwVnJUUEktc09tTWhSTDdjbVFkYWstblRlU2t0TTdjMG5SQU9Lb0V0aUNScFZnd1gwbHBLdW9uU3BOWmw0bVF3XzV0Z0p5Qjc1VmdnbklqVmpFRGlUYXZJLXVaQU1wMzlyZXhTcWZiZkU0WDlUMA?oc=5",
+      "pub": "Sun, 13 Sep 2026 02:15:00 GMT"
     },
     {
-      "title": "14일부터 저녁 8시까지 '코스피·코스닥' 주식 매매...ETF·ETN 제외 - KBC광주방송",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oaEM0bVJKajZqM3N2cS0wclo0V1NMTEtYZmswTmJ5cUhFR2cxcmlhTUVfRk1HQWtfcXNMZUdjVXBESDBxUVpoVTd2LTN5UmFyb0lLb01aOGFiY05qbTJGQQ?oc=5",
-      "pub": "Wed, 09 Sep 2026 07:34:26 GMT"
+      "title": "코스피 하락 시 최악의 시나리오는? 미리 공부해서 나쁠 게 없다 - 네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVTZxNHlJb2h4bGZkQ3B0V0J6VHBmdXQybThRa2NhNG5zVlAxenRJS2oxSHh5YkxqTnFxZVNSX0dMWTBVR05Yb1cxRjFQX1otTlc3MmF6djY4bTl2QlZxWFA1Qmo4elJBQTAydEgtNlpxazZMcUtuN0UzU056bXFXZG1SUkpJVUZiVE1V?oc=5",
+      "pub": "Sun, 13 Sep 2026 00:15:29 GMT"
     }
   ],
   "signal": {
