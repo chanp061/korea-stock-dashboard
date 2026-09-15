@@ -1,70 +1,70 @@
 {
-  "updated_at": "2026년 09월 15일 09:05",
-  "updated_date": "2026-09-15",
+  "updated_at": "2026년 09월 16일 08:50",
+  "updated_date": "2026-09-16",
   "kospi": {
-    "price": 6684.37,
-    "change": -225.54,
-    "pct": -3.26,
-    "label": "약세",
-    "emoji": "🔻"
+    "price": 6627.26,
+    "change": -57.11,
+    "pct": -0.85,
+    "label": "소폭 약세",
+    "emoji": "📉"
   },
   "kosdaq": {
-    "price": 806.79,
-    "change": -13.85,
-    "pct": -1.69,
-    "label": "약세",
-    "emoji": "🔻"
+    "price": 812.41,
+    "change": -8.23,
+    "pct": -1.0,
+    "label": "소폭 약세",
+    "emoji": "📉"
   },
   "sp500": {
-    "price": 7619.98,
-    "change": -37.0,
-    "pct": -0.48
+    "price": 7585.73,
+    "change": -34.25,
+    "pct": -0.45
   },
   "nasdaq": {
-    "price": 26186.41,
-    "change": -146.62,
-    "pct": -0.56
+    "price": 25981.57,
+    "change": -204.84,
+    "pct": -0.78
   },
   "usdkrw": {
-    "price": 1346.38,
-    "change": -0.44,
-    "pct": -0.03
+    "price": 1364.08,
+    "change": 1.03,
+    "pct": 0.08
   },
   "news": [
     {
-      "title": "코스피 급락에도 은행주는 상승한 네 가지 이유 - hankyung.com",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mMktOT21UVmRLX2ZtTGhrNUNVM1ZOTWo4d1dsRkIxbGJvbnpNOXQ4Zm0yQ21hM3A1eThOMHdVSG1FVGVwMERhLTNWVDYxRmlKaWdJdEN1NWRtdw?oc=5",
-      "pub": "Mon, 14 Sep 2026 22:22:38 GMT"
+      "title": "[개장] 美 반도체 부진에 코스피 약보합… FOMC 눈치보기 - IT조선",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CclhHamJEbFZZb3BySlI3eGo5SUg0b1JSajRjaGY3alFLaXZzMUdGeTdweExzU2IyTUtXb3NfSE1uTWdSVU14SDJiTnBhZHlLTXplNXZyZ0JhN1p1a1pzUFdJUEwyUlE1QzlTbzBhaXbSAXRBVV95cUxQaS1sZXFieDV1cms5NWw3QmRicHVjaExuXzdZbDlUR1Y4aFE4YWFYeGFDbVUwSlBXTUk3Mzd2N3U3RkpzeTZOUHlLTWpTQldmblp4c0Vac0s5WlJ2Ql9fdzRiXzhBUFR5VkdsSUI4b0JrUGV1dQ?oc=5",
+      "pub": "Tue, 15 Sep 2026 00:54:24 GMT"
     },
     {
-      "title": "'AI 속도조절론' 악재 부각…코스피 3%대 급락해 6,600대(종합) - 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16b3pQbjhjNkVOckM4WERKd29Vcm5OZXpoS2ZGMFJvb2dDYWZScm5rLWxtYkZGZnRFT3ROLUFYTnZRSVhXQXlkRm0xcjJ3SS1icGc?oc=5",
-      "pub": "Mon, 14 Sep 2026 07:09:09 GMT"
+      "title": "“9월중엔 주식창 안볼랍니다”…美긴축공포에 코스피 대형주 피눈물 - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9iclRoOWhPcGVtblVMNXhJdkwzbVZQYjhvQXJIRjNCMFRsVUxCaWVFRkx4MVRXeEU3LTl3RjlXdmtLR3hqc3lvRF9VRUVGTkhEUXc?oc=5",
+      "pub": "Tue, 15 Sep 2026 21:12:58 GMT"
     },
     {
-      "title": "14일부터 열리는 한국거래소 애프터마켓, 오후 4~8시 퇴근 후 주식 거래, 뭐가 달라지는데? ⏰🌃 - 뉴닉",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KLUlkZnUxWWhCai03ZlpJLUtzSG1SLUxQNXVQSkxvSzEzaFRTRUlxNG9QY3M0aTdzQVRNMjA5UDBqcHZ2Z2lvdVhEb0o0Q3p6VWIw?oc=5",
-      "pub": "Mon, 14 Sep 2026 02:10:00 GMT"
+      "title": "“퇴근하고도 주식 산다”…14일부터 코스피·코스닥 밤 8시까지 거래 - 주간조선",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jc2dOel9hV0dNX2stVDNGQWRsOVk0aFVKQk53RFZ1WFVJdGpKcXlnSW1tNkhqSGVFdlN1SzRybUdKZktnV2tqb1doZHVOWkJQaVdhT25nZEtoTzZ2dUVyRVN5dEpBUm81bUHSAW5BVV95cUxQNlNhUFJFWHlOTUt6aWlhM0VTVU5qTUo5WkJsd1FXR0ZCM2RkLTZiTkdmNWRtRWtwVi1NUk84TlcybVVXVGZTVHc4V0hmSHRQY2QtbWdyeVVxNGRKUTNFZjZoYnVGRk11NkxfeDhTZw?oc=5",
+      "pub": "Wed, 09 Sep 2026 14:06:15 GMT"
     },
     {
-      "title": "[코스피·코스닥 전 거래일(11일) 주요공시] - 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlbDgxUE10cEJWbXM1WEc2U2dPdllEVU9TdXJUQXZ3czYtMjM4TWQ4UTFEZkRRZms5amM1dGluT292enlSeWE1SlV6OEtiWS1rRFE?oc=5",
-      "pub": "Sun, 13 Sep 2026 21:05:01 GMT"
+      "title": "코스피 4일 연속 하락, 코스닥 소폭↑ - KB Think",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1UXJNb3VpUzB6QlZYV1htMmE4eE1nMzBscFNDQUZicFJuV1J4Rmg4ZTlLR0F1TEFqdmVHalZtcU1qUjlJV1otMEd0RWdhdnAxLTZvODNxc2lIMWxudDNIN2tDbTUyQ1RQVUtySg?oc=5",
+      "pub": "Tue, 15 Sep 2026 06:59:42 GMT"
     },
     {
-      "title": "내일부터 ‘퇴근 후 주식거래’ 확대…한국거래소 애프터마켓 개장 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WVk9yUEFQRFF5VDEybUJweEhVT1BfT05jYnpCb1VFV0FlYklPTURUZUV1c1Y5WFQ5VV9yM21Na3ppMUJQV3NBMXZ6RWZORnM?oc=5",
-      "pub": "Sun, 13 Sep 2026 03:13:00 GMT"
+      "title": "[마켓 프리뷰] 금리·유가 우려에 나흘째 밀린 코스피…코스닥은 반등 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40cVJKTTMzcklRT3lZX1VybFkzNFRYLTFlWmRjbnM3OG1WR1RTak83U2I2RWJnS3d6dnlSTnVtZVFhMGFfampkMWJpZ29Ienc?oc=5",
+      "pub": "Tue, 15 Sep 2026 22:37:14 GMT"
     },
     {
-      "title": "[마켓펄스] “AI 속도 조절 필요”...반도체주 우려에 코스피 3%대 약세 - 투데이신문",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjc2pNYjdLX0pBR2NlWnpxQ1doT0NtXzQ0dTliT3h3TGRwMHZBZXBqOUY0ZF9mcmhpdmJlMVBRcWpDTzBXRXNIM01Ha0NRRUUyZ0wxUFR4QXI1dnZvOGQ0ZjdoZmZaMVg1bTFr0gFvQVVfeXFMT0JNMTB4dVA5eHVFcDhhREZFSklmemxkQkpPRGFmNXo5d21hZmxWSTczTkYxVDlkNE9pU0VXWTFTLWJrQ0dNVmlwRUd2ekd1OWdUTW10Z0ZUenhJMHh0c3dZaGk5ZkU2TVBsLXFpcnRB?oc=5",
-      "pub": "Mon, 14 Sep 2026 06:54:19 GMT"
+      "title": "금리·유가·환율 ‘삼중고’…코스피 4일째 하락해 6,627 마감 - 산경투데이",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55ZHlOdUpRX2FKRG5jTkxFeVp1bTdDdWRMRy1GckNLX29UTjlZeFJ3ZW5ub2tmTTBlRmJJbDFEemZldHVUQnRxLUpvVTV1N190SHR2UDJsWVVsMTlmWTVfcW00UzRnSjZxYjNXemJYUkTSAXRBVV95cUxQWnRRbTlDY1luLUpPM0RuaG42djl6OW9xLUFPVkVocGEzSDBfT1IzaFJLWk5IVHAya2M2ck5Zb0w3NkE4UWtjZUpoUmR0REE2b2ExX3ZmQnVIX3QzYVdheklfMm02eU5wb05TVmVBMmNGd1p1VQ?oc=5",
+      "pub": "Tue, 15 Sep 2026 07:32:14 GMT"
     }
   ],
   "signal": {
-    "text": "시장 조정 국면. 손절보다 비중 축소 후 상황을 지켜보세요.",
-    "type": "negative"
+    "text": "소폭 하락권. 패닉셀보다 분할 매수 기회를 살펴보세요.",
+    "type": "neutral"
   },
-  "one_liner": "코스피 🔻 약세 · 코스닥 🔻 약세"
+  "one_liner": "코스피 📉 소폭 약세 · 코스닥 📉 소폭 약세"
 }
