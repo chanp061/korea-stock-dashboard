@@ -1,70 +1,70 @@
 {
-  "updated_at": "2026년 09월 16일 08:50",
-  "updated_date": "2026-09-16",
+  "updated_at": "2026년 09월 17일 08:58",
+  "updated_date": "2026-09-17",
   "kospi": {
-    "price": 6627.26,
-    "change": -57.11,
-    "pct": -0.85,
-    "label": "소폭 약세",
-    "emoji": "📉"
+    "price": 6717.97,
+    "change": 90.71,
+    "pct": 1.37,
+    "label": "소폭 강세",
+    "emoji": "📈"
   },
   "kosdaq": {
-    "price": 812.41,
-    "change": -8.23,
-    "pct": -1.0,
-    "label": "소폭 약세",
-    "emoji": "📉"
+    "price": 815.98,
+    "change": 9.19,
+    "pct": 1.14,
+    "label": "소폭 강세",
+    "emoji": "📈"
   },
   "sp500": {
-    "price": 7585.73,
-    "change": -34.25,
+    "price": 7551.81,
+    "change": -33.92,
     "pct": -0.45
   },
   "nasdaq": {
-    "price": 25981.57,
-    "change": -204.84,
-    "pct": -0.78
+    "price": 25978.42,
+    "change": -3.15,
+    "pct": -0.01
   },
   "usdkrw": {
-    "price": 1364.08,
-    "change": 1.03,
-    "pct": 0.08
+    "price": 1377.67,
+    "change": 0.28,
+    "pct": 0.02
   },
   "news": [
     {
-      "title": "[개장] 美 반도체 부진에 코스피 약보합… FOMC 눈치보기 - IT조선",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CclhHamJEbFZZb3BySlI3eGo5SUg0b1JSajRjaGY3alFLaXZzMUdGeTdweExzU2IyTUtXb3NfSE1uTWdSVU14SDJiTnBhZHlLTXplNXZyZ0JhN1p1a1pzUFdJUEwyUlE1QzlTbzBhaXbSAXRBVV95cUxQaS1sZXFieDV1cms5NWw3QmRicHVjaExuXzdZbDlUR1Y4aFE4YWFYeGFDbVUwSlBXTUk3Mzd2N3U3RkpzeTZOUHlLTWpTQldmblp4c0Vac0s5WlJ2Ql9fdzRiXzhBUFR5VkdsSUI4b0JrUGV1dQ?oc=5",
-      "pub": "Tue, 15 Sep 2026 00:54:24 GMT"
-    },
-    {
-      "title": "“9월중엔 주식창 안볼랍니다”…美긴축공포에 코스피 대형주 피눈물 - 매일경제",
+      "title": "“9월중엔 주식창 안볼랍니다”…美긴축공포에 코스피 대형주 피눈물 - mk.co.kr",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9iclRoOWhPcGVtblVMNXhJdkwzbVZQYjhvQXJIRjNCMFRsVUxCaWVFRkx4MVRXeEU3LTl3RjlXdmtLR3hqc3lvRF9VRUVGTkhEUXc?oc=5",
       "pub": "Tue, 15 Sep 2026 21:12:58 GMT"
     },
     {
-      "title": "“퇴근하고도 주식 산다”…14일부터 코스피·코스닥 밤 8시까지 거래 - 주간조선",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jc2dOel9hV0dNX2stVDNGQWRsOVk0aFVKQk53RFZ1WFVJdGpKcXlnSW1tNkhqSGVFdlN1SzRybUdKZktnV2tqb1doZHVOWkJQaVdhT25nZEtoTzZ2dUVyRVN5dEpBUm81bUHSAW5BVV95cUxQNlNhUFJFWHlOTUt6aWlhM0VTVU5qTUo5WkJsd1FXR0ZCM2RkLTZiTkdmNWRtRWtwVi1NUk84TlcybVVXVGZTVHc4V0hmSHRQY2QtbWdyeVVxNGRKUTNFZjZoYnVGRk11NkxfeDhTZw?oc=5",
-      "pub": "Wed, 09 Sep 2026 14:06:15 GMT"
+      "title": "FOMC 대기 속 코스피 반등 시도… ‘우선주 소각론’에 삼전우가 달린다 [이런국장 저런주식] - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBeDFxTmZyeS1CUlNxUmNZRXJyZENCcUpBTEpuVzFKUHVMUWhzOVlCN3pMUXQzbVdmZXdRRXR0MzIwV3FIb2ZIQ0JTcmVTdU1rWlHSAVNBVV95cUxQbDRNcUtqeXMtNGI1TW1Eak1qaWcxMHkydXRlM1BCRndrWnA1VTR1elZyVVlscVhLTVN3YjJmRmVmM18yc0lQemhmYm04dkdidDBYdw?oc=5",
+      "pub": "Wed, 16 Sep 2026 00:23:08 GMT"
     },
     {
-      "title": "코스피 4일 연속 하락, 코스닥 소폭↑ - KB Think",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1UXJNb3VpUzB6QlZYV1htMmE4eE1nMzBscFNDQUZicFJuV1J4Rmg4ZTlLR0F1TEFqdmVHalZtcU1qUjlJV1otMEd0RWdhdnAxLTZvODNxc2lIMWxudDNIN2tDbTUyQ1RQVUtySg?oc=5",
-      "pub": "Tue, 15 Sep 2026 06:59:42 GMT"
+      "title": "[경제읽기] 코스피, 보합권서 등락…미성년 '주식 부자' 급증 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5oMGw0dmVqYWt6eEZEcmpWcmYwYXliWFlRdGZuSUZDRS1SYWk0bEZDcmhnNG5qVk43VHlTTUhkNXk3SXRId2c?oc=5",
+      "pub": "Wed, 16 Sep 2026 04:40:48 GMT"
     },
     {
-      "title": "[마켓 프리뷰] 금리·유가 우려에 나흘째 밀린 코스피…코스닥은 반등 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40cVJKTTMzcklRT3lZX1VybFkzNFRYLTFlWmRjbnM3OG1WR1RTak83U2I2RWJnS3d6dnlSTnVtZVFhMGFfampkMWJpZ29Ienc?oc=5",
-      "pub": "Tue, 15 Sep 2026 22:37:14 GMT"
+      "title": "\"코스피 아직 바닥 아니다\"…김영익 교수가 경고한 증시 시나리오 - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJdk0tVXBvLXAtTHMweElSR0E0X0NmN1JORExTWHUzVTExM2xxNlZ1b1NHMjBrZWxmWndZSkNPN05VdnJiV09tN3p1NmdXR2ttODRHMElVaG9nSXdCWTBUONIBeEFVX3lxTE1sZjlTTDR2TXY0M2lDNnZPYkQ3cU1USWVKUWlyNmczU1k2c1dRR1dOYUJDU2RoRTZ5WnRLNjEzRUI1VzJkUHBFcF83anFoYTYzNUFLSnpyQVJJbF82cnFzZ1oyTzhtTWpwZlktbnZfcnFFaUlYd2hHZQ?oc=5",
+      "pub": "Wed, 16 Sep 2026 15:20:00 GMT"
     },
     {
-      "title": "금리·유가·환율 ‘삼중고’…코스피 4일째 하락해 6,627 마감 - 산경투데이",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55ZHlOdUpRX2FKRG5jTkxFeVp1bTdDdWRMRy1GckNLX29UTjlZeFJ3ZW5ub2tmTTBlRmJJbDFEemZldHVUQnRxLUpvVTV1N190SHR2UDJsWVVsMTlmWTVfcW00UzRnSjZxYjNXemJYUkTSAXRBVV95cUxQWnRRbTlDY1luLUpPM0RuaG42djl6OW9xLUFPVkVocGEzSDBfT1IzaFJLWk5IVHAya2M2ck5Zb0w3NkE4UWtjZUpoUmR0REE2b2ExX3ZmQnVIX3QzYVdheklfMm02eU5wb05TVmVBMmNGd1p1VQ?oc=5",
-      "pub": "Tue, 15 Sep 2026 07:32:14 GMT"
+      "title": "[속보] 코스피, 0.2% 내린 6611.24 개장…코스닥 0.5%↓ - MTN 머니투데이방송",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGUnBjOHp5aFNnR0piNVU4cElBQlA3b0NJNTJtc0paMFdwejJaRnZ4MS16X2dZdkNXTTViOE9yUENab21IY3VRdGRDYVpzeHE1Z1RsMm5SYWYzVjR3RG1VQkx2N20?oc=5",
+      "pub": "Wed, 16 Sep 2026 00:01:06 GMT"
+    },
+    {
+      "title": "[오늘의 주목주] 삼성전기 주가 4%대 올라, 코스피 '미국 FOMC 경계심리'에도 6710선 상승 마감 - 비즈니스포스트",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAzMzllMEQ5Ym5JRVNnLVZHdjJPdGdzOC1FTGVwWDdqVXEwR2h2ZjJUQVk2SUFRbUtwbWlKM1hoTHRHZFdKTnRCM3ZtMDFMdzRiZGpPa1V0eGJ4X2I1MlNVVDBCX1JaZXR4WFFPVGVleEdiNWc?oc=5",
+      "pub": "Wed, 16 Sep 2026 08:55:47 GMT"
     }
   ],
   "signal": {
-    "text": "소폭 하락권. 패닉셀보다 분할 매수 기회를 살펴보세요.",
-    "type": "neutral"
+    "text": "오늘 시장은 강세입니다. 추격 매수보다 보유 전략이 유리할 수 있어요.",
+    "type": "positive"
   },
-  "one_liner": "코스피 📉 소폭 약세 · 코스닥 📉 소폭 약세"
+  "one_liner": "코스피 📈 소폭 강세 · 코스닥 📈 소폭 강세"
 }
