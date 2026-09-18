@@ -1,70 +1,70 @@
 {
-  "updated_at": "2026년 09월 18일 08:48",
-  "updated_date": "2026-09-18",
+  "updated_at": "2026년 09월 19일 08:46",
+  "updated_date": "2026-09-19",
   "kospi": {
-    "price": 6715.41,
-    "change": -2.56,
-    "pct": -0.04,
-    "label": "보합",
-    "emoji": "➡️"
+    "price": 6894.23,
+    "change": 178.82,
+    "pct": 2.66,
+    "label": "강세",
+    "emoji": "🚀"
   },
   "kosdaq": {
-    "price": 822.18,
-    "change": 9.77,
-    "pct": 1.2,
+    "price": 827.12,
+    "change": 11.14,
+    "pct": 1.37,
     "label": "소폭 강세",
     "emoji": "📈"
   },
   "sp500": {
-    "price": 7637.76,
-    "change": 85.95,
-    "pct": 1.14
+    "price": 7650.5,
+    "change": 12.74,
+    "pct": 0.17
   },
   "nasdaq": {
-    "price": 26418.3,
-    "change": 439.88,
-    "pct": 1.69
+    "price": 26522.54,
+    "change": 104.24,
+    "pct": 0.39
   },
   "usdkrw": {
-    "price": 1380.42,
-    "change": 0.47,
-    "pct": 0.03
+    "price": 1385.95,
+    "change": 6.0,
+    "pct": 0.43
   },
   "news": [
     {
-      "title": "[마감] 코스피, 외인 7일 연속 팔자 약보합서 맴맴 - it.chosun.com",
+      "title": "외국인, 지난달 국내주식 올들어 첫 순매수…코스피 1.9조 사고 코스닥 1.5조 팔았다 - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80Y3UxU080cHVzY0I0SDh3YU1XNlFsQTVTQ0ZORTJIelFjaHdPQXZTNkZxVl91NU5lU3lfcjdlR05qcDNFSExoTVIyYjFfSDhZalE?oc=5",
+      "pub": "Fri, 18 Sep 2026 02:05:07 GMT"
+    },
+    {
+      "title": "세후수익률, 서울 부동산이 코스피의 2배...\"부동산 팔고 주식 사면 세제혜택 줘야\" - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pdHRMQ1RNbVZDaElwa1EtVVl6YldHbzU0cmpzMFRvRWI0VEhrOGVsUkRwRzd5VTl2MV9UQnVHWGgyaFZhb0F3SXNPZndROFdrNFNnRTlpd2Yzdw?oc=5",
+      "pub": "Fri, 18 Sep 2026 06:46:58 GMT"
+    },
+    {
+      "title": "코스피서 10조 판 개미…레버리지 ETF 쓸어 담았다 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFWlY3M3RxckhqNzNONkE2b1hycWZ2M1pqbXNrYXVZWU1pbFZZWkZBT0VOdURJWmI5U09iMEhjVlNnc1JMdDhydkxnRWhzZUE?oc=5",
+      "pub": "Fri, 18 Sep 2026 02:37:48 GMT"
+    },
+    {
+      "title": "“코스피 7000선 회복은 언제?”…美증시 훈풍에 2%대 올라 6800대 [투자360] - 헤럴드경제",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IZXFGRXB0QXR1cFRuTGRONkNtcDh0YUhXMDZrNHk3NVMtN2hBbk45NDlZRXd6ZlFVXy1ESnl2cFZIQmdCODYzOEFvNFA4UVBvN0gzaXZ3?oc=5",
+      "pub": "Fri, 18 Sep 2026 01:00:26 GMT"
+    },
+    {
+      "title": "[마감] 코스피, 외인 7일 연속 팔자 약보합서 맴맴 - IT조선",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhTFVDcUk3dmNfU1l2YTdPVG5ESE8zX1FuTXR0aFdPaHdqdmdFWnJrcGkzWVVXTHRYNzRWbFhKRkJHTWpLZmQ5NVh0MjZCZjJQNWpTVWVBN3J0VUIzSzV2aEJQOVBRZ01mZVhtOGdsc2XSAXRBVV95cUxPalVEMHNIWjBzYU1LeHBtcG9kbmVjMVhIZUxQVXgyeV9kMXJ0c2d4clJteHNHeERDVlV6Q1NLNURjSmtaY2oxN211YWFIMXpUOE9rR2tDeTd0S3N0UmtVZHlmTnhrcXMydU5YZXFzS0xhd2NibA?oc=5",
       "pub": "Thu, 17 Sep 2026 07:26:37 GMT"
     },
     {
-      "title": "외국인, 지난달 코스피 1조9000억원 순매수...올해 처음 국내 주식 ‘사자’ - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wLXNRbDRIb2g4THZGYXdSQTdMXzJGVl91N1o4YmtqQ0QwVmJFRExXNE5sOGN4bzZITW1OQnRvcHJzZ1hwNk53WEV2NWpTOEU?oc=5",
-      "pub": "Thu, 17 Sep 2026 22:58:42 GMT"
-    },
-    {
-      "title": "코스피 전망 '1만2600→8400' 확 낮춘 삼성증권…\"조정땐 매수\" - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uQkZJMTZ4Y2RSVTFJbVpORzQyLU9qVDVKR05kT3pkSWJGLU51anF5ek9GTVRCdUJqdEtFelF0ZElOeFhZbDJPNllhTnd0WkdBYXlvZW53b254Zw?oc=5",
-      "pub": "Thu, 17 Sep 2026 23:06:00 GMT"
-    },
-    {
-      "title": "8개월 만에 증시에 돌아온 외국인…지난달 코스피 1.9조 순매수 - 머니투데이 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12TkhlcTV4cU01Q0JYQW14MzlraXN0RlFLYVFaMGYzc1hSLTNWNlVUNEhEbWo1QjVJNEh2Z0RkMlJKeTVuZ2JjMDFEdWtCeC15NUJKWU8tU3JyUkQ5SVlBU2tLTUsyR0FZ0gFuQVVfeXFMTlBjQ0R1bzI1S2dPUjR2LXhpaDYxdGlfdUZUQ3F1REVCeUdPNVdEeV85NXB1MS1yVGNuSHF6Z1FWU0VVVmVLR0JwaGtwQkVxeTRLdG5NWi15b3g1QXU0SkQxcVluajFSQkNBbVVneUE?oc=5",
-      "pub": "Thu, 17 Sep 2026 21:00:00 GMT"
-    },
-    {
-      "title": "코스피가 정체장이지만, 외국인 순매수 중인 순위 Top5 - contents.premium.naver.com",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT3hJM2l1Y2RnclowRGtWR0NKdWYtZFQ3M1dOVlI5Q2dUTGxIckx5ZVpnVkFzbHJPa2Jicjk2TGhHVUFRNnlZYUtUM1NBY1RpdWVQM0pTTUlFRGR5MkoyUWFBaE9BZ01KWGlkVVFBODdUNmRnT2VPdE5BVEw2aU85WjhFQQ?oc=5",
-      "pub": "Thu, 17 Sep 2026 07:13:00 GMT"
-    },
-    {
-      "title": "외국인, 코스피 1.9조 사고 코스닥 1.5조 팔았다 - 글로벌이코노믹",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOVhCOHNIb0FnekdqRzA0cFRvc1lGT2dQY3lxcnl5ZGdTYk9zYl9vNjlVSEhPd082SHRFUGhGbmlVdHk1QU9SY0ExTTZnZHh5R0VtbTVCQU50TGJERjBhZjdMcWVYRmhiZXJmajJIbE01WmdxZnVxZDVEOUFQUUYtTUU4M21lSUE?oc=5",
-      "pub": "Thu, 17 Sep 2026 22:57:44 GMT"
+      "title": "코스피, 美·日 기준금리 인상 소화하며 2.6% 반등 마감 - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95T1o2RFpXeDBqUC1VYmlzS0Y3M3h4NlYyTmxDTUNGdEcxVTI3Z1Y2T2E1SVZpZG9LeUdIS2ZvTHhRMmR6MDV6aElRLWJHdXRTWW1XcmdaSUxQdw?oc=5",
+      "pub": "Fri, 18 Sep 2026 06:41:50 GMT"
     }
   ],
   "signal": {
-    "text": "소폭 상승권. 뚜렷한 방향성보다 관망이 적절합니다.",
-    "type": "neutral"
+    "text": "오늘 시장은 강세입니다. 추격 매수보다 보유 전략이 유리할 수 있어요.",
+    "type": "positive"
   },
-  "one_liner": "코스피 ➡️ 보합 · 코스닥 📈 소폭 강세"
+  "one_liner": "코스피 🚀 강세 · 코스닥 📈 소폭 강세"
 }
