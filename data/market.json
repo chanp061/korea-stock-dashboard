@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026년 09월 19일 08:46",
-  "updated_date": "2026-09-19",
+  "updated_at": "2026년 09월 20일 08:47",
+  "updated_date": "2026-09-20",
   "kospi": {
     "price": 6894.23,
     "change": 178.82,
@@ -10,8 +10,8 @@
   },
   "kosdaq": {
     "price": 827.12,
-    "change": 11.14,
-    "pct": 1.37,
+    "change": 4.94,
+    "pct": 0.6,
     "label": "소폭 강세",
     "emoji": "📈"
   },
@@ -26,11 +26,16 @@
     "pct": 0.39
   },
   "usdkrw": {
-    "price": 1385.95,
-    "change": 6.0,
-    "pct": 0.43
+    "price": 1385.0,
+    "change": 5.05,
+    "pct": 0.37
   },
   "news": [
+    {
+      "title": "\"9000 넘었던 코스피, 내년엔 5200 아래로 떨어진다\"…전문가 예측 배경은 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5saUFzRGtUYjN6cGt1S1hYVllZMTRaYXpCWHUtVWFvN3YtMDVFOHlQbE15NUZwWTV1X2Y2TS0wbUJIVF9GSWhzOWZ5Skh6T3M?oc=5",
+      "pub": "Sat, 19 Sep 2026 04:46:41 GMT"
+    },
     {
       "title": "외국인, 지난달 국내주식 올들어 첫 순매수…코스피 1.9조 사고 코스닥 1.5조 팔았다 - 매일경제 마켓",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80Y3UxU080cHVzY0I0SDh3YU1XNlFsQTVTQ0ZORTJIelFjaHdPQXZTNkZxVl91NU5lU3lfcjdlR05qcDNFSExoTVIyYjFfSDhZalE?oc=5",
@@ -42,24 +47,19 @@
       "pub": "Fri, 18 Sep 2026 06:46:58 GMT"
     },
     {
-      "title": "코스피서 10조 판 개미…레버리지 ETF 쓸어 담았다 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFWlY3M3RxckhqNzNONkE2b1hycWZ2M1pqbXNrYXVZWU1pbFZZWkZBT0VOdURJWmI5U09iMEhjVlNnc1JMdDhydkxnRWhzZUE?oc=5",
-      "pub": "Fri, 18 Sep 2026 02:37:48 GMT"
+      "title": "[개장] 코스피, 美증시 반등 6800선 회복… 반도체주 주도 - IT조선",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xYTF5WEwzVTU4b2M2cFgyMVRHNGxNUWhhN25UdFhDQ3NRV0hHWEdINTVsdWlvVnJsZmk4R3QwWmR3RVlFbk9iZ240blRjall6RlkwQVpGNENsNVV6bnZPdkdjdkd5Q1ZrTDFZZnRYZW3SAXRBVV95cUxOUFktaEJ0LV9TQVgxQmpEOWZsNEdjT2Y4MlJyOVpHQWVpU2RjVWctYXVnM0dJRnR4cnVuMWFJcXNkYzUtVW1yS1U4eV8tTVU0OVBScG05clJ4X0hoRkl2RlYzVjNWclJnZnRicnh5bEdMdUZ1Zw?oc=5",
+      "pub": "Fri, 18 Sep 2026 00:46:05 GMT"
+    },
+    {
+      "title": "\"주식은 절대 하지 말라\" 부모님 답답하다 비웃었는데…속타는 청년 개미들 [개미의 세계] - 파이낸셜뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3TjBJMEdrYVJ4aHBtaHBOaTh4VnFCemYxNGc5WW5zTUIzRjJJZWFNbVRpaURoMHdETWJkdlRvLS1UOHVjNkJ3c2ZpMV9nYzEtY01ydG1KRHdZZw?oc=5",
+      "pub": "Sat, 19 Sep 2026 21:00:00 GMT"
     },
     {
       "title": "“코스피 7000선 회복은 언제?”…美증시 훈풍에 2%대 올라 6800대 [투자360] - 헤럴드경제",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IZXFGRXB0QXR1cFRuTGRONkNtcDh0YUhXMDZrNHk3NVMtN2hBbk45NDlZRXd6ZlFVXy1ESnl2cFZIQmdCODYzOEFvNFA4UVBvN0gzaXZ3?oc=5",
       "pub": "Fri, 18 Sep 2026 01:00:26 GMT"
-    },
-    {
-      "title": "[마감] 코스피, 외인 7일 연속 팔자 약보합서 맴맴 - IT조선",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhTFVDcUk3dmNfU1l2YTdPVG5ESE8zX1FuTXR0aFdPaHdqdmdFWnJrcGkzWVVXTHRYNzRWbFhKRkJHTWpLZmQ5NVh0MjZCZjJQNWpTVWVBN3J0VUIzSzV2aEJQOVBRZ01mZVhtOGdsc2XSAXRBVV95cUxPalVEMHNIWjBzYU1LeHBtcG9kbmVjMVhIZUxQVXgyeV9kMXJ0c2d4clJteHNHeERDVlV6Q1NLNURjSmtaY2oxN211YWFIMXpUOE9rR2tDeTd0S3N0UmtVZHlmTnhrcXMydU5YZXFzS0xhd2NibA?oc=5",
-      "pub": "Thu, 17 Sep 2026 07:26:37 GMT"
-    },
-    {
-      "title": "코스피, 美·日 기준금리 인상 소화하며 2.6% 반등 마감 - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95T1o2RFpXeDBqUC1VYmlzS0Y3M3h4NlYyTmxDTUNGdEcxVTI3Z1Y2T2E1SVZpZG9LeUdIS2ZvTHhRMmR6MDV6aElRLWJHdXRTWW1XcmdaSUxQdw?oc=5",
-      "pub": "Fri, 18 Sep 2026 06:41:50 GMT"
     }
   ],
   "signal": {
