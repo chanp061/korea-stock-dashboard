@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026년 09월 20일 08:47",
-  "updated_date": "2026-09-20",
+  "updated_at": "2026년 09월 21일 08:43",
+  "updated_date": "2026-09-21",
   "kospi": {
     "price": 6894.23,
     "change": 178.82,
@@ -26,40 +26,40 @@
     "pct": 0.39
   },
   "usdkrw": {
-    "price": 1385.0,
-    "change": 5.05,
-    "pct": 0.37
+    "price": 1385.62,
+    "change": -0.33,
+    "pct": -0.02
   },
   "news": [
     {
-      "title": "\"9000 넘었던 코스피, 내년엔 5200 아래로 떨어진다\"…전문가 예측 배경은 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5saUFzRGtUYjN6cGt1S1hYVllZMTRaYXpCWHUtVWFvN3YtMDVFOHlQbE15NUZwWTV1X2Y2TS0wbUJIVF9GSWhzOWZ5Skh6T3M?oc=5",
-      "pub": "Sat, 19 Sep 2026 04:46:41 GMT"
+      "title": "추석 뒤 코스닥, 20년간 코스피 이긴 건 5번…올해는 다를까 - 조선비즈 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMVBoXzRBZHRKNXNSeHZqRDVWU1VzRnB5ZFhBeWhxU2hmeU9Wb3NlQTRjTlJscEpSN3JHOTBqMzhkTmo1OEVkdzlwT2JHMm5qWXVBbVFKV1J3eVFaMExNUm9ZSGJ5RW1WbXI5TDFaOUthZzU4c2kyaDl0dmF4T3NUYm1yUjRndThL0gGcAUFVX3lxTE5EN1JzTFlhcVd1VjNpTnB2Z21lZHdsLXRaM3QzZm0wUjI2OHlnWjF2N2NrVmxaSlpSZ1lhNlRfOGt6YVI3TWNPcTBOdjU4cmNtZXVnZ21KNUdVZjNVWDBFSExXZEJRSGRDQWNYYy1IVGV2MEdObThZLVlaZXl2X3V1Y1JSMkk0YWphZHZOZFRRcW5nc2RSczVicWtOTA?oc=5",
+      "pub": "Sun, 20 Sep 2026 23:25:00 GMT"
     },
     {
-      "title": "외국인, 지난달 국내주식 올들어 첫 순매수…코스피 1.9조 사고 코스닥 1.5조 팔았다 - 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80Y3UxU080cHVzY0I0SDh3YU1XNlFsQTVTQ0ZORTJIelFjaHdPQXZTNkZxVl91NU5lU3lfcjdlR05qcDNFSExoTVIyYjFfSDhZalE?oc=5",
-      "pub": "Fri, 18 Sep 2026 02:05:07 GMT"
+      "title": "[코스피·코스닥 전 거래일(18일) 주요공시] - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YcHVRa1dMX1BTMjhuMVhuTkJMb2g4MXo1cGg4dzZ5cXdYQkFxVGcyYndJbnU0ZzMycDNQWFFLdURwSlYyajFTZ05mdm4yZHFDb29JdzNBV0lEeVHSAWBBVV95cUxQNlFNMXNrTkhaSlhUZHlMb2lZZE5RX3lNQnZqTFZpdy1vVnpidzZ3YUNfQmtuZ1pFXzktZVV0OWR4eVVYYzkwX2kzWUdLdERqRUhtYXQ5bzF0WURfVDgxUWE?oc=5",
+      "pub": "Fri, 18 Sep 2026 07:00:00 GMT"
     },
     {
-      "title": "세후수익률, 서울 부동산이 코스피의 2배...\"부동산 팔고 주식 사면 세제혜택 줘야\" - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pdHRMQ1RNbVZDaElwa1EtVVl6YldHbzU0cmpzMFRvRWI0VEhrOGVsUkRwRzd5VTl2MV9UQnVHWGgyaFZhb0F3SXNPZndROFdrNFNnRTlpd2Yzdw?oc=5",
-      "pub": "Fri, 18 Sep 2026 06:46:58 GMT"
+      "title": "“어게인 9000? 내년 코스피 5200 밑돌 수도”…현금 늘리라는 경고 나왔다, 왜? - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5HTDVHYzVhbkpPZFJjdkVzekNmNmlXWTkxelFxNjFQSE9JdmRGM3E4M3ZHcGtLaTBzTWxmd0paVjhKdUFPb2RaZ2NGTlVRZw?oc=5",
+      "pub": "Sun, 20 Sep 2026 08:00:00 GMT"
     },
     {
-      "title": "[개장] 코스피, 美증시 반등 6800선 회복… 반도체주 주도 - IT조선",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xYTF5WEwzVTU4b2M2cFgyMVRHNGxNUWhhN25UdFhDQ3NRV0hHWEdINTVsdWlvVnJsZmk4R3QwWmR3RVlFbk9iZ240blRjall6RlkwQVpGNENsNVV6bnZPdkdjdkd5Q1ZrTDFZZnRYZW3SAXRBVV95cUxOUFktaEJ0LV9TQVgxQmpEOWZsNEdjT2Y4MlJyOVpHQWVpU2RjVWctYXVnM0dJRnR4cnVuMWFJcXNkYzUtVW1yS1U4eV8tTVU0OVBScG05clJ4X0hoRkl2RlYzVjNWclJnZnRicnh5bEdMdUZ1Zw?oc=5",
-      "pub": "Fri, 18 Sep 2026 00:46:05 GMT"
+      "title": "연휴 앞두고 변동성 확대 가능성…\"하락 시 비중확대 기회\" [주간전망] - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3NlladVN0cDczdE80Wmh1UXJuOVB0QXJLTjlKZnk2aE5QUkpHVGJrLUtaek9KdnpsZjA1U3lXVy1aQ2Q5ejZoNjlfZkJDNl9RRXpMMjUwYVBsZw?oc=5",
+      "pub": "Sat, 19 Sep 2026 23:00:05 GMT"
     },
     {
-      "title": "\"주식은 절대 하지 말라\" 부모님 답답하다 비웃었는데…속타는 청년 개미들 [개미의 세계] - 파이낸셜뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3TjBJMEdrYVJ4aHBtaHBOaTh4VnFCemYxNGc5WW5zTUIzRjJJZWFNbVRpaURoMHdETWJkdlRvLS1UOHVjNkJ3c2ZpMV9nYzEtY01ydG1KRHdZZw?oc=5",
-      "pub": "Sat, 19 Sep 2026 21:00:00 GMT"
+      "title": "“9천 넘었던 코스피 내년엔 5200 아래로 빠져” 서강대 교수가 KBS서 한 말 - 문화일보",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBxZUVNdC03VFJHWGNjcHhELURydEx1ejRhX1RtMUphakllaW1jZlViRlRNNUtvVnFDbWxkby1DVmxsRGhyOTBtMlZvWVhRekc1?oc=5",
+      "pub": "Fri, 18 Sep 2026 07:57:24 GMT"
     },
     {
-      "title": "“코스피 7000선 회복은 언제?”…美증시 훈풍에 2%대 올라 6800대 [투자360] - 헤럴드경제",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IZXFGRXB0QXR1cFRuTGRONkNtcDh0YUhXMDZrNHk3NVMtN2hBbk45NDlZRXd6ZlFVXy1ESnl2cFZIQmdCODYzOEFvNFA4UVBvN0gzaXZ3?oc=5",
-      "pub": "Fri, 18 Sep 2026 01:00:26 GMT"
+      "title": "“호재는 모른 척, 악재엔 곱절로 반응하더니”…코스피, 요즘 달라졌습니다 - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ycnF2b1V0OTN0LUlRZTA5SGdOb3I3US1xTEJpaGRNQ19MaFMyUGVzOEptOW81aWFhWDhmbXh5N3RraGhMMXNZQWt1dGpROVRweXc?oc=5",
+      "pub": "Fri, 18 Sep 2026 20:42:02 GMT"
     }
   ],
   "signal": {
