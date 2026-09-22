@@ -1,70 +1,70 @@
 {
-  "updated_at": "2026년 09월 22일 09:25",
-  "updated_date": "2026-09-22",
+  "updated_at": "2026년 09월 23일 08:55",
+  "updated_date": "2026-09-23",
   "kospi": {
-    "price": 7164.8,
-    "change": 157.08,
-    "pct": 2.24,
-    "label": "강세",
-    "emoji": "🚀"
+    "price": 7017.91,
+    "change": 10.19,
+    "pct": 0.15,
+    "label": "보합",
+    "emoji": "➡️"
   },
   "kosdaq": {
-    "price": 845.24,
-    "change": 8.97,
-    "pct": 1.07,
+    "price": 834.38,
+    "change": 7.26,
+    "pct": 0.88,
     "label": "소폭 강세",
     "emoji": "📈"
   },
   "sp500": {
-    "price": 7764.7,
-    "change": 114.2,
-    "pct": 1.49
+    "price": 7764.64,
+    "change": -0.06,
+    "pct": -0.0
   },
   "nasdaq": {
-    "price": 27122.09,
-    "change": 599.55,
-    "pct": 2.26
+    "price": 27244.28,
+    "change": 122.18,
+    "pct": 0.45
   },
   "usdkrw": {
-    "price": 1365.38,
-    "change": -10.35,
-    "pct": -0.75
+    "price": 1352.96,
+    "change": -2.58,
+    "pct": -0.19
   },
   "news": [
     {
-      "title": "“추석 전 주식 팔아야 하나?”…지난 5년 ‘명절 수익률’ 뜯어보니 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1mX3VQWk8wS0NwR2VSRmxQblVpRDBPTWRMRXUzOWRSaGg1TTNIM1J4V3p0c2NYTHpKTy12RnRYT0ppT1lIS3lWRTRNbWpKd1E?oc=5",
-      "pub": "Mon, 21 Sep 2026 06:45:00 GMT"
+      "title": "[증시-마감]＇자사주 매입 외엔 매수세 실종＇…코스피 7,000선 턱걸이 - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUdmR2ZURXM09UTmV3cE1nQXFJZWxSNVBoX2NXZ0QwamRoY05LTHl6T1pnOHdCelp3MlY2NFZ1V0dybUk1OGtJYi1qbG8tcHcxUmRWUGhOOUVqWDFnblY3MTdWa1RmM3dFby1WSklVZU4?oc=5",
+      "pub": "Tue, 22 Sep 2026 07:10:37 GMT"
     },
     {
-      "title": "키움증권(039490) - 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcTN0eXpHUnpCUTdQVGg3ZkptajVJSmJkTVc1S3JWaWFaQ1hTNElWVTlOUGZ3eVBGQkd6bGp0UC1ONFlUMUI5TXZtMFUxSjR1MWZwWjloeThLeDdmOG1BbV81VkxzT2NYbHVFVTVVTG9oSVBUN1BES0tKOGtPMi1SWXZ0V1QwcktJUXdWNDJjUmlJcF82RUJZ?oc=5",
-      "pub": "Mon, 21 Sep 2026 15:50:15 GMT"
+      "title": "[굿모닝 증시]美 반도체주 강세…코스피 상승 출발 전망 - 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE42dGtSTUl5cFdiQ29ianR2WktCaVEyVEZVMHZLdkJ3b0NLd0VQX1diWWVMOWlrODRJdmlCa2E3TlZhdnJsZXk1cUZ4VF92Qmt3bTRTeXNwMHU0NUtMdjZkOEd3?oc=5",
+      "pub": "Tue, 22 Sep 2026 23:10:00 GMT"
     },
     {
-      "title": "코스피, 열흘 만에 7천선 회복…삼전닉스 ‘자사주 매입’은 끝물 - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oVmxfS21iNWJTZS0wdkRBUjRLMUNFUGZDTEdrZ3JYM0FTVlN5aUg2SjBuR2hNOVE0MUI1TkphQ202VmRxc3hOdWM3U0dKMkdYd2J3WHlHZFhSVjVfQ2xVRHc4YU1LTGc?oc=5",
-      "pub": "Mon, 21 Sep 2026 10:31:00 GMT"
+      "title": "\"오늘 오르면 내일은 하락\"…코스피 레버리지·인버스 '사팔사팔' - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWX2RkeWZXemxVVnN0eHg1dUcwSHBnVVVMdVVoMWZLLXljSXFQYUFuWDlHOHNwQnRaWmNMNFp1QnVOQmZiaU9RVGNKQ3lwVFU5WlB5MFVYNTdkZw?oc=5",
+      "pub": "Mon, 21 Sep 2026 06:42:07 GMT"
     },
     {
-      "title": "수출 호조에 코스피 7,000선 돌파 - KB Think",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JTmN2YTJpQkR6SHRfdGNFVXIxSDB0OW1lQllFRGxSZ09GSlkybzU1MFBtQ1J2T2F2TzJwc1paazFGcG1zMDc0ZnEzNjZHZnd3SkJyWWNFYlhPRERoTDNqdzJ4aVR0MTdJMDd2Yg?oc=5",
-      "pub": "Mon, 21 Sep 2026 06:59:40 GMT"
+      "title": "[박정식의 국내 주식시황] AI·반도체 훈풍에 코스피 7000 안착…7200선 다시 넘본다 - 뉴스퀘스트",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSaGdBQmUyUm9scUVVVkxHNnhYbkFHLXpqaG1TUWhpNzRkRHNNZHBneEdvcVJEM2o0dDYwdHAzeDl2U09WYThZUFd1RGUtT2t5Z2VqSi1vanlXR2VMN1NJbWJWRmM1YkRfVWk2RWswdw?oc=5",
+      "pub": "Mon, 21 Sep 2026 23:14:38 GMT"
     },
     {
-      "title": "코스피, 2%대 올라 7100선…삼전·하이닉스 동반 강세 - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaaEdNSEF3Wmh3WTNhWm9JNmFwbEExMzl2TTZoSEZBMHhFNkZCNXdwZnI3d0RRTDQ1SlpMOGhyZlVUY1A1NTAxZi0tbS1xbnQ4MVQwb1JJTUUyQQ?oc=5",
-      "pub": "Tue, 22 Sep 2026 00:11:35 GMT"
+      "title": "[0922마감체크] 코스피, AI 훈풍에도 상승폭 반납하며 7000선 턱걸이 - 인포스탁데일리",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE94WVljZ1A5djRROHk2dUR0TzlVV2luYzE0NzAta0hHUUxraXY0b3pILWJQMGFuR3V5aGFyaWh2ZUkxNENOSTRBYm5laDFaa2ZmVDhwVUlqRDRySWtwVWdjUExMTmd4dEVtVWx5QjdTUkE0bWdlMUE?oc=5",
+      "pub": "Tue, 22 Sep 2026 08:13:29 GMT"
     },
     {
-      "title": "코스피·코스닥, 오름세로 장 출발 - 한강타임즈",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1nM1AzdkJGX3VrQzFZTU12eEQzdXJmRFZIR1B2M2ZVb3o5R2FZRmRuaXhrZnpzUkJJNFRqNThHaFRoN3hrTEcwRV93QmpoMTFUUm9zZlRiTnFXMGVxa214NE9zQVc0eUdSUFhB?oc=5",
-      "pub": "Tue, 22 Sep 2026 00:14:58 GMT"
+      "title": "\"주식은 절대 하지 말라\" 부모님 답답하다 비웃었는데…속타는 청년 개미들 [개미의 세계] - 파이낸셜뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3TjBJMEdrYVJ4aHBtaHBOaTh4VnFCemYxNGc5WW5zTUIzRjJJZWFNbVRpaURoMHdETWJkdlRvLS1UOHVjNkJ3c2ZpMV9nYzEtY01ydG1KRHdZZw?oc=5",
+      "pub": "Fri, 18 Sep 2026 07:00:00 GMT"
     }
   ],
   "signal": {
-    "text": "오늘 시장은 강세입니다. 추격 매수보다 보유 전략이 유리할 수 있어요.",
-    "type": "positive"
+    "text": "소폭 상승권. 뚜렷한 방향성보다 관망이 적절합니다.",
+    "type": "neutral"
   },
-  "one_liner": "코스피 🚀 강세 · 코스닥 📈 소폭 강세"
+  "one_liner": "코스피 ➡️ 보합 · 코스닥 📈 소폭 강세"
 }
