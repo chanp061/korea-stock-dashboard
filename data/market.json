@@ -1,70 +1,70 @@
 {
-  "updated_at": "2026년 09월 23일 08:55",
-  "updated_date": "2026-09-23",
+  "updated_at": "2026년 09월 24일 09:07",
+  "updated_date": "2026-09-24",
   "kospi": {
-    "price": 7017.91,
-    "change": 10.19,
-    "pct": 0.15,
-    "label": "보합",
-    "emoji": "➡️"
+    "price": 7080.92,
+    "change": 63.01,
+    "pct": 0.9,
+    "label": "소폭 강세",
+    "emoji": "📈"
   },
   "kosdaq": {
-    "price": 834.38,
-    "change": 7.26,
-    "pct": 0.88,
+    "price": 844.48,
+    "change": 8.21,
+    "pct": 0.98,
     "label": "소폭 강세",
     "emoji": "📈"
   },
   "sp500": {
-    "price": 7764.64,
-    "change": -0.06,
-    "pct": -0.0
+    "price": 7706.03,
+    "change": -58.61,
+    "pct": -0.75
   },
   "nasdaq": {
-    "price": 27244.28,
-    "change": 122.18,
-    "pct": 0.45
+    "price": 26936.04,
+    "change": -308.24,
+    "pct": -1.13
   },
   "usdkrw": {
-    "price": 1352.96,
-    "change": -2.58,
-    "pct": -0.19
+    "price": 1366.16,
+    "change": 0.25,
+    "pct": 0.02
   },
   "news": [
     {
-      "title": "[증시-마감]＇자사주 매입 외엔 매수세 실종＇…코스피 7,000선 턱걸이 - 연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUdmR2ZURXM09UTmV3cE1nQXFJZWxSNVBoX2NXZ0QwamRoY05LTHl6T1pnOHdCelp3MlY2NFZ1V0dybUk1OGtJYi1qbG8tcHcxUmRWUGhOOUVqWDFnblY3MTdWa1RmM3dFby1WSklVZU4?oc=5",
-      "pub": "Tue, 22 Sep 2026 07:10:37 GMT"
+      "title": "코스피 7000인데 개미는 울었다…27년 만에 최악의 투자 성적 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zU2k0U0JVRWw2bDhUX2RZWVRRQi1ockY1dDYxbGRUUjE1OTNyaVpuZ0MxSGRLdkFlSV9EdFlzdV9GRXdsQ281eTJVU1hTREE?oc=5",
+      "pub": "Wed, 23 Sep 2026 21:01:00 GMT"
     },
     {
-      "title": "[굿모닝 증시]美 반도체주 강세…코스피 상승 출발 전망 - 아시아경제",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE42dGtSTUl5cFdiQ29ianR2WktCaVEyVEZVMHZLdkJ3b0NLd0VQX1diWWVMOWlrODRJdmlCa2E3TlZhdnJsZXk1cUZ4VF92Qmt3bTRTeXNwMHU0NUtMdjZkOEd3?oc=5",
-      "pub": "Tue, 22 Sep 2026 23:10:00 GMT"
+      "title": "“추석때 주식 얘기 꺼내도 되겠죠?”…일단 7000은 지킨 코스피 - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MMkQtTWNydGdRT2RISXdRQV9oZzB1eXZxc01kRl94U2FrLXdPSkVSZXlLcm9aMU9nR1NidlRhbmJySUFmUW9ObFV3MTZ0eWZ3dUE?oc=5",
+      "pub": "Wed, 23 Sep 2026 21:22:46 GMT"
     },
     {
-      "title": "\"오늘 오르면 내일은 하락\"…코스피 레버리지·인버스 '사팔사팔' - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWX2RkeWZXemxVVnN0eHg1dUcwSHBnVVVMdVVoMWZLLXljSXFQYUFuWDlHOHNwQnRaWmNMNFp1QnVOQmZiaU9RVGNKQ3lwVFU5WlB5MFVYNTdkZw?oc=5",
-      "pub": "Mon, 21 Sep 2026 06:42:07 GMT"
+      "title": "“6개월간 주식 450억 굴려” 김수용이 공개한 계좌…26년차 ‘개미 대표’의 수익은 - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9tOUpfbllxN1Z2MS0yN25ZOERZRlQ4NGxBbjFzME9TOWZoMHBfQXVfN08zakxyLUkwRC16ekphVTVfcllxNGVNS2NXQng3dXZrNWfSAVNBVV95cUxNVUljQUdHR2MzVG1FR0hRNlhyenBuSVRVMWVrUWt4WHBhbGtTU2p5RDhRbzRqRnFoTkltSXEwa1N4dV96Z2drOWx2SjEtakFvYXBLaw?oc=5",
+      "pub": "Wed, 23 Sep 2026 11:44:54 GMT"
     },
     {
-      "title": "[박정식의 국내 주식시황] AI·반도체 훈풍에 코스피 7000 안착…7200선 다시 넘본다 - 뉴스퀘스트",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSaGdBQmUyUm9scUVVVkxHNnhYbkFHLXpqaG1TUWhpNzRkRHNNZHBneEdvcVJEM2o0dDYwdHAzeDl2U09WYThZUFd1RGUtT2t5Z2VqSi1vanlXR2VMN1NJbWJWRmM1YkRfVWk2RWswdw?oc=5",
-      "pub": "Mon, 21 Sep 2026 23:14:38 GMT"
+      "title": "[박정식의 국내 주식시황] 반도체 훈풍은 계속되는데…코스피 7200선 앞에서 또 숨 고르기 - 뉴스퀘스트",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5EeEJ6bWJia2FNc0pSWVRSZ2s0dVZkU05SNGJxdXJlWkdhM25VZGJMSjM4M2d3T1JFSXRRRXJSR1I3c3dXN24weFllNzU1YXgzOElSb1VvQWF6NTZOdlZIRWxVT1RuWEEwSFpEckVwbw?oc=5",
+      "pub": "Tue, 22 Sep 2026 23:22:13 GMT"
     },
     {
-      "title": "[0922마감체크] 코스피, AI 훈풍에도 상승폭 반납하며 7000선 턱걸이 - 인포스탁데일리",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE94WVljZ1A5djRROHk2dUR0TzlVV2luYzE0NzAta0hHUUxraXY0b3pILWJQMGFuR3V5aGFyaWh2ZUkxNENOSTRBYm5laDFaa2ZmVDhwVUlqRDRySWtwVWdjUExMTmd4dEVtVWx5QjdTUkE0bWdlMUE?oc=5",
-      "pub": "Tue, 22 Sep 2026 08:13:29 GMT"
+      "title": "[주식 고수] 윤석모 삼성증권 센터장 \"불마켓은 죽지 않는다…추측보다 '팩트풀'이 답\" - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1BS251STVLdndPZ1FsRVFaRjVFZjdTNDY4MzFkX08xbEhsaktSZ3JFMDczTGR0aVVudjlXVEo3NGFMSGVPelhvb2c5aU15dWk4c2plbG5reXd0U3NQ?oc=5",
+      "pub": "Wed, 23 Sep 2026 22:00:00 GMT"
     },
     {
-      "title": "\"주식은 절대 하지 말라\" 부모님 답답하다 비웃었는데…속타는 청년 개미들 [개미의 세계] - 파이낸셜뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3TjBJMEdrYVJ4aHBtaHBOaTh4VnFCemYxNGc5WW5zTUIzRjJJZWFNbVRpaURoMHdETWJkdlRvLS1UOHVjNkJ3c2ZpMV9nYzEtY01ydG1KRHdZZw?oc=5",
-      "pub": "Fri, 18 Sep 2026 07:00:00 GMT"
+      "title": "삼성전자 '낙수 효과'… \"코스피 전체 배당 150조 넘을것\" - 파이낸셜뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1paVN6U1NJaFF2a1c2RXBaNmhPSnBvdlFKLWtia3h0cjFVejk4c1h6TnZnbW1ST09iOHRmdkdUeDRCeEdFeFUweE1iTEROWVBzVFdlcUt3RnhIUQ?oc=5",
+      "pub": "Wed, 23 Sep 2026 07:46:10 GMT"
     }
   ],
   "signal": {
     "text": "소폭 상승권. 뚜렷한 방향성보다 관망이 적절합니다.",
     "type": "neutral"
   },
-  "one_liner": "코스피 ➡️ 보합 · 코스닥 📈 소폭 강세"
+  "one_liner": "코스피 📈 소폭 강세 · 코스닥 📈 소폭 강세"
 }
