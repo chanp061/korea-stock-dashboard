@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026년 09월 27일 09:04",
-  "updated_date": "2026-09-27",
+  "updated_at": "2026년 09월 28일 09:08",
+  "updated_date": "2026-09-28",
   "kospi": {
     "price": 7080.92,
     "change": 63.01,
@@ -22,44 +22,44 @@
   },
   "nasdaq": {
     "price": 27068.72,
-    "change": 129.34,
+    "change": 129.32,
     "pct": 0.48
   },
   "usdkrw": {
-    "price": 1354.4,
-    "change": -11.19,
-    "pct": -0.82
+    "price": 1357.88,
+    "change": 2.6,
+    "pct": 0.19
   },
   "news": [
     {
-      "title": "Goldman says KOSPI is ready for a \"tactical breakout\"",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/goldman-says-kospi-ready-tactical-135628900.html?.tsrc=rss",
-      "pub": "Wed, 23 Sep 2026 13:56:28 +0000"
+      "title": "“추석도 지났고, 내 주식은 어디로 가나?”…美 물가·마이크론 실적에 쏠린 눈 - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kUE43NTZjYUxqZ2dXLVRhal8xZHl2ZF9SOHYxMWIxUjZBbFJINlY0dFNfR1k0dzFyMnpkLWlRWnFPRHUyXzZJX3IwNTZGSDRLNlE?oc=5",
+      "pub": "Sun, 27 Sep 2026 23:23:47 GMT"
     },
     {
-      "title": "Tech Rally, Easing Oil Prices Lift Asian Stock Markets",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/tech-rally-easing-oil-prices-104158962.html?.tsrc=rss",
-      "pub": "Fri, 18 Sep 2026 10:41:58 +0000"
+      "title": "코스피 7000 되찾았는데…내 주식도 오를까, 반도체만 또 웃을까 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Pbl96NjNXWVlpSE82UXhNWjV6R0J6QVJ5cXFsNzBwZjFWODNhWHFRNmFjT09oRlQwUmJqWWdWS2paQUFKTDBLZnJ2UG55c1k?oc=5",
+      "pub": "Sat, 26 Sep 2026 21:02:59 GMT"
     },
     {
-      "title": "Korea's $1.35 Trillion Pension Fund Posts Record 27% Return — With Zero Bitcoin",
-      "link": "https://beincrypto.com/south-korea-nps-record-return-ai-boom-bitcoin/?.tsrc=rss",
-      "pub": "Fri, 28 Aug 2026 11:48:42 +0000"
+      "title": "\"내 주식 오를까\" 개미들 '두근두근'...7000피 안착 변수는 '이것' - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BREpiYlBfSHdJcF9NUFUwcG5VSTJNbWhxekhPbjJhcDJad0s1WjRKOEg0dC1SSGR6U3RGdGtIOWNfSmprQ3BRTjdyelMtZFo2NGJkQ0hndEJxQV9sNy0zN2pxRmJ2T3hK0gFuQVVfeXFMT05tb2pYakNyWXNpbnlsdURuYXF0Uk1tUjMzY1FxUjVHUEIxNDFFaGRwQjlQQzNoU2pwVGM4X1ZncTE0emJydW5aaGQtQ0pqdkZSQ3h0djROQ3drNHBZOURWN05HUm15aVFTNDNnSmc?oc=5",
+      "pub": "Sun, 27 Sep 2026 19:05:00 GMT"
     },
     {
-      "title": "UBS cuts KOSPI target by nearly 10% to reflect higher rates",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/ubs-cuts-kospi-target-nearly-131614040.html?.tsrc=rss",
-      "pub": "Fri, 18 Sep 2026 13:16:14 +0000"
+      "title": "[마켓인사이트] 추석 연휴서 돌아온 韓증시, 상승흐름 이어갈까 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uU1RRM202bDdTTmNNOFUtRWJwSWNjVHFBUmJBYllTNkJrWThCOWFDYzI0dl9wRjA1WTNVWlVOWWI1ZUxHclprY091bEF5Vm9tZmt1M213V0VvRFHSAWBBVV95cUxQSU5ZWVpHbjRHRlQtSTlNX3c0cjVtX0JQbEFCUUlPSU56S0lKcG5RSkEtN2pHS2lKcmxwV3NndVVBUUNrZFRBMVIwOFJrekIzMElvdDlfUDU0UV9hTExNajM?oc=5",
+      "pub": "Sat, 26 Sep 2026 22:00:03 GMT"
     },
     {
-      "title": "Goldman Strategist Holds 12,000 KOSPI Target: Will Memory Earnings Close a 74% Gap?",
-      "link": "https://beincrypto.com/goldman-kospi-target-memory-chips/?.tsrc=rss",
-      "pub": "Mon, 07 Sep 2026 05:51:07 +0000"
+      "title": "추석 연휴 직전 코스피 쓸어담았다…‘큰손’ 기관의 픽은? [코주부] - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95SUJsSEd0Sld4WTNMOWxreUN5WWx6VllNQ043QUZwMndfQUxPUTlVRnloUXl6NWNZNXlpckhMVEJZTzlZdzJmbTJCZGxzb0tjcVHSAVNBVV95cUxPZHdDTTJvUmJ0dGlHdkxGSV93cFNTZkhxNjhZZTNhX002UFVnQ3ZZb1g5QndndWVnNGFZTV9IUmNTUTZyRVFmWmRBNlV3aHBzdFNhaw?oc=5",
+      "pub": "Sat, 26 Sep 2026 05:00:06 GMT"
     },
     {
-      "title": "Earnings Results, Soft US Inflation Report Lift Asian Stock Markets",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/earnings-results-soft-us-inflation-103642330.html?.tsrc=rss",
-      "pub": "Fri, 14 Aug 2026 10:36:42 +0000"
+      "title": "추석 지난 월요일 내 주식은?…'이것' 중요하다는데 - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90QmRJa19mU28xTnVJS29vbnJ5SUd1Ny1ZMW9JdjdtdkRsWVdZUnI2RXY3RXkxR1pnc2lmVUVGSDAxZmVnc19RMDZnTUQyYzlMblFkM2I1UWQ1TTlOZUl5R2FxdzlkYU030gFuQVVfeXFMUHlBdTl6MVZxdmdJYm5lcXpkRTlFMmIwcU5xbUVWelNZVWFyM3dIMXd1RDZ3NXJpQnNWZThDdmFkdFJ4YkVWdDA5dEJNZ3JRWlN5ZnRKSWhjcEVaMG1CSmttSWQ0MGdMVDJRek5wamc?oc=5",
+      "pub": "Sun, 27 Sep 2026 02:34:11 GMT"
     }
   ],
   "signal": {
