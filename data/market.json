@@ -1,70 +1,70 @@
 {
-  "updated_at": "2026년 09월 28일 09:08",
-  "updated_date": "2026-09-28",
+  "updated_at": "2026년 09월 29일 10:21",
+  "updated_date": "2026-09-29",
   "kospi": {
-    "price": 7080.92,
-    "change": 63.01,
-    "pct": 0.9,
-    "label": "소폭 강세",
-    "emoji": "📈"
+    "price": 6858.48,
+    "change": -31.26,
+    "pct": -0.45,
+    "label": "소폭 약세",
+    "emoji": "📉"
   },
   "kosdaq": {
-    "price": 844.48,
-    "change": 8.21,
-    "pct": 0.98,
-    "label": "소폭 강세",
-    "emoji": "📈"
+    "price": 836.67,
+    "change": -9.91,
+    "pct": -1.17,
+    "label": "소폭 약세",
+    "emoji": "📉"
   },
   "sp500": {
-    "price": 7743.41,
-    "change": 39.28,
-    "pct": 0.51
+    "price": 7683.69,
+    "change": -59.72,
+    "pct": -0.77
   },
   "nasdaq": {
-    "price": 27068.72,
-    "change": 129.32,
-    "pct": 0.48
+    "price": 26820.38,
+    "change": -248.34,
+    "pct": -0.92
   },
   "usdkrw": {
-    "price": 1357.88,
-    "change": 2.6,
-    "pct": 0.19
+    "price": 1359.88,
+    "change": 1.16,
+    "pct": 0.09
   },
   "news": [
     {
-      "title": "“추석도 지났고, 내 주식은 어디로 가나?”…美 물가·마이크론 실적에 쏠린 눈 - 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kUE43NTZjYUxqZ2dXLVRhal8xZHl2ZF9SOHYxMWIxUjZBbFJINlY0dFNfR1k0dzFyMnpkLWlRWnFPRHUyXzZJX3IwNTZGSDRLNlE?oc=5",
-      "pub": "Sun, 27 Sep 2026 23:23:47 GMT"
+      "title": "[개장] 코스피, 추석 연휴 뒤 숨고르기… 반도체주 약세 - IT조선",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03clpYMWU0Q0N3bE9XcV9odGl6a3RwUzd5WExQRW9vUzYtcVhHSzNxcUpTUjhXN3JOdFlqdU1ScUgxcENMYkF2M3ZDeGtQYUFUeU90bGRvbUhXdE9MTGppMUQ5bThaSEhTNHVOUkxxNEbSAXRBVV95cUxPejRpeUR6YkRoN2lDUGtMV0MyckUxTzA4VWM0VE9GbjVwOE5hdGQwWXE5VGpsTUxFWlpXWERUNlBQMXFsOEQ3TUY4bzVqY0xWNXVKVVZNZ1ZjLVE3VzN6blJsd1A4X1FnWWdFNEVCYzJodk43NQ?oc=5",
+      "pub": "Mon, 28 Sep 2026 00:30:58 GMT"
     },
     {
-      "title": "코스피 7000 되찾았는데…내 주식도 오를까, 반도체만 또 웃을까 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Pbl96NjNXWVlpSE82UXhNWjV6R0J6QVJ5cXFsNzBwZjFWODNhWHFRNmFjT09oRlQwUmJqWWdWS2paQUFKTDBLZnJ2UG55c1k?oc=5",
-      "pub": "Sat, 26 Sep 2026 21:02:59 GMT"
+      "title": "다가오는 주식시장 실적 시즌…결국 웃는 종목은? - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wTDYtcXdXU0JyQXRhb19waHhBT1dGQjhhRGVXdTJITV9GbTBuR0hsMk9oRGk4S0VhOENrbWJrZXBTcDZLR1pDQXZxUFdZbUU?oc=5",
+      "pub": "Mon, 28 Sep 2026 21:48:57 GMT"
     },
     {
-      "title": "\"내 주식 오를까\" 개미들 '두근두근'...7000피 안착 변수는 '이것' - 머니투데이 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BREpiYlBfSHdJcF9NUFUwcG5VSTJNbWhxekhPbjJhcDJad0s1WjRKOEg0dC1SSGR6U3RGdGtIOWNfSmprQ3BRTjdyelMtZFo2NGJkQ0hndEJxQV9sNy0zN2pxRmJ2T3hK0gFuQVVfeXFMT05tb2pYakNyWXNpbnlsdURuYXF0Uk1tUjMzY1FxUjVHUEIxNDFFaGRwQjlQQzNoU2pwVGM4X1ZncTE0emJydW5aaGQtQ0pqdkZSQ3h0djROQ3drNHBZOURWN05HUm15aVFTNDNnSmc?oc=5",
-      "pub": "Sun, 27 Sep 2026 19:05:00 GMT"
+      "title": "[개장시황] 코스피, 美 증시 하락 여파에 0.54%↓…반도체주 혼조 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93Zy1kbzdjc1ZweEljQ3ozNWFfRDB5WXRyWHJaS1hsbW1JWkFIRmxBa1hnYVJRSXdDcHNVNmdfTHNuZUIxMjJfUjBrLXZLQUE0R0JGYmZOc0lPUGRz?oc=5",
+      "pub": "Tue, 29 Sep 2026 00:34:00 GMT"
     },
     {
-      "title": "[마켓인사이트] 추석 연휴서 돌아온 韓증시, 상승흐름 이어갈까 - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uU1RRM202bDdTTmNNOFUtRWJwSWNjVHFBUmJBYllTNkJrWThCOWFDYzI0dl9wRjA1WTNVWlVOWWI1ZUxHclprY091bEF5Vm9tZmt1M213V0VvRFHSAWBBVV95cUxQSU5ZWVpHbjRHRlQtSTlNX3c0cjVtX0JQbEFCUUlPSU56S0lKcG5RSkEtN2pHS2lKcmxwV3NndVVBUUNrZFRBMVIwOFJrekIzMElvdDlfUDU0UV9hTExNajM?oc=5",
-      "pub": "Sat, 26 Sep 2026 22:00:03 GMT"
+      "title": "[개장] 코스피 약보합… 美 금리 급등, AI 투자 속도조절 우려 - IT조선",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fN1RqdTQySURDSEQzNEt0c29qMFk1T3JfeGlXM0dwN2g2b2NjdFdmMG5xZExzQmtrazVDWlVvY2J2VDFRR2N0OTRTNk9tTGhESmNiMjVub2ctQmhHV3B1VlZsenY4cWhsYmUxUkdzZ3LSAXRBVV95cUxNQllrVVY1X3dSSlZBLUNUWkZHWE9pVW1qS0d3dzVralJSMUx3S0V2ZW96U1NTcUQ1T1FxLXYxMmVJWERSTmxSMUo5RkJnMFdNUmZwTElkWFFqV3IwLVR3ZVZpSmZGS2FhNFpHWUtaSkNrYWh2OQ?oc=5",
+      "pub": "Tue, 29 Sep 2026 00:37:08 GMT"
     },
     {
-      "title": "추석 연휴 직전 코스피 쓸어담았다…‘큰손’ 기관의 픽은? [코주부] - 서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95SUJsSEd0Sld4WTNMOWxreUN5WWx6VllNQ043QUZwMndfQUxPUTlVRnloUXl6NWNZNXlpckhMVEJZTzlZdzJmbTJCZGxzb0tjcVHSAVNBVV95cUxPZHdDTTJvUmJ0dGlHdkxGSV93cFNTZkhxNjhZZTNhX002UFVnQ3ZZb1g5QndndWVnNGFZTV9IUmNTUTZyRVFmWmRBNlV3aHBzdFNhaw?oc=5",
-      "pub": "Sat, 26 Sep 2026 05:00:06 GMT"
+      "title": "코스피, 중동 불안에 장 초반 6860선 후퇴…'삼전닉스' 보합권 - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZWmIyekdSREJfWXQyX2o1Nno3dzBHT0NSU0JFTmtZbElGZ2NKYThfdS1WMGxLLUI1aGtrMDducVRDUGxoTUM4UDVueWRodjlZSW13OF81QmRGUQ?oc=5",
+      "pub": "Tue, 29 Sep 2026 00:13:12 GMT"
     },
     {
-      "title": "추석 지난 월요일 내 주식은?…'이것' 중요하다는데 - 머니투데이 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90QmRJa19mU28xTnVJS29vbnJ5SUd1Ny1ZMW9JdjdtdkRsWVdZUnI2RXY3RXkxR1pnc2lmVUVGSDAxZmVnc19RMDZnTUQyYzlMblFkM2I1UWQ1TTlOZUl5R2FxdzlkYU030gFuQVVfeXFMUHlBdTl6MVZxdmdJYm5lcXpkRTlFMmIwcU5xbUVWelNZVWFyM3dIMXd1RDZ3NXJpQnNWZThDdmFkdFJ4YkVWdDA5dEJNZ3JRWlN5ZnRKSWhjcEVaMG1CSmttSWQ0MGdMVDJRek5wamc?oc=5",
-      "pub": "Sun, 27 Sep 2026 02:34:11 GMT"
+      "title": "고금리에 코스피 7,000선 재이탈 - KB Think",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uSVBPellCUU5sRzVIRFdkU0h6bkpzUW0xa05ZMUgyT0NZRDhaQzBnUmZ1UkwwazJSeUhKMVgtXzdQc0tGaHo0MkNuQlJYTkw1bE1zVHJSX2xQRkpjOXBGNTUteXZPcXk5ek1fYw?oc=5",
+      "pub": "Mon, 28 Sep 2026 06:55:20 GMT"
     }
   ],
   "signal": {
-    "text": "소폭 상승권. 뚜렷한 방향성보다 관망이 적절합니다.",
+    "text": "소폭 하락권. 패닉셀보다 분할 매수 기회를 살펴보세요.",
     "type": "neutral"
   },
-  "one_liner": "코스피 📈 소폭 강세 · 코스닥 📈 소폭 강세"
+  "one_liner": "코스피 📉 소폭 약세 · 코스닥 📉 소폭 약세"
 }
