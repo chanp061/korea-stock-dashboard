@@ -1,50 +1,50 @@
 {
-  "updated_at": "2026년 10월 01일 09:55",
-  "updated_date": "2026-10-01",
+  "updated_at": "2026년 10월 02일 10:12",
+  "updated_date": "2026-10-02",
   "kospi": {
-    "price": 6778.58,
-    "change": -59.46,
-    "pct": -0.87,
-    "label": "소폭 약세",
-    "emoji": "📉"
+    "price": 6974.1,
+    "change": 2.75,
+    "pct": 0.04,
+    "label": "보합",
+    "emoji": "➡️"
   },
   "kosdaq": {
-    "price": 862.99,
-    "change": 7.08,
-    "pct": 0.83,
+    "price": 902.67,
+    "change": 8.38,
+    "pct": 0.94,
     "label": "소폭 강세",
     "emoji": "📈"
   },
   "sp500": {
-    "price": 7651.54,
-    "change": -19.3,
-    "pct": -0.25
+    "price": 7666.45,
+    "change": 14.91,
+    "pct": 0.19
   },
   "nasdaq": {
-    "price": 26861.06,
-    "change": 63.52,
-    "pct": 0.24
+    "price": 26871.6,
+    "change": 10.53,
+    "pct": 0.04
   },
   "usdkrw": {
-    "price": 1361.38,
-    "change": 4.84,
-    "pct": 0.36
+    "price": 1363.84,
+    "change": 4.0,
+    "pct": 0.29
   },
   "news": [
     {
-      "title": "\"외인 K주식 줍는다\" 금리·유가 치솟아도 반도체 강세...코스피 반등 - 머니투데이 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0dk50ZXZobWxIaXRMd3Y2eWtOUXhXZ1h2SjFKVTRQeWlyclJTSUdYUDhiVkhEWW5qVk9Pbll2SkhQclhJY1lnaVRaN0d4MWF0VEEwZ1M0clo1VXVFLXJMZ1B1M2htSlhl0gFuQVVfeXFMTkdzWThWb2tNS3U3X19XMENZMmRjMTJLUFNnOHE5Yl9QN3VBaS15ZDYwa2hDSnRSSGk4MU1OVnZsX0JBSlp2ZU83ZTRDdzdpZjhMOVFQTlFLUnh5Tkc0VW5KRzFjVFM2Skk1Ri1yTVE?oc=5",
-      "pub": "Wed, 30 Sep 2026 02:29:08 GMT"
+      "title": "[개장] 코스피, 마이크론 훈풍불구 금리·유가 ‘발목’… 삼전닉스 약세 - IT조선",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaUWU4UHZYQmxRdVc1ZEtSelI0SVBEeTV3RzBMUWFkU3M2a1VYQkVuemdNTERnek12b2c5RURlWlJfVXM2T21EWTNpVTRTTVAtaGVFTE1WcF91emlXZHEyb25oN0xsQzNWUGUyVDdaVy3SAXRBVV95cUxNQ2ItNXp2VWQ4enVYdE9IU2IzZW1IcUhTdjhhRlk0SU9GZERLT0pMUGFQN3dYQXVKcF91RjJYMVYzb3l4TmU5R2kwVkRtVXVmWk50SlJ0WjNRMFVLOWlnLU1qQk40QzViY0ZMR09EdVU4ZWZqQw?oc=5",
+      "pub": "Thu, 01 Oct 2026 01:04:47 GMT"
     },
     {
-      "title": "10월 코스피 8500 전망…“주식 비중 늘려라” - marketin.edaily.co.kr",
+      "title": "코스피 상승전환해 7000선 턱밑까지…코스닥은 4%대 '급등' - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZUXo3TlJicGlUbm1rRGR1VHFweGxVbTZiS1VqNDVQZE11MlpTUDQwclJJUmxNRFl4LThVSDhTamo1R2tRYzFrWUItVGpaZm5RTV9heEdOS0J0Zw?oc=5",
+      "pub": "Thu, 01 Oct 2026 06:50:44 GMT"
+    },
+    {
+      "title": "10월 코스피 8500 전망…“주식 비중 늘려라” - 마켓인",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5YdC1ycGdZazN2azh0RkljblRHWDlyU0ZrRkwwa243RERBMDB3MUVGbnNTVkdmVi1jZFpKQWJtWUxVdW1lSFg5T1dmSXVyYkJPeFdIMFZiUC1aOVo3YTlJY1FsZkxMNzZkc29iQnVNckFtd00?oc=5",
       "pub": "Wed, 30 Sep 2026 22:55:06 GMT"
-    },
-    {
-      "title": "키움증권 \"10월 코스피 6400~7600 전망, '삼전닉스' 3분기 실적 기대\" - 비즈니스포스트",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCekYwbE5ZNlJyNk1qbjlpOU54S05IQUtkVTMwU1BMWXcta0lLcDlUR01OVFZmU0RvZnlOdEFsUm1PeG5XUXl5bmZvVnNTdjVKeW5xcXlSTG8zZ3lJRmk0RklnWThMazB3WDMybVZvUzFfOXM?oc=5",
-      "pub": "Thu, 01 Oct 2026 00:25:13 GMT"
     },
     {
       "title": "'7,000선 공방전' 지루한 박스권…코스피, 4분기 전망은 - v.daum.net",
@@ -52,19 +52,19 @@
       "pub": "Wed, 30 Sep 2026 20:01:56 GMT"
     },
     {
-      "title": "코스피, 0.34% 하락한 6,814.49 출발 - news.einfomax.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlVzJ2U2R6RENZbWVkdmZpQURsZmJKTU5qQks0RFN0WW5BTl94OU5fVnp5QVBtWGVXVm9SOVZXOVF6LUhDNTBGTEJwYnNsUExvV2NuUWstaXg4SUdTMkk5eVo5VGtuNGNnZ0dDTEhEVXDSAXRBVV95cUxNdmFsWHFKWUdCaDFIVTMwWkNlRFRqMVM3Mmd2ZjhkSHdMWEZOY19HSzktWWxqOGZGLWdsNi1xR2htcXZXcjVCNFFjdDA4NV80akxfQXp3QUlxV3FsR2E1eUFLU1VZN2VXZHlUUTEwNW9hYTRhUQ?oc=5",
-      "pub": "Thu, 01 Oct 2026 00:03:51 GMT"
+      "title": "키움증권 \"10월 코스피 6400~7600 전망, 삼성전자 SK하이닉스 3분기 실적 발표가 변수\" - 비즈니스포스트",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCekYwbE5ZNlJyNk1qbjlpOU54S05IQUtkVTMwU1BMWXcta0lLcDlUR01OVFZmU0RvZnlOdEFsUm1PeG5XUXl5bmZvVnNTdjVKeW5xcXlSTG8zZ3lJRmk0RklnWThMazB3WDMybVZvUzFfOXM?oc=5",
+      "pub": "Thu, 01 Oct 2026 00:25:13 GMT"
     },
     {
-      "title": "코스피 소폭 하락… 삼성전기 장 초반 급등 - MTN 머니투데이방송",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0Q3JtUTc1cHhDSGoxNjJBV1I2OU5wSGxkT3o3ZkxUUjRuTHBiS1ZlTWpKNnRGTnl5eFpKakNJbEc0VEp4c2JOa1lZN204Yk1zcVFTLXhBN3cwOGRGeDNOeG1ONl8?oc=5",
-      "pub": "Tue, 29 Sep 2026 00:50:45 GMT"
+      "title": "KB證 “코스피 8500 간다”…10월엔 주식 다시 사볼까? - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sOU1IOTRTb0txNndrd2Y4cDJLcUFrdl9VNjMxSlAyX1BjSWU1R1IyR1FsOTlEOHhqSWtkamRablBSaGs0dk1weEdMc2VZdktsSDNMeg?oc=5",
+      "pub": "Thu, 01 Oct 2026 02:26:48 GMT"
     }
   ],
   "signal": {
-    "text": "소폭 하락권. 패닉셀보다 분할 매수 기회를 살펴보세요.",
+    "text": "소폭 상승권. 뚜렷한 방향성보다 관망이 적절합니다.",
     "type": "neutral"
   },
-  "one_liner": "코스피 📉 소폭 약세 · 코스닥 📈 소폭 강세"
+  "one_liner": "코스피 ➡️ 보합 · 코스닥 📈 소폭 강세"
 }
