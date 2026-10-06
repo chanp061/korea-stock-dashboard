@@ -1,70 +1,70 @@
 {
-  "updated_at": "2026년 10월 05일 09:20",
-  "updated_date": "2026-10-05",
+  "updated_at": "2026년 10월 06일 10:59",
+  "updated_date": "2026-10-06",
   "kospi": {
-    "price": 7003.74,
-    "change": 32.39,
-    "pct": 0.46,
-    "label": "소폭 강세",
-    "emoji": "📈"
-  },
-  "kosdaq": {
-    "price": 893.29,
-    "change": -1.0,
-    "pct": -0.11,
+    "price": 6984.82,
+    "change": -18.92,
+    "pct": -0.27,
     "label": "보합",
     "emoji": "➡️"
   },
+  "kosdaq": {
+    "price": 915.22,
+    "change": 21.93,
+    "pct": 2.45,
+    "label": "강세",
+    "emoji": "🚀"
+  },
   "sp500": {
-    "price": 7722.72,
-    "change": 56.27,
-    "pct": 0.73
+    "price": 7773.95,
+    "change": 51.23,
+    "pct": 0.66
   },
   "nasdaq": {
-    "price": 27190.86,
-    "change": 319.26,
-    "pct": 1.19
+    "price": 27477.31,
+    "change": 286.45,
+    "pct": 1.05
   },
   "usdkrw": {
-    "price": 1342.97,
-    "change": 0.46,
-    "pct": 0.03
+    "price": 1343.98,
+    "change": 3.49,
+    "pct": 0.26
   },
   "news": [
     {
-      "title": "금리 무섭다고 주식 팔면 안 돼…염승환 “코스피 여전히 싸다, 반도체·전력·조선주” [투자360] - 헤럴드경제",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83Y09rVWlKaGtoMWhFb2VsX3JnSWRiNlZJVm10WXpsTVhaeWVVQXd6Y1BnOU9JZlNWS29xZUNjZDdrc0ZwWlFqcF9BZHdobmVmOTh4LU13?oc=5",
-      "pub": "Sun, 04 Oct 2026 06:12:00 GMT"
-    },
-    {
-      "title": "“7000이라고 아무거나 사면 안돼”…지금 담아야 할 주식은 - edaily.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdGlNYWR3dURiRF9XQkZXeFZiTVk2eThkQ3VPbFd5b3d4QnowbkhLMVZabGgzOUR1Q1UzQVY1ejhWVVEzcVJZbjNFVFlrc0l2SHU4SkVPVjE1dGhXQzliU3p0WlNEV2dCZUlCaThoakUxbVU0bXBIT2FsTGpYNEJFVA?oc=5",
-      "pub": "Fri, 02 Oct 2026 09:29:31 GMT"
-    },
-    {
-      "title": "[마감] 삼전닉스 자사주 매입이 구세주… 코스피, 7천선 회복 - it.chosun.com",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02WnNYekZLbGYweHJCZDZVVlZTZDJEajhkek9IREJDMHBtMlhqNGc1UHRneDlob29QdlR4YnpJX19qM3RJQTVPSnVDQ3ItbzZNTTIzVUkxM3VJNDFseUtQY044RUh3MVlFMUNMWlFYSDbSAXRBVV95cUxOV0dzMHprQXZoTHJuQUdoaHp1RkZ0Z3ZpOTgtb205Vk1NLWlsUVlPVnZNTjVMeWRTSFVkOHRzNkNWbmYxaEpFZUpBclNtUmZ1MUxxSjNoalJ2Qmh6eVVDNm1Zb05QdW83cEpLSXJrTFFCS1J6WQ?oc=5",
-      "pub": "Fri, 02 Oct 2026 07:07:33 GMT"
-    },
-    {
-      "title": "[개장시황] 코스피, 외인·기관 매도에 0.42%↓…코스닥 900선 눈앞 - 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FWEluT2dxbDN2ekZTdm90Rmx5Rm1GNFBRNm5IWC1MUDJjQlk0YS02dlN6S1Zqakd2ODIxU0pDSTdiRTNPODNNNTlUTmI4MlVlU3JPTkZwaGxaRHhG?oc=5",
-      "pub": "Fri, 02 Oct 2026 00:32:00 GMT"
-    },
-    {
-      "title": "\"왜 이렇게 팔아치우나\" 단물 다 빠진 한국주식?…외국인 한 달 새 20조 '매도 폭탄' - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRWlV0RnV3OUZuQXhaUThGaEZvcWhRRVZPd0ZwaWZOX1AyOTYwNTQ0VjVjZWRmZkZkeEhCT1Q3LVZhaTdwRWdmU0MzN2ZaVWc?oc=5",
-      "pub": "Sun, 04 Oct 2026 04:45:45 GMT"
+      "title": "\"비중 줄여라\" 증권사마저 돌아섰다…반토막 난 '이 종목' [종목+] - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Obk9DSVFoQks4Q2xQZEszQ1IxZnJvZjFNQkFTaUZhNm5nVXFZaGxvNFB1QWtodjh6bkROd1Fjems5OU9WZnFQTHVxbm43bTljb0xwV3JWU1FLQQ?oc=5",
+      "pub": "Mon, 05 Oct 2026 21:30:02 GMT"
     },
     {
       "title": "역대급 폭락에 국민연금도 울상...'롤러코스피' 리스크 - YTN",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82aWNRZ05aWHI2LXRlVTJvWHNtODhEMElZVHJEVURfVWJ1V2V5OXpxTE94akxpM1o3LUNfMU1TcHJ3NGE2S29VMGkxNGdKUUFVbncxUG5FTGFZRHNqaXJpbktZMl9BWFhRdHkyV1Q5VQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iYUFkSzQyeDRtR0RPckRnNm1xbEdSWXplSFRCRl9QdU1UZVU4M1dublVEQUpFN1VZTi0wc2lyTWNWbTJoN2l3U3NLYUl0RFQxTU9rWWhUbHctNVBYQkE?oc=5",
       "pub": "Sat, 03 Oct 2026 20:24:00 GMT"
+    },
+    {
+      "title": "[모닝 리포트] \"코스피, 금리 부담 속 삼성전자 실적 시험대\" - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE82ZkF4UzQ4R29pVmhWVmVQTXZQZVRzVC1oVjlxUERKYkdaOGpkZmtPc3RSN2RyUHhBV0tCY281aVUweVF6enlaS2FnZC11TzZFQkxkTW8tWmdtYmFv?oc=5",
+      "pub": "Mon, 05 Oct 2026 23:12:00 GMT"
+    },
+    {
+      "title": "[심층분석] ‘삼전닉스’ 17조 덜어낸 외국인…실적·금리 개선이 복귀 가른다 - 굿모닝경제",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yLWw2WndSa0pWTXlvRktRZ3NQd2lTQlRHNGpXLVQzYWgzdkdTZVhCakVzcktOZTcyeXlUcHFvcDdiaEZfSXhUb21yUUhSVFRFOWFmd19aaGs5b19uUkRZRXc3MElST2tNeG05SA?oc=5",
+      "pub": "Mon, 05 Oct 2026 22:00:00 GMT"
+    },
+    {
+      "title": "나스닥 사상 최고에도 美금리 급등…대체휴일 끝 코스피 7,000선 지킬까 - 뉴스투데이",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBROXJkUEswTVgzUVZSWnQ1QlFPcWVxNEdyTElPZ05KZTRMekxaVjhrSTNKUjctcnBxekpXdllwaGtENzIxWnQ3YnhwZWxWbldiUTQ4OTVEWmY4RWg5LVE?oc=5",
+      "pub": "Mon, 05 Oct 2026 21:19:00 GMT"
+    },
+    {
+      "title": "숨고르기 속 코스피 7,000선 회복 - KB Think",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtU1ExV3J2Nm9taU44aWVodE1uVmRPYjhlWmJtS0k1V1NabnMtTG5GRndNbUhUaS03N2JEeHFHWXZHei1QQUlxekdJbWtyb2tGRkYxelhNUVVmTkpkQUMtVEZVaG9raWNYRjlIcQ?oc=5",
+      "pub": "Fri, 02 Oct 2026 07:04:58 GMT"
     }
   ],
   "signal": {
-    "text": "소폭 상승권. 뚜렷한 방향성보다 관망이 적절합니다.",
-    "type": "neutral"
+    "text": "오늘 시장은 강세입니다. 추격 매수보다 보유 전략이 유리할 수 있어요.",
+    "type": "positive"
   },
-  "one_liner": "코스피 📈 소폭 강세 · 코스닥 ➡️ 보합"
+  "one_liner": "코스피 ➡️ 보합 · 코스닥 🚀 강세"
 }
