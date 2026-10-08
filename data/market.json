@@ -1,70 +1,70 @@
 {
-  "updated_at": "2026년 10월 07일 10:09",
-  "updated_date": "2026-10-07",
+  "updated_at": "2026년 10월 08일 10:26",
+  "updated_date": "2026-10-08",
   "kospi": {
-    "price": 6962.07,
-    "change": 20.68,
-    "pct": 0.3,
-    "label": "소폭 강세",
-    "emoji": "📈"
-  },
-  "kosdaq": {
-    "price": 906.32,
-    "change": -13.6,
-    "pct": -1.48,
+    "price": 6755.64,
+    "change": -48.26,
+    "pct": -0.71,
     "label": "소폭 약세",
     "emoji": "📉"
   },
+  "kosdaq": {
+    "price": 898.47,
+    "change": 0.04,
+    "pct": 0.0,
+    "label": "보합",
+    "emoji": "➡️"
+  },
   "sp500": {
-    "price": 7818.93,
-    "change": 44.98,
-    "pct": 0.58
+    "price": 7801.77,
+    "change": -17.16,
+    "pct": -0.22
   },
   "nasdaq": {
-    "price": 27599.89,
-    "change": 122.58,
-    "pct": 0.45
+    "price": 27538.69,
+    "change": -61.2,
+    "pct": -0.22
   },
   "usdkrw": {
-    "price": 1337.21,
-    "change": 0.32,
-    "pct": 0.02
+    "price": 1336.75,
+    "change": -2.61,
+    "pct": -0.19
   },
   "news": [
     {
-      "title": "금리 무섭다고 주식 팔면 안 돼…염승환 “코스피 여전히 싸다, 반도체·전력·조선주” [투자360] - 헤럴드경제",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83Y09rVWlKaGtoMWhFb2VsX3JnSWRiNlZJVm10WXpsTVhaeWVVQXd6Y1BnOU9JZlNWS29xZUNjZDdrc0ZwWlFqcF9BZHdobmVmOTh4LU13?oc=5",
-      "pub": "Sun, 04 Oct 2026 06:12:00 GMT"
+      "title": "블룸버그 “AI 유망 투자처는 대만...코스피는 ‘위험’” - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kWUxrazBwZ0xtUmJpNmRfNU83N0pTWWVncEotcEk2SmtVMFc1SjdING53QkZYekZ6WlFGZ3VoQ2RPM3k3aWNoa0hGa0lTNUJ4WWc?oc=5",
+      "pub": "Wed, 07 Oct 2026 02:25:55 GMT"
     },
     {
-      "title": "[개장] 코스피, 美 사상최고에도 보합… 삼전닉스 엇갈려 - IT조선",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YRlZLR3BLT3A2QTBCNm0yS1FjMzE0RkFxanlKS2Y2a1Vua3BEZEVIekdycmNVdXEyTnl4ZVBDbGJfVVFjdkJiODB4YXRVaDJnRy0ySFhPdEtlTXI0b2huRjVQVDVfbEM4bUo4MmVRY3HSAXRBVV95cUxQNW1uU19SWGJiQWVjaWR4dFNwM3JCLWQwZ1hVenRiQm5MZmIwcW1kNWdZUVhnUVdHSUN3dUhTd2ZYN3lwekRXRHBHN1E0Mk15OXczN1VWaUp3c2Z0SXJpM3Q5d0wwX0dlRTFDdkdSb1oxbGRtZw?oc=5",
-      "pub": "Wed, 07 Oct 2026 01:00:03 GMT"
+      "title": "[개장] 코스피 약보합…삼성전자, 107조 영업익 불구 하락 - IT조선",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yeWQyT3l0SjRVRkc4QkRyMmw3ZGdBelhjRm83VTl6U2hJZDdIQWpDSXJ6NnRnamZ1S2poYUhmcDY3NEo5R0ZlZU1heTB1eEhfcXMzS0hRRTJlbHRlcUtCUHNabzU2dEJFVnRmSEI0QWnSAXRBVV95cUxPTFJpbDNCYUNLUDNtdWlGT25MVDlfSTZiRFB5U3p0X3dzYzhSS2U5OEVReUhZZWRiR3hUd3drSnhpdHhhVEZjZ2FtZDN5U2xkREVsV1kxWkNMV19IYnRJOWFyT2tObzFEeWJLZDhmOVB2MkFFUw?oc=5",
+      "pub": "Thu, 08 Oct 2026 00:51:34 GMT"
     },
     {
-      "title": "\"들어오면 주가 빠진다\"…코스피200 편입 후보 '눈길' - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzSUM1Zll1MWlLQzJKOHBxUmtURzhwTTBjZ2k2eTRVWElmLUNVYXdhT2U1YmFVTE5lUEJORUxSb2JJUUV3QlROQTd2U2g1d3F0VWpzRzloOV82QQ?oc=5",
-      "pub": "Tue, 06 Oct 2026 04:53:51 GMT"
+      "title": "\"미장은 날아가는데 왜\"…'칠천피' 찍자마자 밀린 기막힌 이유 - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5RjJmMEZvLWtSS2FpTUt6Y25FcmFxUmtPTDFHNFhGaERTUzZVd3J6bE9SaGR5cERMdEpWOGZFS21JNTRNaFJKcTdodDd3OFQ2X2lDZEhfSGVCQQ?oc=5",
+      "pub": "Wed, 07 Oct 2026 01:53:15 GMT"
     },
     {
-      "title": "[모닝 리포트] \"코스피, 금리 부담 속 삼성전자 실적 시험대\" - 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE82ZkF4UzQ4R29pVmhWVmVQTXZQZVRzVC1oVjlxUERKYkdaOGpkZmtPc3RSN2RyUHhBV0tCY281aVUweVF6enlaS2FnZC11TzZFQkxkTW8tWmdtYmFv?oc=5",
-      "pub": "Mon, 05 Oct 2026 23:12:00 GMT"
+      "title": "“이제 8거래일쯤 남았다” 예견된 공포…‘삼전닉스’ 넘어 코스피까지 걱정 [투자360] - 헤럴드경제",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mWkdvWFYyU3U5YVBTVmV1NGhHNnFoT1NKTnBrX2FZUDlPSHR6VzFVT1gwSFFOR002dE5Ga21jLV8tSUk4dUV5LW5LUFBEeDN0cVdFc3R3?oc=5",
+      "pub": "Wed, 07 Oct 2026 11:40:02 GMT"
     },
     {
-      "title": "“코스닥 상승장 시작됐나”…3% 가까이 급등, 코스피는 하락 - 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCdHc1ZVl2bGxYSlk3Z1RQSjBGMXIzSlVfZkFnS0RrcUhVM0J3UEZVYjhFbjB6ak1zaDcwNFZMcGgtTmk3U1pXa09SUkxwdmltb2c?oc=5",
-      "pub": "Tue, 06 Oct 2026 06:57:04 GMT"
+      "title": "美 증시 최고치 행진에도 코스피 '주춤'…대형주 수급 부담 탓 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBEWVVkSUJiUzExWTE3d2E0ZlpGcUxCM20tRVBsTXZyU2xHeXdEMEstbjZBXzBTZnRUQ2liempJd0ZyR0xpanFNbXh5RWVKaG41NlB4eG5QX0RRNEpi?oc=5",
+      "pub": "Wed, 07 Oct 2026 07:09:00 GMT"
     },
     {
-      "title": "역대급 폭락에 국민연금도 울상...'롤러코스피' 리스크 - YTN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iYUFkSzQyeDRtR0RPckRnNm1xbEdSWXplSFRCRl9QdU1UZVU4M1dublVEQUpFN1VZTi0wc2lyTWNWbTJoN2l3U3NLYUl0RFQxTU9rWWhUbHctNVBYQkE?oc=5",
-      "pub": "Sat, 03 Oct 2026 20:24:00 GMT"
+      "title": "삼성전자 실적 발표 전에 꼭 봐야 할 숫자 4개 (코스피 투자 전략) - 네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZG9HdkpXbl8ydE5UQmlCT1FSUnZ3TGVualJ3SUJBWlZCYXd0UEtFSXVGbHFtNkZSZXpQMnM0X2ZHaS1OQVhKd29qd2c1dmNraHBMLU9NT3k1Q2pnVm1UY1poTHVBYkhVZ01TMlpQZVdTbm1nNWhRZDM2RmRJakl4QVgwZ1UyWVNtVXYw?oc=5",
+      "pub": "Mon, 05 Oct 2026 22:50:00 GMT"
     }
   ],
   "signal": {
     "text": "소폭 하락권. 패닉셀보다 분할 매수 기회를 살펴보세요.",
     "type": "neutral"
   },
-  "one_liner": "코스피 📈 소폭 강세 · 코스닥 📉 소폭 약세"
+  "one_liner": "코스피 📉 소폭 약세 · 코스닥 ➡️ 보합"
 }
