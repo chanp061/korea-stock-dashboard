@@ -1,70 +1,70 @@
 {
-  "updated_at": "2026년 10월 08일 10:26",
-  "updated_date": "2026-10-08",
+  "updated_at": "2026년 10월 09일 10:34",
+  "updated_date": "2026-10-09",
   "kospi": {
-    "price": 6755.64,
-    "change": -48.26,
-    "pct": -0.71,
+    "price": 6625.93,
+    "change": -177.97,
+    "pct": -2.62,
+    "label": "약세",
+    "emoji": "🔻"
+  },
+  "kosdaq": {
+    "price": 892.27,
+    "change": -6.16,
+    "pct": -0.69,
     "label": "소폭 약세",
     "emoji": "📉"
   },
-  "kosdaq": {
-    "price": 898.47,
-    "change": 0.04,
-    "pct": 0.0,
-    "label": "보합",
-    "emoji": "➡️"
-  },
   "sp500": {
-    "price": 7801.77,
-    "change": -17.16,
-    "pct": -0.22
+    "price": 7765.36,
+    "change": -36.41,
+    "pct": -0.47
   },
   "nasdaq": {
-    "price": 27538.69,
-    "change": -61.2,
-    "pct": -0.22
+    "price": 27193.34,
+    "change": -345.35,
+    "pct": -1.25
   },
   "usdkrw": {
-    "price": 1336.75,
-    "change": -2.61,
-    "pct": -0.19
+    "price": 1342.39,
+    "change": -0.17,
+    "pct": -0.01
   },
   "news": [
-    {
-      "title": "블룸버그 “AI 유망 투자처는 대만...코스피는 ‘위험’” - 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kWUxrazBwZ0xtUmJpNmRfNU83N0pTWWVncEotcEk2SmtVMFc1SjdING53QkZYekZ6WlFGZ3VoQ2RPM3k3aWNoa0hGa0lTNUJ4WWc?oc=5",
-      "pub": "Wed, 07 Oct 2026 02:25:55 GMT"
-    },
     {
       "title": "[개장] 코스피 약보합…삼성전자, 107조 영업익 불구 하락 - IT조선",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yeWQyT3l0SjRVRkc4QkRyMmw3ZGdBelhjRm83VTl6U2hJZDdIQWpDSXJ6NnRnamZ1S2poYUhmcDY3NEo5R0ZlZU1heTB1eEhfcXMzS0hRRTJlbHRlcUtCUHNabzU2dEJFVnRmSEI0QWnSAXRBVV95cUxPTFJpbDNCYUNLUDNtdWlGT25MVDlfSTZiRFB5U3p0X3dzYzhSS2U5OEVReUhZZWRiR3hUd3drSnhpdHhhVEZjZ2FtZDN5U2xkREVsV1kxWkNMV19IYnRJOWFyT2tObzFEeWJLZDhmOVB2MkFFUw?oc=5",
       "pub": "Thu, 08 Oct 2026 00:51:34 GMT"
     },
     {
-      "title": "\"미장은 날아가는데 왜\"…'칠천피' 찍자마자 밀린 기막힌 이유 - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5RjJmMEZvLWtSS2FpTUt6Y25FcmFxUmtPTDFHNFhGaERTUzZVd3J6bE9SaGR5cERMdEpWOGZFS21JNTRNaFJKcTdodDd3OFQ2X2lDZEhfSGVCQQ?oc=5",
-      "pub": "Wed, 07 Oct 2026 01:53:15 GMT"
-    },
-    {
-      "title": "“이제 8거래일쯤 남았다” 예견된 공포…‘삼전닉스’ 넘어 코스피까지 걱정 [투자360] - 헤럴드경제",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mWkdvWFYyU3U5YVBTVmV1NGhHNnFoT1NKTnBrX2FZUDlPSHR6VzFVT1gwSFFOR002dE5Ga21jLV8tSUk4dUV5LW5LUFBEeDN0cVdFc3R3?oc=5",
-      "pub": "Wed, 07 Oct 2026 11:40:02 GMT"
-    },
-    {
-      "title": "美 증시 최고치 행진에도 코스피 '주춤'…대형주 수급 부담 탓 - 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBEWVVkSUJiUzExWTE3d2E0ZlpGcUxCM20tRVBsTXZyU2xHeXdEMEstbjZBXzBTZnRUQ2liempJd0ZyR0xpanFNbXh5RWVKaG41NlB4eG5QX0RRNEpi?oc=5",
-      "pub": "Wed, 07 Oct 2026 07:09:00 GMT"
-    },
-    {
       "title": "삼성전자 실적 발표 전에 꼭 봐야 할 숫자 4개 (코스피 투자 전략) - 네이버 프리미엄콘텐츠",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZG9HdkpXbl8ydE5UQmlCT1FSUnZ3TGVualJ3SUJBWlZCYXd0UEtFSXVGbHFtNkZSZXpQMnM0X2ZHaS1OQVhKd29qd2c1dmNraHBMLU9NT3k1Q2pnVm1UY1poTHVBYkhVZ01TMlpQZVdTbm1nNWhRZDM2RmRJakl4QVgwZ1UyWVNtVXYw?oc=5",
       "pub": "Mon, 05 Oct 2026 22:50:00 GMT"
+    },
+    {
+      "title": "수급 부담에 코스피 6,700선 하회 - KB Think",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuVjVlU1Bic2lEZjlWMGl4ekpQTVJYRlBZQTVQN1R5ZEE1RjB3aWR2cHRYTmNKQnpKZ3NleUpiZllKUHJSbnNsT0hwNUZ0YXVncHF1RHFKM0dqVkhuZnVaNnlELWYzbzNkLUd1Yw?oc=5",
+      "pub": "Thu, 08 Oct 2026 07:07:46 GMT"
+    },
+    {
+      "title": "‘코스피 불장’에 금융지주 상반기 17.6조 벌었다…역대 최대 - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCT1pTb1AxT0lPWTZWQm45QXhHLUZndjZ2T0dhdENoaHYweVhST0JlZTYweGlCeDI1NVh5c0VKSm9DTzlHTE9nX2VNMzNKM1RfLXpweGRRZ2JkSDI2R2JNb1pkaUw3NjQ?oc=5",
+      "pub": "Thu, 08 Oct 2026 11:28:00 GMT"
+    },
+    {
+      "title": "코스피, 외인·기관 3.6조 '팔자'에 2.6% 급락…6600선 - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1bVc2bmpFbXpvaXpROENQRDA0OGRYWTdRX1RpMUJ1UHFXWXBzUGpYMlVpQWdtRjBST2FjSHhBNTkxS19IcC1kVWJXQk1iRUttdVJOUEtCTXAwdw?oc=5",
+      "pub": "Thu, 08 Oct 2026 06:42:46 GMT"
+    },
+    {
+      "title": "[1008마감체크] 코스피, 삼성전자 최대 실적에도 외인·기관 팔자에 6620선 마감 - 인포스탁데일리",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sSnJfaVpEdmFhdEgzd0VtU05jLVBhZ3FXRXZ4OG10QnRsSkFUY3VmX2N0Zi14bXRQLUFBNEtSYWFwUTJOSHlIX0hLOHhFQlBDRWc4VGw0cUhmbjd5dkRJZU1fVmtkLXpUOHlNZGRTa1lrQ3d1d0E?oc=5",
+      "pub": "Thu, 08 Oct 2026 08:14:08 GMT"
     }
   ],
   "signal": {
-    "text": "소폭 하락권. 패닉셀보다 분할 매수 기회를 살펴보세요.",
-    "type": "neutral"
+    "text": "시장 조정 국면. 손절보다 비중 축소 후 상황을 지켜보세요.",
+    "type": "negative"
   },
-  "one_liner": "코스피 📉 소폭 약세 · 코스닥 ➡️ 보합"
+  "one_liner": "코스피 🔻 약세 · 코스닥 📉 소폭 약세"
 }
