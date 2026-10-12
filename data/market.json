@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026년 10월 11일 09:35",
-  "updated_date": "2026-10-11",
+  "updated_at": "2026년 10월 12일 09:51",
+  "updated_date": "2026-10-12",
   "kospi": {
-    "price": 6625.93,
-    "change": -177.97,
-    "pct": -2.62,
-    "label": "약세",
-    "emoji": "🔻"
+    "price": 6550.56,
+    "change": -75.37,
+    "pct": -1.14,
+    "label": "소폭 약세",
+    "emoji": "📉"
   },
   "kosdaq": {
-    "price": 892.27,
-    "change": -6.16,
-    "pct": -0.69,
+    "price": 883.19,
+    "change": -9.08,
+    "pct": -1.02,
     "label": "소폭 약세",
     "emoji": "📉"
   },
@@ -22,49 +22,49 @@
   },
   "nasdaq": {
     "price": 27366.17,
-    "change": 172.83,
+    "change": 172.87,
     "pct": 0.64
   },
   "usdkrw": {
-    "price": 1340.9,
-    "change": -1.66,
-    "pct": -0.12
+    "price": 1336.31,
+    "change": -3.71,
+    "pct": -0.28
   },
   "news": [
     {
-      "title": "\"국장 팔고 미장 산다\"…개미들, 코스피 7000선 붕괴에 美증시로 '머니무브' - 조세일보",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE90V3p6UkZSQWlsc1VwUnhhQ1IwYk92Z3V6M29IY0ZYT09NcExjamF0Vy1KQjJrY2h2OFJ6Yy1ERlhHelNpVENGU3dEWmZRY25MY2Z3dDZnMloyWnlnbWI0?oc=5",
-      "pub": "Sun, 11 Oct 2026 00:00:00 GMT"
+      "title": "한투증권 \"방향성 부재 코스피…3분기 이익 전망치 하향 조정\" - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tR2U1SDhaYW1WcmVkTUFwdEY1UFhjQ2RSdlNudjVUUm1HOTBEX0tLMVhuVTJGcWVvNW4wWFI1eG92UGhlTW1WNU1GYndlUG02Unc?oc=5",
+      "pub": "Sun, 11 Oct 2026 23:15:17 GMT"
     },
     {
-      "title": "개인투자자, 하반기 국내 주식 5.5조 팔고 美 주식 10조 샀다 - 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YUVJZbXVOcW13clVGeTc5VWdXRUl3aUYxMVl6OG9QbEtKUkVjSUI5alZEV1dhazBQRGZwaExldC1IWlgzX1NYYlZraDF1dEN0Vnc?oc=5",
-      "pub": "Sat, 10 Oct 2026 21:02:01 GMT"
+      "title": "개미들, 3분기 코스피 5.6조 팔고 美주식 10.2조 샀다 - 동아일보",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wM00zVzByOENINHhCbXl0SDkyZW8zd2JUeUhYdkc4NklTSXUteUJvRTN3QWlSLVVwNXRyUTZGWnlURkRmV2d4SkhZVGU2aHJ1OUJraFJJVFNLSE1ad1J1dkpJVmFidWVpU0hMQjFfblg4Mk1XMHfSAWZBVV95cUxPQlctSVFfQ0gteDZKMHhZMGpHOGF4WFVOX2toWmhCb2tCVnRQdGZnM2JKMHZYWWdCSXY0ODVhNGZHTWI0MTlvRUo0OGdHckc5VXBMc0xlbFM2bmJyeUJrNF93RFhaYWc?oc=5",
+      "pub": "Sun, 11 Oct 2026 08:04:31 GMT"
     },
     {
-      "title": "코스피 7000선 재도전…美 실적 시즌에 쏠린 눈 - 블루밍비트",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBrdUV2NlhuczhQNWR3VlZNckJjMkR4RVVTOE5KSk56SUJpS0M3MktTbmoxdGl3Y0hFLVJCVk9XdTJjeFFQWFJGTnRYYk1YUWFs?oc=5",
-      "pub": "Sun, 11 Oct 2026 00:19:26 GMT"
+      "title": "\"코스피 5조 팔아 미장 10조 샀다\"…3분기 개미 '엑소더스' - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13MUxGQmxzWkd4RHlXekhmNU1WSElCNEFPNHc4Z2tWV1ZjNkM1MFd5SDFWTkpXVkZfLVFmd0NwdWJNSklvOHpGT1U3dXBoMTJleEpwN1pNNUxobzNmQmJMStIBeEFVX3lxTE94dGJZZXJJRWdUcmlXM2ZDVmUyQ2p2VTg3VkUxREMtd0RDZkE4SHVaTTJDZzVoOVZIY3hJamZyS2NHZUYtWHZuSGVrX256c25mV3ZNaFE5a0hOYzZsTWdvQlVONENqZGFBVmdueWwxdEFEakpLWERkLQ?oc=5",
+      "pub": "Sun, 11 Oct 2026 04:11:09 GMT"
     },
     {
-      "title": "수급 부담에 코스피 6,700선 하회 - KB Think",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuVjVlU1Bic2lEZjlWMGl4ekpQTVJYRlBZQTVQN1R5ZEE1RjB3aWR2cHRYTmNKQnpKZ3NleUpiZllKUHJSbnNsT0hwNUZ0YXVncHF1RHFKM0dqVkhuZnVaNnlELWYzbzNkLUd1Yw?oc=5",
-      "pub": "Thu, 08 Oct 2026 07:07:46 GMT"
+      "title": "“코스피 부진 탓”…개인투자자, 3분기 국내 주식 5.6조 팔았다 - 에너지경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5TeURxaVBkSThId3RUQ05xTVZUUmgtWjFCZFhHbXNxdXJ3M2RBb3JRN3prc1JaVjRhWUVtcndWU2JuSDAyLWNjM0FWLW4zT1c5SEt0Q1YxVmFOLXlCZ09teUd5cw?oc=5",
+      "pub": "Sun, 11 Oct 2026 01:54:36 GMT"
     },
     {
-      "title": "‘코스피 9천’ 축포 뒤 쪼그라든 기업조달…‘머니무브’는 없었다 - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBScTB1QTZmbW16ckF5cVB2SlVEVXZDOWRrRDBPaDY3R0VuNG02YlNJRnNaYzdVRUlsU3NSekJqYzM1X09pQjlzaFB0RTA2bkRnNDloeUZEMXhnQzdnNVFEZUc0S0FvdjA?oc=5",
-      "pub": "Wed, 07 Oct 2026 22:22:00 GMT"
+      "title": "[개장] 美물가 발표 앞두고 경계감… 코스피 1% 하락 - IT조선",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42dkJtOXdBVm4tQk03dHRSMFJPa1RPZlFvOHlfLWw0bEFDN01hcE55UVpmdWE4RjBOdlllT2ZQV01JZEltRnFJNnlkYVNMWUdyY3p2UnBFRUxyOUJoM1FzMnFhcU04UlVHZm5fSmlIVmjSAXRBVV95cUxOZVdkQ3BpNU1qMXNIMEtjU0M1UzhkbWgwT01kVXZFeXNXWGFVVllFanhoelZuU3c4Y3FFUm5WSENxckZuQUx1ZWp3ZGkyeXJkZjNuOGtiV25yYXhGV0Vvei1hZnlweU9lWmowWWtCZFRmNmlTTw?oc=5",
+      "pub": "Mon, 12 Oct 2026 00:44:18 GMT"
     },
     {
-      "title": "코스피, 외인·기관 3.6조 '팔자'에 2.6% 급락…6600선 - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1bVc2bmpFbXpvaXpROENQRDA0OGRYWTdRX1RpMUJ1UHFXWXBzUGpYMlVpQWdtRjBST2FjSHhBNTkxS19IcC1kVWJXQk1iRUttdVJOUEtCTXAwdw?oc=5",
-      "pub": "Thu, 08 Oct 2026 06:42:46 GMT"
+      "title": "[마켓인사이트] 삼성전자 역대급 실적에도 짓눌린 코스피, 반등 가능성은 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9PeU5zMEV3cDcwRHVzN1pwZnlTUVJkb25qMDU4b1ltLTBGNzlsLXkzRjRKdWV0YklMX01uRS1aaV9SSUhqd0tmdFZfNXIxaWd3X25DdjE4enVjaDZVTkx4dzU5VFllbEtXbFlCVzVjZVIyNEhvWkpKT3ZEUdIBYEFVX3lxTE9iNG5Ed1pGZlF2U0tqQS1GMHpJdnRhVHpqWjJqVE5MNWF1anY5VlB4cmdKYURvYktZQk5oQXlpdDRVWGowem82S3YwMG5pVDkzeTRoWmtqdFpjcEhaTVNfUw?oc=5",
+      "pub": "Sat, 10 Oct 2026 21:00:03 GMT"
     }
   ],
   "signal": {
     "text": "시장 조정 국면. 손절보다 비중 축소 후 상황을 지켜보세요.",
     "type": "negative"
   },
-  "one_liner": "코스피 🔻 약세 · 코스닥 📉 소폭 약세"
+  "one_liner": "코스피 📉 소폭 약세 · 코스닥 📉 소폭 약세"
 }
