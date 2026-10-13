@@ -1,70 +1,70 @@
 {
-  "updated_at": "2026년 10월 12일 09:51",
-  "updated_date": "2026-10-12",
+  "updated_at": "2026년 10월 13일 11:46",
+  "updated_date": "2026-10-13",
   "kospi": {
-    "price": 6550.56,
-    "change": -75.37,
-    "pct": -1.14,
-    "label": "소폭 약세",
-    "emoji": "📉"
+    "price": 5980.88,
+    "change": -403.36,
+    "pct": -6.32,
+    "label": "약세",
+    "emoji": "🔻"
   },
   "kosdaq": {
-    "price": 883.19,
-    "change": -9.08,
-    "pct": -1.02,
-    "label": "소폭 약세",
-    "emoji": "📉"
+    "price": 811.07,
+    "change": -38.12,
+    "pct": -4.49,
+    "label": "약세",
+    "emoji": "🔻"
   },
   "sp500": {
-    "price": 7811.54,
-    "change": 46.18,
-    "pct": 0.59
+    "price": 7807.24,
+    "change": -4.3,
+    "pct": -0.06
   },
   "nasdaq": {
-    "price": 27366.17,
-    "change": 172.87,
-    "pct": 0.64
+    "price": 27245.9,
+    "change": -120.27,
+    "pct": -0.44
   },
   "usdkrw": {
-    "price": 1336.31,
-    "change": -3.71,
-    "pct": -0.28
+    "price": 1340.26,
+    "change": 6.1,
+    "pct": 0.46
   },
   "news": [
     {
-      "title": "한투증권 \"방향성 부재 코스피…3분기 이익 전망치 하향 조정\" - 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tR2U1SDhaYW1WcmVkTUFwdEY1UFhjQ2RSdlNudjVUUm1HOTBEX0tLMVhuVTJGcWVvNW4wWFI1eG92UGhlTW1WNU1GYndlUG02Unc?oc=5",
-      "pub": "Sun, 11 Oct 2026 23:15:17 GMT"
+      "title": "외국인, 올해 코스피에서 순매도한 주식의 87%가 ‘삼전닉스’ - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOT3FIb2o1Y19MeWtVSWZZcTV4bGJLVm04Q1lfNDNUa1Q1eWRmY1FkOU9ZX2dCdllkUEIzYWo3Vjl3TW95c21yTmJ5ZVJ4N0RKMl9wYnFRMnJwV0puWUx5a2dwcVcwWlhIMzJKZi1YUGZnLVJrZWN6eTZZWjhURllYbg?oc=5",
+      "pub": "Tue, 13 Oct 2026 00:08:00 GMT"
     },
     {
-      "title": "개미들, 3분기 코스피 5.6조 팔고 美주식 10.2조 샀다 - 동아일보",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wM00zVzByOENINHhCbXl0SDkyZW8zd2JUeUhYdkc4NklTSXUteUJvRTN3QWlSLVVwNXRyUTZGWnlURkRmV2d4SkhZVGU2aHJ1OUJraFJJVFNLSE1ad1J1dkpJVmFidWVpU0hMQjFfblg4Mk1XMHfSAWZBVV95cUxPQlctSVFfQ0gteDZKMHhZMGpHOGF4WFVOX2toWmhCb2tCVnRQdGZnM2JKMHZYWWdCSXY0ODVhNGZHTWI0MTlvRUo0OGdHckc5VXBMc0xlbFM2bmJyeUJrNF93RFhaYWc?oc=5",
-      "pub": "Sun, 11 Oct 2026 08:04:31 GMT"
+      "title": "\"외국인 순매도 사상최대 전망\"…코스피 수급 불확실성 커진다 - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZM0c4VExsbUVUd25HN1dHeVFUN3VCWUdwM3UyMlpkN3FQWFdsZ1RuTFhNMXpsd3daeDEtZEtUak9OY21GeGNsYUMyQVc2aHRGZE5lYWxPMXI5LXZndnd3blVsVUNwR2xYQlVfd1RCM3E?oc=5",
+      "pub": "Mon, 12 Oct 2026 01:01:00 GMT"
     },
     {
-      "title": "\"코스피 5조 팔아 미장 10조 샀다\"…3분기 개미 '엑소더스' - 뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13MUxGQmxzWkd4RHlXekhmNU1WSElCNEFPNHc4Z2tWV1ZjNkM1MFd5SDFWTkpXVkZfLVFmd0NwdWJNSklvOHpGT1U3dXBoMTJleEpwN1pNNUxobzNmQmJMStIBeEFVX3lxTE94dGJZZXJJRWdUcmlXM2ZDVmUyQ2p2VTg3VkUxREMtd0RDZkE4SHVaTTJDZzVoOVZIY3hJamZyS2NHZUYtWHZuSGVrX256c25mV3ZNaFE5a0hOYzZsTWdvQlVONENqZGFBVmdueWwxdEFEakpLWERkLQ?oc=5",
-      "pub": "Sun, 11 Oct 2026 04:11:09 GMT"
+      "title": "iM증권 “원화 강세에도 코스피 급락⋯외국인 환차익 매물 쏟아진 탓” - 브릿지경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GcGRHZE53OFRyZmQ5WmxwZ3ROdXdNVE1NSW1JVjB3V1NOOW5OOWJ3bjZkZjVwdWZzVDduS1BMNG4xa2oyWnhlSm1EN3hYTkgwRm5WNzZCQXBoQQ?oc=5",
+      "pub": "Tue, 13 Oct 2026 02:01:00 GMT"
     },
     {
-      "title": "“코스피 부진 탓”…개인투자자, 3분기 국내 주식 5.6조 팔았다 - 에너지경제신문",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5TeURxaVBkSThId3RUQ05xTVZUUmgtWjFCZFhHbXNxdXJ3M2RBb3JRN3prc1JaVjRhWUVtcndWU2JuSDAyLWNjM0FWLW4zT1c5SEt0Q1YxVmFOLXlCZ09teUd5cw?oc=5",
-      "pub": "Sun, 11 Oct 2026 01:54:36 GMT"
+      "title": "코스피만 왜 이러나…반도체 노이즈·수급 불안에 '나홀로 급락' - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wVEVJUWNIeFBoZGZhaXJWdkpSMjVZamJhQzBNbzlEN1hkU0tGWmFYcGNnZ0lPUk5hTndRRWxXRi1OQndzQkNia0tWenpLdzlzSVAxZmhLSGpNeTV3YmdwMkpKbmYzNHlRaTdBN3pUZTk?oc=5",
+      "pub": "Mon, 12 Oct 2026 04:32:56 GMT"
     },
     {
-      "title": "[개장] 美물가 발표 앞두고 경계감… 코스피 1% 하락 - IT조선",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42dkJtOXdBVm4tQk03dHRSMFJPa1RPZlFvOHlfLWw0bEFDN01hcE55UVpmdWE4RjBOdlllT2ZQV01JZEltRnFJNnlkYVNMWUdyY3p2UnBFRUxyOUJoM1FzMnFhcU04UlVHZm5fSmlIVmjSAXRBVV95cUxOZVdkQ3BpNU1qMXNIMEtjU0M1UzhkbWgwT01kVXZFeXNXWGFVVllFanhoelZuU3c4Y3FFUm5WSENxckZuQUx1ZWp3ZGkyeXJkZjNuOGtiV25yYXhGV0Vvei1hZnlweU9lWmowWWtCZFRmNmlTTw?oc=5",
-      "pub": "Mon, 12 Oct 2026 00:44:18 GMT"
+      "title": "개인투자자, 3분기 코스피 5.6조 팔고 美주식 10조 샀다 - 동아일보",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kX2Nyd1NiTllZVGR5MGFZNXQ3clRKZ3FhbHNSWGItV05wZFlNWkdUMWY5cWpYUHBpMVRReE1aWjY4amJqRXVzaGNZc2hqZjNLenc5cWZvaG1hc3I0VXF2VVYzRHhpOE5HQ3dUMWRPbDV3Vm52cFHSAWZBVV95cUxOZnpfbGtmMEh2VmFwQzc3cUNVZ04tLWZoWFJrYVhsU2tfWTdjQ191T3VvTmVNWW45QVN3ZVRqdi04UzZ6aDc3cDJGNHFaTHdDUzlUbGtfOENrUVE4YndMcm9wZHZrMWc?oc=5",
+      "pub": "Sun, 11 Oct 2026 15:30:00 GMT"
     },
     {
-      "title": "[마켓인사이트] 삼성전자 역대급 실적에도 짓눌린 코스피, 반등 가능성은 - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9PeU5zMEV3cDcwRHVzN1pwZnlTUVJkb25qMDU4b1ltLTBGNzlsLXkzRjRKdWV0YklMX01uRS1aaV9SSUhqd0tmdFZfNXIxaWd3X25DdjE4enVjaDZVTkx4dzU5VFllbEtXbFlCVzVjZVIyNEhvWkpKT3ZEUdIBYEFVX3lxTE9iNG5Ed1pGZlF2U0tqQS1GMHpJdnRhVHpqWjJqVE5MNWF1anY5VlB4cmdKYURvYktZQk5oQXlpdDRVWGowem82S3YwMG5pVDkzeTRoWmtqdFpjcEhaTVNfUw?oc=5",
-      "pub": "Sat, 10 Oct 2026 21:00:03 GMT"
+      "title": "퇴근길 주식 한 달…정규장 대비 변동성 2배, 거래규모는 4% 불과 - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wbndscTVJckpveWZzSy1OWGlfalBUQkZ3NUhyZkNnM2gzZjhuVEh5QlAyTzk4Nzgwcmt0a3BRSmk5ZVVqbkRwZ2hoMkl2S2ZCcEdHZmlHX29SWWRrQjJpR9IBeEFVX3lxTE00Y0lfOUNqZjh4RWtNemFUbWZ3bVZXTFdjQXpHV01aUzU0QXhVTDFBUk1CZzdIZlB3bXVnVW03dElCMzlJb0VNUUp2VVR6RVkxbDE0RVY4RjVLeVlaanJBenMtdDB0TWN0amdXRHlDR3ZEcy1LMzhkXw?oc=5",
+      "pub": "Mon, 12 Oct 2026 21:00:00 GMT"
     }
   ],
   "signal": {
     "text": "시장 조정 국면. 손절보다 비중 축소 후 상황을 지켜보세요.",
     "type": "negative"
   },
-  "one_liner": "코스피 📉 소폭 약세 · 코스닥 📉 소폭 약세"
+  "one_liner": "코스피 🔻 약세 · 코스닥 🔻 약세"
 }
