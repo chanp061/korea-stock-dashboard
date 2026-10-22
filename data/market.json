@@ -1,40 +1,40 @@
 {
-  "updated_at": "2026년 10월 21일 09:15",
-  "updated_date": "2026-10-21",
+  "updated_at": "2026년 10월 22일 09:19",
+  "updated_date": "2026-10-22",
   "kospi": {
-    "price": 5552.74,
-    "change": -215.27,
-    "pct": -3.73,
-    "label": "약세",
-    "emoji": "🔻"
+    "price": 5735.66,
+    "change": 182.92,
+    "pct": 3.29,
+    "label": "강세",
+    "emoji": "🚀"
   },
   "kosdaq": {
-    "price": 781.97,
-    "change": -12.81,
-    "pct": -1.61,
+    "price": 792.76,
+    "change": -16.13,
+    "pct": -1.99,
     "label": "약세",
     "emoji": "🔻"
   },
   "sp500": {
-    "price": 7712.57,
-    "change": 21.84,
-    "pct": 0.28
+    "price": 7757.17,
+    "change": 44.6,
+    "pct": 0.58
   },
   "nasdaq": {
-    "price": 26424.82,
-    "change": -6.07,
-    "pct": -0.02
+    "price": 26702.86,
+    "change": 278.04,
+    "pct": 1.05
   },
   "usdkrw": {
-    "price": 1324.88,
-    "change": -1.95,
-    "pct": -0.15
+    "price": 1326.52,
+    "change": -0.1,
+    "pct": -0.01
   },
   "news": [
     {
-      "title": "삼전닉스 실적도 역대급인데…\"한국 주식, 코로나 때보다 헐값\" 왜? - 머니투데이 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01Y2RMck1PeG5vZHNmRXZad3ZjWWxEckt5MURmWWptZHhpNi05cEcwWkFrcHdEbWhuS3pjaEprTmpoeGxUeUp3QUpOWGNZSHkyY09fSUE0VEQyZWR0Z3FGMGtfNkl6UkhQ0gFuQVVfeXFMUHRIdDdwUE15TnhuUE9ybFEzbnd2cHdzNjRSdWZURm5xc1p6SENDME14alIxeFpOM0Y3Ymh3UUd0RHBmNng5dHRFZWVXWmtCOGRKQ0NPOVBGa0NLRW5HLUl3bmlOOTNzLVl3STh1WlE?oc=5",
-      "pub": "Tue, 20 Oct 2026 07:13:12 GMT"
+      "title": "美 빅테크 실적 발표 앞둔 코스피, 장초반 강세 - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vZ2RCUXVvSmRnMzJSanNHWEZzU2RHSjdnVWx6N2pMc1RIYWY5Nk9XdXdIYnZoV0o1d2ppemxzc1VvdExSekFPc3Jwa2h4TUREMGhBaXJBbUdDeHdTRlpoN2dtcU9TVGxT0gFuQVVfeXFMTlF4eDl3TzN5NTU0S0FQcHRCaHpaMUdJdGgwNW94MHpXWXY1elhUQmFLdWVnUURBbTdrSGZ3TlF0R2xtalQzSUJNc0tfQjZVVzdwUVZnaUlPU2R6dmRzRzRKaVRlLXlDZlNBWXpaelE?oc=5",
+      "pub": "Wed, 21 Oct 2026 00:22:01 GMT"
     },
     {
       "title": "황현희 \"주식 투자, 목에 칼 들어와도…\" 코스피 하락 속 발언 재조명, 왜? - 이코노미스트",
@@ -42,29 +42,29 @@
       "pub": "Mon, 19 Oct 2026 04:56:00 GMT"
     },
     {
-      "title": "삼성증권 \"모니모서 신규 계좌 개설시 코스피200 주식 증정\" - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45dHp0a0hBck56STNRSXV4SlpBNFNRZUdzX19vVUotTG93S2FHdkdKXzg1QnVmcGdCN2pzSDZNbFpodW5tRU51SWdmSnl3SmZZWVBFSHV3T2FyZmPSAWBBVV95cUxQQTZEckNmUDhyYlNWeURhSU5pdWZYd3M1Wm80UEw3T25wVTd5cTZvSlRmZmh5MjY1YVB5Ny1RRzY2QW02ZXQ3YjItTXVrVHcwU2JQVGtHbWNBcVJKOHJwT3g?oc=5",
-      "pub": "Tue, 20 Oct 2026 11:09:32 GMT"
+      "title": "[코스피·코스닥 전 거래일(21일) 주요공시] - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56WUZSblVBczV2UHlST3FaTXBRZGRhdk03Y1h1Y2t0SmNNMzJ4MmFRNkljcjlYWlV1VWxBYUJidmNES2E5bjFIVjJqU0Zid3pfV2dMS1hnQXBzdXPSAWBBVV95cUxORzN6RGNIckd2NjlIdlVkUENJaHNjd1JnaVczX3FPQnBEbGVTWWZsdWYtcnZqOUdlaTZnS1dXcVlDTTBaZ2QtcG9BN1l2OGJsTVIyRURMVFpOekxvZVFMd2k?oc=5",
+      "pub": "Wed, 21 Oct 2026 21:05:00 GMT"
     },
     {
-      "title": "\"팔아야 하나, 버텨야 하나, 물타야 하나\"…20% 무너진 코스피에 무력감만 [개미의 세계] - 파이낸셜뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NM1VHSTlJNDlPYU9lNFVVc2VHY1RXdkxrbnhubUtHVUtadk13UzhVZWZfOGFLbjRtUmlsZ3BMWlZVTVh2WF85ZG9PamNwSW95aVhHMnFvV1E4QQ?oc=5",
-      "pub": "Tue, 20 Oct 2026 11:00:00 GMT"
+      "title": "[마감] 코스피 3% 상승, 美 실적 기대감… 돌아온 외인 매수 - IT조선",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DMUc0NkIxeHQtUS0yLVBtRHloalB4ZUlDdGJ3WUdDdndNSmxZeVVJTXQzMUhzc2wwRVVqVU41S0JFQ3pndlBzb2Z1U3gtUUpBOGYxZU41S3E5anpkYWxMMGxGVXBDekZCN29zbXBOd2TSAXRBVV95cUxQSjdMSGdzWjFBazhXeFBqa01jdFZjb0JSTTJ4aXktZlU5em8zSXNkNWlzOUtyMFg0VmlZQ1FhVFpjMVFLSTNMRDNHWUZjYkRsQW9EYl9TRTlndEFIZ3NNSGZDSmNnZjdjMTdfT0Z0dEpIUnp6Tw?oc=5",
+      "pub": "Wed, 21 Oct 2026 07:07:32 GMT"
     },
     {
-      "title": "주식 반토막, 결혼 자금 2억 날린 30대…“프러포즈까지 했는데, 뭐라 말해야하나” - 전자신문",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5WQ0tRRDJmU2pkeUFnUmtPcjJkbF9oS2h0SWY5dndhX3lFM0NyeHY0bVI5eGlaX0I1MWJIYU43clRTY2RXdTJOVldlZHVMZw?oc=5",
-      "pub": "Tue, 20 Oct 2026 01:47:59 GMT"
+      "title": "\"코스피 단기 반등했지만 바닥 아니다\"…김영익 교수의 경고 - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5IcGRaSGZfamNYWFNFLUwxX1R0Z3dhb2xnOWJnbkJzcnVRcXB5QXVoNlRHZjZhZ2pSY25rOUx4eGs4VEx2WnNqa0dFOEI2ZWtnTWltMGNsanlldXAySEREYdIBeEFVX3lxTE1zZU01bGlWNVNEeDhuSnhGdjRucTJNMzFFZm1RN1NfQ1diNkxEbTRVVG84OXJtSm5Ed01ZMGpNeTZiRktnaE5na1ZWSThVU1dDTG9GR2lOcDFNWHdVY3NMVGhjcXpMTDZza1NsY19VLW41NXNTS3Y0eA?oc=5",
+      "pub": "Wed, 21 Oct 2026 15:00:00 GMT"
     },
     {
-      "title": "\"코스피에 질렸다\"…서학개미 美주식 4.3배 더 샀다 - 데일리안",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPN3VfTzVxaXQ4TWlxNmhTYjRnWGFLdjMzWkNxQUhWMy1hclBIQk51SWVFNEhiWlpPTEY2ZUk2RTAwM2xkQTlYOXZEa1U0V2ZfeG5YRGFoWGVlQWlfSVdQNXJRVjNTTndhR0UwTGZjNzRWRTcydEZoYldyeHJ2STc4cE1mUFFYV2ZFOXZJaUhKampGWFRVTTczcUxPWkM0VVhMVXdyUEtIU21nbkNCYnQ5YklVcHV6ZFNTcXJjOWRCUGZDNVE5STFBb28xejRqZVZIb2tTOGxWbVhveXlfdUJIODBBR2d5M1REcWxKcU1XNG1OV295VFJUMWRJVE0xbVlJcldERzZOTXRMTFpK?oc=5",
-      "pub": "Tue, 20 Oct 2026 22:04:00 GMT"
+      "title": "\"새 주인 맞는다\" 코스피 폭락 뚫고 35% 상승...국내 1위 업체는? - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RWEFwM1hTM0JUVUZaemI4aHdQMzVtVjlnZlJRMG5mSHFGX1lsWUphREdqbTNZb1pFTnRNcHhIZEVBQXpTQ0R1cVNScVhwd2tBX3RGTFM5SFJtUQ?oc=5",
+      "pub": "Wed, 21 Oct 2026 08:04:53 GMT"
     }
   ],
   "signal": {
-    "text": "시장 조정 국면. 손절보다 비중 축소 후 상황을 지켜보세요.",
-    "type": "negative"
+    "text": "소폭 상승권. 뚜렷한 방향성보다 관망이 적절합니다.",
+    "type": "neutral"
   },
-  "one_liner": "코스피 🔻 약세 · 코스닥 🔻 약세"
+  "one_liner": "코스피 🚀 강세 · 코스닥 🔻 약세"
 }
