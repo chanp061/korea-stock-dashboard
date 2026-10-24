@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026년 10월 24일 09:09",
-  "updated_date": "2026-10-24",
+  "updated_at": "2026년 10월 25일 08:52",
+  "updated_date": "2026-10-25",
   "kospi": {
     "price": 5550.3,
     "change": 16.53,
@@ -22,24 +22,24 @@
   },
   "nasdaq": {
     "price": 25955.34,
-    "change": -53.52,
+    "change": -53.56,
     "pct": -0.21
   },
   "usdkrw": {
-    "price": 1323.66,
-    "change": -1.74,
-    "pct": -0.13
+    "price": 1325.4,
+    "change": 0.0,
+    "pct": 0.0
   },
   "news": [
     {
-      "title": "코스피 낙폭 키우는 배경은…\"뚜렷한 매수 주체 없다\" - 연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfNTB3QXJRN3poYmRtemE4Vkh3MEVwSWZYMllGYzM4cnBGZklOMHBUa28zY0hBMzUyMXdWUF9lU0FGYV9velRkc1VvX19lS2hIQWx2dm0zamFSNDhHZ1dSR1MyYnZ1dkJ1X3lOY0JNSzA?oc=5",
-      "pub": "Thu, 22 Oct 2026 05:14:00 GMT"
+      "title": "[경제 포커스] 코스피 하락에 소비 위축 우려… “주식 1000만원 하락 시 소비 15만원 줄어” - 조선비즈 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcW1LN0xtRTV3WDluSEtEeUNOb1hPZXpMc3FZcHRDeDhZS0pOaUl0S2oxUzFudEoyVUlhTEFVbUNvYWFfZnVWa2NKLVpiWVRfeFl1MzRLSzAzNWJ2ZDc3WVBOMFhZT3p0eXltZmlJZ0tCYkw5NjR1T0RJYk9UU3p5RnJYTXp4d9IBmgFBVV95cUxOYzZ1NmlVdUY0S1BHMFdQeXJSSG9waERvOW90TEdRcEd3bHhuTzl3SVU0amtFRzRmc3lGSHlTUUN4TnRvWS1Fa3BjMTJld1VacG9xNm9sbTA2SXZFaFlJNW1lZWdEakMwUFNSQlBsV0lHNFloVm4wNldCcGJBTktRTXJaUVBkZUhXbWRGNEJOUnRXQnB4VnlULWh3?oc=5",
+      "pub": "Fri, 23 Oct 2026 05:46:00 GMT"
     },
     {
-      "title": "파랗게 질린 계좌, 열어보기도 싫었는데…＂내년 코스피 8500 갈 것＂ 10월 급락장 속 파격 전망 - 한국경제TV",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11elMtdVhjdnZGZDl2NmhjVkszMXpDVVZ6QmhINUVKaVBuZzNtX2VBNnoxaHBQNkVMajAtMWJwREtGUkN5RU5qSktaRGx3REFEMnVobE9sOE5Ia1AzcGpTdm5XVWVDOGdzaWpJOU1BOFEtcndwRGRN?oc=5",
-      "pub": "Thu, 22 Oct 2026 05:14:00 GMT"
+      "title": "55조원 매수 끝낸 삼전·닉스…코스피 다음 '수급 방파제' 누구 - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MdUFDVmJ3LXlZMXcxbUtualRzWnBpWDkteTZoenoxejQtRnVqdUFxdG9mNWx4cldRLS04S093YzR4SlIwUWY3cnpxSk9XSHJCZXpycFNzUGZkMWoxcnR2VllLSEM2QXlZSGFXNVNyRVQ?oc=5",
+      "pub": "Fri, 23 Oct 2026 23:10:16 GMT"
     },
     {
       "title": "투자자예탁금 4개월여만에 51조 감소…올해 최저 수준으로 뚝 - 매일경제 마켓",
@@ -47,14 +47,14 @@
       "pub": "Fri, 23 Oct 2026 23:00:04 GMT"
     },
     {
-      "title": "정부 ‘코스피 8000’ 띄우기… “세계 어느 나라도 안 해” - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ3pFVFNmMGtiTnQ0cFpBVXl3RHd2Q3ZVTW12NkFEMEwxb1c2eVJrMnV3QnQ5OV9tRGxvS2VkcUEtdU1OLVZQZXhEY1R1SmxibExaZHBDVVlFWGlWNU1UWFZmaDNKWW81S3huc3NEZ1B2eTA4UWZ1QkxjVWQ4MC10Q3YzN19Rdw?oc=5",
-      "pub": "Thu, 22 Oct 2026 18:00:00 GMT"
+      "title": "\"코스피 올랐다는데 내 주식만 왜?\"…개미 10명 중 8명이 폭망 한 기막힌 이유 [머니 시그널] - 파이낸셜뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uQVRRSmZVQWNpbVlqQXUwVDVJQWluOTVNNk1fTFJEUjgxd0VjZkhUb1R0QjlwMVN0bTZZbktiUDQ3QmQydlRfOGhZY0xSZUJNUWFfTkpDQVZLdw?oc=5",
+      "pub": "Sat, 24 Oct 2026 10:00:00 GMT"
     },
     {
-      "title": "\"곧 코스피 반등 기회 온다…급락 시 조금씩 매수해야\" - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13ajVuclQ2LVk1X2hfMl81aFBIOExRZTZ0RWhhX2NyMWNYYWM2T2wzOGxhaEQ2R0xPNzViVmhqRklnM0RaSlA1S1BlZzNJYXlHWnpaamtHMm9CUQ?oc=5",
-      "pub": "Thu, 22 Oct 2026 07:00:00 GMT"
+      "title": "\"목에 칼 들어와도 안 사\" 다주택자 개그맨, 3개월 뒤 '코스피' 보니 - 땅집고",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Md19aeE5OZFpfVzMtTnhOdUNKVExXV2VSQTdwbi1Dc1hVdnNNbkdhQzZkSWo1WlhlMmpPVFBjTFhodUR2YUFQMjlOMWtpeDhBY0pIejFTQ3g1Zy1nZmQ4aTFFUEVSU2lNSVdvQ0dyN3RhNkdSeGt3ZldLeTR5bkHSAXNBVV95cUxPeW5HTHU5ZE1yaGhCbjgwWXBmQmFuOXptaUdkVEhzV21ET0lsUzBNVHRGRmR1dFVydkJqY1p6b2pyTGRZeE84dWN6UTE3R241R25EcHZETktwdXpZSUotWl9fNWtHaWNsTDJCeEJCZC1lWGI4?oc=5",
+      "pub": "Fri, 23 Oct 2026 21:00:00 GMT"
     },
     {
       "title": "[아! 코스피] ④ 국민연금 보유주식 평가액 182조 줄어…반도체 쏠림에 부담↑ - 뉴스핌",
