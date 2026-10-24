@@ -1,70 +1,70 @@
 {
-  "updated_at": "2026년 10월 23일 09:15",
-  "updated_date": "2026-10-23",
+  "updated_at": "2026년 10월 24일 09:09",
+  "updated_date": "2026-10-24",
   "kospi": {
-    "price": 5533.77,
-    "change": -201.89,
-    "pct": -3.52,
-    "label": "약세",
-    "emoji": "🔻"
+    "price": 5550.3,
+    "change": 16.53,
+    "pct": 0.3,
+    "label": "소폭 강세",
+    "emoji": "📈"
   },
   "kosdaq": {
-    "price": 764.1,
-    "change": -17.87,
-    "pct": -2.29,
+    "price": 751.69,
+    "change": -12.41,
+    "pct": -1.62,
     "label": "약세",
     "emoji": "🔻"
   },
   "sp500": {
-    "price": 7663.43,
-    "change": -93.74,
-    "pct": -1.21
+    "price": 7623.68,
+    "change": -39.75,
+    "pct": -0.52
   },
   "nasdaq": {
-    "price": 26008.86,
-    "change": -694.0,
-    "pct": -2.6
+    "price": 25955.34,
+    "change": -53.52,
+    "pct": -0.21
   },
   "usdkrw": {
-    "price": 1325.68,
-    "change": 0.28,
-    "pct": 0.02
+    "price": 1323.66,
+    "change": -1.74,
+    "pct": -0.13
   },
   "news": [
     {
-      "title": "[마감] 빅테크 호실적도 역부족… 코스피 3% 급락 - IT조선",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wUTJqTTZhZFRXU0o0TmR6MkV2aV9sMFMzMEUtNDJmY3lIdXZQQk1yQmZaQmtnU1E1NXNCMVpCSll0NzV2ZWRLSW9BcW1zM3d6R3UtTVBBRlRFVVBKcGZGUXZBTjFNYm9PaTk5R1NMbHnSAXRBVV95cUxNRVBYZXZiYkZLcXI2LTNjaVEyNlBqM0c2eFU2Uzk0Qkg2eTNxbVpYNENYcUdac2pQQWFOUzRhN3RQUklaY0dHQ2NKRFZ3aW1XRHctTlJYNjR2c2lIOFRVbDNvZkctd3YtVjBOM3FPZHFLZEthTQ?oc=5",
-      "pub": "Thu, 22 Oct 2026 07:14:38 GMT"
+      "title": "코스피 낙폭 키우는 배경은…\"뚜렷한 매수 주체 없다\" - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfNTB3QXJRN3poYmRtemE4Vkh3MEVwSWZYMllGYzM4cnBGZklOMHBUa28zY0hBMzUyMXdWUF9lU0FGYV9velRkc1VvX19lS2hIQWx2dm0zamFSNDhHZ1dSR1MyYnZ1dkJ1X3lOY0JNSzA?oc=5",
+      "pub": "Thu, 22 Oct 2026 05:14:00 GMT"
     },
     {
-      "title": "美 빅테크 실적 발표 앞둔 코스피, 장초반 강세 - 머니투데이 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vZ2RCUXVvSmRnMzJSanNHWEZzU2RHSjdnVWx6N2pMc1RIYWY5Nk9XdXdIYnZoV0o1d2ppemxzc1VvdExSekFPc3Jwa2h4TUREMGhBaXJBbUdDeHdTRlpoN2dtcU9TVGxT0gFuQVVfeXFMTlF4eDl3TzN5NTU0S0FQcHRCaHpaMUdJdGgwNW94MHpXWXY1elhUQmFLdWVnUURBbTdrSGZ3TlF0R2xtalQzSUJNc0tfQjZVVzdwUVZnaUlPU2R6dmRzRzRKaVRlLXlDZlNBWXpaelE?oc=5",
-      "pub": "Wed, 21 Oct 2026 00:22:01 GMT"
+      "title": "파랗게 질린 계좌, 열어보기도 싫었는데…＂내년 코스피 8500 갈 것＂ 10월 급락장 속 파격 전망 - 한국경제TV",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11elMtdVhjdnZGZDl2NmhjVkszMXpDVVZ6QmhINUVKaVBuZzNtX2VBNnoxaHBQNkVMajAtMWJwREtGUkN5RU5qSktaRGx3REFEMnVobE9sOE5Ia1AzcGpTdm5XVWVDOGdzaWpJOU1BOFEtcndwRGRN?oc=5",
+      "pub": "Thu, 22 Oct 2026 05:14:00 GMT"
     },
     {
-      "title": "[인터뷰] 현대차증권 센터장 \"지금은 버텨야…4분기 코스피 5,300∼7,200\" - 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fUUpDMnFnX1FJVmRzcmZwazczaXAzS2hGb1RzbFZ4Qk8wWTZVYzhjS1RBZzM3UDFQUFpaTUZNcnB5NjZuOW1BLWNBeFl3TXBNNlE?oc=5",
-      "pub": "Thu, 22 Oct 2026 22:00:02 GMT"
+      "title": "투자자예탁금 4개월여만에 51조 감소…올해 최저 수준으로 뚝 - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zWnh6dHZqOVdVVmhXWVJaUFpoTy1RNE5pTS11ZkxkM3RLOUhDa25MdEctM1pUcUVZZS03NUVZejFlMTZGY1VMbWVTeTV5VWZFZXc?oc=5",
+      "pub": "Fri, 23 Oct 2026 23:00:04 GMT"
     },
     {
-      "title": "\"코스피 단기 반등했지만 바닥 아니다\"…김영익 교수의 경고 - 뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5IcGRaSGZfamNYWFNFLUwxX1R0Z3dhb2xnOWJnbkJzcnVRcXB5QXVoNlRHZjZhZ2pSY25rOUx4eGs4VEx2WnNqa0dFOEI2ZWtnTWltMGNsanlldXAySEREYdIBeEFVX3lxTE1zZU01bGlWNVNEeDhuSnhGdjRucTJNMzFFZm1RN1NfQ1diNkxEbTRVVG84OXJtSm5Ed01ZMGpNeTZiRktnaE5na1ZWSThVU1dDTG9GR2lOcDFNWHdVY3NMVGhjcXpMTDZza1NsY19VLW41NXNTS3Y0eA?oc=5",
-      "pub": "Wed, 21 Oct 2026 15:00:00 GMT"
+      "title": "정부 ‘코스피 8000’ 띄우기… “세계 어느 나라도 안 해” - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ3pFVFNmMGtiTnQ0cFpBVXl3RHd2Q3ZVTW12NkFEMEwxb1c2eVJrMnV3QnQ5OV9tRGxvS2VkcUEtdU1OLVZQZXhEY1R1SmxibExaZHBDVVlFWGlWNU1UWFZmaDNKWW81S3huc3NEZ1B2eTA4UWZ1QkxjVWQ4MC10Q3YzN19Rdw?oc=5",
+      "pub": "Thu, 22 Oct 2026 18:00:00 GMT"
     },
     {
-      "title": "\"고금리 버티면 내년 코스피 8500\"…믿어도 될까? - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXVlpSSlExckJXMTF1MTJjVDMyMUt4MFlyNDJwWEtQUmpCX2xlbjZOVWcxNjVXNFVXU3FybzFDTldybnVpLWp1c29RdWxTWUNSZ3YwNzFwcGFEdw?oc=5",
-      "pub": "Thu, 22 Oct 2026 04:01:44 GMT"
+      "title": "\"곧 코스피 반등 기회 온다…급락 시 조금씩 매수해야\" - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13ajVuclQ2LVk1X2hfMl81aFBIOExRZTZ0RWhhX2NyMWNYYWM2T2wzOGxhaEQ2R0xPNzViVmhqRklnM0RaSlA1S1BlZzNJYXlHWnpaamtHMm9CUQ?oc=5",
+      "pub": "Thu, 22 Oct 2026 07:00:00 GMT"
     },
     {
-      "title": "코스피 아시아 주요국 증시 중 가장 큰 폭 하락, 정부 '증안펀드 재가동·공매도 중단' 카드 꺼낼까 - 비즈니스포스트",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBXaGRUdUYtTWRfTlVwYmRhbnRJT3BranRvdURfWHZGNTlvUmkxZFJlNFJxSDNvZVVTZV9IZUtHSVdVNUNtbFRzVWVjVWFCOF9zTUlfejFZNnlHMVlleW5fQnV6NGRpbDhmX1FXbW5mckh4aGs?oc=5",
-      "pub": "Thu, 22 Oct 2026 07:00:23 GMT"
+      "title": "[아! 코스피] ④ 국민연금 보유주식 평가액 182조 줄어…반도체 쏠림에 부담↑ - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CSng5RkxMN0dEdjZyd29YVTVQT1FBdG1felc1c3d6NHpMeEstU2NUeHh0blJkX1VRZW9yWEk1eGlabWhtbWNMNmR6UUU2VGRvaEgybERmOENoeWxN?oc=5",
+      "pub": "Fri, 23 Oct 2026 22:00:00 GMT"
     }
   ],
   "signal": {
-    "text": "시장 조정 국면. 손절보다 비중 축소 후 상황을 지켜보세요.",
-    "type": "negative"
+    "text": "소폭 하락권. 패닉셀보다 분할 매수 기회를 살펴보세요.",
+    "type": "neutral"
   },
-  "one_liner": "코스피 🔻 약세 · 코스닥 🔻 약세"
+  "one_liner": "코스피 📈 소폭 강세 · 코스닥 🔻 약세"
 }
