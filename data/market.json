@@ -1,70 +1,70 @@
 {
-  "updated_at": "2026년 10월 26일 08:41",
-  "updated_date": "2026-10-26",
+  "updated_at": "2026년 10월 27일 10:00",
+  "updated_date": "2026-10-27",
   "kospi": {
-    "price": 5550.3,
-    "change": 16.53,
-    "pct": 0.3,
-    "label": "소폭 강세",
-    "emoji": "📈"
+    "price": 5680.7,
+    "change": 211.23,
+    "pct": 3.86,
+    "label": "강세",
+    "emoji": "🚀"
   },
   "kosdaq": {
-    "price": 751.69,
-    "change": -12.41,
-    "pct": -1.62,
-    "label": "약세",
-    "emoji": "🔻"
+    "price": 752.06,
+    "change": 24.85,
+    "pct": 3.42,
+    "label": "강세",
+    "emoji": "🚀"
   },
   "sp500": {
-    "price": 7623.68,
-    "change": -39.75,
-    "pct": -0.52
+    "price": 7676.77,
+    "change": 53.09,
+    "pct": 0.7
   },
   "nasdaq": {
-    "price": 25955.34,
-    "change": -53.56,
-    "pct": -0.21
+    "price": 26169.38,
+    "change": 214.04,
+    "pct": 0.82
   },
   "usdkrw": {
-    "price": 1323.46,
-    "change": -1.94,
-    "pct": -0.15
+    "price": 1323.78,
+    "change": -1.39,
+    "pct": -0.1
   },
   "news": [
     {
-      "title": "\"반등은 쥐꼬리, 낮아지는 저점\" … 코스피, 美앤트로픽 상장 '복병' 만났다 - 뉴데일리",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA3a1JaUnl3d0NIR1BhaWNiN3pHdHBjR2JUbWNYLWhhVzJMWUpETUQ3VUEtbHJhWG5ZamJQZzFOaGFyWGN5bnNrS2F0YklEZ0plclEySWswOFBnZkNpS1VqN3hPS3RjVF9NRS1FazZQLXF2WUhXaW1rUzd1ONIBgAFBVV95cUxPUmt2MzdjNndTSW9yN2VTUnBCY1dXM3RwektBY0p2a0Y4R2wwRDEyU0hxeGdOSVZDVC1tLVdOZFUwVUozNDZQaXBIdFVIU3QxS3oxRmZDSWc0LUEzMk4wOW1CdGlSUk9yU3VhVlR1STh2T2RMd3dobnRjQXA1ZlI5bQ?oc=5",
-      "pub": "Fri, 23 Oct 2026 07:00:00 GMT"
+      "title": "코스피, 3.46% 오른 5658.65 출발…코스닥도 2.18%↑ - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4OE5MZVgxOEUyeWtUa0Z1MlBRNmtaTmduWTVfVkg4Qkc3bW5lcGJGXzhhS3hOSGgzM2RpZmRGa3UzYWlSMDdHck5jNjgtSGwxNmFrRHhJMXEwaDlyUE0zMnhaOHJEcVNNcmtjQ1NERnXSAXRBVV95cUxPX3lCejJ5VDFlVllPR1ZxNWpHZmpMQzM3ZzlYUE5wbmNLblp3RHpwcVVCUl9MOXZiUDJDVGNrZERmejhuNDhHdVFVOWRtTGM3b0V1andKVUhQOXZZbklzOUV5YnN5SE9NVXIweEVYSHdwOE1qWg?oc=5",
+      "pub": "Tue, 27 Oct 2026 00:02:24 GMT"
     },
     {
-      "title": "[경제 포커스] 코스피 하락에 소비 위축 우려… “주식 1000만원 하락 시 소비 15만원 줄어” - 조선비즈 - Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcW1LN0xtRTV3WDluSEtEeUNOb1hPZXpMc3FZcHRDeDhZS0pOaUl0S2oxUzFudEoyVUlhTEFVbUNvYWFfZnVWa2NKLVpiWVRfeFl1MzRLSzAzNWJ2ZDc3WVBOMFhZT3p0eXltZmlJZ0tCYkw5NjR1T0RJYk9UU3p5RnJYTXp4d9IBmgFBVV95cUxOYzZ1NmlVdUY0S1BHMFdQeXJSSG9waERvOW90TEdRcEd3bHhuTzl3SVU0amtFRzRmc3lGSHlTUUN4TnRvWS1Fa3BjMTJld1VacG9xNm9sbTA2SXZFaFlJNW1lZWdEakMwUFNSQlBsV0lHNFloVm4wNldCcGJBTktRTXJaUVBkZUhXbWRGNEJOUnRXQnB4VnlULWh3?oc=5",
-      "pub": "Fri, 23 Oct 2026 05:46:00 GMT"
+      "title": "[마감] 코스피, 5400대로 ‘뚝’ 6개월래 최저 - IT조선",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxZXRYUTBnc2xhVFpCR2dzLUpGRWpmVWxvaUplNzc4UjJLX0ZURWxSRWZQcWpJQThSU3RUa0Q1cDgyblBaUHlMM3JUZmFZT0l1U0JwREcxbVVsZXRZMHlFc2NlRFV1WF9Dck95TlQyLUrSAXRBVV95cUxOdzlWSEVhbDUzS3JyelhwbGhMN0Q5S2JhQW92dUlKT2xab1prZkZkUFQ2cXQ4aklFTURPZ0ZCdzRzQ2tQcHYtZUZoVEVpT29iN1h6ejFKeG9ON3Vvd1NNay05TUNCbGtucEotZGJiaHRuVnc1RA?oc=5",
+      "pub": "Mon, 26 Oct 2026 07:35:11 GMT"
+    },
+    {
+      "title": "코스피 5658선 3.46% 급등 장세…삼성전자 얼마나 올랐나? - 위키트리",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqYjlJVmFoQzBfV0tQYUQ1RkltVlB5QV9ZSWNOcXVIMlFVb0V0Q1hpSHdWNUFaQkc4MkZ1SHFZSWlEeUZOTmpLVDQwRTFscVBPR1JPQnJ3?oc=5",
+      "pub": "Tue, 27 Oct 2026 00:13:00 GMT"
+    },
+    {
+      "title": "“반도체 언제까지 오를까요”...코스피 내년 주도주 바뀐다 - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Pc1dSNS1VdUlDc1YtSml2YzNFNVVNZ2Fxc2pSWGpLSDlaSU1sMnJIcmxaMkJGS2Q2NjQ3YndmT2tKeWFLeFlUN0RwZk1ETHN2Y2FKeg?oc=5",
+      "pub": "Mon, 26 Oct 2026 01:57:20 GMT"
     },
     {
       "title": "골드만삭스, AI 주식 매도세 속 코스피 목표치 25% 하향 - Investing.com 한국어",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QYjJmSmtzZFlDZmNPZklJTVJqY1JjV3NiZjBXX1paRlZCNHZNVWM1SUJqZWRic2JMQWRnOHJNa1dqa0RXQllyQWZoWmRqeXRlVU05eTYtYVZsVW5MdWFfdjRtaWNSVWxBdWc3Yzg1a1k?oc=5",
-      "pub": "Sun, 25 Oct 2026 14:46:39 GMT"
+      "pub": "Mon, 26 Oct 2026 06:15:21 GMT"
     },
     {
-      "title": "[코스피·코스닥 전 거래일(23일) 주요공시] - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50anN1MFlFZ1VrUHBtYl9hd09wbGg2d2JjQ09BTWRFQTZRRzhMeHdXeVlVNDFyTm02QzZaSWNYWldiT19EVXNLS0RaaHJvc19ZNUdkOGdZNnNjdnfSAWBBVV95cUxNQWh1dDNYajJxTGoyUkphYUo0dU52NUNuZjZ6MUxwaldiWGF5T1VRVElONlhpcktha0x3WUUyZWItTndzSW4ycFZQWVlYQ1FXSzE4Nl84TmpTbUdBQlRnaXE?oc=5",
-      "pub": "Fri, 23 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "title": "55조원 매수 끝낸 삼전·닉스…코스피 다음 '수급 방파제' 누구 - 연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MdUFDVmJ3LXlZMXcxbUtualRzWnBpWDkteTZoenoxejQtRnVqdUFxdG9mNWx4cldRLS04S093YzR4SlIwUWY3cnpxSk9XSHJCZXpycFNzUGZkMWoxcnR2VllLSEM2QXlZSGFXNVNyRVQ?oc=5",
-      "pub": "Fri, 23 Oct 2026 23:10:16 GMT"
-    },
-    {
-      "title": "주가는 우는데 원화는 웃는다…코스피·환율의 엇갈린 신호[주末머니] - 아시아경제",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBzb2JRM1ZHaU84MkpnbWJ4WHN4cVlfTW5PWnlhNnNENUxPX0xwUXlwRk1rTlVrbVhGTjRCSUlwaDNDVnJsczdWQTBJQWMya0RvUU5NOTJ1NGMyNHR0MUxuR01n?oc=5",
-      "pub": "Sun, 25 Oct 2026 00:11:00 GMT"
+      "title": "상위 1%, 코스피 약세에도 ‘삼전닉스’ 담았다 [주식 초고수는 지금] - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BdVRhV1BpWUtKMEN1MXpmZnpMZVF2TEFCeGh6LUNRZ1NicjJybnFpdk1KT2JJU2ZZRlVhQmFKSmxGSldCOWJkRFZNU2dDdWQxbFHSAVNBVV95cUxPSmlzWXZQdUkzcVR4YTdVbi1aNUFoOTBWOXlXYWI3WExNdFBVQUhET1dmY3RUTG1xNzMtVUNIdDdzRUxRMXlrRm5QbVp3cllreEFzdw?oc=5",
+      "pub": "Mon, 26 Oct 2026 07:07:00 GMT"
     }
   ],
   "signal": {
-    "text": "소폭 하락권. 패닉셀보다 분할 매수 기회를 살펴보세요.",
-    "type": "neutral"
+    "text": "오늘 시장은 강세입니다. 추격 매수보다 보유 전략이 유리할 수 있어요.",
+    "type": "positive"
   },
-  "one_liner": "코스피 📈 소폭 강세 · 코스닥 🔻 약세"
+  "one_liner": "코스피 🚀 강세 · 코스닥 🚀 강세"
 }
