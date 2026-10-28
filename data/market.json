@@ -1,65 +1,65 @@
 {
-  "updated_at": "2026년 10월 27일 10:00",
-  "updated_date": "2026-10-27",
+  "updated_at": "2026년 10월 28일 09:50",
+  "updated_date": "2026-10-28",
   "kospi": {
-    "price": 5680.7,
-    "change": 211.23,
-    "pct": 3.86,
+    "price": 5833.56,
+    "change": 195.22,
+    "pct": 3.46,
     "label": "강세",
     "emoji": "🚀"
   },
   "kosdaq": {
-    "price": 752.06,
-    "change": 24.85,
-    "pct": 3.42,
+    "price": 767.03,
+    "change": 23.2,
+    "pct": 3.12,
     "label": "강세",
     "emoji": "🚀"
   },
   "sp500": {
-    "price": 7676.77,
-    "change": 53.09,
-    "pct": 0.7
+    "price": 7722.6,
+    "change": 45.83,
+    "pct": 0.6
   },
   "nasdaq": {
-    "price": 26169.38,
-    "change": 214.04,
-    "pct": 0.82
+    "price": 26477.81,
+    "change": 308.43,
+    "pct": 1.18
   },
   "usdkrw": {
-    "price": 1323.78,
-    "change": -1.39,
-    "pct": -0.1
+    "price": 1330.58,
+    "change": 3.75,
+    "pct": 0.28
   },
   "news": [
     {
-      "title": "코스피, 3.46% 오른 5658.65 출발…코스닥도 2.18%↑ - 연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4OE5MZVgxOEUyeWtUa0Z1MlBRNmtaTmduWTVfVkg4Qkc3bW5lcGJGXzhhS3hOSGgzM2RpZmRGa3UzYWlSMDdHck5jNjgtSGwxNmFrRHhJMXEwaDlyUE0zMnhaOHJEcVNNcmtjQ1NERnXSAXRBVV95cUxPX3lCejJ5VDFlVllPR1ZxNWpHZmpMQzM3ZzlYUE5wbmNLblp3RHpwcVVCUl9MOXZiUDJDVGNrZERmejhuNDhHdVFVOWRtTGM3b0V1andKVUhQOXZZbklzOUV5YnN5SE9NVXIweEVYSHdwOE1qWg?oc=5",
-      "pub": "Tue, 27 Oct 2026 00:02:24 GMT"
+      "title": "코스피 매수 사이드카…SK하이닉스 7% 급등 - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMNWphcm1JT0J3NGU2M2xZX1ItT3BDVXpLU0NtSDJ2bl9DamFJUTJYbHM4aFlYa21sVjZ3TVIyNE1uR3Z2b3VhUTNxMERHV2QxWnZtTmZ1UzZwZVhMMGhQVTcxU1hHR0huX1k0NFVPZDDSAXRBVV95cUxNMEhiME5neXMtZV96Q3FBdHc4d0oxeFB2b25xMVYxRGtiakswMXEzRkxaMk90ajJQOU5TUFN2VXR0N2V5Y1JMd3Nacld4dGtIbXVkNkc3SFlmZnJyTlFLdHRvLWhlaDRQRDd6anFWVnNrc0NYTw?oc=5",
+      "pub": "Tue, 27 Oct 2026 01:17:44 GMT"
     },
     {
-      "title": "[마감] 코스피, 5400대로 ‘뚝’ 6개월래 최저 - IT조선",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxZXRYUTBnc2xhVFpCR2dzLUpGRWpmVWxvaUplNzc4UjJLX0ZURWxSRWZQcWpJQThSU3RUa0Q1cDgyblBaUHlMM3JUZmFZT0l1U0JwREcxbVVsZXRZMHlFc2NlRFV1WF9Dck95TlQyLUrSAXRBVV95cUxOdzlWSEVhbDUzS3JyelhwbGhMN0Q5S2JhQW92dUlKT2xab1prZkZkUFQ2cXQ4aklFTURPZ0ZCdzRzQ2tQcHYtZUZoVEVpT29iN1h6ejFKeG9ON3Vvd1NNay05TUNCbGtucEotZGJiaHRuVnc1RA?oc=5",
-      "pub": "Mon, 26 Oct 2026 07:35:11 GMT"
+      "title": "“있는 돈 없는 돈, 이미 다 끌어넣었나”…코스피 거래대금도 하락세 - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYY2Z5Y055VmxZNkFPSWtLcEdWdTZUUnhLWDdlbkJaMXlpZ1haczktcXQtX3VlUlRSU093cll5cjhobkxJVzlCWm8tTElleGFlclE?oc=5",
+      "pub": "Mon, 26 Oct 2026 12:30:23 GMT"
     },
     {
-      "title": "코스피 5658선 3.46% 급등 장세…삼성전자 얼마나 올랐나? - 위키트리",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqYjlJVmFoQzBfV0tQYUQ1RkltVlB5QV9ZSWNOcXVIMlFVb0V0Q1hpSHdWNUFaQkc4MkZ1SHFZSWlEeUZOTmpLVDQwRTFscVBPR1JPQnJ3?oc=5",
-      "pub": "Tue, 27 Oct 2026 00:13:00 GMT"
+      "title": "[논설위원의 단도직입]“코스피 5000대, 저평가 수준이지만…여전한 변동성 감안해 투자를” - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0c25sS1dhN0tJVXlhTEw2MXhQUGdOS1UtM3U4THJzYU5kYmVYMHFOX0wzNFRmejdiY0tJNGpEWmVYb2NQcmN3OVlmRXk2ejhYRzhrZ1FEWVR6QdIBX0FVX3lxTE9yS0xEekZLVlFYMVVyb2ZUUTJUNXozdm9BMmxwcmFpMUdMQkpHWERYQzlDRUhZYmNCV3dJWG4wT1ZCdmZnUno3REVkWVVNRm9ZdGdrdUlSNzBUanlRRzlN?oc=5",
+      "pub": "Tue, 27 Oct 2026 11:16:00 GMT"
     },
     {
-      "title": "“반도체 언제까지 오를까요”...코스피 내년 주도주 바뀐다 - 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Pc1dSNS1VdUlDc1YtSml2YzNFNVVNZ2Fxc2pSWGpLSDlaSU1sMnJIcmxaMkJGS2Q2NjQ3YndmT2tKeWFLeFlUN0RwZk1ETHN2Y2FKeg?oc=5",
-      "pub": "Mon, 26 Oct 2026 01:57:20 GMT"
+      "title": "\"내년 코스피 최대 8200\"...대신증권 \"반도체 저평가 지나쳐\" - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBRURvM1hsR0JtaU1lOWtaX0RzdlV6VnU0eUZZcTRwLWswR3VKd0FiTXlWTmJoZUtsbTBiSnU0a19adGtDMk4xODBaZzBkRmt4WU9vT2l6UTM4Zw?oc=5",
+      "pub": "Mon, 26 Oct 2026 23:11:30 GMT"
     },
     {
-      "title": "골드만삭스, AI 주식 매도세 속 코스피 목표치 25% 하향 - Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QYjJmSmtzZFlDZmNPZklJTVJqY1JjV3NiZjBXX1paRlZCNHZNVWM1SUJqZWRic2JMQWRnOHJNa1dqa0RXQllyQWZoWmRqeXRlVU05eTYtYVZsVW5MdWFfdjRtaWNSVWxBdWc3Yzg1a1k?oc=5",
-      "pub": "Mon, 26 Oct 2026 06:15:21 GMT"
+      "title": "코스피 40% 폭락에 지갑 더 닫힐라…'내수 한파' 심상치 않다 - 마켓인",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FS1pNS2RsLVYwYnZxZGFaR0VwZHlyOGpJa2FMejRjUmgyNkFZYTBKOW50M0JUR0tvR2V2aEVFU0FFbFR4VXpBNU9iOFBvcFlycmVtQlI2M3pvV1NUb25qNktVUmkweFBBLXFGQXA0VEFCYnM?oc=5",
+      "pub": "Mon, 26 Oct 2026 20:00:05 GMT"
     },
     {
-      "title": "상위 1%, 코스피 약세에도 ‘삼전닉스’ 담았다 [주식 초고수는 지금] - 서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BdVRhV1BpWUtKMEN1MXpmZnpMZVF2TEFCeGh6LUNRZ1NicjJybnFpdk1KT2JJU2ZZRlVhQmFKSmxGSldCOWJkRFZNU2dDdWQxbFHSAVNBVV95cUxPSmlzWXZQdUkzcVR4YTdVbi1aNUFoOTBWOXlXYWI3WExNdFBVQUhET1dmY3RUTG1xNzMtVUNIdDdzRUxRMXlrRm5QbVp3cllreEFzdw?oc=5",
-      "pub": "Mon, 26 Oct 2026 07:07:00 GMT"
+      "title": "[아! 코스피] ⑨ 코스피 5000은 바닥인가…반등 조건과 추가 하락의 위험 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxR0g2bnItQUFaTnFyMWIyY0VTeXVkR3RZV1B0cmdjSFZjell0SlVtNzNfVkxOV1JiTTFzMTZTcXlkU0JZQjI5Z2ZDbXRSWG5QUkd1a1Z5VTZ5d0Zt?oc=5",
+      "pub": "Tue, 27 Oct 2026 21:00:00 GMT"
     }
   ],
   "signal": {
