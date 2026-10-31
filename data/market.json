@@ -1,65 +1,65 @@
 {
-  "updated_at": "2026년 10월 30일 10:27",
-  "updated_date": "2026-10-30",
+  "updated_at": "2026년 10월 31일 10:16",
+  "updated_date": "2026-10-31",
   "kospi": {
-    "price": 5662.06,
-    "change": -275.6,
-    "pct": -4.64,
+    "price": 5730.74,
+    "change": -206.92,
+    "pct": -3.48,
     "label": "약세",
     "emoji": "🔻"
   },
   "kosdaq": {
-    "price": 729.29,
-    "change": -23.94,
-    "pct": -3.18,
+    "price": 724.38,
+    "change": -28.85,
+    "pct": -3.83,
     "label": "약세",
     "emoji": "🔻"
   },
   "sp500": {
-    "price": 7720.39,
-    "change": -23.59,
-    "pct": -0.3
+    "price": 7580.07,
+    "change": -140.32,
+    "pct": -1.82
   },
   "nasdaq": {
-    "price": 26184.72,
-    "change": -365.13,
-    "pct": -1.38
+    "price": 25437.0,
+    "change": -747.73,
+    "pct": -2.86
   },
   "usdkrw": {
-    "price": 1337.28,
-    "change": -1.71,
-    "pct": -0.13
+    "price": 1333.44,
+    "change": -5.55,
+    "pct": -0.41
   },
   "news": [
     {
-      "title": "코스피, 장중 4%대 급락…'매도 사이드카' 발동 - 연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lclF2U1R0TnNLNFdxMkZnU0hhTzhwbXJvcF9NV1BBRlR0a3lfMlB6N3V4YXoyT2xOWEhLMng5U1MwMGZZOXQzeURpUmlxNy1tZzZyblFkZ2R0SUp3YTFuZU80WkJ1YzhNUjVTcXY0bGPSAXRBVV95cUxOR21qRDNaNkpTbFVPVDFQTk54SUZsMzJqR2tiaU9iQkZjTk1veEROaHNJMFpOUGVJMDZjREtjMWVQRW5UaDBQT1FCNFFtcFdxTWhVc18ycUc3TUJkSHc2NlNpYUsyS1NNc1hyMWx1cjNKRGdGcg?oc=5",
-      "pub": "Fri, 30 Oct 2026 01:10:15 GMT"
+      "title": "코스피 3%·닛케이 2% 뚝 … 亞증시 '휘청' - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2ZG9oOEpUZk0wNVRwUXhDeEdOTENjMHNGZkRSSkhvRTBFMmltR0xSaV8zRFhEdXE4ZTBvQW5OLW0zVU5tRWJOaFQxYmZNdWJNcUE?oc=5",
+      "pub": "Fri, 30 Oct 2026 08:36:08 GMT"
     },
     {
-      "title": "유시민 \"재산? 100억의 반도 안돼…주식은 코스피 3000도 안될 때 샀다\" - 이데일리",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNR1g3TnQ5WXJfeDRVS0tDeHFmNi04MG05MWdvWlZDSklPTVRCTE55S25uTU1HLU9pSEhVWlFLNjlsMTlFM0NmajR2RVM5dzRVVFhGZHNKTmdmOXhEd3IxZGo3a3I2VEFXSDBkYjZWUHpGdk9kMXNoRkZqSkg2ZUc4Mw?oc=5",
-      "pub": "Thu, 29 Oct 2026 21:01:44 GMT"
+      "title": "“내 주식 앞으로 얼마나 벌까?”…코스피 93%·코스닥 99% 묵묵부답, 뭐 때문에 - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBlQjVNSGdISzNJUUdpZFEtSXpERE9MaE1jdTJwbGRVb1RnbDZ6ak1kdkw2RUtBVjNjTFl2XzU5M3NzNDIxMkszNmplWmVDUQ?oc=5",
+      "pub": "Fri, 30 Oct 2026 10:43:54 GMT"
     },
     {
-      "title": "[개장] 코스피, 1% 상승… 반도체株 기대감 지속 - IT조선",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GZjFYRmRLbTZZYXRITWVSQVV3UW94eFBPRllOMm82UnpXek1vR3RRdkdzZi12UkxlWE9DY3BOd2tNRlZ5WV9nSThpVGVnOU5YN0RSUHNkWWltc3A0VV9UaGljMUhyd1FKYlZtTUZnZ2TSAXRBVV95cUxQVFlTVnV2ZTJSN3NiQ1l5UTZPQWNjRjBvekFQZkdaVjkzT0l5aUlvdGtxU3MwQ1VDZWZSU3prZXhlaWoyZ0VPQkZpR2NyTXF1SnNuVmI0NDRnc25neWhKLXlESC1tUUNlN1ZnLXZ6RjZmM21Teg?oc=5",
-      "pub": "Thu, 29 Oct 2026 00:46:25 GMT"
+      "title": "\"원화 강세에 실적 악화 우려\"…글로벌 IB, 코스피 목표치 하향 조정 - 서울경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CY213eHpOVmZ3NURLODdCaUlTczlCVWlqUEl4cFlidHoyZ0lRMzZGMHpIY1ZDN0ZLd0Q4UUl1RHJjVldZeHg5Q1pMVlBGc2ZMLWY3c3lzVThRVzI4bHE5SkxJSWw?oc=5",
+      "pub": "Fri, 30 Oct 2026 23:00:04 GMT"
     },
     {
-      "title": "[오늘의 증시]'알파벳 충격'에 뉴욕증시 털썩…코스피, 위기감 고조 - 뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5MenY2S2tfMWREZl9iVkZkR1FhaElIc2s2THVGYlBzWDRkVjBvSVlrVkJvT2J5UXNaYkRwTVBPOTQ5bU5hMmRhVUpZMmRDMW1vRlZ3bm4yTGc2TjI3TEs5NdIBeEFVX3lxTE1YS2gyNGtPcVpLWnhFSFpvUDlYd3F4QnhuRGdiMVhDRlBQUzlHN2lIRVdnVW5acDJrUUhsYzBaajhvQnN6VjRVRmlMbjdPNmtWbExVZWc3Vk5wYzk0bk85bS0xbzdVZzRvZ0l0RWY3VE9qVklTYXVLZg?oc=5",
-      "pub": "Thu, 29 Oct 2026 22:56:55 GMT"
+      "title": "'6천피' 찍자 레버리지 ETF로…서학개미는 기술주 '픽' - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CS1d2Wm9wc1BFMU01ekJHUDBGRjBmcVZjY3BKS0RpdkkwMlE5SzhKQzRBeWJVOU5fbGhLWnVfNGI1S0hUWmVUR01uZGpxQXFmTXU4U3FKQlZkRm_SAWBBVV95cUxQMG5FT2h0REowRDhUV2t4alMwUFc5QXZ2T2F3VUhPb0xkYklFb2JtUHRyQTNjZTRoRjVsc1NUM3BfcFVqVFR1ZWpnOVRLSkNsa2gzWnM4NVVwSlA2Rk1NLWY?oc=5",
+      "pub": "Fri, 30 Oct 2026 23:00:05 GMT"
     },
     {
-      "title": "\"급락 딛고 반등 기대\"…내년 코스피 9000 전망하는 증권가 - 매일신문",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JS3dwazVSWW00VTZGOGpTSkZ6Sld4RjRZTzduN2lEVWZXZzNVM0xKOFRfSnJDb2VGbXZMZ2xQUEk5SThlVXpzRVB4NVM1ZlIxcGRxRmQyQlF0VmFPUjhBUnpn?oc=5",
-      "pub": "Fri, 30 Oct 2026 00:59:40 GMT"
+      "title": "코스피, 삼성전자 실적 발표 후 2%대 급락…6천선 다시 하회 - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43ZnVqNVRGUVg5X240cXFxd24wYWJDYnJjZVN0ZnVwclJ4LWpEOUlzanRJbnJMOUxibHRueHNfeklXc0l1YVV4LXlOLXZYSnpNeUlITnRvd2g4Rm80Z1lXSHItLVUxUmgtQnYwNVRyQ0Q?oc=5",
+      "pub": "Thu, 29 Oct 2026 02:10:00 GMT"
     },
     {
-      "title": "코스피, 3% 급락해 5700선…코스닥도 2%대 하락 - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qMHRpMmVLUWdkSkhPcDJVb0N2Wkd2X1AzNVJHSDZidWpaWlVITlRRR1lrZUxyY0dDUXNyWnhRcjJoYXR3NmpiTzdhbzZ2eUZ0V2x2SW5VMnJrdw?oc=5",
-      "pub": "Fri, 30 Oct 2026 00:11:25 GMT"
+      "title": "코스피 +6%대↑ 6,000선 탈환 - KB Think",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5QjBsLTFncF95c0tpVXRMVThCRWp4d1lKVWZXbW4xemRRRHAyVHdzUmpReHN3b3R6T2Z3M21PUVpFS1FtOXV2S3lGcG9qcHd5bWd4MzdHTjEySG1oMVB5TmxqdlJ4djN6bXBHNw?oc=5",
+      "pub": "Wed, 28 Oct 2026 07:01:39 GMT"
     }
   ],
   "signal": {
