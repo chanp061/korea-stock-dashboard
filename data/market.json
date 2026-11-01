@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026년 10월 31일 10:16",
-  "updated_date": "2026-10-31",
+  "updated_at": "2026년 11월 01일 09:34",
+  "updated_date": "2026-11-01",
   "kospi": {
     "price": 5730.74,
     "change": -206.92,
@@ -26,40 +26,40 @@
     "pct": -2.86
   },
   "usdkrw": {
-    "price": 1333.44,
-    "change": -5.55,
-    "pct": -0.41
+    "price": 1335.1,
+    "change": -3.89,
+    "pct": -0.29
   },
   "news": [
     {
-      "title": "코스피 3%·닛케이 2% 뚝 … 亞증시 '휘청' - 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2ZG9oOEpUZk0wNVRwUXhDeEdOTENjMHNGZkRSSkhvRTBFMmltR0xSaV8zRFhEdXE4ZTBvQW5OLW0zVU5tRWJOaFQxYmZNdWJNcUE?oc=5",
-      "pub": "Fri, 30 Oct 2026 08:36:08 GMT"
+      "title": "“주식창 열기 무섭다” 코스피 3%대 급락…SK하이닉스 6%↓[투자360] - 헤럴드경제",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YN25pWGdFa1BNY19PSlFmUWxDQm9NeDlha3NiQUtmMGg2TU80WVpnczN2aDg0R28xZFhKeTg2TDJIdVRfTF9uZFRzUkVvbFBNc1JPeGNn?oc=5",
+      "pub": "Fri, 30 Oct 2026 00:37:38 GMT"
     },
     {
-      "title": "“내 주식 앞으로 얼마나 벌까?”…코스피 93%·코스닥 99% 묵묵부답, 뭐 때문에 - 전자신문",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBlQjVNSGdISzNJUUdpZFEtSXpERE9MaE1jdTJwbGRVb1RnbDZ6ak1kdkw2RUtBVjNjTFl2XzU5M3NzNDIxMkszNmplWmVDUQ?oc=5",
-      "pub": "Fri, 30 Oct 2026 10:43:54 GMT"
+      "title": "코스피 절반 넘는 AI 공룡 앤스로픽 상장… 내 주식 괜찮을까 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTk80Y2dQaXZ6bVhDTXRzNXp2RXdudFpSeTV2dDE4Q2FOM2pXU3RjMzZTeGNxYU9jUHlQWERpOTRJMDBoRjBmS3c0UWhGZ3E4eWZnVUFLSS1iMnVYU0s2VkNGS2dSSHI1ZDFRSEVlekFPQUZITnNvUzgxWlMwbXJtdVdkUlZveWdfNnZoLUJn?oc=5",
+      "pub": "Sat, 31 Oct 2026 23:37:00 GMT"
     },
     {
-      "title": "\"원화 강세에 실적 악화 우려\"…글로벌 IB, 코스피 목표치 하향 조정 - 서울경제TV",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CY213eHpOVmZ3NURLODdCaUlTczlCVWlqUEl4cFlidHoyZ0lRMzZGMHpIY1ZDN0ZLd0Q4UUl1RHJjVldZeHg5Q1pMVlBGc2ZMLWY3c3lzVThRVzI4bHE5SkxJSWw?oc=5",
-      "pub": "Fri, 30 Oct 2026 23:00:04 GMT"
+      "title": "코스피 힘 못 쓰는데 2.8조 몰렸다…개미들 꽂힌 '이 상품' [이수의 ETF줌인] - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56TUFETkRiS2M5UGEtempTQ1B0ZmhqaDNjM0owVS1ycFo2RjRmVjQ3MHJyR2lKUjM5V0RQOWNvM3lPQmFwc1BoTGFOZjZ6SXJVN0l4N2N1NVlWZw?oc=5",
+      "pub": "Sat, 31 Oct 2026 06:00:03 GMT"
     },
     {
-      "title": "'6천피' 찍자 레버리지 ETF로…서학개미는 기술주 '픽' - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CS1d2Wm9wc1BFMU01ekJHUDBGRjBmcVZjY3BKS0RpdkkwMlE5SzhKQzRBeWJVOU5fbGhLWnVfNGI1S0hUWmVUR01uZGpxQXFmTXU4U3FKQlZkRm_SAWBBVV95cUxQMG5FT2h0REowRDhUV2t4alMwUFc5QXZ2T2F3VUhPb0xkYklFb2JtUHRyQTNjZTRoRjVsc1NUM3BfcFVqVFR1ZWpnOVRLSkNsa2gzWnM4NVVwSlA2Rk1NLWY?oc=5",
-      "pub": "Fri, 30 Oct 2026 23:00:05 GMT"
+      "title": "코스피 긴 호흡으로 볼때 … 반도체 소부장·증권주 주목 - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9SdHJZbFNmbUxVRTJVc09JTHRyWUJsUDRrUWpLY0taanVMSUVsRUpvbjJURG1IRmM3RmVtQUtESTZZMXE2Q0FDd2htc3FlYzhJWWc?oc=5",
+      "pub": "Fri, 30 Oct 2026 08:42:49 GMT"
     },
     {
-      "title": "코스피, 삼성전자 실적 발표 후 2%대 급락…6천선 다시 하회 - 연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43ZnVqNVRGUVg5X240cXFxd24wYWJDYnJjZVN0ZnVwclJ4LWpEOUlzanRJbnJMOUxibHRueHNfeklXc0l1YVV4LXlOLXZYSnpNeUlITnRvd2g4Rm80Z1lXSHItLVUxUmgtQnYwNVRyQ0Q?oc=5",
-      "pub": "Thu, 29 Oct 2026 02:10:00 GMT"
+      "title": "코스피 급락에 몸사리는 개미…뭉칫돈 향한 곳 봤더니 - 한국경제TV",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15QmR4MlhTZmJjYXBFR1ktQnpSakZzWEVrYWt2SmhXaW15ekRreTlEYlJMMEk1M1lLMEJhRTcxRGdGNWJfTW9vWWhsaHZIaXVlTzRMNkxiR3FFQVQtT2hFTC1WbGJNTGlxRWFnZm04TkR1UWxQOUlR?oc=5",
+      "pub": "Sat, 31 Oct 2026 22:57:00 GMT"
     },
     {
-      "title": "코스피 +6%대↑ 6,000선 탈환 - KB Think",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5QjBsLTFncF95c0tpVXRMVThCRWp4d1lKVWZXbW4xemRRRHAyVHdzUmpReHN3b3R6T2Z3M21PUVpFS1FtOXV2S3lGcG9qcHd5bWd4MzdHTjEySG1oMVB5TmxqdlJ4djN6bXBHNw?oc=5",
-      "pub": "Wed, 28 Oct 2026 07:01:39 GMT"
+      "title": "유시민 \"재산 100억 반도 안 돼…이재명 ‘코스피 5000’ 믿고 처음 주식 보유\" - JTBC",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAwaTNteGthcURMOVhHa1lVVlBuajJmQlBNWXNXUTM0ejRvTmxUd3FZckFoekhkdnJGQmtub1Y2ZDZ5eFVmWFdSMGxfcDJEQ1pSVjZYYg?oc=5",
+      "pub": "Fri, 30 Oct 2026 02:32:00 GMT"
     }
   ],
   "signal": {
