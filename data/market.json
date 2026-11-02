@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026년 11월 01일 09:34",
-  "updated_date": "2026-11-01",
+  "updated_at": "2026년 11월 02일 10:08",
+  "updated_date": "2026-11-02",
   "kospi": {
-    "price": 5730.74,
-    "change": -206.92,
-    "pct": -3.48,
-    "label": "약세",
-    "emoji": "🔻"
+    "price": 5748.2,
+    "change": 17.46,
+    "pct": 0.3,
+    "label": "소폭 강세",
+    "emoji": "📈"
   },
   "kosdaq": {
-    "price": 724.38,
-    "change": -28.85,
-    "pct": -3.83,
-    "label": "약세",
-    "emoji": "🔻"
+    "price": 725.38,
+    "change": 1.0,
+    "pct": 0.14,
+    "label": "보합",
+    "emoji": "➡️"
   },
   "sp500": {
     "price": 7580.07,
@@ -22,49 +22,49 @@
   },
   "nasdaq": {
     "price": 25437.0,
-    "change": -747.73,
+    "change": -747.7,
     "pct": -2.86
   },
   "usdkrw": {
-    "price": 1335.1,
-    "change": -3.89,
-    "pct": -0.29
+    "price": 1338.68,
+    "change": 5.24,
+    "pct": 0.39
   },
   "news": [
     {
-      "title": "“주식창 열기 무섭다” 코스피 3%대 급락…SK하이닉스 6%↓[투자360] - 헤럴드경제",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YN25pWGdFa1BNY19PSlFmUWxDQm9NeDlha3NiQUtmMGg2TU80WVpnczN2aDg0R28xZFhKeTg2TDJIdVRfTF9uZFRzUkVvbFBNc1JPeGNn?oc=5",
-      "pub": "Fri, 30 Oct 2026 00:37:38 GMT"
-    },
-    {
       "title": "코스피 절반 넘는 AI 공룡 앤스로픽 상장… 내 주식 괜찮을까 - 조선일보",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTk80Y2dQaXZ6bVhDTXRzNXp2RXdudFpSeTV2dDE4Q2FOM2pXU3RjMzZTeGNxYU9jUHlQWERpOTRJMDBoRjBmS3c0UWhGZ3E4eWZnVUFLSS1iMnVYU0s2VkNGS2dSSHI1ZDFRSEVlekFPQUZITnNvUzgxWlMwbXJtdVdkUlZveWdfNnZoLUJn?oc=5",
-      "pub": "Sat, 31 Oct 2026 23:37:00 GMT"
+      "pub": "Sun, 01 Nov 2026 03:15:02 GMT"
     },
     {
-      "title": "코스피 힘 못 쓰는데 2.8조 몰렸다…개미들 꽂힌 '이 상품' [이수의 ETF줌인] - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56TUFETkRiS2M5UGEtempTQ1B0ZmhqaDNjM0owVS1ycFo2RjRmVjQ3MHJyR2lKUjM5V0RQOWNvM3lPQmFwc1BoTGFOZjZ6SXJVN0l4N2N1NVlWZw?oc=5",
-      "pub": "Sat, 31 Oct 2026 06:00:03 GMT"
+      "title": "코스피 16% 급락하자 美주식으로…'서학개미' 순매수 연중 최대 - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WaUtuWTVwTzhaSUdKa0hmSjVtMnp5UHBacUsxYU9vcEh4ZDNZT0wxeXBxMzBycVdBSGhBN0dKZWdPTEdId1cyaG5lWTQ0eDdHZG9GaUJ1R0ljSlE?oc=5",
+      "pub": "Sun, 01 Nov 2026 21:20:00 GMT"
     },
     {
-      "title": "코스피 긴 호흡으로 볼때 … 반도체 소부장·증권주 주목 - 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9SdHJZbFNmbUxVRTJVc09JTHRyWUJsUDRrUWpLY0taanVMSUVsRUpvbjJURG1IRmM3RmVtQUtESTZZMXE2Q0FDd2htc3FlYzhJWWc?oc=5",
-      "pub": "Fri, 30 Oct 2026 08:42:49 GMT"
+      "title": "코스피 7000 간다?...결국 시장 끌고 갈 주인공은 100% '이 주식' - 파이낸셜뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uSVotOXNxbWNneDNlU0RuV29LaE0xWWpEd1lwQ1N6aEtpc2hLTXNiOTdKMlFqZktuN0M1cEc3Qm1Kc0hDa3EzYU1jWThFdl9mRUp5SWhncGhFdw?oc=5",
+      "pub": "Sun, 01 Nov 2026 19:30:00 GMT"
     },
     {
-      "title": "코스피 급락에 몸사리는 개미…뭉칫돈 향한 곳 봤더니 - 한국경제TV",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15QmR4MlhTZmJjYXBFR1ktQnpSakZzWEVrYWt2SmhXaW15ekRreTlEYlJMMEk1M1lLMEJhRTcxRGdGNWJfTW9vWWhsaHZIaXVlTzRMNkxiR3FFQVQtT2hFTC1WbGJNTGlxRWFnZm04TkR1UWxQOUlR?oc=5",
-      "pub": "Sat, 31 Oct 2026 22:57:00 GMT"
+      "title": "코스피 3%·닛케이 2% 뚝 … 亞증시 '휘청' - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2ZG9oOEpUZk0wNVRwUXhDeEdOTENjMHNGZkRSSkhvRTBFMmltR0xSaV8zRFhEdXE4ZTBvQW5OLW0zVU5tRWJOaFQxYmZNdWJNcUE?oc=5",
+      "pub": "Fri, 30 Oct 2026 08:36:08 GMT"
     },
     {
-      "title": "유시민 \"재산 100억 반도 안 돼…이재명 ‘코스피 5000’ 믿고 처음 주식 보유\" - JTBC",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAwaTNteGthcURMOVhHa1lVVlBuajJmQlBNWXNXUTM0ejRvTmxUd3FZckFoekhkdnJGQmtub1Y2ZDZ5eFVmWFdSMGxfcDJEQ1pSVjZYYg?oc=5",
-      "pub": "Fri, 30 Oct 2026 02:32:00 GMT"
+      "title": "코스피 지난달 16% 하락…증권가 \"매도세, 정점 향해 가고 있다\"[오늘 아침, 당신이 알아야 할 7가지] - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iUzFPMDNZSktad2JZOG9INGpfcmFpcWYtNWx3RllMTlFwbi15RE5VOHJtMlg3TEUyclNqNTVMZV9XMGxYWG5HbWZVakVONkRrRnVxaXdfZk5Gdw?oc=5",
+      "pub": "Sun, 01 Nov 2026 22:34:12 GMT"
+    },
+    {
+      "title": "코스피 5637.77 출발…양대 시장 개장 직후 일제히 하락 - 위키트리",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaVFdpRmZYYXl5eHN5ZTdMbXBGYnFxNDNkYnlXQWxmYzFKbV9sWF9OR2lzakhiYXVfSExzSmVuOERSejdMZ3FucjdTbzdxVGZ1aUpUZjVR?oc=5",
+      "pub": "Mon, 02 Nov 2026 00:04:00 GMT"
     }
   ],
   "signal": {
-    "text": "시장 조정 국면. 손절보다 비중 축소 후 상황을 지켜보세요.",
-    "type": "negative"
+    "text": "소폭 상승권. 뚜렷한 방향성보다 관망이 적절합니다.",
+    "type": "neutral"
   },
-  "one_liner": "코스피 🔻 약세 · 코스닥 🔻 약세"
+  "one_liner": "코스피 📈 소폭 강세 · 코스닥 ➡️ 보합"
 }
