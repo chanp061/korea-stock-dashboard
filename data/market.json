@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026년 11월 03일 12:11",
-  "updated_date": "2026-11-03",
+  "updated_at": "2026년 11월 04일 10:45",
+  "updated_date": "2026-11-04",
   "kospi": {
-    "price": 5683.21,
-    "change": -175.87,
-    "pct": -3.0,
-    "label": "약세",
-    "emoji": "🔻"
+    "price": 5629.94,
+    "change": -18.85,
+    "pct": -0.33,
+    "label": "소폭 약세",
+    "emoji": "📉"
   },
   "kosdaq": {
-    "price": 712.45,
-    "change": -21.91,
-    "pct": -2.98,
-    "label": "약세",
-    "emoji": "🔻"
+    "price": 695.55,
+    "change": -8.84,
+    "pct": -1.25,
+    "label": "소폭 약세",
+    "emoji": "📉"
   },
   "sp500": {
-    "price": 7541.4,
-    "change": -38.67,
-    "pct": -0.51
+    "price": 7568.92,
+    "change": 27.52,
+    "pct": 0.36
   },
   "nasdaq": {
-    "price": 25164.36,
-    "change": -272.63,
-    "pct": -1.07
+    "price": 25372.01,
+    "change": 207.65,
+    "pct": 0.83
   },
   "usdkrw": {
-    "price": 1338.78,
-    "change": -6.64,
-    "pct": -0.49
+    "price": 1337.68,
+    "change": -5.14,
+    "pct": -0.38
   },
   "news": [
     {
-      "title": "\"코스피 적정 가치는 7200, 공포에 질린 지금이 매수 적기\" - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOV2EtaHBhRTVFbGtRQmJCVURUemJXQUZ1ZG5YenJqUFRyVlBGcHBWRTBQYmNWR3QtNFZPWDc2bXpYOEczZXhLMklqWDV2blpRNUZkM0UzY00yakJPNHljWlVMNF93RXVCQW92VHBmX3hkd1FTaUhPUDJfLURfa3NSUw?oc=5",
-      "pub": "Mon, 02 Nov 2026 20:29:00 GMT"
+      "title": "코스피 4950까지 추락 vs 6700까지 반등…美 중간선거 공식 통할까 - 주간조선",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fLTAxS0JnTUluWnV6TmFYcENYS2psaU5DOU4wM1VvUHFFN20zd29OR29nN09CX3JMcTVpYllvVHlScXlncjc2TWhXVnZsNTVTSW5VNDZXNnJ2U2FKNGRFUjBLaERfSWNkMUHSAW5BVV95cUxNX3JfeFl4SWFHcUQzN18ydnlnNHJsYmRISVBlQXNkano3cHZjNWNqYW5UNnJUemNQbFRVa0FKUkVrdjVCMjJHTy1NcWJOUHlwYm9SN1ZzbXhTd1o0QldkOHpGa2JtX3hibjR4QjkyQQ?oc=5",
+      "pub": "Wed, 04 Nov 2026 00:35:00 GMT"
     },
     {
-      "title": "코스피 7000 간다?...결국 시장 끌고 갈 주인공은 100% '이 주식' - 파이낸셜뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uSVotOXNxbWNneDNlU0RuV29LaE0xWWpEd1lwQ1N6aEtpc2hLTXNiOTdKMlFqZktuN0M1cEc3Qm1Kc0hDa3EzYU1jWThFdl9mRUp5SWhncGhFdw?oc=5",
-      "pub": "Sun, 01 Nov 2026 19:30:00 GMT"
+      "title": "“외국인 돌아오려면 최소 3개월”…코스피, 추세 반등 신중론 [코주부] - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCM2FMeGxwWER1bjEtRll1MlF3RXpQUlJRb2ZPOVJ5Sk1aNElqLW44MDVDVW5ZT0RzT3JXbk1ZOXBzQXNtWGU5eWk2WmhWZ19kTVHSAVNBVV95cUxPX1ZGVHM5RTdMMzI3LS1vZ0RScm1RRS1GOVZBdy1KbDYyVmlEeFBwTVI1Z1dtNDBpdmU5dnJydHVPYXlNc1R0dUhNeWFlSFpPU3NuOA?oc=5",
+      "pub": "Tue, 03 Nov 2026 23:48:20 GMT"
     },
     {
-      "title": "코스피, 3%대 하락해 5600선으로 밀려…삼전닉스↓ - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50bFZKa2k4OFJ5X0xKNXVfVmVNLVpJaDBfTHFBUkRyeUUtSDZoSWpmdlFFd0pXaUJpOUVab3NHdXZjVHVUOXdBT3Q1NklISXotQVZONVZzQ2VqZw?oc=5",
-      "pub": "Tue, 03 Nov 2026 00:10:46 GMT"
+      "title": "[개장] 코스피, 美반도체주 강세에 5700선 회복 - IT조선",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE82eWRoemlDR3p0SzE2Q05TRXlTamlrQUlhcy1NYlVXcHd5bjBQQnBCWk9aejJnV1hxX3l3Y1hYV1pzMGFNNGxKN3hSa0VXQzBxU0NvWWVhM0xZQzJ4RGZuZHB4WnpWS2lMMUR0TDdSdjLSAXRBVV95cUxPRVJSXzRMNVFqOXJ1ck5nMG1jU2tIV2RESzdfbDJLRTRRNVZvUk5IZFpUVEt5UUtPTW9iUUtMQWhjMHU0TmZRVTRwY2huemlHLVhLX2wzQmtkTDg5SFZzeEk5NHpTMDkyN2ZQV0RrbWU4a0dKMg?oc=5",
+      "pub": "Wed, 04 Nov 2026 00:49:41 GMT"
     },
     {
-      "title": "코스피 1만 넘을 수도…＂내년 하반기 7000~10500” [주식R] - 한국경제TV",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB5XzNzY29wN1JXb0Y3X3RfSXlid3l6aDRoRm1SbkxGSUpvTTZ5SlRPMzY5N2h1NFdGMFJvOUppay1talh1OEN4dUNsX3gxUlptWTRtNEZmQ1RmQ1JLMjlIRTNzMGVWdTc3UVMxMmRDSFd2cDBvZnFN?oc=5",
-      "pub": "Mon, 02 Nov 2026 23:37:00 GMT"
+      "title": "이미숙 “늘그막에 주식해서 집 날려”…올해 번 돈 거의 토해낸 코스피 [내가샀다] - 서울신문",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBqd182V0dSRGlVWE4ydWhuQWp4U1p3dHlWRm9vOWVMa09EUXBoT2pROXdGVUl5bU41THVLbGVkTllJU0pvV2VMOXBUcFBCUE5mSFB6aC00YV9hMlJySUViZHo3N3Q1Z09WYUswcUh6cjBtQmhfOUFZaGUxWU5mZw?oc=5",
+      "pub": "Mon, 02 Nov 2026 22:06:44 GMT"
     },
     {
       "title": "[개장] 코스피 3% 하락… 美 AI 수익성 우려 재점화 - IT조선",
@@ -57,14 +57,14 @@
       "pub": "Tue, 03 Nov 2026 00:32:05 GMT"
     },
     {
-      "title": "‘인텔 쇼크’ 주식창 열기 겁났는데…코스피는 반등, 왜? - JTBC",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KcWx6cExWSTVjdVY4UlpBR0o3MDRPSm5jamhGcFRiZTc5bWRZWF92dDVud2t6M05qOThhSkcxSnBxeGNhVjJXWWxJTEJRRVAwM3g4OA?oc=5",
-      "pub": "Mon, 02 Nov 2026 10:44:00 GMT"
+      "title": "\"주식창 켰더니 이럴 수가\" 韓증시 와르르...4%대 동반 급락 - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1seVFlT2taWE80N3hVdmpySURGSndyZXhKM05LZ2ZUaUw4OEtKa2J1M195M2VhTWp3ZUFkak1jc3duajJrdVMzMzNyaUtZRHduQkYxVUZhRHpobWtydXRRNWZSSVQ2QTF60gFuQVVfeXFMTmItc19nWU5uQ1dkb0t1N3BlSmFXRlJsdUFuNU9yWUZmTDJGM3JMLWtMNTZNS1pHbjA5UDdaWjNjQUdZaXVCRndXTFNlajg2elZ1VnNTeEd6QlI1ME5sMkxCSU8wOEFGeUEwdVF3a3c?oc=5",
+      "pub": "Tue, 03 Nov 2026 05:00:48 GMT"
     }
   ],
   "signal": {
-    "text": "시장 조정 국면. 손절보다 비중 축소 후 상황을 지켜보세요.",
-    "type": "negative"
+    "text": "소폭 하락권. 패닉셀보다 분할 매수 기회를 살펴보세요.",
+    "type": "neutral"
   },
-  "one_liner": "코스피 🔻 약세 · 코스닥 🔻 약세"
+  "one_liner": "코스피 📉 소폭 약세 · 코스닥 📉 소폭 약세"
 }
