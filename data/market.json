@@ -1,65 +1,65 @@
 {
-  "updated_at": "2026년 11월 05일 10:54",
-  "updated_date": "2026-11-05",
+  "updated_at": "2026년 11월 06일 10:55",
+  "updated_date": "2026-11-06",
   "kospi": {
-    "price": 5441.73,
-    "change": -242.07,
-    "pct": -4.26,
+    "price": 5012.8,
+    "change": -371.0,
+    "pct": -6.89,
     "label": "약세",
     "emoji": "🔻"
   },
   "kosdaq": {
-    "price": 683.81,
-    "change": -31.14,
-    "pct": -4.36,
+    "price": 639.53,
+    "change": -38.88,
+    "pct": -5.73,
     "label": "약세",
     "emoji": "🔻"
   },
   "sp500": {
-    "price": 7688.62,
-    "change": 119.7,
-    "pct": 1.58
+    "price": 7353.73,
+    "change": -334.89,
+    "pct": -4.36
   },
   "nasdaq": {
-    "price": 25736.51,
-    "change": 364.5,
-    "pct": 1.44
+    "price": 24315.0,
+    "change": -1421.52,
+    "pct": -5.52
   },
   "usdkrw": {
-    "price": 1341.78,
-    "change": 1.15,
-    "pct": 0.09
+    "price": 1356.15,
+    "change": -0.53,
+    "pct": -0.04
   },
   "news": [
     {
-      "title": "美 중간선거에 증시 ’출렁’…코스피 하락 전환 - 연합뉴스TV",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WZ1AzdmtRRjNLWTZ5dEZuejRfR0NnaDhPWjVfN3ZVeUZDVDZ0MGs1emhtQXFNUHM0UTVRY0VtUWFqUFVkMDdPcnkwdUpDM212b3g3d2dCVzZkMGd6dHAwdVo3cVBGUWs?oc=5",
-      "pub": "Wed, 04 Nov 2026 02:52:00 GMT"
+      "title": "“코스피 상승 추세 꺾여… 요즘처럼 어려운 장에서는 나라면 주식 안 사” - 주간동아",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFbUtuVW9heDdrdE9OdEt0bXBqVnUzanNlaFd4ME1yTVB5Z2dEeFpGSXpENWhhVEE2NTBNY2RwakV3YmVkT3hSZTNNVGYtYXVPcG5CM3hrSDd2TEVVVGlXbThPRnNEVnF4?oc=5",
+      "pub": "Thu, 05 Nov 2026 08:43:13 GMT"
     },
     {
-      "title": "[개장] 코스피 3% 급락… AI 규제 우려에 반도체株 직격탄 - IT조선",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3RjVCY01aUXJ5OWQ3UzNQX1pmVHpXc1VtRjlsOGFwajJNbUx3aDdVYUNRcVA2b3ZqaGpqWFd6YzUtOTBLcXhxR2l4MkZFY0NpVFNHc0JtUUtrLWhsSEp2N3ptMTQ5Y1dXcWQ4ZmIyekPSAXRBVV95cUxPcTdBSVc4cUdkZ2lCTlFyZ3EyMEpFY1NtTy1Ka0hoY0lMR0U3TUtJSkFhbDhRamtIWmFydV8yTWlPQ0hObUdsQk0zWjF6dENBTzRCYVJEMnY4OHlPS2RFeU5HZE1nU3ZkcU9MYkhkdlU2Zi1JSg?oc=5",
-      "pub": "Thu, 05 Nov 2026 00:50:13 GMT"
+      "title": "[개장] 코스피, 美 나스닥 급락에 5천선 붕괴… 서킷브레이커 - IT조선",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAteXk1WWVMZkVqelFsa1VnUkpnVl84NGx3bVpQT1lfdmNEX1RSNmdTX1pzUzZJZGpTUW12bHViWXQ0c2hrb1JiQjNXNHZiYkpjUlZaS3MyalprTXRPSTAzQWJSV1VYSU41bnBZN1ZraXfSAXRBVV95cUxPNEJwcFkyaE9jbm12aEItS2lieEhNcnNXWXNrV0xLVG45X0t6MmNCNEsxdXNqQ0FPbEdjWmRweUtKUlh4M1JzVjJnNTVPUzZXaTRxTmRWYzhGZjg1SXdid20zOFRQcEx1SEk2MGRaN3dzZVlZYQ?oc=5",
+      "pub": "Fri, 06 Nov 2026 00:46:50 GMT"
     },
     {
-      "title": "[마켓뷰] 美증시 올랐지만 반도체주 급락…코스피 방향성 주목 - 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWY0RkOHhFVm1wdU1WTGxqSTFLY2oybTU4RTJWQ3BNUDJqM0FBVzREM0JaSWN0SGxCOGRJT1lfd2UxRUJJOTdsVk9ISjBRMlk2V2c?oc=5",
-      "pub": "Wed, 04 Nov 2026 22:53:28 GMT"
+      "title": "폭락장에도 꿋꿋…노무라 “코스피 목표 1만 유지…상승 동력 4가지 있어” - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GOF9pek04d0ZRZkROLVczanpXWUc1TTBQTUFKUXd4bDhMWUtkeW5VdmQyMUpvZmp4VkZYS2VSV2pVWUZPWnk1SF9MWk1mRzNoY3c?oc=5",
+      "pub": "Fri, 06 Nov 2026 01:41:01 GMT"
     },
     {
-      "title": "8천피 4천피 둘다 적정가입니다…‘모 아니면 도 증시’ 돈버는 전략은 - 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XZmt3VFVzeEdtbG1BeFBRUGdadF9oV3dmRjYxTk8wWXBPY0hMWWk1QjJqVWdVTXFxbnlnSmFSTnpMYU1vLXJaVjlTRzY1UEE3YXc?oc=5",
-      "pub": "Wed, 04 Nov 2026 21:03:03 GMT"
+      "title": "코스피 ‘검은 금요일’ 무색…한진칼우, 경영권 분쟁 전망 속 23% 급등 [이런국장 저런주식] - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QbDB0ZFJBZGVVQnM2aUJyek0zVmo0YTgyUnZtZ0xNRi1LRjQ2UmlKUkZ2VGZUdDVCUmVkXzdRWW9YSjM4NEVXYUgxd19waFRYSmfSAVNBVV95cUxPMlNMVUpuejZRdFpDWklEWUZhZHRac3RkMG0zd05KZnFRUEZwWlg5TTNmazBLbHpIM1NWbXpGREJQVGgyS0ZWMEUwcFNXQUc4dEpiSQ?oc=5",
+      "pub": "Fri, 06 Nov 2026 01:19:47 GMT"
     },
     {
-      "title": "코스피 오른다면서 “주식은 팔라”는 증권가⋯내년 하반기 경계감↑ - 이투데이",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ENEdrU1pJaVZmblJSUUhJYnRUYU1KcFAxQnVfdm83ZXFpSldqSG55bk42Y1dncTEwMWhuZk9peFBLYW1yRm0tU1VRQ3l1dGlmaVRSQQ?oc=5",
-      "pub": "Tue, 03 Nov 2026 21:00:00 GMT"
+      "title": "코스피 사이드카에도 끄떡없다…'신고가' 경신한 방어주 - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BU3JISXNmenI5NDF5TVNzRlZOanN2d1QyZjJWYXFGOUFHaGpIcG92QzRZOHNCdF9kOEVrMnlCb0xaR1R4SDZDWGxCTDVXZ1NWeTJla1JGQXZDZw?oc=5",
+      "pub": "Thu, 05 Nov 2026 01:47:43 GMT"
     },
     {
-      "title": "이미숙 “늘그막에 주식해서 집 날려”…올해 번 돈 거의 토해낸 코스피 [내가샀다] - 서울신문",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBqd182V0dSRGlVWE4ydWhuQWp4U1p3dHlWRm9vOWVMa09EUXBoT2pROXdGVUl5bU41THVLbGVkTllJU0pvV2VMOXBUcFBCUE5mSFB6aC00YV9hMlJySUViZHo3N3Q1Z09WYUswcUh6cjBtQmhfOUFZaGUxWU5mZw?oc=5",
-      "pub": "Mon, 02 Nov 2026 22:06:44 GMT"
+      "title": "코스피 38% 올랐는데 내 주식은 왜…“지수 이긴 종목은 8%뿐” - www.dt.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0yZlctaVRpQVVoenVhQjVCSTZQLW0zeXdVMmk4aUsxWHRCSFVkT1lXd01VTmg5Y1ZJYkdfUUR2LXNkd0dQWHJMZzcyU3Q0dw?oc=5",
+      "pub": "Thu, 05 Nov 2026 06:36:12 GMT"
     }
   ],
   "signal": {
