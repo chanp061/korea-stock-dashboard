@@ -1,70 +1,70 @@
 {
-  "updated_at": "2026년 11월 09일 10:18",
-  "updated_date": "2026-11-09",
+  "updated_at": "2026년 11월 10일 12:53",
+  "updated_date": "2026-11-10",
   "kospi": {
-    "price": 5094.23,
-    "change": 34.54,
-    "pct": 0.68,
-    "label": "소폭 강세",
-    "emoji": "📈"
+    "price": 5216.94,
+    "change": 198.09,
+    "pct": 3.95,
+    "label": "강세",
+    "emoji": "🚀"
   },
   "kosdaq": {
-    "price": 642.77,
-    "change": -1.5,
-    "pct": -0.23,
-    "label": "보합",
-    "emoji": "➡️"
+    "price": 660.17,
+    "change": 21.2,
+    "pct": 3.32,
+    "label": "강세",
+    "emoji": "🚀"
   },
   "sp500": {
-    "price": 7376.86,
-    "change": 23.13,
-    "pct": 0.31
+    "price": 7549.94,
+    "change": 173.08,
+    "pct": 2.35
   },
   "nasdaq": {
-    "price": 24579.42,
-    "change": 264.42,
-    "pct": 1.09
+    "price": 25253.14,
+    "change": 673.74,
+    "pct": 2.74
   },
   "usdkrw": {
-    "price": 1360.35,
-    "change": -3.3,
-    "pct": -0.24
+    "price": 1344.58,
+    "change": 4.3,
+    "pct": 0.32
   },
   "news": [
     {
-      "title": "“코스피에 정말 질렸다”…실망한 개미들 일주일 새 2조 5000억 쓸어담은 ‘이것’ - 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5NaUlOcnR2Qk1Cb29scTBBZ0tKRWVGVHlEbTZJWjlzeXlMSV9CQkR1dkZHQ1kzbkZOdHk1WUhYd0M4YU1fT0lOWWp1RmEwYjliNGZZVw?oc=5",
-      "pub": "Sat, 07 Nov 2026 09:02:27 GMT"
+      "title": "\"코스피 7100선까지 오를 수도\"…증권가가 분석한 반등 조건 - 파이낸셜뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10UUdFcWdvcmdtLTJCa2J4aEFKNmZqZ3dBa3pfbU13UWR5WmVoRi0zRkJmdy1GTnY2aW5jbzhPYTRqcmk0MEFYX19BVktycTB5dGs5T05CcUI2Zw?oc=5",
+      "pub": "Sun, 08 Nov 2026 23:41:18 GMT"
     },
     {
-      "title": "\"코스피 이 꼴인데 1만 간다니\"…日 증권사가 목표 안 낮춘 이유 - 아시아경제",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1IaUNGWDBXZzlUODZVUnVfeUFra09lYnJzemZoY2ZpalA2Nmo2QlZjeDBGdU9QeEtjQ0NyNXRRaGxaTTlEMHlOUGttYzNhSFp0YnJoY1ViX29qcUphbjR1UGN3?oc=5",
-      "pub": "Sat, 07 Nov 2026 02:34:38 GMT"
+      "title": "\"한국 주식 안 삽니다\"...코스피 '대탈출' - 한경매거진",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rNE1VYWh4VnNSS0hSVWM0TVNkUjJLYXRrNjRINkpITFNHU0c3ajY3MHNvZ0pIOTJhNEFkYXgwNm1PN1NQN25oc3FhNXhNOVlIQTJ6VU56anlJOUpScnU0bmVScXZxMjZQeTdRTw?oc=5",
+      "pub": "Sat, 07 Nov 2026 00:21:00 GMT"
+    },
+    {
+      "title": "'AI 시즌오프' 공포 진정되나…여전한 우려 속 코스피 급반등 - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1CYTBDb2lXVkphYWg4QTJEZy1LcE56eGRZOVVqb2ZSdGp6akNPTFhwUk5BSmhreU9VNW1PNV9paWJJZ2R1LWlRZnVfb0Y3UVZadWc?oc=5",
+      "pub": "Tue, 10 Nov 2026 01:47:37 GMT"
+    },
+    {
+      "title": "오늘은 장초반 급등… 코스피·코스닥 ‘매수 사이드카’ - 문화일보",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBTTTBKaEkzQmFFT2tpbF9DWFc4ZVVOcTNEdDNOWlhPR0RUWUFPX0cxblBLemhJbndiRUZvRzJBZTNmNHNpczVPaHIwSVFfMFM2?oc=5",
+      "pub": "Tue, 10 Nov 2026 03:00:35 GMT"
+    },
+    {
+      "title": "[개장] 美 반도체 급등에 코스피 4%대 반등 - IT조선",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VdVVPRUpCSktaMW5OTi1WQjExMEdkR3AtU25OdWQ2STMwRVhSZ2pjWl9Tc2ZnQUY4VkdQSk41eGszZTRnbzQ4eDFrbzQ1TGlpdmFZY09IUURXaVlBbDRfS3lHXzQxRTlRUmlfNW4tUWzSAXRBVV95cUxQU3ZURnh5dDNodVo0bmkxU2I2WjNNMm9ndEpTZnpYMnA2SW1lbEpFSnRhOXhSdVBUUmNONVE2MnZRcmZBVUZYbk42cUl5TVZFN3g4N1l4NUFqbjNmWDBkdm14Zm9tV0Q1empoS1F6aTF6RVZoXw?oc=5",
+      "pub": "Tue, 10 Nov 2026 00:40:59 GMT"
     },
     {
       "title": "코로나 때보다 더 빠진 코스피…\"하방경직성 강화\" - 연합인포맥스",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92dFVWZGpzaEJsOEJack1Mcl9DY2lwQVptQUR2RkVZTGVhSS1oVFh1LVBoOEJkd2lZN2ZFRklPeTk3aG13UU5jUWJJNjJBQjdUZ2NqQ2I2b3kxTVpIMGc5VWpUUml0Wkd5UnpLSFNNblI?oc=5",
       "pub": "Sun, 08 Nov 2026 23:27:38 GMT"
-    },
-    {
-      "title": "'코스피 대탈출' 경고음…8조 던진 외국인 심상치 않다 - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xQ29vOVFEX2RwM1hSZGNSYi10XzVKMjJ6amhiZ1YzeDBpdFNxNkg0Q0pzdnAxUWRNN1FFbENEQWhUZTIxZUd4eEdSQTBueVZsQnZ3UXNaOUx0dw?oc=5",
-      "pub": "Sun, 08 Nov 2026 10:23:56 GMT"
-    },
-    {
-      "title": "“코스피 상승 추세 꺾여… 요즘처럼 어려운 장에서는 나라면 주식 안 사” - 동아일보",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kcjBKMnFneUxYUXU3SF82dXhCaGlTX3ZtTmU2X3VHOHFWdXRFSFRHR3lXUkQ2alNvYTJYNXY1Q1JLMUpQS1NBc1k3NWJCNksyOFZQRWQtQ0xxUi1VRmR3QWhVbXVuS0pZdWY2UUVCdXBYT1BnY0HSAWZBVV95cUxOdC1fb0VGWklyT2xIeFRxaVZORE1xNTg1anp4eFVoSDJUbGlqT1VHWkhQS3BwTUpaWm4wdEJ1ZjhEaFA0eGlsLW4yeWlmaWF0aXczTGhSWV9jQlhEeHo0SDIzLWowQXc?oc=5",
-      "pub": "Sat, 07 Nov 2026 23:11:00 GMT"
-    },
-    {
-      "title": "“1만피” 외치더니 이젠 “5천피”…증권사 ‘믿거나 말거나’ 전망 - 중앙일보",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EQm1qYmE2SUd6XzBIMTB5V3FrVlNTclFVX1p2SjdLSTl5d1l1R3JWTktFWVNGZ3EybDZybTZJVzlERnZKYnJPaWdZUkNwWUlvZ0VBenh3?oc=5",
-      "pub": "Sun, 08 Nov 2026 06:51:28 GMT"
     }
   ],
   "signal": {
-    "text": "소폭 상승권. 뚜렷한 방향성보다 관망이 적절합니다.",
-    "type": "neutral"
+    "text": "오늘 시장은 강세입니다. 추격 매수보다 보유 전략이 유리할 수 있어요.",
+    "type": "positive"
   },
-  "one_liner": "코스피 📈 소폭 강세 · 코스닥 ➡️ 보합"
+  "one_liner": "코스피 🚀 강세 · 코스닥 🚀 강세"
 }
