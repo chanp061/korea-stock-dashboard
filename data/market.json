@@ -1,70 +1,70 @@
 {
-  "updated_at": "2026년 11월 11일 10:36",
-  "updated_date": "2026-11-11",
+  "updated_at": "2026년 11월 12일 11:36",
+  "updated_date": "2026-11-12",
   "kospi": {
-    "price": 5268.03,
-    "change": 28.9,
-    "pct": 0.55,
+    "price": 5428.66,
+    "change": 53.3,
+    "pct": 0.99,
     "label": "소폭 강세",
     "emoji": "📈"
   },
   "kosdaq": {
-    "price": 694.88,
-    "change": 27.27,
-    "pct": 4.08,
-    "label": "강세",
-    "emoji": "🚀"
+    "price": 705.87,
+    "change": 0.77,
+    "pct": 0.11,
+    "label": "보합",
+    "emoji": "➡️"
   },
   "sp500": {
-    "price": 7520.93,
-    "change": -29.01,
-    "pct": -0.38
+    "price": 7619.38,
+    "change": 98.45,
+    "pct": 1.31
   },
   "nasdaq": {
-    "price": 25065.88,
-    "change": -187.26,
-    "pct": -0.74
+    "price": 25466.19,
+    "change": 400.31,
+    "pct": 1.6
   },
   "usdkrw": {
-    "price": 1337.88,
-    "change": -4.46,
-    "pct": -0.33
+    "price": 1334.48,
+    "change": -2.13,
+    "pct": -0.16
   },
   "news": [
     {
-      "title": "코스피 반등마다 1조원 넘게 파는 개미들...젠슨 황 불륜, 美 금리 인상 공포에 커지는 우려 - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaGt3dDR5YVJYcjBQbnpiOWdMc2FRcGJYSTJTVzkyNHpjRVkyMnFnMkw2bmE1Z3pzMTZuMzlqblU1R3lUYXl6ZnNfYndTVUR1THRpLUllTHBUSE5jVUE5QUZCSjBGNWNwXzVzYjhsX0JlUTB6R0Nhbm9VWjVWNXMyTw?oc=5",
-      "pub": "Tue, 10 Nov 2026 23:49:00 GMT"
+      "title": "[개장] 코스피 0.7% 상승… 이틀 급등에 장 초반 눈치보기 - IT조선",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5MUZsYmVUaGlLVVdrSGZtSG1IVFFHb1hxMExoRWRPWS1oUFJXVkE0R3VmMXpUSTdkOElGbHo3WXRDYmVZaE9KaHo2cmNjaE1hWXNRYVFYdmNSLXJTN19JQmg0SHA5Zzg3TGVtTlY2dnLSAXRBVV95cUxOelAtTV9rZDV5Z20tR2NPQUZrSWlzZWVRTllfSFlOeFdNYU80UUtYcUpLNFJDa0FyU0RackhEd0hzamR0TGZ4UnhPLXBwX041R0pBUGlDUW9sZ0tHOVU1YW1XUnpveHUydExlUTV0bldDOXNMVg?oc=5",
+      "pub": "Thu, 12 Nov 2026 00:57:50 GMT"
     },
     {
-      "title": "코로나 때보다 더 빠진 코스피…\"하방경직성 강화\" - 연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92dFVWZGpzaEJsOEJack1Mcl9DY2lwQVptQUR2RkVZTGVhSS1oVFh1LVBoOEJkd2lZN2ZFRklPeTk3aG13UU5jUWJJNjJBQjdUZ2NqQ2I2b3kxTVpIMGc5VWpUUml0Wkd5UnpLSFNNblI?oc=5",
-      "pub": "Sun, 08 Nov 2026 23:27:38 GMT"
+      "title": "코스피 '이 조건' 충족해야 내년 7000까지 반등?…증권가가 꼽은 핵심 조건은 - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DQmk4UkdFMDM1NmtQUlJrU1Ffd1g0cHlXOWd5V2xINDNzS1Vab2ZRMkpLcUkxNmU1VEtWQzNJcG1DdUFHcmpobVJTRU9BNy1xUDU5cEk1c2o1QQ?oc=5",
+      "pub": "Wed, 11 Nov 2026 09:49:46 GMT"
     },
     {
-      "title": "'AI 시즌오프' 공포 진정되나…여전한 우려 속 코스피 급반등 - 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1CYTBDb2lXVkphYWg4QTJEZy1LcE56eGRZOVVqb2ZSdGp6akNPTFhwUk5BSmhreU9VNW1PNV9paWJJZ2R1LWlRZnVfb0Y3UVZadWc?oc=5",
-      "pub": "Tue, 10 Nov 2026 01:47:37 GMT"
+      "title": "코스피 출렁이자 “아기 태어나면 주식 5000만원씩 주자”…30세엔 2억원 된다고? - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tVnRPMllzWkdzYWxXdlhOSXUyUUkxVDBxb2pybHdVUndTS2d1VVFHTWRNOTk4ZHQ3Rk1FSXpjU096b0dNLTBuZFhCeDRWaDVuSnfSAVNBVV95cUxOODF6Qk9ibk5nMFgxbk9sNThmUDY2TmVBdElqWUhtSmFKSnRRcF9URVdaNS1mV3gycG9yTUEwSkRWdDk3bHZPRWRhWTM0Q1c0eWpjaw?oc=5",
+      "pub": "Wed, 11 Nov 2026 06:45:13 GMT"
     },
     {
-      "title": "[개장] 코스피, 美물가·빅스텝 우려에 약보합… 반도체 약세 - IT조선",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84aXhxYlhRRGZOektBSmF5aVktZkljSHU2bUdkVFdmb19GS0hVblJuMkx0dWVYazZNejRDUmxYWHBWUmxVQmFtcVZoemJfbXdVYWs1RDd4OGdqeDNYZlo2NG9FY3RuM0NYMlJwNTczVmnSAXRBVV95cUxQS21tRUU4aXJuSHFaUDlNM3FlVUd4bFZ1UGpxSVpRNlNlM0NtUjNPRHFmbGkwSDY2dHBoZXF3cWM5NWtaWDcyRTRnTHc4cnRSN0Z5YmhLMGNrMW0tRG5fenBFdXdUYXBQQWt1TjloLWNEdUFKVQ?oc=5",
-      "pub": "Wed, 11 Nov 2026 00:39:20 GMT"
+      "title": "[단독] ETF 일평균 거래대금, 코스피 사상 첫 추월 - 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE04ZW1HZC11d2tkN2VOT216SUR0T3RxU1h1Rm1VOXFwc254dFFkU2xNNm9OeHRlbjQxNW56Z2tQRzlpdEpUb0xlYk1PTnB2TnFqSkFJN3lBclQyMkxoMnlMcXdR?oc=5",
+      "pub": "Wed, 11 Nov 2026 11:22:00 GMT"
     },
     {
-      "title": "美 물가 쇼크에 코스피 약보합…코스닥은 외국인 매수에 '질주' - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kMWxvdEQwTXpCVWREVG5URlBZRXZkMXNJa3AzUmVBaEt2cWxpdGY1emRPeXZWWDU4M3NjcXE0cFpyTF9EOVpUQXY4bXVYUTN2YWltUWZvRTAxQQ?oc=5",
-      "pub": "Wed, 11 Nov 2026 00:26:02 GMT"
+      "title": "‘롤러코스터 코스피’ 안전자산 쏠리는 투자자 관심…“투자 가치 판단해야” - 중부일보",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01emRtRjQ3YS04TDZpaVdZTy05bm1SdE9sVGpwN3Bpa05CbnBJVURIVHE1Y2pKUjNBV3FwbEh3YlktYmF0b3hSUHowQ0FzMnZLYmJ5NDctOVc0eTllRndjN1pZQW84NlVrcFQ0STloQQ?oc=5",
+      "pub": "Wed, 11 Nov 2026 08:32:00 GMT"
     },
     {
-      "title": "'5천피 이탈' 겪은 코스피…증권가 '바닥론' 공방 팽팽 - 뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBObEl6dmpoV2JFeFdLbmNETENNQ0VkMEtmRk04Q0NHMHc3WlNlcU1DNUlYekg5MFJJVVhqVTNjTmQ0OEV6X1V6YTFVNE92eWVGMFdvY2YzM0NIUy1JOG04c9IBeEFVX3lxTFBVckZsT3FfMnBzSm56eUJsS2tSTnhvVnd4MU5mNEhHbWNvWkVnNjB1Y192ZW1tc1QwbXQ5OTNSU2tCYnJvRzJrM3dUUS0yUkNyelZ0cm45a2hVU1FmS1BkeGV5WTNrblhRWXpHLVFCSnJBS3Z6Y0MySw?oc=5",
-      "pub": "Tue, 10 Nov 2026 22:00:00 GMT"
+      "title": "코스피 16% 폭락한 달에 '빚투' 다시 늘어…개미들 어쩌나 - 마켓인",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yY2FVSFI0T3YyWjRBdHFiUGt0WnpRMGVpWWh4N3djMm1xSUJzdW5ST0R1UWJxWjJJNFlVNVVDSzVzNEh2LUc3aG1qQ2ZHTEgzN2R6Nm5tVVB6V2VPTmNncE9RVmRPbVM4X2R0aVV4SVg0VWc?oc=5",
+      "pub": "Wed, 11 Nov 2026 03:00:05 GMT"
     }
   ],
   "signal": {
-    "text": "오늘 시장은 강세입니다. 추격 매수보다 보유 전략이 유리할 수 있어요.",
-    "type": "positive"
+    "text": "소폭 상승권. 뚜렷한 방향성보다 관망이 적절합니다.",
+    "type": "neutral"
   },
-  "one_liner": "코스피 📈 소폭 강세 · 코스닥 🚀 강세"
+  "one_liner": "코스피 📈 소폭 강세 · 코스닥 ➡️ 보합"
 }
