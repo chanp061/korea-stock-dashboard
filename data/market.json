@@ -1,40 +1,50 @@
 {
-  "updated_at": "2026년 11월 13일 11:17",
-  "updated_date": "2026-11-13",
+  "updated_at": "2026년 11월 14일 10:54",
+  "updated_date": "2026-11-14",
   "kospi": {
-    "price": 5447.05,
-    "change": 104.32,
-    "pct": 1.95,
-    "label": "강세",
-    "emoji": "🚀"
+    "price": 5290.53,
+    "change": -52.2,
+    "pct": -0.98,
+    "label": "소폭 약세",
+    "emoji": "📉"
   },
   "kosdaq": {
-    "price": 723.07,
-    "change": 26.54,
-    "pct": 3.81,
-    "label": "강세",
-    "emoji": "🚀"
+    "price": 699.66,
+    "change": 3.13,
+    "pct": 0.45,
+    "label": "소폭 강세",
+    "emoji": "📈"
   },
   "sp500": {
-    "price": 7592.4,
-    "change": -26.98,
-    "pct": -0.35
+    "price": 7561.67,
+    "change": -30.73,
+    "pct": -0.4
   },
   "nasdaq": {
-    "price": 25366.09,
-    "change": -100.1,
-    "pct": -0.39
+    "price": 25136.27,
+    "change": -229.82,
+    "pct": -0.91
   },
   "usdkrw": {
-    "price": 1332.07,
-    "change": -2.29,
-    "pct": -0.17
+    "price": 1335.11,
+    "change": 0.75,
+    "pct": 0.06
   },
   "news": [
     {
-      "title": "\"외국인 놀이터 됐다\"…한국 주식 산 개미들 분통 터진 이유 [분석+] - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OM2tVX1B1QlBGZnI3NUpXZEtVb3VCX3VFb2ZUZVJ3dnJNOWhfU2R0aXBHcGVXTnpyRzZBUFhOcThVWi1UODA3LWFtaEhyaEZaOE5kODlxMzVPdw?oc=5",
-      "pub": "Thu, 12 Nov 2026 13:00:03 GMT"
+      "title": "1400조 벌고도 폭락…개미들 울린 코스피의 '씁쓸한 이면' [분석+] - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DaEdENGUtTmhKR2tOTlZYbXRXelVSenRHS21oVE81QXpNQ2gwT09ocmhPTkFhSVdMUk5qRFJ3WHVSay0tY2wzSGo5X0Rya3FwZURMcmpIRXRkZw?oc=5",
+      "pub": "Thu, 12 Nov 2026 21:30:13 GMT"
+    },
+    {
+      "title": "[미스터리경제] 코스피 5000도 무너진다?…주식 시장 뒤흔든 '보이지 않는 손' (영상) - 더팩트",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1GLXBVUVRabXhRLWlxTV8zSHoxNXRnTWFPZExwU3V4N0tkcENyR1ZxWTZMSThDLWdmeFBrWGtPNEx5aFVpWGhmdTJmZF9KS2VsWWdTYmJ3TdIBUkFVX3lxTFAyRkJYRDg4RUhhbXBKUmhGUWtsODVHd19UdUVSWTl3MGJsTDRLXzF6cFAzSnE0T0ZNYkh6Y05QRVNBYm9ueXI3ZEhIOXduU21Ib3c?oc=5",
+      "pub": "Fri, 13 Nov 2026 15:00:02 GMT"
+    },
+    {
+      "title": "코스피, 0.98% 하락한 5,290.53 마감 - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XbUlYWWRIU29HN21uVDFNLTJ6c2tEYzE0SUdSWndJZlBzSG5uVXJZMmFZa3RzT0tveV9XVGRIOVNSbXlkNk1jWmtJVHhBVHAwdkJUcUlDT0ZJMjdCVElSOUxtRXBQWTdrUjc0SDQzQTXSAXRBVV95cUxQakkteUFndDg1RUdvbThDSm01Qm9uNmJ0YWp1b1Jrc21PZGxDZWFoeGRoNXN6UjZvbWtDa29GNGNiVnctN2NUQ1ZpaXFwVVpCbDhJMEE3WWk2ZkJYQTlWbWs0aE1qV0dpaExXbHlNN2FGcHRfcQ?oc=5",
+      "pub": "Fri, 13 Nov 2026 06:36:57 GMT"
     },
     {
       "title": "“물려있는데 뭘 할 수 있죠?”...코스피 거래대금, 6개월새 60% 증발 - 매일경제 마켓",
@@ -42,29 +52,19 @@
       "pub": "Thu, 12 Nov 2026 11:57:34 GMT"
     },
     {
-      "title": "[마감] 코스피, 하락반전… 엔비디아 우려에 수급 불안까지 - IT조선",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53eV9heVI5ZXVYd0cxcElISFhyOG5rUDJacFgxVmVvQ3J1NTRpVlEzMDVMM1RRSWFBWUJMVlhnYmxBcHFvQXhXT3NEWG5TMmxwTm51RDJOY0hZVDNJQWxKb0JXWENNRTJQZlJiSUxqT2jSAXRBVV95cUxOWGJlN1NkSm5nSGtjUDZSUWRBeDZHT3ZHdG1TMGdvWURYT3hndS15RmVTMzhGbVRxMmJpTnptUGpMVzhQdTBjSnhqOF9udFdyVUZzb3R1UEhUbXVmZ3VNQkpJTVdiQW1kYXRtVVJVYy1tckNwVg?oc=5",
-      "pub": "Thu, 12 Nov 2026 07:15:48 GMT"
+      "title": "\"만스피 간다며?\" \"코스피 중계냐\"…증권사 애널 대신 AI 믿는 개미들[뒷북치는 증권가①] - 파이낸셜뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wYjRjOGV0aTJxYnZoaXhkUGtHeUdzeE9oQUlBSkdSTF9jU0VxMno3SUVOUXJuZ29HU1hlSzh4UVU5aTh4RXNmQmwtRUUyMTFzaFFiNGpzRDJyUQ?oc=5",
+      "pub": "Fri, 13 Nov 2026 23:00:38 GMT"
     },
     {
-      "title": "코스피 출렁이자 “아기 태어나면 주식 5000만원씩 주자”…30세엔 2억원 된다고? - 서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tVnRPMllzWkdzYWxXdlhOSXUyUUkxVDBxb2pybHdVUndTS2d1VVFHTWRNOTk4ZHQ3Rk1FSXpjU096b0dNLTBuZFhCeDRWaDVuSnfSAVNBVV95cUxOODF6Qk9ibk5nMFgxbk9sNThmUDY2TmVBdElqWUhtSmFKSnRRcF9URVdaNS1mV3gycG9yTUEwSkRWdDk3bHZPRWRhWTM0Q1c0eWpjaw?oc=5",
-      "pub": "Wed, 11 Nov 2026 06:45:13 GMT"
-    },
-    {
-      "title": "보합권 머무르는 코스피…코스닥은 1%대 약세 - 연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LU0F4OFZMTUd6aV80allzcVpSNFZZU0QtN2lIclBlalU0Q3ZrOXE3czNyNnR2SWNCcTdrMmVvY0xwZG50ZFZLaFllMFI0Q2Y4dGxudS1mMVU5R1R6OHh6dmsxUEg5Y3JQYW5GZnNjdng?oc=5",
-      "pub": "Thu, 12 Nov 2026 04:53:00 GMT"
-    },
-    {
-      "title": "“코스피 5000~1만 전망, 누가 못하나”…증권사 뒷북 전망에 수수료 ‘꼼수’까지 - 이코노미스트",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBERU1HdXNnQ2dvRVdqeTAzNUZuUTJxYWQxWjJ6ZHNLd2dpVjJlN3JiYnBDX2txSm9HNkVuR0M1ak1IaDdQR3E3Nk1haGs3MFB4cUk5Mjl5OHpid1BQa2kzc2pn?oc=5",
-      "pub": "Thu, 12 Nov 2026 08:00:00 GMT"
+      "title": "[박정식의 국내 주식시황] 젠슨 황 사임에 이란 악재까지…코스피 5442선 앞 숨 고르기 - 뉴스퀘스트",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0teHRmcXdHTVU5d21CMWNUNXdncDVvMC10QWRTSWVmcDZaZ1lmSTJwZ0p4N3JnaWJhYU1ONUZVUERSUEJPd09pZ0ZHaDkyWGRTWTV6UVA3RDQtWHVqb0h6bVF4a044aG9EYXFXUm44dw?oc=5",
+      "pub": "Thu, 12 Nov 2026 23:12:07 GMT"
     }
   ],
   "signal": {
-    "text": "오늘 시장은 강세입니다. 추격 매수보다 보유 전략이 유리할 수 있어요.",
-    "type": "positive"
+    "text": "소폭 하락권. 패닉셀보다 분할 매수 기회를 살펴보세요.",
+    "type": "neutral"
   },
-  "one_liner": "코스피 🚀 강세 · 코스닥 🚀 강세"
+  "one_liner": "코스피 📉 소폭 약세 · 코스닥 📈 소폭 강세"
 }
