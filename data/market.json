@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026년 11월 14일 10:54",
-  "updated_date": "2026-11-14",
+  "updated_at": "2026년 11월 15일 10:26",
+  "updated_date": "2026-11-15",
   "kospi": {
     "price": 5290.53,
     "change": -52.2,
@@ -22,19 +22,24 @@
   },
   "nasdaq": {
     "price": 25136.27,
-    "change": -229.82,
+    "change": -229.83,
     "pct": -0.91
   },
   "usdkrw": {
-    "price": 1335.11,
-    "change": 0.75,
-    "pct": 0.06
+    "price": 1336.2,
+    "change": 1.84,
+    "pct": 0.14
   },
   "news": [
     {
-      "title": "1400조 벌고도 폭락…개미들 울린 코스피의 '씁쓸한 이면' [분석+] - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DaEdENGUtTmhKR2tOTlZYbXRXelVSenRHS21oVE81QXpNQ2gwT09ocmhPTkFhSVdMUk5qRFJ3WHVSay0tY2wzSGo5X0Rya3FwZURMcmpIRXRkZw?oc=5",
-      "pub": "Thu, 12 Nov 2026 21:30:13 GMT"
+      "title": "[마켓스토리] 롤러코스터 탔던 올해 코스피…내년 투자 전략은? - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xSC01ampBZS12SjE3czlRRkFHRzdfVzB2R1VMUjF3Q2Y0SjFicmI1OUZ4WTZoQkVXNjNLQ1lucG9BRThwS0ZFcEJNYTlXRGtaaFE?oc=5",
+      "pub": "Sat, 14 Nov 2026 21:30:00 GMT"
+    },
+    {
+      "title": "주식 지금 시작해도 괜찮을까, 코스피 5290에서 다시 계산한 적립식 투자 4가지 조건 - 네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNWdvYkhkVzVxOTJtYWhGejVPR0xJSEgwcGtkTDlGWkFiVExTVVRuRURlRUVack5GWjlCY29sQncwbERNOVNtd2c4d1QtWmFQM0lpdDFERHdkbVo4ZENqS2F5eHZVNVRyYVNiMk02MkRmVzU5VjN6a3N5Nk96RjNXakpLaTRUdFFURFhtYk9lMDhJdw?oc=5",
+      "pub": "Sun, 15 Nov 2026 00:00:00 GMT"
     },
     {
       "title": "[미스터리경제] 코스피 5000도 무너진다?…주식 시장 뒤흔든 '보이지 않는 손' (영상) - 더팩트",
@@ -47,19 +52,14 @@
       "pub": "Fri, 13 Nov 2026 06:36:57 GMT"
     },
     {
-      "title": "“물려있는데 뭘 할 수 있죠?”...코스피 거래대금, 6개월새 60% 증발 - 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qMEFwS3JhV1FERWF6Tm1KVkZBZDFyVzdZS1REeWdsdlRuakZ1LTRTV0phWjMyVmtUd1lmMU5OT1ZJejZSUUxOX1l2dHhLNTlRTkE?oc=5",
-      "pub": "Thu, 12 Nov 2026 11:57:34 GMT"
-    },
-    {
       "title": "\"만스피 간다며?\" \"코스피 중계냐\"…증권사 애널 대신 AI 믿는 개미들[뒷북치는 증권가①] - 파이낸셜뉴스",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wYjRjOGV0aTJxYnZoaXhkUGtHeUdzeE9oQUlBSkdSTF9jU0VxMno3SUVOUXJuZ29HU1hlSzh4UVU5aTh4RXNmQmwtRUUyMTFzaFFiNGpzRDJyUQ?oc=5",
       "pub": "Fri, 13 Nov 2026 23:00:38 GMT"
     },
     {
-      "title": "[박정식의 국내 주식시황] 젠슨 황 사임에 이란 악재까지…코스피 5442선 앞 숨 고르기 - 뉴스퀘스트",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0teHRmcXdHTVU5d21CMWNUNXdncDVvMC10QWRTSWVmcDZaZ1lmSTJwZ0p4N3JnaWJhYU1ONUZVUERSUEJPd09pZ0ZHaDkyWGRTWTV6UVA3RDQtWHVqb0h6bVF4a044aG9EYXFXUm44dw?oc=5",
-      "pub": "Thu, 12 Nov 2026 23:12:07 GMT"
+      "title": "\"외국인 놀이터 됐다\"…한국 주식 산 개미들 분통 터진 이유 [분석+] - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OM2tVX1B1QlBGZnI3NUpXZEtVb3VCX3VFb2ZUZVJ3dnJNOWhfU2R0aXBHcGVXTnpyRzZBUFhOcThVWi1UODA3LWFtaEhyaEZaOE5kODlxMzVPdw?oc=5",
+      "pub": "Thu, 12 Nov 2026 13:00:03 GMT"
     }
   ],
   "signal": {
