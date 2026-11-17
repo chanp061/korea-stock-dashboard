@@ -1,70 +1,70 @@
 {
-  "updated_at": "2026년 11월 16일 10:29",
-  "updated_date": "2026-11-16",
+  "updated_at": "2026년 11월 17일 13:15",
+  "updated_date": "2026-11-17",
   "kospi": {
-    "price": 5202.7,
-    "change": -87.83,
-    "pct": -1.66,
-    "label": "약세",
-    "emoji": "🔻"
+    "price": 5029.47,
+    "change": -71.03,
+    "pct": -1.39,
+    "label": "소폭 약세",
+    "emoji": "📉"
   },
   "kosdaq": {
-    "price": 680.29,
-    "change": -19.37,
-    "pct": -2.77,
+    "price": 658.68,
+    "change": -40.98,
+    "pct": -5.86,
     "label": "약세",
     "emoji": "🔻"
   },
   "sp500": {
-    "price": 7561.67,
-    "change": -30.73,
-    "pct": -0.4
+    "price": 7416.59,
+    "change": -145.08,
+    "pct": -1.92
   },
   "nasdaq": {
-    "price": 25136.27,
-    "change": -229.83,
-    "pct": -0.91
+    "price": 24509.76,
+    "change": -626.51,
+    "pct": -2.49
   },
   "usdkrw": {
-    "price": 1335.08,
-    "change": -0.03,
-    "pct": -0.0
+    "price": 1337.48,
+    "change": 1.66,
+    "pct": 0.12
   },
   "news": [
     {
-      "title": "[단독] 코스피 3분의1이 대주주지분 과반·저PBR - 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ORzY0a3VCNFcxVVJOYzN5X2YyejhydWt4VEVITXZES1NTem5Yak9VYUVXVTJXSjRZYWI4WW50Q3hPT2pqd0U1dndlMUhRcXlab2c?oc=5",
-      "pub": "Sun, 15 Nov 2026 08:33:02 GMT"
+      "title": "[마켓뷰] 젠슨황 파장속 美증시도 흔들…'5천피' 또 위협받나 - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zcHhGYW9peXI2REdoZnFPd2JTbS1XTnlUbWNhZ2RhX1pvLVZSZW05X1lMOXpVSG4wUmxWYnc1akExaW96MG94ZFp6cG1kVE9mQ3c?oc=5",
+      "pub": "Mon, 16 Nov 2026 23:05:42 GMT"
     },
     {
-      "title": "[개장] 코스피, 5300선 돌파 후 하락… 삼전닉스 약세 - IT조선",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBEYWJMd3lfTjhGR1p4SVJlcDNUeUZpVXE4NHAwQmdRbUF5a2dVQWp4VlVzNmhQOVRPMkdmWHJ1amItU3hCbjc0aGxyVXBkX3R2T0prcnZCMmJtaTc1ZmFVaE9rM3FVRmU3aUtVRzFFSG7SAXRBVV95cUxPTzloZ1RtWWEtNnhUd1VQLXJVVGhrbmktRjdFWjRydHlJajBkNE42ZnUzdkFFZmg5M05mSDRqM0ZHVWFJZFBkMnBNVzR1cU9xQzlWdzhPTzBBbjl1bGJ5NnhjRTVoN3lJWXN1R0s5cDU3R09ORw?oc=5",
-      "pub": "Mon, 16 Nov 2026 00:47:24 GMT"
+      "title": "모건스탠리 “코스피 1만 시대 가능”… 한국 증시, 구조적 재평가 국면 진입 - Korea IT Times",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmeHpNdzFVR2NGSV95UEZtSDc0Qkk2Q1BkcVQwZTZ2WS1CbzVXeDdDR0xraTlmdXluUUp3Y2VHV0JqRk9TM0NselRxNmd5Q2dnT0VQay1GTlFmbzlQTmVYRmo3cThlRXZGRUpJd0VTeEg?oc=5",
+      "pub": "Tue, 17 Nov 2026 02:03:33 GMT"
     },
     {
-      "title": "코스피 1만 넘는다더니…“4분기가 저점, 내년 8300 목표” [줍줍 리포트] - 서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xV3ppNlpzcUV1Y0hNS1k2MDZVSTFtVmQyMHVWLUhnQ28zY1VuV1dFTEtScXExSHFxMlJLYVota3d6eFhlck9XYUM1cE56UjlKdGfSAVNBVV95cUxOb3lrUUgyUk9Nb29TenlGV1R4Mzh6MnVWQjBEWkFmcjFqbWl1VXRlcS10YnNzSWF0MERkOTNnd21XcHJtc1gtZTdvOGhKZGhFNVlVRQ?oc=5",
-      "pub": "Mon, 16 Nov 2026 00:00:57 GMT"
+      "title": "모건스탠리 '한국의 르네상스가 온다' 에서 \"韓 증시 5년간 과거와 다른 양상 보일 것\" - 이코리아",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84cFRGU21acjhoOERvRDFzSE9MclViTTN3eG9Xd3N6T25XS2hfeHA3bmIyMFZvel9WTm1waURRbjBITEN1X2M5MVRKODBiYXNOc2JTMFRBTzhTdXg5Si1zdFhRQTZNX2EtR3V3WGd1aw?oc=5",
+      "pub": "Tue, 17 Nov 2026 02:17:30 GMT"
     },
     {
-      "title": "[마켓스토리] 롤러코스터 탔던 올해 코스피…내년 투자 전략은? - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkV2U2dG9DUXJNcWFZWUh5M0ItLXZsb19IYk0yQ3lWUjNHVlZRWTJzVXlmWHlURkRlYkJxWDNIUVZ3VEg0WHd5ajUwUER4Vl91RTFkVTBuU21lQXPSAWBBVV95cUxONWVmbGVhZHVZSjV4Nmc1eWlZR0dyUVczZ0xENzFwYXNzX2lFTUItS1VmSXNrLUc1UTYxNXdVUUN4S2lOdmdfdGgyR0JOa2FyOHk3VFlWZFh5YzBVcDlhWmM?oc=5",
-      "pub": "Sat, 14 Nov 2026 21:30:00 GMT"
+      "title": "[속보] `코스피 1만` 고작 3~5년 남았다…모건스탠리 韓증시 낙관론, 이유 보니 - 매일신문",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE56Sk42aDBWeUN1T1ZCbXFhcm05bXYwem9jVGQ2WEdHQ2p6a2VwRXlLQmRTVjl3WXRwZEp0dWdjdWZtM3U5aVJYU1p3aldZbWlZaVQzdkM2N2xsUEpaYlZZTFFB?oc=5",
+      "pub": "Tue, 17 Nov 2026 02:58:11 GMT"
     },
     {
-      "title": "[오늘의 증시]美 반도체주 급락·연준 '고평가' 경고…코스피, 또 하락하나 - 파이낸셜뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wMFFJTjRKZi1nREEwakVxN2RNd1A0NmhuNjYwVXJRS2FQcnZDY3d6bnpnN3Bsa1RrZW1najNhQml6dlVDQ1QyU3BDMW1FUk1MQ0VFYlROLWM2UQ?oc=5",
-      "pub": "Sun, 15 Nov 2026 22:51:05 GMT"
+      "title": "\"코스피 8300 간다더니\"…증권가 전망에 개미들 '부글부글' [분석+] - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCVW5VazlkSUVSUEppYXdGbks3Nnl2NG5wVnZScElRX0tTc0wxdmlMT2NYSXkzWnNTUHZRcXFhZTYtdVdZNjFWZnNFQWF4aXg3YWc2bmVmRWdDQQ?oc=5",
+      "pub": "Mon, 16 Nov 2026 13:00:04 GMT"
     },
     {
-      "title": "ELS 악몽 또…9천피때 발행 상품 94개, 내달부터 만기 - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xZDZoYTFPLU1VUm9oWEo3MUpKUlhKVFBnRURmOHV2N2E1ZmFXQkRRSE11d096Ul90UVF0ZHJ0T2FNV1lKaHFfV0N4OHNsSVJRSWNmaEwzc1h0U0Fmc1pRNWl1MUpBUUk?oc=5",
-      "pub": "Sun, 15 Nov 2026 22:58:00 GMT"
+      "title": "하나증권 \"젠슨 황 스캔들, 韓 증시에 단기 악재·장기 기회\" - 중앙신문",
+      "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxOQUZJaVd5OTQwclQ0TFdVMUV5QzFwR1pWcjd3ZUxwMHB1Y2RuNVQzNkxlU3cxOWhGNDgtaVVwU2FOemt5eXMwMlA5T013M3M5Q2dabWI5NXVCWUQwZ0hxeU5oVFdpWEhzVmdkYUdjTkw0bXVsZy1MMWt5OHo4YlpVMFRxVWFZMnBmLW1mb3NYSTdMUi16T0J1b3poMU9LR0VIM0lsMENIWVVRaUdFa1pQcl9QdEphb3N5TTlYYmttNFc3WjBncXBNZjk1Q1VkZVNSSmNGbzNuQmw3SVg1V0pxdU9CRGlLYjBBbUpQdnVFRXdSbnRxMHM5TmdrSTlVLW5lTXYwQWE4Q01uMVBrSndmZEJOdEJHX1ZXZjNNcVlycDBfVU1PMGxHb3p3NGRzeVRSbVlJZVNyLXl5VGhHcmVValhoYktSVXRMdzFEeTJOSjJGNWs?oc=5",
+      "pub": "Mon, 16 Nov 2026 23:11:53 GMT"
     }
   ],
   "signal": {
     "text": "시장 조정 국면. 손절보다 비중 축소 후 상황을 지켜보세요.",
     "type": "negative"
   },
-  "one_liner": "코스피 🔻 약세 · 코스닥 🔻 약세"
+  "one_liner": "코스피 📉 소폭 약세 · 코스닥 🔻 약세"
 }
