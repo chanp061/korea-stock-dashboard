@@ -1,55 +1,45 @@
 {
-  "updated_at": "2026년 11월 19일 11:53",
-  "updated_date": "2026-11-19",
+  "updated_at": "2026년 11월 20일 11:45",
+  "updated_date": "2026-11-20",
   "kospi": {
-    "price": 4987.41,
-    "change": -80.03,
-    "pct": -1.58,
+    "price": 4906.12,
+    "change": -231.77,
+    "pct": -4.51,
     "label": "약세",
     "emoji": "🔻"
   },
   "kosdaq": {
-    "price": 653.78,
-    "change": -9.03,
-    "pct": -1.36,
-    "label": "소폭 약세",
-    "emoji": "📉"
+    "price": 655.54,
+    "change": -29.27,
+    "pct": -4.27,
+    "label": "약세",
+    "emoji": "🔻"
   },
   "sp500": {
-    "price": 7323.63,
-    "change": -16.9,
-    "pct": -0.23
+    "price": 7175.83,
+    "change": -147.8,
+    "pct": -2.02
   },
   "nasdaq": {
-    "price": 24429.88,
-    "change": 101.5,
-    "pct": 0.42
+    "price": 23879.2,
+    "change": -550.68,
+    "pct": -2.25
   },
   "usdkrw": {
-    "price": 1329.45,
-    "change": -3.09,
-    "pct": -0.23
+    "price": 1338.28,
+    "change": 4.66,
+    "pct": 0.35
   },
   "news": [
     {
-      "title": "[2027 증시전망] 상상인證 \"코스피 상단 7,700P…반도체 역기저 부담\" - 연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aSGdPeHlDd1FveTBRaEc3VVpqdl8xOWZVbHEwaUdva0FUQ3pibGxvclBFUDI5QmR2MnE2Nmw2YW9XdVZicy1EM25aREJyU2pUaDFscDE5ODJRNUxuZ21Udl9zU2owNTdqbmFwaVJOOWY?oc=5",
-      "pub": "Thu, 19 Nov 2026 00:40:34 GMT"
+      "title": "[2027 증시전망] SK證 \"코스피 목표 8,800P…AI생산성 개선시 1만피\" - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04R1NCalZ1SDZLT0ZyLWdYNnh1c0Nma2ttTmh0cThEUjVBMUhXbTlOZU52YnphLWNMX2tVUTJWQ09IWFdieEtYRmk4R0J0RHNaQ19rR3JIQmMzRTc4cEpyWTNxV3gtTE1vdmFPT3c0SGo?oc=5",
+      "pub": "Thu, 19 Nov 2026 02:04:46 GMT"
     },
     {
-      "title": "\"흔들리는 코스피…주식 농부처럼 버티면 수확할 때가 옵니다\" - 뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JcUVjTmlvMzFCdVpMcmtHUGo2bWZLVjc4Sm9yMG50SnV5Q3pKVFJhVzNHWjNLNVV4azdjNzI1Yjl3ZGpnSU1ha2tUenJUd2tzRDN2emZ5MUFndk9td2o0ZNIBeEFVX3lxTE05MkExNGtqLUlMZC1IV3BlNzRLUDI2M2tLMnBYWGhNZTdDbDB1V2p4bG4zczFwaWlNd0I2VnFpRWR0Z0x4QkE3ek4wTHRXVzZkVTRWZlNUS3d0Q3h5R0RZVjRxcGNXMUxLUm1KT1hucGp4bUxBcVlURg?oc=5",
-      "pub": "Wed, 18 Nov 2026 15:00:00 GMT"
-    },
-    {
-      "title": "[코스피·코스닥 전 거래일(18일) 주요공시] - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52X01vcmE3X1k0S2gzbGZYYUMtcEJoOXhFM3ljRkQwVExlbEhiMl9YWGQyMkY4WE9nNERNQU93dktzX1RvVzFRWmFUaEVUOHJuY2k1V2o0UVoya1HSAWBBVV95cUxPVGNOWWl0WFhmdUdZU0JNbVRiQnFaLW9CMXhZakxNSlpyeTE3OVdaYmNlRzA1ODdiVkJPYWI1cVVjVmlmS0taV3BUTHp4XzFTV3R2dzlOSEo0U3gtY3VzNXA?oc=5",
-      "pub": "Wed, 18 Nov 2026 21:05:01 GMT"
-    },
-    {
-      "title": "수능날엔 주가 떨어진다?…10년치 코스피 성적표 살펴보니 - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrR2Z3T3doYkpoNHp5WlJTV3lMN3R3SGMwZ2p6T2dmWGtSQl9fSkxpa3J4MGdmanB6MjlBRkZ2VjFFdEh5STJUbnY0NjgzZU52a1FoRm5rTm1Xdw?oc=5",
-      "pub": "Thu, 19 Nov 2026 00:08:44 GMT"
+      "title": "‘코스피 15% 빠질 때 50% 올랐다’…목표가 줄하향 속 증권가 눈높이 높아진 종목은 [투자360] - 헤럴드경제",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kNV8wMll2dkpuRW4xX0xOeHdMWWtTbFhVTWpqRjJOR2ZiaG8xUmF3cUlUbEo3MUgtZnpaV0pEVWxxdFNfTU5TR3ctNm1zOEdRWGdpclJB?oc=5",
+      "pub": "Thu, 19 Nov 2026 12:10:00 GMT"
     },
     {
       "title": "[개장] 코스피, 엔비디아 호실적 불구 하락 전환… 삼전닉스 약세 - IT조선",
@@ -57,14 +47,24 @@
       "pub": "Thu, 19 Nov 2026 01:46:06 GMT"
     },
     {
-      "title": "[특별대담] 이상연 신영증권 연구원 \"내년 코스피 전고점 재도전, 변동성은 대비해야\" - 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIRUwzcHdIWGpQdEQ4VmpKUjY2UkpQWlQwbFNCTTY0TmswenFla1hPR1VoWHdndy10YW1fYVNFVGtkQVFJbjFGa1lIMDQxLVpIdEhfc0pUeXJRLTZK?oc=5",
-      "pub": "Wed, 18 Nov 2026 10:30:50 GMT"
+      "title": "코스피 3% 하락 출발…‘앤트로픽 IPO 흥행’에도 기술주 전반 부진 - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBONHl6UTRENzd3Sm1fSk5rRE1qZEFZRkl1bmtUUU9ZZUgxcnhkeTVWWkF2YlNsc2ZuMTdHbmlUVlh4Qm5zMjBRYnRmNURqbTE3aFM2SnhERDQyckdka0tBTkRmM1JwR00?oc=5",
+      "pub": "Fri, 20 Nov 2026 00:31:00 GMT"
+    },
+    {
+      "title": "삼전닉스 4~5%대 급락…코스피 5000선 깨진 채 출발[이런국장 저런주식] - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jMXZkc0ZjcDRNNEdvVVk5ZnM2ZUNSdHAyeE1ITzE4UUNWSjVwV1J0QVBsekd2UU4tWE5GRmVWMWR4T3l5b2Y5SHlJTmw1ZjBWbVHSAVNBVV95cUxPM3lfcEdYX0RKZVc1UkJ4bFZDeTdoOEtMV1hVNTNiNVRXb2JPSGFNRkVveEZyVXhobVNtRXhEZ3ZZMzRkdjlrNUVHVkFOZ0tVemhFdw?oc=5",
+      "pub": "Fri, 20 Nov 2026 00:19:35 GMT"
+    },
+    {
+      "title": "[코스피·코스닥 전 거래일(18일) 주요공시] - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52X01vcmE3X1k0S2gzbGZYYUMtcEJoOXhFM3ljRkQwVExlbEhiMl9YWGQyMkY4WE9nNERNQU93dktzX1RvVzFRWmFUaEVUOHJuY2k1V2o0UVoya1HSAWBBVV95cUxPVGNOWWl0WFhmdUdZU0JNbVRiQnFaLW9CMXhZakxNSlpyeTE3OVdaYmNlRzA1ODdiVkJPYWI1cVVjVmlmS0taV3BUTHp4XzFTV3R2dzlOSEo0U3gtY3VzNXA?oc=5",
+      "pub": "Wed, 18 Nov 2026 21:05:01 GMT"
     }
   ],
   "signal": {
     "text": "시장 조정 국면. 손절보다 비중 축소 후 상황을 지켜보세요.",
     "type": "negative"
   },
-  "one_liner": "코스피 🔻 약세 · 코스닥 📉 소폭 약세"
+  "one_liner": "코스피 🔻 약세 · 코스닥 🔻 약세"
 }
