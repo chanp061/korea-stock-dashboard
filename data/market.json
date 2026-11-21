@@ -1,65 +1,65 @@
 {
-  "updated_at": "2026년 11월 20일 11:45",
-  "updated_date": "2026-11-20",
+  "updated_at": "2026년 11월 21일 11:55",
+  "updated_date": "2026-11-21",
   "kospi": {
-    "price": 4906.12,
-    "change": -231.77,
-    "pct": -4.51,
+    "price": 4869.96,
+    "change": -267.93,
+    "pct": -5.21,
     "label": "약세",
     "emoji": "🔻"
   },
   "kosdaq": {
-    "price": 655.54,
-    "change": -29.27,
-    "pct": -4.27,
+    "price": 645.68,
+    "change": -39.13,
+    "pct": -5.71,
     "label": "약세",
     "emoji": "🔻"
   },
   "sp500": {
-    "price": 7175.83,
-    "change": -147.8,
-    "pct": -2.02
+    "price": 6910.39,
+    "change": -265.44,
+    "pct": -3.7
   },
   "nasdaq": {
-    "price": 23879.2,
-    "change": -550.68,
-    "pct": -2.25
+    "price": 22617.73,
+    "change": -1261.47,
+    "pct": -5.28
   },
   "usdkrw": {
-    "price": 1338.28,
-    "change": 4.66,
-    "pct": 0.35
+    "price": 1346.13,
+    "change": 12.51,
+    "pct": 0.94
   },
   "news": [
     {
-      "title": "[2027 증시전망] SK證 \"코스피 목표 8,800P…AI생산성 개선시 1만피\" - 연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04R1NCalZ1SDZLT0ZyLWdYNnh1c0Nma2ttTmh0cThEUjVBMUhXbTlOZU52YnphLWNMX2tVUTJWQ09IWFdieEtYRmk4R0J0RHNaQ19rR3JIQmMzRTc4cEpyWTNxV3gtTE1vdmFPT3c0SGo?oc=5",
-      "pub": "Thu, 19 Nov 2026 02:04:46 GMT"
+      "title": "[마감] 1월로 돌아간 코스피… 5% 급락 4800선 마감 - IT조선",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaRkhkS3NmUVN5WWRMWmlKRU9QclJuSWk3N1ZtNWJGUEJsaG1HSFZGNW1tLVBqckRwSnRNYUxvVEVJVTVacmZ3TjhZTEZTelpwQVdjMUNncVBpdFMtVVlUMHlWUWNoYlFsSklpc0kzWVbSAXRBVV95cUxQSk1VZ1gtcXZ5TnBwVGNXeFNkTnVmSlA2eDBUZGozSVAyeWxsaDNqSTNUNWVMMDFiRzVjb1RMVlhzMTEtbFAySFg5dEFRMmtXenFvOGVueU5VaTdaa0Z4dHN6SWM5NTMzalRvQVN3bXFXVnhJZg?oc=5",
+      "pub": "Fri, 20 Nov 2026 07:06:00 GMT"
     },
     {
-      "title": "‘코스피 15% 빠질 때 50% 올랐다’…목표가 줄하향 속 증권가 눈높이 높아진 종목은 [투자360] - 헤럴드경제",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kNV8wMll2dkpuRW4xX0xOeHdMWWtTbFhVTWpqRjJOR2ZiaG8xUmF3cUlUbEo3MUgtZnpaV0pEVWxxdFNfTU5TR3ctNm1zOEdRWGdpclJB?oc=5",
-      "pub": "Thu, 19 Nov 2026 12:10:00 GMT"
+      "title": "코스피 폭등에 돈 쓸어담더니…'70% 하락' 비명 터진 종목 - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLMTlzV3BKM09xZU9JNzRab1lRY3MxNjktdzBsVThXM3lvTXNHUlpub3QtQVZDWk9GczFSZVdEY3VybzlMMkxXNUpUM2tzanpkNF9VTW9xX3VoZw?oc=5",
+      "pub": "Fri, 20 Nov 2026 08:34:38 GMT"
     },
     {
-      "title": "[개장] 코스피, 엔비디아 호실적 불구 하락 전환… 삼전닉스 약세 - IT조선",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05ckY5R21lWEVzRDFSTWRUb3kzVWZDRnBZemxJeXEyeTEzNzRhUWVVb2ZnX291N0pjNHBfN2VFTS1jZkc4SG9NZlFLRzlJZGZBNzZVRG04a2hDMVRubWdNZXRLdUVVbnJoMnNwbTRJbHHSAXRBVV95cUxOY1NDa0NPeUNfb3diVmpCZlE2bHpkQ3NFVVpzSVpSRU5rdm13U21xQmVVdGxFN1NieVpwZ1dXLXo1WWM5VjI2ZVAwOVdWaExpSGpUUUZPTmtud0JIQ1c0N0JoY1dXT1haV0pxenhGUUVMU3d6NA?oc=5",
-      "pub": "Thu, 19 Nov 2026 01:46:06 GMT"
+      "title": "코스피 급락에 주식 평가액 '뚝'…순대외금융자산 역대 최대 증가 [1분 브리프] - 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nM0FMUmE0a1B4WjdYaHY2d2o1WFZVSEZiV29pTUZ4LU5TY0hYLVV6N3JXRi1xckppTEJLdG8tTmJJNDZZcG9aaVFMQ3JnZnV2blZVUnVDX2x1dF9VU2FjVDVB?oc=5",
+      "pub": "Thu, 19 Nov 2026 23:00:00 GMT"
     },
     {
-      "title": "코스피 3% 하락 출발…‘앤트로픽 IPO 흥행’에도 기술주 전반 부진 - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBONHl6UTRENzd3Sm1fSk5rRE1qZEFZRkl1bmtUUU9ZZUgxcnhkeTVWWkF2YlNsc2ZuMTdHbmlUVlh4Qm5zMjBRYnRmNURqbTE3aFM2SnhERDQyckdka0tBTkRmM1JwR00?oc=5",
-      "pub": "Fri, 20 Nov 2026 00:31:00 GMT"
+      "title": "외국인, 10월도 '셀코리아'…코스피·코스닥서 26조 순매도 - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc1lKdDFqUThxbU1VWDk3QjdGbjJXZnpUa0NlN1V5QVpVb29SWnJ4UGloalNkRVRqSEtYU3V6Q1lPUkJxM3pmVnZPMWdNMjRRbmcxUWV2QUZxck1OUEdkWTZUejg3c0w1NFZHUHQwbmY3LWFaWUJHakpWUVpkYkdnZjdSQ2RPRzFx?oc=5",
+      "pub": "Thu, 19 Nov 2026 23:06:39 GMT"
     },
     {
-      "title": "삼전닉스 4~5%대 급락…코스피 5000선 깨진 채 출발[이런국장 저런주식] - 서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jMXZkc0ZjcDRNNEdvVVk5ZnM2ZUNSdHAyeE1ITzE4UUNWSjVwV1J0QVBsekd2UU4tWE5GRmVWMWR4T3l5b2Y5SHlJTmw1ZjBWbVHSAVNBVV95cUxPM3lfcEdYX0RKZVc1UkJ4bFZDeTdoOEtMV1hVNTNiNVRXb2JPSGFNRkVveEZyVXhobVNtRXhEZ3ZZMzRkdjlrNUVHVkFOZ0tVemhFdw?oc=5",
-      "pub": "Fri, 20 Nov 2026 00:19:35 GMT"
+      "title": "코스피 19% 빠지자 순대외금융자산 2807억弗 급증…역대 최대폭 - 마켓인",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54Y0FZczY5N2l0ZjVvWDJfR0VKZXNfQ2J0V2IyY3I5X2ltX2xVQzAzTTlvckprbDQwbmRqX2xiTFBXZkEzaFpDU05zTVk2b0hCWlVldDl2U2VwR1NieGNIdjNlOXBiT1o4VTBKb3FEekRfWFk?oc=5",
+      "pub": "Thu, 19 Nov 2026 03:00:06 GMT"
     },
     {
-      "title": "[코스피·코스닥 전 거래일(18일) 주요공시] - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52X01vcmE3X1k0S2gzbGZYYUMtcEJoOXhFM3ljRkQwVExlbEhiMl9YWGQyMkY4WE9nNERNQU93dktzX1RvVzFRWmFUaEVUOHJuY2k1V2o0UVoya1HSAWBBVV95cUxPVGNOWWl0WFhmdUdZU0JNbVRiQnFaLW9CMXhZakxNSlpyeTE3OVdaYmNlRzA1ODdiVkJPYWI1cVVjVmlmS0taV3BUTHp4XzFTV3R2dzlOSEo0U3gtY3VzNXA?oc=5",
-      "pub": "Wed, 18 Nov 2026 21:05:01 GMT"
+      "title": "[오늘의증시] \"시퍼런 주식창\" 코스피·코스닥 '멘붕'…美 악재에 또 '검은 금요일' - 이코노미스트",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WOVFqQXpUMnl6dDFZSGRaeTRFMldLaEl4YXpNY0RnYWRSMEl6ZlhXbmRyTXRwU3RTR0pOQ2tzV3ZEUlVMbWQyaGRTRnNaTkxQYm9MQmFSaF90UC1VSU5DVHVn?oc=5",
+      "pub": "Fri, 20 Nov 2026 06:54:00 GMT"
     }
   ],
   "signal": {
